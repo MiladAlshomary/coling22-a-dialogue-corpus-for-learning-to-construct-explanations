@@ -1,0 +1,627 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "My name's Bobby Kasthuri, I'm assistant professor at",
+          "the University of Chicago, I'm a neuroscientist at",
+          "Argonne National Labs.",
+          "(soft music)",
+          "What the connectome is, is it's a kind of a newly made-up",
+          "term for describing a kind of neuroscience research where we",
+          "try to map the brain at a scale that's",
+          "never been mapped before.",
+          "Every person here can leave with understanding it",
+          "at some level."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you know why we're here today?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Yes, we're gonna talk about science and we're gonna talk",
+          "about a very specific kinda science,",
+          "about people who study brains.",
+          "Do you know what a brain is?",
+          "What is it?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Definitely.",
+          "So what we're gonna talk about,",
+          "this is something that people study",
+          "in the brain called the connectome."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Do you know that your body is made up of really tiny",
+          "things called cells?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "Okay, well there's more cells in your brain,",
+          "like way more cells, than all the stars we can see.",
+          "(Daniel gasps)",
+          "(Bobby laughs)",
+          "And so what the connectome is, is we'd like to know",
+          "where every cell in your brain is and how it talks",
+          "to every other cell in your brain."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "That was awesome, Daniel, thank you."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "2",
+        "Sentence": [
+          "Connectome."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "4",
+        "Sentence": [
+          "That's good, that's a great place to start.",
+          "There are cells in your brain.",
+          "Those brain cells are connected by wires to each other.",
+          "Electricity travels down those wires and communicates",
+          "from one part of the brain to the other part of the brain,",
+          "and each of those brain cells makes, you know,",
+          "a thousand connections, it's something like",
+          "a hundred trillion connections."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "6",
+        "Sentence": [
+          "In one brain, in your brain.",
+          "Could I take all of that information",
+          "and put it inside a computer?",
+          "Would that computer then be you?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "8",
+        "Sentence": [
+          "I would say that that map also has your feelings in it",
+          "because, here's why, your feelings,",
+          "most neuroscientists think, come from your brain anyway,",
+          "and amazingly, whether when you feel happy or sad or angry",
+          "or scared, that's just brain cells",
+          "communicating with each other."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So, I think today we're gonna talk about a connectome.",
+          "Have you ever heard of that?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "Awesome, good.",
+          "(laughs)",
+          "It's a map of all the connections",
+          "between every neuron in your brain.",
+          "It literally, in a human brain, something like a map of",
+          "the one quadrillion connections that a",
+          "hundred billion neurons make with each other."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "We have to use electron microscopes",
+          "and then what we have been developing a way",
+          "to slice the brain into really thin slices,",
+          "use an electron microscope to take a picture of each slice,",
+          "and then use computers to put it all back.",
+          "Imagine that we could get a map of every connection, right?",
+          "And we knew how neurons fire.",
+          "Do you think we could put that in a computer, that map,",
+          "and then therefore, that computer should be able to think",
+          "just like the brain that we extracted it from?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "Neurons are also digital.",
+          "Meaning a Neuron either fires or it doesn't fire,",
+          "so that's either one or zero.",
+          "And it's the combination of those ones or zeros that",
+          "actually produce the 10 thousand different",
+          "answers that you say."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "2",
+        "Sentence": [
+          "Yeah, great."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "4",
+        "Sentence": [
+          "Huh."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "6",
+        "Sentence": [
+          "This is where it gets really crazy.",
+          "Could we simulate that map inside a computer",
+          "and would that computer then be thinking",
+          "like that original brain from which we made the map?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "8",
+        "Sentence": [
+          "Huh."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "10",
+        "Sentence": [
+          "Because there's more to you in here",
+          "than just information passing between neurons."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "12",
+        "Sentence": [
+          "Huh.",
+          "It would be like if you simulated a hurricane.",
+          "Imagine we could keep track of every variable",
+          "of a hurricane. Ever.",
+          "Wind speed, every water molecule, et cetera, et cetera.",
+          "Temperature.",
+          "And we put that inside a super-fast computer",
+          "and we simulated it, right?",
+          "I don't think anyone would think that",
+          "the inside of the computer would get wet.",
+          "Even though we had simulated the hurricane perfectly,",
+          "that wetness is consciousness, it's what we are.",
+          "Is it ethical to imagine mapping a male brain versus",
+          "a female brain to look for differences between those,",
+          "to explain alleged behavioral differences between them?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "14",
+        "Sentence": [
+          "Wait, what do you think is sensitive?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "Maybe a wiring diagram is not sufficient to understand",
+          "the brain, and it would be crazy to think that that would be",
+          "sufficient, actually."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "Sometimes when people get, they worry about connectomics,",
+          "I think what they're actually worrying about is that",
+          "it's the end of the that we used to do neuroscience."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "I'm not sure if you had a connectome of a human brain,",
+          "of an adult human, I would be able to read out",
+          "memories from that."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "It could absolutely be but without knowing",
+          "what the weights were before the memory was made."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "So and a musician, how much of it do you think",
+          "is in your hands versus in your brains?",
+          "Meaning like, you do have connections in your muscles",
+          "from the nerves that are from your spinal cord,",
+          "what if some of the learning is there?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah.",
+          "We do a lot of X-ray in addition to EM",
+          "and this is actually, I'm not saying it's the only problem,",
+          "but it's the only problem that needs to be solved",
+          "right away, is that the data analysis, right?",
+          "In fact, I think we calculated that there aren't enough",
+          "humans ever to map a mouse brain",
+          "where you collect every connection and et cetera",
+          "so the problem is to get algorithms to trace,",
+          "to recognize things in brains",
+          "the way humans would recognize things in brains,",
+          "or map things, trace things in brains.",
+          "It's gonna cost a lot of money to imagine setting",
+          "the gold standard for the wiring diagram even once",
+          "and those are the kinds of ethical concerns",
+          "that I'm worried about."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "One of the things that we're not doing well as a field",
+          "is sort of educating and telling people beyond our field",
+          "the benefits of what we could achieve",
+          "but I'm impressed that when you talk to people about",
+          "something that seems kind of crazy and outlandish",
+          "and perhaps they hadn't been talking about before,",
+          "it doesn't take 'em long to come to a kind of",
+          "considered opinion, especially children.",
+          "I think it's kind of amazing.",
+          "I mean, I do hope that more people talk about brains",
+          "and what we use brains for",
+          "and the ways that we shouldn't use our brains.",
+          "So I think this field has the opportunity",
+          "to make that more real."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw?t=36",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Because we're talking about science."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Um, something that helps you remember things."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Um, yes, I know that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Oh."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw?t=98",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Connectone?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "To be honest, I have no idea."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Whoa."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "Computers they don't have feelings,",
+          "they won't have feelings and I think that's one thing that",
+          "makes the human race strong."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw?t=161",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "A connectome?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "No, I don't think so."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Is this like a map where, that's like an actual visual",
+          "representation, like using microscopy?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Or just data?",
+          "Wow, wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I'm understanding more so that it's these,",
+          "a mapping of the circuitry,",
+          "the pathways between neurons that can lead",
+          "to evidence of patterns in your brain that are common",
+          "between different people."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Well, the computer only communicates with itself in binary",
+          "so it only has two options, it can only ask itself yes or no",
+          "questions, but a human brain has",
+          "an infinity of directions that it can go."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw?t=274",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "It's a large scale attempt to understand the wiring map",
+          "of the brain, essentially."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "I think that it's definitely needed."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Understanding the anatomy of the brain is definitely",
+          "important but, it doesn't necessarily tell us everything",
+          "about the function, there's some sort of temporal order",
+          "from neuron to neuron and region to region",
+          "that we may not be able to pick up."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "I mean that's not the person, I mean, having a",
+          "representation of someone's neural network",
+          "is just that,",
+          "it's just a representation of the neural network."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "I mean."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "I'd like to think so."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "Every single person is different and so it should be",
+          "okay to map every single person's brain.",
+          "I mean I understand that there are,",
+          "that it's very sensitive, you know?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "15",
+        "Sentence": [
+          "Mapping an Indian brain versus a Caucasian brain, or,",
+          "politically I think that people may have some issue with",
+          "mapping out what causes",
+          "or what makes a difference between",
+          "different types of people."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/opqIa5Jiwuw?t=399",
+    "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "If you limit the connectome to be just the wiring diagram",
+          "without, you know, more information about myelination",
+          "or glial cells, all types of environmental features that",
+          "surround the neurons and axons then you have an incomplete",
+          "picture, no doubt."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "What do you think about memory?",
+          "Do you think that there's ways of resolving what the",
+          "substrate of human memory is,",
+          "you know, is it just LTP and LTD?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "You don't think it's just the synaptic weights,",
+          "like an artificial neural network that's trained",
+          "to do particular things?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "What if you had a violinist learn a piece of Bach music,",
+          "could you find those notes somewhere in their brain",
+          "if they didn't know before?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I'm a musician and I don't think it's possible.",
+          "I think that there are too many, you know,",
+          "so much of it is associative to what you already know."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Are you still doing EM or?"
+        ]
+      }
+    ]
+  }
+}

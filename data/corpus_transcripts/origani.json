@@ -1,0 +1,1214 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Robert J. Lang.",
+          "I'm a physicist and origami artist",
+          "and today I've been challenged to explain origami",
+          "in five levels.",
+          "If you know a little origami",
+          "you might think it's nothing more than simple toys,",
+          "like cranes or cootie catchers,",
+          "but origami is much more than that.",
+          "Out of the vast cloud of origami possibilities",
+          "I've chosen five different levels",
+          "that illustrate the diversity of this art."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you know what origami is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Yes, in fact it is.",
+          "Have you ever done any origami before?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "[Robert] Would you like to give it a try?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Okay, so we'll do some,",
+          "but I want to tell you a little bit about origami.",
+          "Most origami follows two, I'll call them customs,",
+          "almost like rules.",
+          "It's usually from a square",
+          "and the other is it's usually folded with no cuts.",
+          "So these guys are folded from an uncut square."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "So you ready?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "Okay.",
+          "We're going to start with a model",
+          "that every Japanese person learns in kindergarten,",
+          "it's called a crane, traditional origami design,",
+          "it's over 400 years old.",
+          "So, people have been doing what we're about to do",
+          "for 400 years."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "Let's fold it in half from corner to corner, unfold it",
+          "and then we'll fold it in half the other direction,",
+          "also corner to corner but we're going to lift it up",
+          "and we're going to hold the fold with both hands.",
+          "We're going to bring these corners together,",
+          "making a little pocket and then,",
+          "this is the trickiest part of this whole design,",
+          "so you're going to put your finger underneath the top layer",
+          "and we're going to try to make that layer",
+          "fold right along the edge.",
+          "Now you see how the sides kind of want to come in",
+          "as you're doing that?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "It's called a petal fold,",
+          "it's a part of a lot of origami designs",
+          "and it's key to the crane.",
+          "Now we're ready for the magic.",
+          "We're going to hold it in between thumb and forefinger,",
+          "reach inside,",
+          "grab the skinny point that's between the two layers,",
+          "which are the wings,",
+          "and I'm going to slide it out so it pokes out at an angle.",
+          "We'll take the two wings, we spread them out to the side",
+          "and you have made your first origami crane."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "Now, this is a traditional Japanese design",
+          "but there are origami designs that have been around so long",
+          "we're not entirely sure where they originated.",
+          "We're going to learn how to fold a cootie catcher."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "So we'll start with the white side up",
+          "and we're going to fold it in half from corner to corner,",
+          "in one fold and now we're going to fold all four corners",
+          "to the crossing point in the center.",
+          "We'll fold it in half like a book.",
+          "On the folded side we'll take one of the folded corners",
+          "and I'm going to fold it up through all layers.",
+          "There's a pocket in the middle.",
+          "We're going to spread the pocket",
+          "and bring all four corners together.",
+          "Where you have original corners of the square,",
+          "we're gonna just pop those out.",
+          "This is one of the most satisfying moments,",
+          "I think-"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "because it suddenly changes shape."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah,",
+          "but there's something else we can do with this model.",
+          "If we set it down and push on the middle",
+          "then pop it inside out",
+          "so that three flaps come up and one stays down",
+          "and then it's called talking crow",
+          "because here's a little crow's beak and mouth."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "There's thousands of other origami designs",
+          "but these are some of the first people learn",
+          "and this was, in fact,",
+          "one of the first origami designs I learned",
+          "some 50 years ago."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "So, what do you think of that?",
+          "What do you think of origami?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "Thanks for coming."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "A lot of origami is animals, birds and things.",
+          "There's also a branch of origami that is,",
+          "it's more abstract or geometric, called tessellations.",
+          "Tessellations, like most origami,",
+          "are folded from a single sheet of paper",
+          "but they make patterns,",
+          "whether it's woven patterns like that,",
+          "or woven patterns like this.",
+          "If you hold them up to the light",
+          "you can see patterns."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "The thing that makes them cool",
+          "is they're sort of like tilings,",
+          "it looks like you could put this together",
+          "by cutting little pieces of paper and sliding them together,",
+          "but they're still one sheet."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "There's no cuts in these just folding.",
+          "We can build these up from smaller building blocks of folds,",
+          "learn how to fold little pieces and put them together",
+          "in the same way that a tiling like this",
+          "looks like it's built up of little pieces.",
+          "Can you make a fold that starts at the dot",
+          "that doesn't run all the way across the paper?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "Mm-hmm.",
+          "Each of these folds is peaked like a mountain",
+          "and we call these mountain folds",
+          "but if I made it the other way, then it's shaped this way",
+          "and we call it a valley fold.",
+          "In all of origami there's just mountains and valleys."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "So they're all reversible and it turns out",
+          "that in every origami shape that folds flat,",
+          "it's going to be either three mountains and a valley",
+          "or, if we're looking at the backside,",
+          "three valleys and a mountain,",
+          "they always differ by two."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "That's a rule of all flat origami",
+          "no matter how many folds come together at a point",
+          "and I'm going to show you a building block of tessellations,",
+          "it's called a twist",
+          "because that center square, as I unfold it,",
+          "it twists, it rotates."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "If I had another twist in the same sheet of paper",
+          "I could make these folds connect with that,",
+          "and these folds connect with that.",
+          "And if I had another one up here, I could make all three.",
+          "And if I had a square array and all the folds lined up",
+          "I could make bigger and bigger arrays, like these,",
+          "because these are just very large twists.",
+          "In this case it's an octagon rather than a square,",
+          "but they're arranged in rows and columns.",
+          "And let's just try going along.",
+          "All right, there is our tessellation",
+          "with squares and hexagons.",
+          "So you have now designed and folded",
+          "your first origami tessellation",
+          "and perhaps you can see how just using this idea",
+          "of building up tiles and small building blocks",
+          "you could make tessellations as big and complex as you want."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "Yeah,",
+          "so what do you think now of origami and tessellations?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "That is a great definition."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So here's a dragon fly and he's got six legs, four wings."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Here's a spider",
+          "with eight legs, ants with legs",
+          "and these, just like the crane,",
+          "are folded from a single uncut square."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "To figure out how to do that",
+          "we need to learn a little bit about what makes a point.",
+          "So, let's come back to the crane.",
+          "You can probably tell",
+          "that the corners of the square ended up as points,",
+          "right?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "That's a corner, four corners of the square, four points.",
+          "How would you make one point out of this sheet of paper?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah, exactly.",
+          "Actually you've discovered something pretty neat",
+          "because you made your point not from a corner",
+          "so you've already discovered one of the key insights.",
+          "Any flap, any point, leg of the ant,",
+          "takes up a circular region of paper.",
+          "Here's our boundary.",
+          "To make your point from an edge you use that much paper",
+          "and the shape, it's almost a circle.",
+          "If we take the crane",
+          "we'll see if the circles are visible in the crane pattern.",
+          "Here's the crane pattern, and here's a boundary of the wing,",
+          "and here's the other wing."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "The crane has four circles",
+          "but, actually, there's a little bit of a surprise",
+          "because what about this?",
+          "There's a fifth circle, which is like that,",
+          "but does the crane have a fifth flap in it?",
+          "Let's refold it and put the wings up.",
+          "Well, yes, there is, there's another point",
+          "and that point is the fifth circle of our crane."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "And to do that",
+          "we use a new technique called circle packing",
+          "in which all of the long features of the design",
+          "are represented by circles.",
+          "So, each leg becomes a circle, each wing becomes a circle",
+          "and things that can be big and thick,",
+          "like the head or the abdomen, can be points in the middle.",
+          "Now we have the basic idea of how to design the pattern,",
+          "we just count the number of legs we want.",
+          "We want a spider, if it's got let's say eight legs,",
+          "it's also got an abdomen, that's another point,",
+          "and it's got a head, so maybe that's 10 points.",
+          "If we find an arrangement of 10 circles",
+          "we should be able to fold that into the spider.",
+          "So in this book, Origami Insects II, it's one of my books",
+          "and has some patterns, and this is one of them",
+          "for a flying ladybug and, in fact,",
+          "it is exactly this flying ladybug.",
+          "We've got the crease pattern here in the circles",
+          "and you might now be able to see",
+          "which circles end up as which parts,",
+          "knowing that the largest features like the wings",
+          "are going to be the largest circles,",
+          "smaller points will be smaller circles.",
+          "So any thoughts which might be?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "Yeah, that's right."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Mm-hmm, exactly.",
+          "And then the wings?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "You've got it, so you are ready to design origami."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "21",
+        "Sentence": [
+          "Origami artists all around the world",
+          "now use ideas like this to design, not just insects,",
+          "but animals, and birds, and all sorts of things",
+          "that are, I think, unbelievably complex and realistic",
+          "but most importantly, beautiful."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "23",
+        "Sentence": [
+          "That's so cool."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "Whenever there's a part of a spacecraft",
+          "that is shaped somewhat like paper,",
+          "meaning it's big and flat,",
+          "we can use folding mechanisms from origami",
+          "to make it smaller."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Telescopes, solar arrays,",
+          "they need to be packed into a rocket, go up,",
+          "but then expand in a very controlled, deterministic way",
+          "when they get up into space."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "These are the building blocks",
+          "of many, many origami deployable shapes,",
+          "it's called a degree-4 vertex.",
+          "It's the number of lines.",
+          "So in this case, we use solid lines for mountain,",
+          "we use dash lines for valley.",
+          "We're going to fold it and use these two to illustrate",
+          "some important properties of origami mechanisms.",
+          "It's important in the study of mechanisms",
+          "to take into account the rigidity.",
+          "So what we're going to do to help simulate rigidity",
+          "is to take these rectangles",
+          "and we're going to fold them over and over",
+          "so that they just become stiff and rigid."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "So this is what's called",
+          "a single degree of freedom mechanism.",
+          "You have one degree of freedom, I can choose this fold,",
+          "and then if these are perfectly rigid",
+          "every other fold angle is fully determined.",
+          "One of the key behaviors here",
+          "is that with the smaller angles up here,",
+          "the two folds that are the same parity",
+          "and the folds that are of opposite parity",
+          "move at about the same rate",
+          "but with this, as we're getting closer to 90 degrees,",
+          "we find they move at very different rates",
+          "and then at the end of the motion, the opposite happens.",
+          "This one is almost folded",
+          "but this one goes through a much larger motion so",
+          "the relative speeds differ."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "So when we start sticking together vertices like this,",
+          "if they're individually single degree of freedom",
+          "then we can make very large mechanisms that open and close",
+          "but with just one degree of freedom.",
+          "So, these are examples of a pattern called the Miura-Ori.",
+          "When you stretch them out",
+          "they're pretty big."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "And they fold flat and a pattern almost exactly like this",
+          "was used for a solar array for a Japanese mission",
+          "that flew in 1995."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah, so typically the mechanism",
+          "will run from corner to corner,",
+          "to diagonally to opposite corners",
+          "because then you can stretch it out that way.",
+          "Notice some differences between the one you have",
+          "and the one I have",
+          "in how this one sort of opens out almost evenly",
+          "but this one opens out more one way and then the other."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "Infinitesimally small."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "So, sadly,",
+          "the only way to get them at exactly the same rate",
+          "is when these are microscopic slivers",
+          "and then that's not useful."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "And it's exactly the difference",
+          "between the motions of these two vertices.",
+          "So these angles are closer to right angles",
+          "and the closer you get to a right angle",
+          "the more asymmetry there is",
+          "between the two directions of motion.",
+          "And then the other difference is how efficiently they pack,",
+          "so these started at about the same size",
+          "but when they're flat",
+          "notice that yours is much more compact.",
+          "So if I were you making a solar array,",
+          "I'd say, oh, I want that one.",
+          "But if I say, well, I want them to open at the same rate,",
+          "then I want this one."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "There's an engineering trade-off to get them both to work.",
+          "And there's another place",
+          "that shows up in deployable structures",
+          "in a very cool structure.",
+          "This is a folded tube, it sort of pops out like this",
+          "but it has this neat property that if you twist it quickly,",
+          "it changes color.",
+          "There's a Mars Rover application",
+          "where they need a sleeve that protects a drill",
+          "and as the drill goes down, the sleeve is going to collapse",
+          "and they're using a pattern very much like this."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "There are many open mathematical questions",
+          "and so room for mathematicians, like yourself,",
+          "to have a big impact on the world of origami and mechanisms.",
+          "And even though those studies",
+          "are mathematically interesting,",
+          "they're going to also have real-world applications in space,",
+          "solar arrays, drills, telescopes, and more.",
+          "Any questions or thoughts about this?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "2",
+        "Sentence": [
+          "The first thing I want to show you",
+          "is origami in the real world.",
+          "This is the origami lamp.",
+          "It comes shipped flat but it folds, clip holds it together.",
+          "The lamp has LEDs on the inside",
+          "so when we power it up we get light, we have a lampshade",
+          "and we get the base."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "4",
+        "Sentence": [
+          "Origami applications have in common,",
+          "is that at some stage the thing is flat",
+          "and so whenever you need to either start from a flat state",
+          "and then take it to a 3D state,",
+          "or conversely, for deployables like space,",
+          "you want to have it in a fully folded flat state",
+          "but then take it to a 3D state,",
+          "or possibly an unfolded flat state.",
+          "Whenever a flat state is involved,",
+          "origami is a really effective way",
+          "of making the transition between those states."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "6",
+        "Sentence": [
+          "This is another real-world application",
+          "but this particular implementation",
+          "is used to make a wheel for a Rover."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "8",
+        "Sentence": [
+          "New problems arise",
+          "when we try to make origami out of things other than paper,",
+          "but also new opportunities.",
+          "An example here",
+          "which is a kind of a variant of the Miura-Ori.",
+          "It's got a three-dimensional structure.",
+          "If I stretch it one way, it expands the other",
+          "but because it has these S-bends in the pattern,",
+          "if you squeeze it, it doesn't go all the way flat.",
+          "This is a epoxy impregnated aramid fiber",
+          "and so if I put this fold pattern into it",
+          "and then compress it",
+          "and then put a skin on the top and bottom,",
+          "this becomes incredibly lightweight but incredibly strong."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "10",
+        "Sentence": [
+          "Another origami challenge",
+          "that comes up with these patterns",
+          "is if we're going to make an aircraft out of this thing",
+          "we're going to need hundreds of yards of folded origami.",
+          "We're not going to do it by hand",
+          "and this might be the new frontier in origami engineering,",
+          "which is the design of machines",
+          "that can fold patterns that have applications."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah, so what goes in as sheet",
+          "and what comes out is this, or something this wide."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "14",
+        "Sentence": [
+          "It's something we've talked about a little bit",
+          "that with all the richness of behavior",
+          "of origami from a flat sheet,",
+          "it seems like there ought to be an equally rich world",
+          "of things that don't start flat",
+          "but are still made from flat sheets of paper."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "16",
+        "Sentence": [
+          "Bi-stable properties",
+          "and you can combine them together with copies of themselves",
+          "to make cellular structures.",
+          "They're astonishingly stiff and rigid, useful for mechanics."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA?t=23",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Is that where you fold paper",
+          "to make different animals, like those?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Nope."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Sure."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "That's awesome."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yep."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Okay, good."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "I have seen these before, my friends use these."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "I think that the people that make them are talented.",
+          "It's hard.",
+          "Seeing the stuff that we've made here,",
+          "I'd bet that they could do rocket ships.",
+          "Just so much that you can do with them."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Thanks for having me."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA?t=230",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "They weren't cut?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "How about like that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "So all the folds are reversible?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Twists?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "That was cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Origami, I think,",
+          "is the folding of paper to make anything in general,",
+          "from 3D things to flat things",
+          "and I think origami is about turning simple things",
+          "into complex things and it's all about patterns."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA?t=417",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "What?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "I'm thinking of, like, a paper airplane."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Well, the legs and the antenna",
+          "would probably have to be these smaller ones,",
+          "in the middle."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "[College Student] Oh, this looks like the back",
+          "'cause there's a bunch of circles all the way down,",
+          "like here."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "You've got four big wings",
+          "which you could see on the ends there",
+          "and then, I guess, the head."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Awesome."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Wow, that's so impressive.",
+          "I think I learned how to make one of these paper cranes",
+          "when I was in third grade but I guess I never unfolded it",
+          "to actually see where it was coming from.",
+          "And so now that it's all broken up into circles",
+          "it makes these super complicated insects and animals",
+          "and everything seem so much simpler, so that's so cool.",
+          "I'm pretty excited about it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Thank you so much for telling me about this."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA?t=647",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "[Grad Student] Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So then you like fly it up compactly",
+          "and then once you get up there,",
+          "there's like some sort of like motorized mechanism,",
+          "but you only need it on one fold."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah.",
+          "What sort of angle would you want",
+          "so that they open up the same rate?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "For sure, right, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "So, it's kind of a trade-off?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Interesting."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "If you want to send something to space",
+          "it probably makes sense to do it compactly,",
+          "so if you have something that you can fold up",
+          "and then unfold, just one of the folds,",
+          "that's going to be probably the easiest way",
+          "to get something up there",
+          "and expand it to what it needs to be."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/boaqgdcMjmA?t=918",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-origami",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "I'm Tom Hull, I'm a math professor, a mathematician.",
+          "I've been doing origami since I was eight years old",
+          "and studying the mathematics of origami",
+          "ever since grad school, at least."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "Why does origami lend itself",
+          "to, say, this type of application?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Another aspect of origami and origami mechanisms",
+          "that has leant itself to many different uses",
+          "is the fact that it's scalable.",
+          "When you have an origami crease pattern",
+          "like the Miura-Ori used in solar panel deployment,",
+          "the type of motion that you see happening here",
+          "will happen whether this is on a piece of paper",
+          "that's small like this, or on a larger scale,",
+          "or even on a smaller, smaller, smaller, smaller scale.",
+          "Engineers, in particular robotics engineers,",
+          "are turning to origami",
+          "toward designing mechanisms that will either be really big",
+          "or really, really small.",
+          "This looks like the most promising way",
+          "of getting nano robotics to work."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "Cool, so this is something",
+          "that can actually get really, really tiny",
+          "but then get big and fat and roll."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah!"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "So you're talking about a machine",
+          "that is actually folding it into this,",
+          "not just making the creases but actually folding it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "That's cool, yeah.",
+          "What do you see as kind of like the next big breakthrough?",
+          "Is there anything out there on the horizon",
+          "that you're just like, oh wow, this is really exciting?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "15",
+        "Sentence": [
+          "So like a cone?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "17",
+        "Sentence": [
+          "The thing that I think I'm the most excited about",
+          "comes from math mainly.",
+          "When I look at origami,",
+          "when I look at all these applications",
+          "or just all these different origami folds, I see structure.",
+          "Math is really about patterns.",
+          "The patterns that we see in origami",
+          "are reflecting some kind of mathematical structure",
+          "and we don't quite know yet what all of that structure is",
+          "and if we can tie a mathematical structure",
+          "that's already well-studied",
+          "to something we see happening in origami,",
+          "then we can use the math tools right away",
+          "to help solve the engineering problems",
+          "and the origami problems.",
+          "And the fact that there's so many applications to this",
+          "is really making people excited who are working in the area.",
+          "I'm really excited to see what happens with that",
+          "in the next five years or so."
+        ]
+      }
+    ]
+  }
+}

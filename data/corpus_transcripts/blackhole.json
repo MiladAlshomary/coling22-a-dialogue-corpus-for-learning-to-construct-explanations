@@ -1,0 +1,911 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Varoujan Gorjian, I'm a Research Astronomer",
+          "at NASA's Jet Propulsion Laboratory.",
+          "I've been challenged today to talk",
+          "about once concept at five different levels",
+          "of increasing complexity.",
+          "Today we're going to be talking about black holes.",
+          "A basic definition of a black hole is",
+          "that it's a lot of mass crammed into a very tiny volume,",
+          "such that the escaped velocity is the speed of light."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "So have you ever heard of something called a black hole?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Well, it has to do with, a lot with gravity,",
+          "do you know what gravity is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "It's what keeps us on the earth."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "The reason we're not just flying off the earth is",
+          "because earth has gravity, so if we throw something up,",
+          "it comes back down, so that's why",
+          "when we're walking on the earth,",
+          "we don't fly off the earth because the earth has gravity,",
+          "and it keeps us down."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "The main thing about black hole to remember is",
+          "that it's just, like I said, how the earth holds you down,",
+          "the black hole pulls you in, as well.",
+          "Now, try and take the ball from me, black hole--"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "I'm holding it tight to show you",
+          "then when you're trying to pull it,",
+          "a black hole will really hold onto it with its gravity."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah.",
+          "The main thing is that if something falls",
+          "into a black hole, it can never get out, it's--"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "Oh, if the earth rolls into it?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "It would be bad, we wouldn't be able to get out."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "It's never, not likely to happen, no."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "Well, yeah, definitely in movies, yeah."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah, exactly."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "The black hole will sort",
+          "of stretch you out as you're falling in."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "So what do you think about black holes?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "So tell me, what do you know about black holes?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "You got, pretty much, you got a very good idea about it.",
+          "Basically you have a star,",
+          "at the core its generating energy,",
+          "which is countering the pressure",
+          "of all that mass trying, being pulled in by gravity.",
+          "Once it can't generate that energy anymore,",
+          "the core collapses, once the core is collapsing,",
+          "it keeps collapsing, and collapsing, and collapsing,",
+          "and that's the critical thing that makes a black hole.",
+          "You have enough mass in the volume,",
+          "such that the escaped velocity becomes the speed of light,",
+          "once light can't escape, hence the black part. (laughs)",
+          "But that's the thing, is that just",
+          "because there's an intense amount",
+          "of gravity very close to a black hole,",
+          "things don't start behaving differently.",
+          "And my favorite analogy is a vacuum, everybody thinks, like,",
+          "if you point a vacuum cleaner at something,",
+          "it's just gonna suck everything in--"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "Right, you will feel the gravitational pull,",
+          "and it'll redirect you in some way,",
+          "and if you're far enough way,",
+          "it's just like you're very far away",
+          "from the sun, or something else.",
+          "If you're close enough, it will divert your path more,",
+          "if you're close enough still, then you will get",
+          "what are called tidal forces, where the difference between,",
+          "for example, if you're standing next to a black hole,",
+          "the difference in gravity between your feet",
+          "and your head actually becomes significant.",
+          "Next time you see a science fiction movie,",
+          "if somebody says, Oh, my god, we've been caught",
+          "in the gravitation field of a black hole,",
+          "and we're gonna fall in, it's like,",
+          "no, no, just, if you're far enough away,",
+          "just thrust a little bit this way,",
+          "and then you'll slingshot around the black hole."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "I wouldn't call them educational,",
+          "but the movie Interstellar actually had,",
+          "as one of the people involved in both writing it,",
+          "and as a science advisor, Dr. Kip Thorne,",
+          "who's a Professor at Caltech, who was part of the team",
+          "that detected gravitational waves,",
+          "and just won a Nobel Prize for it.",
+          "So he made sure to try and get it as accurate as possible,",
+          "so Interstellar, I think, is one of the best examples",
+          "of getting black holes right."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "It's, there're multiple theories,",
+          "there's observational evidence,",
+          "more than some other theories that are really feeding",
+          "into this because now we have the instrumentation,",
+          "both in X-rays and infrared, in particular,",
+          "because we don't have a direct optical line",
+          "of sight to the center of our galaxy",
+          "because there's just a lot of dust in the way.",
+          "But the infrared can penetrate the dust,",
+          "the X-rays can penetrate the dust,",
+          "the radio can penetrate all of that dust,",
+          "so by combining all of these different wavelengths,",
+          "people are really coming to a point",
+          "of okay, how is this happening,",
+          "by looking at different wavelengths of light,",
+          "we can get a better sense, but they're still working",
+          "on the theory, it's not all done."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So far, what do you know about black holes?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "So we've been, we've had, now,",
+          "effectively two different ways",
+          "of getting more direct measurements, one is the LIGO, which",
+          "is the Laser Interferometer Gravitational Wave Observatory,",
+          "which is where, getting the ripples in space time,",
+          "coming off of the merging of black holes.",
+          "The other one that you're mentioning is actually called",
+          "the Event Horizon Telescope, where they're using radio waves",
+          "to actually image the event horizon,",
+          "that region where light cannot escape",
+          "from the black hole at the center of our galaxy,",
+          "which I know they're working on it right now.",
+          "It's an amazing thing,",
+          "but that'll be the most direct imaging of a black hole.",
+          "LIGO is a direct detection of the consequence",
+          "of the merging of black holes.",
+          "The critical part has been, like,",
+          "for the super massive black hole at the center",
+          "of our galaxy, we've seen the stars orbiting it,",
+          "and we've measured the mass, so that way,",
+          "so if you look at a spinning black hole,",
+          "it actually fundamentally alters the emission",
+          "that's coming off the stuff that's falling into it.",
+          "These are discovered as what are called X-ray binaries,",
+          "that is, you know, there's an X-ray member",
+          "of the binary that is emitting in the X-rays,",
+          "and it's really not very bright",
+          "in the optical (mumbles) at all, so there's always,",
+          "people are looking at these X-ray binaries."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "For my studies, I actually, when I started at UCLA",
+          "in graduate school, I worked",
+          "with a professor named Matt Malkin who was,",
+          "gotten a lot of data observations",
+          "from the Hubble Space Telescope, so that was one",
+          "of my very first projects to work on, so any,",
+          "space-based observatories have been a really big advantage,",
+          "and then I've moved on now to the Spitzer Space Telescope.",
+          "In addition to that, then there's other people",
+          "who've used a lot of X-ray telescopes,",
+          "NuSTAR, Chandra have used data from that.",
+          "It's been a combination of both ground-based observatories,",
+          "as well as space-based ones, and going everywhere",
+          "from X-ray observations, not done by me,",
+          "but certainly ultraviolet, and then optical,",
+          "and infrared, particularly, those are the ones",
+          "that I've been most involved with."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "What got you interested in studying black holes?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Which is, by the way, what, when I was just starting out",
+          "in graduate school, that was the hot new thing, so."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "That was, it was like, oh, wow, this might be it,",
+          "and then, but very early on, it was, as I just started my,",
+          "it was basically my second year of graduate school,",
+          "it was like, uh, this is not that simple."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "You know, everybody's been just coming at it",
+          "from different wavelengths at the optical infrared,",
+          "and, but definitely the X-rays has been one",
+          "of those things where it's like, oh, finally."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "It does seem to be that it may not even,",
+          "in parts, it may not be even connected",
+          "to this tiny, little torus at all",
+          "because part of the work that I did,",
+          "and others have done, is that type twos preferentially live",
+          "in different kinds of galaxies than type ones,",
+          "which should not in any way have to do",
+          "with something such a small scale.",
+          "They tend to be in smaller bulged,",
+          "SB and SC type spiral galaxies.",
+          "So there's something also having to do",
+          "with environment that gets you to be a type two,",
+          "and you can still maybe, timing wise,",
+          "but there's something else that's going on",
+          "on a larger scale because the type",
+          "of the AGN should not really correspond",
+          "to the host galaxy, but it seems to.",
+          "And that was one of the things",
+          "that we were finding out, and that was one",
+          "of the early little ideas that the,",
+          "individually, just as the torus model,",
+          "the unified model, can't explain everything",
+          "that we were observing at the time.",
+          "But it is one of those things that it's,",
+          "they're super luminous, they're all over the place,",
+          "and we don't have a really good picture of it,",
+          "which makes it exciting to study."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "Oh, that makes sense, but it's always",
+          "so difficult to get that."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "2",
+        "Sentence": [
+          "So fortunately there's, I'm also doing it",
+          "from space with the Spitzer Space Telescope, so particularly",
+          "in the infrared, and my main interest has been to try and",
+          "study the environment around the super massive black holes,",
+          "not as close as where the X-rays are coming from,",
+          "but clearly there's something from the X-ray corona",
+          "that illuminates the rest of the accretion disk,",
+          "and the dust that's further out.",
+          "And so fundamentally, that's one of the key things",
+          "that I'm trying to use, is trying to see how long,",
+          "once you've got this sort of pulse",
+          "that's generated close to the black hole,",
+          "it propagates out, and so you can use optical wavelengths",
+          "to see that the accretion disk lights up",
+          "in the optical a little bit as it gets heated up",
+          "from the X-ray, and then later on,",
+          "the infrared dust, the dust absorbs it,",
+          "and emits it in the infrared.",
+          "And so that, I love that, the ability",
+          "to exchange time for resolution,",
+          "because these structures are so far away",
+          "that we're never gonna get a telescope big enough",
+          "where that has the resolution to see the accretion disk,",
+          "or the dust distribution around--"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "4",
+        "Sentence": [
+          "Yeah, again, we don't know exactly where X, Y, Z,",
+          "zero is, we're assuming that it's something,",
+          "you know, the X-rays that are coming out are very close",
+          "to the event horizon of the black hole,",
+          "but this is still, you know, your realm of X-rays,",
+          "to really figure out those kinds of things.",
+          "But once the X-rays, once the photons hit the corona,",
+          "and are re-scattered, and up, energized,",
+          "and then they start illuminating the accretion disk,",
+          "it heats it up, and so just by the light travel time,",
+          "when the optical, if it gets, you know,",
+          "brighter and fainter, and then the infrared gets brighter",
+          "and fainter, two weeks later,",
+          "then the dust is two light weeks away from that.",
+          "So it's a one dimensional one, so we're averaging,",
+          "so we don't get the two dimensional,",
+          "or even three dimensional one.",
+          "And then we've done it now, of course,",
+          "we have better telescopes, there was a project",
+          "where you could do it with the Hubble Space Telescope",
+          "and the ultraviolet, you used the Swift Observatory,",
+          "which had optical and ultraviolet,",
+          "and then from ground base, we did optical,",
+          "and then from space we did it",
+          "with Spitzer and the infrared.",
+          "So you could actually see this bright flash go off",
+          "in a nearby AGN called NGC5548,",
+          "and then you see it propagate as it warms up the disk,",
+          "as all that light is falling onto it,",
+          "and then eventually you hit the,",
+          "the, further away, where the dust is,",
+          "and the dust tends to radiate in an infrared.",
+          "So we got basically a structure,",
+          "and you just, you see this flashbulb go off,",
+          "and then it illuminates, effectively, the structure."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "6",
+        "Sentence": [
+          "So you do see it, basically the dust sublimation radius,",
+          "and you see it at, and it tells you,",
+          "depending on what kind of dust it is,",
+          "and it's actually one of the problems",
+          "for me studying, whenever we try and do X-ray studies",
+          "of low luminosity active galactic nuclei in your,",
+          "by galaxies, because there're all these X-ray binaries",
+          "that are also emitting X-rays,",
+          "which make our lives difficult.",
+          "But they're also in black holes,",
+          "when it's this really interesting sort of both,",
+          "it's great, but ugh, it's also a source",
+          "of noise for those of us who are trying",
+          "to do X-ray observations of nearby galaxies."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "8",
+        "Sentence": [
+          "It's a weird thing to be sitting in your own galaxy,",
+          "but not be able to separate all these,",
+          "four million solar mass black hole creating,",
+          "next to, how massive, it's like two",
+          "to three solar masses for the X-ray binaries?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "10",
+        "Sentence": [
+          "Which is great, although it still doesn't help us",
+          "in the AGN community, because we don't know how the millions",
+          "to billions solar mass black holes came to be.",
+          "But it's, at least we're building up,",
+          "or hopefully that at some point,",
+          "and by understanding these lower mass,",
+          "how these lower mass black holes came to be,",
+          "then we can see where there are a large scale number",
+          "of mergers can potentially give us this,",
+          "or you really need something, other,",
+          "another corridor to fundamentally get us something",
+          "that's a million solar masses, you know,",
+          "on the minimum side, but definitely,",
+          "you know, we've gotten those which are billion.",
+          "So we know we can merge the million solar mass black holes",
+          "to get the bigger ones, but how do you get to those",
+          "in the beginning, particularly so early in the universe,",
+          "when you get quasars at really high red shifts,",
+          "so they're really early on."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "12",
+        "Sentence": [
+          "And this goes to the idea",
+          "that you don't have a core balance,",
+          "that a supernova with a black hole as its final result,",
+          "actually never has any kind of expulsion,",
+          "that it all just goes. (imitates sucking)"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "14",
+        "Sentence": [
+          "Which was one idea, but again, it's,",
+          "I'll leave this to your theoreticians,",
+          "I think there are problems with that, as well.",
+          "I call it job security. That's right.",
+          "(both laugh)",
+          "We have a lot of things about black holes,",
+          "both in terms of their formation,",
+          "or even how they exist as they are,",
+          "and how they're interacting with their environment",
+          "that we're still not understanding."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA?t=24",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "What is a black hole?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "No, not at all."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "What?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Nice."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Why do you hold it so tight?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I got it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "What about the earth? What if it rolls into it--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "So it could never happen?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Only in movies, right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah, but it's not real because it's just pictures of it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "What if I went in there?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "It'll, like, stretch my body out?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "What?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "It's kind of dangerous."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA?t=115",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Well, I know they're created when stars,",
+          "once they start growing, it doesn't,",
+          "it can't expand anymore, so they collapse inward."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "But no, the wind, the pull isn't,",
+          "if you're not close enough, it doesn't work."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "So are there any movies that actually do,",
+          "like, get space right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "So it's, I'm assuming it's hard to,",
+          "like, detect a black hole, besides if it's,",
+          "if things are close enough that they're being pulled in,",
+          "so it's basically a theory?"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA?t=284",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I never knew beforehand how hard it was",
+          "to get actual data of the black holes itself,",
+          "first of all, they're dark, and, like,",
+          "they're so far away, it's almost impossible just",
+          "to get a good image of them.",
+          "They were discussing a project in",
+          "which multiple radio telescopes of some sort, like, are,",
+          "like, pinpointed all across, from Greenland",
+          "to South America, and, like, and they're trying to",
+          "get an image of",
+          "the black hole in the center",
+          "of our galaxy because, as opposed",
+          "to just recording its impact",
+          "on the surrounding stars and planets."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "What sort of technology and, like,",
+          "I guess tools have you been using",
+          "in your studies, or, like, just in general,",
+          "in the study of black holes?"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA?t=428",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "The way I got really interested",
+          "in this field is I actually first came",
+          "to Caltech as a summer student, and I started working",
+          "in this research group called the NuSTAR Group.",
+          "Right now I'm doing my PhD in the field",
+          "of active galactic nuclei,",
+          "which are the most luminous compact objects in the universe,",
+          "and it's because of the extreme accretion",
+          "that we're seeing onto these super massive black holes.",
+          "We don't have such a simple picture,",
+          "that this central black hole is surrounded",
+          "by this donut shaped torus of material,",
+          "and that all these different classes of AGN simply arise",
+          "from a viewing angle effect of this torus,",
+          "as a very oversimplified geometry, and this--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Exactly."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "It isn't."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "And we've come a long way by seeing a wider range",
+          "of the spectrum, we can elucidate more",
+          "about the circumnuclear geometry,",
+          "and there's just been so much progress made",
+          "with all these new spectral models",
+          "that we use to fit AGN spectra,",
+          "and the different types of classes of AGN,",
+          "like type one and type two are believed",
+          "to be just a viewing angle effect",
+          "of seeing this torus at different angles."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yeah, and I think, you know,",
+          "pushing towards the future, that, like,",
+          "this whole multi-messenger era, and like,",
+          "you know, utilizing all the different wavelength telescopes",
+          "that we can is really the way to go.",
+          "We cannot just build up a picture purely",
+          "from X-rays alone, or purely from infrared,",
+          "and, you know, I think there should be increased effort",
+          "to try and have more coordinated observations",
+          "with the different telescopes, like NuSTAR--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "It is, and it's difficult to even just coordinate,",
+          "you know, soft X-ray and hard X-ray telescopes together,",
+          "like, getting, you know, time for both simultaneous,",
+          "you know, say, Chandra observations,",
+          "and NuSTAR observations, or (mumbles) and NuSTAR.",
+          "It's a difficult thing, but, you know,",
+          "I think we really need to get a clear picture,",
+          "to be looking at wavelengths, of course."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/rUvFbJYWGDA?t=630",
+    "wired_link": "https://www.wired.com/video/watch/astronomer-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "So how do you do your observations",
+          "in optical and infrared?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "So do you get dimensions of the disk out of that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "So you can map out the dust, where do you see it?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "We have the same problem,",
+          "we can't see the actual black hole",
+          "underneath all these very bright X-ray binaries."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "The X-ray binaries, yeah, so they're,",
+          "no, they're typically like 10 solar masses, so from three,",
+          "you know, that's the smallest one you can have is",
+          "from three solar masses, and then all the way up.",
+          "So that's where we have LIGO, and LIGO has now directly,",
+          "I mean, this was all theory before,",
+          "that we knew that this was gonna happen,",
+          "and never seen it before, so LIGO is now the first time",
+          "that we have been able to completely verify this theory,",
+          "that you can have black holes",
+          "and neutron stars merging together.",
+          "And so what happens in the case",
+          "of two neutron stars, when they merge together,",
+          "now suddenly they become heavier,",
+          "they become heavy enough to turn into a black hole.",
+          "And so the first of these events happened in August,",
+          "and what happened here is you had these two neutron stars",
+          "that spun around each other, and then they merged,",
+          "and then for a very short time, we are talking",
+          "about 100 milliseconds, or tens of 100 milliseconds,",
+          "it actually remained a neutron star, probably,",
+          "it was a hyper massive neutron star because it was spinning",
+          "so fast, it didn't collapse under its own weight.",
+          "But then, you know,",
+          "the angular momentum gets dissipated away from the object,",
+          "and then, at that point, it can't maintain its own weight,",
+          "and then it collapses, and turn into a black hole.",
+          "All this theory that we knew about is now finally being,",
+          "being validated."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "Yeah, it is odd, it is very odd.",
+          "I mean, the other thing that's a little odd,",
+          "now we're going back to stellar mass black holes is,",
+          "so we look at a lot of supernova remnants,",
+          "and we, so we see them, we can only really see them",
+          "in our own galaxy, and so we have a lot",
+          "of supernova remnants, and so how we see them is,",
+          "you see the expelled mass from the star as it died,",
+          "so that creates an extended source, and then you look",
+          "for the compact object that was left behind.",
+          "And what's interesting is that you see,",
+          "you quite often see the neutron stars",
+          "because they pulse, so they're easy to see,",
+          "but so far, we've not found a single black hole",
+          "at the center of a supernova remnant.",
+          "And so, which is interesting, so you say,",
+          "you should see them, you know, you ought",
+          "to see some fallback, you know, you need some matter,",
+          "you need something, but no, never, not yet been detected."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah, that might be, yeah."
+        ]
+      }
+    ]
+  }
+}

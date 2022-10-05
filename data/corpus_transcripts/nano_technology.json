@@ -1,0 +1,1236 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm George Tulevski, and I'm a research scientist",
+          "at IBM TJ Watson Research Center.",
+          "Today I've been challenged to teach one concept",
+          "in five levels of increasing complexity.",
+          "And my topic is nanotechnology.",
+          "Nanotechnology is a study of objects in the nanoscale",
+          "between 1 and 100 nanometers in size.",
+          "And it turns out that objects in this size scale",
+          "have really interesting properties",
+          "that differ from objects at a macroscopic scale.",
+          "Our task is nanotechnologists",
+          "is to understand these materials,",
+          "understand their properties,",
+          "and then try to build new technologies",
+          "based on these properties.",
+          "At the end of the day, my hope",
+          "is that you'll understand nanotechnology at some level."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, are you Bella?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Bella, I'm George, nice to meet you."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "I'm a research scientist.",
+          "Do you like science?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "I wanted to talk to you about a specific type of science",
+          "called nanotechnology.",
+          "Have you ever heard of this word before?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "Nano is kind of a funny word, right?",
+          "It's a word that's used before another word,",
+          "and it means one billion.",
+          "What's the smallest object you can think of?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "A baby ant?",
+          "Very good.",
+          "So I have over here a meter stick, let me show it to you.",
+          "And so that's a meter and if I divide it by 1000,",
+          "I get a millimeter. So milli just means 1000.",
+          "There's all these little lines on the ruler.",
+          "And each of those little lines is one millimeter.",
+          "So a baby ant is probably a couple of millimeters.",
+          "So even the thing, that's the smallest thing",
+          "you can think of, it's a million times bigger",
+          "than a nanometer.",
+          "Tiny, tiny, tiny."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "If I took this stick and I was to draw 1 billion lines,",
+          "the distance between those two lines would be one nanometer.",
+          "So that's really all it is. It's just a measure of size.",
+          "But it's really, really, really tiny,",
+          "smaller than anything that we can see with our eyes.",
+          "The reason why, in nanotechnology, scientists,",
+          "we care about things that are that small,",
+          "is because there are objects called atoms.",
+          "Have you ever heard of atoms before?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "That was a perfect explanation.",
+          "But what if I told you that scientists",
+          "invented a special type of microscope",
+          "that not only lets you see atoms,",
+          "but also lets you move them around",
+          "and build things with them.",
+          "Would you think that would be pretty cool?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "So it's called a scanning tunneling microscope.",
+          "And not only can you see the atoms,",
+          "but you can move them around.",
+          "Atoms are kind of sticky.",
+          "You can actually build things using this instrument",
+          "with actual individual atoms.",
+          "So if I gave you that machine,",
+          "would you want to make something?",
+          "Would you want to look at something very carefully?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "You are definitely a second grader! [laughing]",
+          "My daughter would probably answer the exact same way.",
+          "A unicorn would be awesome."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "I study it because objects that are that small",
+          "have really interesting properties.",
+          "They behave completely different than objects that are big.",
+          "And because of that,",
+          "we can build really cool things with them.",
+          "Like really fast computers, for example,",
+          "or new types of batteries or new types of solar cells.",
+          "And a lot of nanotechnology",
+          "is kind of like playing with Legos.",
+          "You take these small objects",
+          "and you put them together to build something new.",
+          "Something interesting that no one's built before.",
+          "It's like Legos for scientists."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "So how old are you?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "16. So what is that, you're in 10th grade?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "So 11th grade. Have you of nanotechnology?",
+          "Have you heard of this term before?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "What do you think of",
+          "when you think of nanotechnology?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "You know, you're right.",
+          "When you read about some of these technologies,",
+          "it does feel like science fiction.",
+          "But the part of nanotechnology",
+          "I wanted to talk to you about",
+          "is stuff that you probably use every day,",
+          "most of your day, all of the time.",
+          "Can you guess what aspect of nanotechnology",
+          "I'm gonna talk to you about?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "Yeah, so modern computer chips",
+          "rely heavily on nanotechnology.",
+          "Does this look familiar to you?",
+          "Can you guess what this might be?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "So this is a silicon wafer,",
+          "and they're embedded in basically almost every object",
+          "that you use, from a laptop, to a phone, to cars,",
+          "television sets, appliances.",
+          "We ended up cutting these into little squares",
+          "and those repeating patterns, each of those is a processor.",
+          "And those chips are what goes into all of these objects.",
+          "What I want to talk to you about is how we got",
+          "from where we started, and how we're able to actually fit",
+          "18 billion of these little devices",
+          "in a little one inch by one inch area.",
+          "They're called transistors. It's a switch.",
+          "Very simply, think of it as a light switch",
+          "that turns on and turns off using an electric field",
+          "by applying a voltage."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "I went through my kid's Lego bins",
+          "to build a very simple model of a transistor.",
+          "And these are wired together in circuits",
+          "so that you can do computation.",
+          "You can do logic with them.",
+          "Where nanotechnology comes into play,",
+          "the way you double the number of transistors on a chip.",
+          "Can you guess what you would have to do to this transistor?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "You have to make it smaller. Exactly.",
+          "But here's the problem.",
+          "So about 10 to 15 years ago, the devices got so small",
+          "that if you shrunk them this gate,",
+          "that actually turns it on and off",
+          "loses its ability to control the channel.",
+          "And so what they did, was they took devices like this",
+          "into these things, we call them, FinFETs,",
+          "kind of like a fin on a fish.",
+          "So they're very thin transistors.",
+          "The width of these fins is only six nanometers. Okay?",
+          "So 6 nanometers is 25 to 30 atoms across.",
+          "And they repeat this",
+          "over the entire wafer just about perfectly.",
+          "It's just a huge feat in engineering.",
+          "But these types of devices are exactly the kind of devices",
+          "that your phones and computers either have,",
+          "or will have in the near future.",
+          "And it's a way that nanotechnology",
+          "is directly impacting you right now."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "Exactly.",
+          "So these are made using a technique called lithography.",
+          "You basically coat the silicon wafer with a polymer.",
+          "Then you put a mask on it",
+          "and then you shine light through it.",
+          "And the features of the mask, the size of those holes",
+          "determine the feature size in the chip.",
+          "It's not just the size of the mask that matters.",
+          "It's the wavelength of the light that's used.",
+          "We talked about nanotechnology being science fiction before,",
+          "but this is real stuff that's being produced,",
+          "that's being made, that's being used every day by people."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "Exactly. I couldn't put it any better. That's right."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So what's your major?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "What made you choose that?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "So have you taken a quantum mechanics course?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "I think to really get deep into nanomaterials",
+          "and nanoscale devices, you really have to understand",
+          "to some level, quantum mechanics.",
+          "What it teaches us",
+          "as we make these devices smaller and smaller,",
+          "their properties begin to now depend",
+          "on the size and the orientation of these devices.",
+          "There are materials, and you're taking a 2D materials class,",
+          "you know about this, that are intrinsically thin.",
+          "As they're grown, as they're fabricated,",
+          "they're already at the nanoscale and they possess",
+          "these quantum confinement properties",
+          "that as a nanotechnologist, you try to exploit.",
+          "And so the first ones I wanted to talk to you about",
+          "are quantum dots, have you heard of quantum dots before?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "So these are",
+          "typically semiconductors.",
+          "They can be cadmium selenide cadmium sulfide, zinc selenide",
+          "and they're small clusters of atoms.",
+          "They can be from 2 to 10 nanometers.",
+          "What's interesting about these materials?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "That's correct. Yeah.",
+          "Because of quantum confinement,",
+          "once you get below this 15 nanometer range,",
+          "the band gap of the material",
+          "depends completely on the size of the material.",
+          "So in bulk materials, if you want to change the band gap,",
+          "you have to change the material, right?",
+          "But in these quantum dots specifically,",
+          "just by changing the size, you can change their band gap.",
+          "And because their band gap is changing,",
+          "their optical properties are different.",
+          "And you can precisely tune the wavelength of light",
+          "that they emit just by changing their size."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "There are people that are exploring",
+          "using these materials for diode lasers.",
+          "There are companies that are building displays",
+          "from these materials.",
+          "And there're even people thinking about",
+          "if I take these quantum dots,",
+          "and I change the chemistry on the outside",
+          "so they stick to specific types of cells or tissue,",
+          "that I could really do some interesting imaging",
+          "and therapeutic work to track disease,",
+          "even maybe to treat disease,",
+          "if you can very precisely control the chemistry."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "The optical applications are in development.",
+          "The science has really been worked out.",
+          "The health stuff, because of all of the things",
+          "you have to consider when you're putting something",
+          "in someone's body is definitely further out there.",
+          "For example, some of them are made from cadmium.",
+          "Cadmium's toxic.",
+          "You would never put that in someone's body.",
+          "But there are other materials like gold and silver",
+          "and titanium dioxide, which are less toxic",
+          "and people are exploring using those.",
+          "So have you learned about graphene?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Do you know what this is?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "Carbon nanotube, right.",
+          "So if you roll up graphene, depending on how you roll it",
+          "and the angle, you roll it with,",
+          "it has different properties.",
+          "So if I roll it one way, it'll act like a metal.",
+          "If I roll it a different way,",
+          "it'll act like a semiconductor.",
+          "The one that gets everyone most excited",
+          "is that the electrons and holes",
+          "move very fast through graphene.",
+          "And so there's a lot of interest in using these",
+          "for certain types of high-speed electronics.",
+          "The other interesting application",
+          "is because it's one atom thin,",
+          "it's very sensitive to changes in the environment.",
+          "And so there's a lot of interest",
+          "in using them as diagnostics.",
+          "It's on us researchers to find ways",
+          "to A, control that process and then B, to actually build",
+          "some sort of interesting technology from them."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "21",
+        "Sentence": [
+          "You're speaking my language.",
+          "This is what I spent many years of my life working on.",
+          "You don't physically roll up graphene.",
+          "You grow nanotubes by basically taking nanocrystals",
+          "and you deposit them on a surface.",
+          "And then you do a CVD process, chemical vapor deposition.",
+          "So you basically flow in a carbon source,",
+          "the carbon dissolves in a nanocrystal",
+          "and then once nanocrystal is saturated,",
+          "the nanotubes precipitate out of them in tubes.",
+          "Then you have to develop ways",
+          "to go into this pile of nanotubes",
+          "and pull out exactly the ones that you want.",
+          "So I have to find ways to program them",
+          "to go exactly in the places that I want.",
+          "I modify the surface of the nanotube with specific molecules",
+          "that recognize one type of surface over another.",
+          "And then I just pattern the surface and the tubes just land",
+          "exactly where we want them to.",
+          "And it's still very much in the research stage.",
+          "The ultimate goal is to build functional",
+          "high-speed electronics using these new materials."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah. 100%. That's right.",
+          "And that's the motivation",
+          "for looking at these emerging materials.",
+          "But I would never bet against the innovation",
+          "and the creativity in this nano electronic space.",
+          "Tens of thousands of scientists,",
+          "every time they hit a barrier, at least historically,",
+          "as a guide, they have found a way to overcome it.",
+          "It's a real marvel in ingenuity."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "25",
+        "Sentence": [
+          "It's just pretty lights. [laughing]",
+          "But now that you suggested it, these were inspired",
+          "by the array of quantum dots that we showed earlier.",
+          "So that's the story I'm going to stick with.",
+          "[laughing] I like it."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "So you're a graduate student.",
+          "And so tell me a bit about your work."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "What is it about nanomaterials, that scale",
+          "and the properties of these materials",
+          "that make them uniquely promising",
+          "to incorporate into battery technology?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "What is it exactly that you're trying to tease",
+          "out of these materials to improve the battery's performance?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "Because the materials are so small,",
+          "they're at the nanoscale,",
+          "their properties are dominated by quantum mechanics,",
+          "which means that even slight changes in their size,",
+          "in their orientation",
+          "give profound changes in their properties.",
+          "And while that's very scientifically interesting,",
+          "and it allows you to tune their properties",
+          "by making subtle changes, from a technology point of view,",
+          "it's a bit of a headache in the sense",
+          "that in technology want to optimize for a property",
+          "and then repeat that over and over again.",
+          "So what are some of the challenges that you face in the lab",
+          "related to working with these materials",
+          "and then trying to incorporate them into the batteries?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "That's actually, I think a very common problem.",
+          "We can build a device in the lab",
+          "it could be a transistor, can be a battery.",
+          "And then you ask the question,",
+          "okay, so what's the next step?",
+          "How do we take it from that lab demonstration",
+          "into a technology?",
+          "The kind of work that I'm very interested in",
+          "is developing tools",
+          "to make the exact type of materials that you want.",
+          "The tools that we've used in the past",
+          "for conventional fabrication",
+          "just don't work with these materials",
+          "because they're all grown from the bottom up.",
+          "They're intrinsically small, and you have to find ways",
+          "to either use chemistry or some other means",
+          "to get them to assemble into the structures that you want",
+          "to actually either grow specifically what you want",
+          "or after you grow them, to pull out the ones that you want.",
+          "You need to be able to build that same thing",
+          "over and over again, with the exact same properties.",
+          "No one institution, no one research lab, no one national lab",
+          "is gonna solve all of these problems on their own",
+          "because they are difficult problems.",
+          "And there is a real important payoff at the end.",
+          "And it's gonna take all of us, making our contributions",
+          "to push this field forward."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "I remember reading your papers when I was a student",
+          "and we're all trying to create these materials",
+          "and finding ways to exploit their properties.",
+          "What I love, and I'm delighted that you're here",
+          "to talk to us about is how you took inspiration from nature",
+          "and sort of recognize that nature's figured out a way",
+          "to both synthesize incredibly complex nanostructures",
+          "with high functionality and how you sort of were inspired",
+          "by that to do the research that you're doing now."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "It's really fascinating work,",
+          "especially now we're all familiar",
+          "with the viruses and how they act.",
+          "And I'm not aware of any viruses that build nanostructures.",
+          "So how did you come to that?",
+          "And then how do you actually program a virus",
+          "to do your bidding?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "So you've evolved, and I suppose, trained these viruses",
+          "to build the materials that you want them to build",
+          "by exposing them to the raw materials",
+          "and then evolving their function.",
+          "We're talking about the electronics from nanomaterials.",
+          "That critical issue that we're facing",
+          "is how do you go from those single experiments",
+          "with a single material, understanding its properties,",
+          "how do you scale that to the billions of devices",
+          "that you need in a technology?",
+          "It is a chemistry driven approach.",
+          "We're not going to grow them exactly where we want them,",
+          "but to take that one step,",
+          "and to tie into what you're doing,",
+          "tt sounds like there could be an area of collaboration",
+          "where instead of using conventional chemistry,",
+          "that we can train some of these biological elements",
+          "to do that work work for us."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "It's really fascinating.",
+          "You have all these little worker viruses",
+          "building the materials for you.",
+          "How are you then applying these materials",
+          "that you're building?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "Looking ahead, 5 years, 10 years,",
+          "where do you see your own work,",
+          "and maybe the field more broadly?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "One of the things I love about about nanoscience",
+          "is it tends to break up the silos",
+          "between those traditional scientific disciplines.",
+          "My training was in chemistry,",
+          "but I had to very quickly merged chemistry and physics.",
+          "And now I see an area where chemistry, physics,",
+          "and biology are coming together to produce new materials",
+          "and new technology, and to advance the field forward.",
+          "And so being in this field,",
+          "you kind of have to cross pollinate",
+          "between these different disciplines",
+          "and kind of advance the field together."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "So Angela,",
+          "thank you so much for joining us.",
+          "And I look forward to seeing more work",
+          "coming out of your lab in the future."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I really enjoy talking to these five different people",
+          "about nanotechnology.",
+          "Nanotechnology is a field that affects all of us every day",
+          "as finds its way into a variety of applications.",
+          "And I hope you enjoyed it as well and see the impact",
+          "that nanotechnology has on your life today,",
+          "and how much more of an impact it'll have",
+          "on all of our lives in the future"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4?t=40",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Nice to meet you too!"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Nhn nhn."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "A baby ant?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Tiny, tiny, tiny, tiny."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yes.",
+          "I first heard of them",
+          "on a show I watched called StoryBots.",
+          "They're just little things",
+          "that make up everything on Earth, even earth."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah!"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "I would want to make a unicorn out of atoms."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Why do you study stuff so small?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Cool."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4?t=212",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I'm 16."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Junior year."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yeah, I've heard of it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "It kind of seems very science fiction."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "My phone?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I don't know."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "OK."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "You make it smaller?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "How do you make stuff that small?",
+          "Obviously it's not handmade, so is it factories and stuff?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "In middle school, I built all of the little switches",
+          "where you turn the electricity on,",
+          "and it goes from one thing to the other.",
+          "But those are the really big, comical,",
+          "like plugging in Legos and stuff.",
+          "When we saw the picture of all of the little ones,",
+          "it's like a city, it's crazy how simple",
+          "and complex it is at the same time."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4?t=414",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Chemical engineering."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Like any freshman,",
+          "going into chemical engineering,",
+          "I was like, I like chemistry!",
+          "So I'm gonna go into chemical engineering.",
+          "But luckily I also like",
+          "all the math and all the science too."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I have. I took that last year."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Well, the other day we were talking about",
+          "the different dimensions you can have of nanotechnology.",
+          "So all the way from like 0D to 3D.",
+          "If I remember correctly, my professor labeled it as 0D?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "What are the applications of these quantum dots?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "How far away is this",
+          "from being actually used on an industrial level?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Carbon nanotube?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "So you've been talking about",
+          "the different ways you can say, roll these nanotubes.",
+          "So how do you go about building",
+          "and controlling these nanotubes in terms of their diameter?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "In my nanomaterials class,",
+          "actually just a couple of days ago,",
+          "we were talking about different applications",
+          "of nanotechnology and things we know.",
+          "And we touched on the topic that right now,",
+          "silicon is down to the smallest level that it can get.",
+          "And so we have scientists out there",
+          "researching other materials, to replace silicon."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "I gotta ask.",
+          "The lights that are behind you, is that related",
+          "to the quantum dots that you work with at all?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Well, thank you so much. This was all so very interesting."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4?t=746",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I've been working on energy storage materials.",
+          "And the most popular are batteries that we work on.",
+          "A lot of the revolution that's come in electronics",
+          "is kind of our model",
+          "to try and use some nanoscale advances",
+          "and put them into batteries."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "So for batteries, one of the main constraints",
+          "when we're designing batteries is trying to maintain",
+          "or reduce the volume and mass of the components.",
+          "And nanomaterials are particularly well suited",
+          "to adding functionality",
+          "while having this negligible increase in volume.",
+          "So we get a huge benefit from using nano materials",
+          "without sacrificing the volume of the battery."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "At first, one of the main things that we did",
+          "was use nanomaterials to add conductivity.",
+          "And so carbon anodes and graphene are really good",
+          "at adding conductivity to batteries.",
+          "And then in the subsequent years,",
+          "nanomaterials have been really interesting",
+          "from things like incorporating sensors into batteries,",
+          "to increasing the functionality of batteries,",
+          "having some responsive materials",
+          "that use things like graphene sheets",
+          "that are incorporated into a matrix,",
+          "and then you add a safety functionality to a battery.",
+          "We're trying to squeeze out",
+          "almost all the functionality that we can.",
+          "And as new nano materials are being discovered",
+          "and there're new properties being discovered,",
+          "a lot of the time that someone tries to think of a way",
+          "to translate that into a battery."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "I think every step of a process in a battery",
+          "is something where you have to think about",
+          "how would this translate to making a battery",
+          "in terms of the production?",
+          "One thing that I think is very interesting",
+          "about the field of nanoscale materials in general,",
+          "is that how you make the material",
+          "changes the properties a lot.",
+          "And so we claim that this 2D material has this property,",
+          "then tying that to the battery performance",
+          "is something that's pretty difficult to do.",
+          "It takes a few steps in between.",
+          "So we have to think kind of creatively",
+          "with how we can do that."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/WW0IIyrq8z4?t=965",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-nanotechnology",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Life gave us this toolkit",
+          "that is already on the nanoscale.",
+          "So we think that that's a great place",
+          "to think about making materials on the nano scale",
+          "and manipulating materials on the nano scale,",
+          "and wiring them together as well.",
+          "This abalone shell, you can see",
+          "the exquisite beautiful colors and structures of it.",
+          "This is a nano composite material.",
+          "If you take this and fracture it, and you look at it",
+          "in a scanning electron microscope, what you'll see",
+          "is that it's made out of these beautiful tablets.",
+          "And I studied that as a graduate student.",
+          "I looked at that and I said, that is completely amazing.",
+          "You have an organism in the ocean,",
+          "that takes what's in its environment,",
+          "which is calcium and carbonate.",
+          "That's dissolved in the water and templates it",
+          "into this really exquisite structure.",
+          "And so you think that's great.",
+          "Calcium carbonate is great,",
+          "but what if we wanted to make a solar cell",
+          "or a another electronic device or a battery,",
+          "how would you get an organism to do that?",
+          "And you say, okay, that's a really crazy idea.",
+          "But is it really that crazy if this abalone,",
+          "already figured out how to do it, 500 million years ago?",
+          "So we're saying, okay, abalones build shells.",
+          "Can viruses build solar cells, can viruses build catalysts?",
+          "Can they build batteries using the same kind of idea?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "We work on something",
+          "called bacteriophages, it's a virus with DNA.",
+          "This particular bacteriophage called M13 bacteriophage",
+          "is made up of single stranded DNA and proteins.",
+          "It's long and thin.",
+          "So it's 880 nanometers in length,",
+          "and it's about 9 nanometers in diameter.",
+          "And so one of the reasons I love it",
+          "is it spans the nanoscale",
+          "and almost the micron scale at the same time.",
+          "Take the single strand DNAs, obviously a model,",
+          "and you can cut it with molecular scissors.",
+          "And you can put a new piece of DNA in between.",
+          "And so you put a small piece of DNA in there",
+          "that doesn't belong there.",
+          "And that piece of DNA",
+          "is going to randomly code for a protein.",
+          "Now, the next time that that virus is replicated",
+          "within a bacterial host,",
+          "it'll be able to put a new protein sequence on the coat,",
+          "just a short protein sequence on the coat,",
+          "maybe like 8 or 12 amino acids in length.",
+          "And just like that abalone is going to grab calcium",
+          "and build calcium carbonate.",
+          "We're going to have our viruses build iron phosphate",
+          "for a battery electrode material",
+          "or Gallium arsenide or cad sulfide",
+          "for a semiconductor material."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Biology is chemistry.",
+          "Molecules, proteins,",
+          "and DNA work with all the same kinds of bonding",
+          "and things that the chemicals",
+          "that you're gonna be looking for in these processes.",
+          "It's put together in a way",
+          "that when a protein or enzyme folds,",
+          "it almost always folds correctly.",
+          "That's kind of the beauty of it,",
+          "the predictable aspect of it encoded in its DNA.",
+          "If we need to make it the same over and over again,",
+          "then as long as you have the right DNA sequence,",
+          "DNA is a beautiful structure on the nanoscale.",
+          "And there's really, really cool, incredible work",
+          "on DNA origami, when DNA can fold",
+          "into just the right structure.",
+          "And so I can see that as an interface,",
+          "that would be really cool and interesting in your work.",
+          "And you can have the virus make the DNA for the DNA origami,",
+          "and then you use DNA to assemble your beautiful structures."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "We started thinking about",
+          "how can we make an impact in cancer?",
+          "We do it mostly in imaging technology",
+          "to look deep inside the body noninvasively with light.",
+          "And the way that we came about that",
+          "was through solar cells and batteries.",
+          "We trained our viruses to pick up carbon nanotubes",
+          "and hold onto them very, very tightly.",
+          "And then we'll give a virus a second gene,",
+          "decode for a protein, to grow, in a case of a battery,",
+          "a battery electrode material.",
+          "It allows it to weave together a good electrical conductor",
+          "and a good ionic conductor at the same time,",
+          "all within this really, really small space.",
+          "And the optical properties of these carbon nanotubes",
+          "are in the wavelength.",
+          "That is interesting for imaging deep inside the body.",
+          "We started building a bunch of imaging tools",
+          "that could image above a thousand nanometers, a wave length.",
+          "And so this is in [audio distorting]",
+          "and that's a really special window",
+          "where you have some optical transparency",
+          "of tissue in the body.",
+          "The other gene, we engineered to find ovarian cancer.",
+          "We developed imaging tools with Harvard Medical School",
+          "and MIT Lincoln Labs to find tiny ovarian tumors.",
+          "It's hard to see things less than a centimeter in size",
+          "with ovarian cancer, just based on the location in the body.",
+          "But with our imaging system, we could find tumors",
+          "that were below a millimeter in size, actually."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "The future I'd like to see",
+          "is environmentally friendly chemistry",
+          "and materials synthesis.",
+          "And I think that we're really going that way.",
+          "If we think about batteries of the future,",
+          "solar cells of the future,",
+          "thinking about earth abundant materials and processes",
+          "that are compatible with the earth and environment."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I agree completely. We like to solve problems.",
+          "Nano bio is the toolkit that we bring a lot.",
+          "It happens to be a very strong and evolving toolkit.",
+          "That's another thing that I love about biology",
+          "is if you can come up with a solution",
+          "that's not perfect at all to begin with",
+          "when you're making a battery electrode material",
+          "or any kind of material you're making,",
+          "you have evolution on your side",
+          "to try to make it better and better as a function of time.",
+          "That can be quite rapid."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Thanks for having me, George,",
+          "it was really fun to interact, and I'm very excited",
+          "about our future collaborations.",
+          "Me too. Absolutely."
+        ]
+      }
+    ]
+  }
+}

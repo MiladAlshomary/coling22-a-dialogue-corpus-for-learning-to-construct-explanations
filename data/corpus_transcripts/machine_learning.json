@@ -1,0 +1,1374 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Hilary Mason. I'm a computer scientist.",
+          "And today, I've been asked to explain machine learning",
+          "in five levels of increasing complexity.",
+          "Machine learning gives us the ability to learn things",
+          "about the world from large amounts of data",
+          "that we as human beings can't possibly study or appreciate.",
+          "So machine learning is when we teach computers",
+          "to learn patterns from looking at examples in data,",
+          "such that they can recognize those patterns",
+          "and apply them to new things that they haven't seen before."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "I'm Hilary, what's your name?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Do you know what machine learning means?",
+          "Have you heard that before?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "So machine learning is a way that we teach computers",
+          "to learn things about the world by looking at patterns",
+          "and looking at examples of things.",
+          "So can I show you an example",
+          "of how a machine might learn something?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "[Hilary] So is this a dog or a cat?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "And this one?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "And what makes a dog, a dog and a cat, a cat?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "That's true.",
+          "Do you think, if we look at these pictures,",
+          "do you think maybe we could say,",
+          "Well, they both have pointy ears,",
+          "but the dogs have a different kind of body",
+          "and the cats like to stand up a little different.?",
+          "Do you think that makes sense?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "What about this one?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "This one's a jackal. And it's actually a kind of dog.",
+          "But you made a good guess.",
+          "That's what machines do too. They make guesses.",
+          "Is this a cat or a dog?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "[Hilary] None. What is it?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "And how did you know that it's not a cat or a dog?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "And so, you did something pretty amazing there.",
+          "Because we asked the question, Is it a cat or a dog?",
+          "And you said, I disagree with your question. It's a human.",
+          "So machine learning is when we teach machines",
+          "to make guesses about what things are",
+          "based on looking at a lot of different examples.",
+          "And I build products that use machine learning",
+          "to learn about the world and make guesses",
+          "about things in the world.",
+          "When we try to teach machines to recognize things",
+          "like cats and dogs, it takes a lot of examples.",
+          "We have to show them tens of thousands",
+          "or even millions of examples",
+          "before they can get even close to as good at it as you are.",
+          "Do you have tests in school?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "Are those like the practice problems",
+          "you do before the test?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "Which means that in the test,",
+          "you're not seeing any problems",
+          "that you don't know how to solve.",
+          "As long as you did all your practice, right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "31",
+        "Sentence": [
+          "So machines work the same way.",
+          "If you show them a lot of examples and give them practice,",
+          "they'll learn how to guess.",
+          "And then when you give them the test,",
+          "they should be able to do that.",
+          "So we looked at eight pictures",
+          "and you were able to answer really quickly.",
+          "But what would you do if I gave you 10 million examples?",
+          "Would you be able to do that so quickly?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "33",
+        "Sentence": [
+          "So one of the differences between people and machines",
+          "is that people might be a little better at this,",
+          "but can't look at 10 million different things.",
+          "So now that we've been talking about machine learning,",
+          "is this something you want to learn how to do?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "35",
+        "Sentence": [
+          "And machine learning is a great way to use",
+          "all those math skills, all those coding skills,",
+          "and would be a super cool tool for a spy."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "2",
+        "Sentence": [
+          "Hi. Are you a student, Lucy?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "4",
+        "Sentence": [
+          "Congratulations."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "6",
+        "Sentence": [
+          "Have you ever heard of machine learning before?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "8",
+        "Sentence": [
+          "That's right.",
+          "When we teach machines to learn from data,",
+          "to build a model from that data or a representation of that,",
+          "and then to make a prediction.",
+          "One of the places we often find machine learning",
+          "in the real world is in things like recommendation systems.",
+          "So do you have an artist that you really like?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "10",
+        "Sentence": [
+          "So I'm gonna look up Melanie Martinez.",
+          "And it says here, If you like Melanie Martinez,",
+          "one of the other songs you might like is by Au/Ra.",
+          "Do you know who that is?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "12",
+        "Sentence": [
+          "So let's listen to a hint of this song."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "14",
+        "Sentence": [
+          "All right.",
+          "So why do you think Spotify might've recommended that song?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "16",
+        "Sentence": [
+          "And that's actually a really interesting thing",
+          "to think about because that creepy vibe",
+          "is something that you can perceive and I can perceive,",
+          "but it's actually really hard to describe to a machine.",
+          "What do you think might go into that?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "18",
+        "Sentence": [
+          "It's a great question.",
+          "The machine can understand",
+          "whatever we tell it to understand.",
+          "So there might be a person thinking about things,",
+          "like the pitch or the pacing or the tone,",
+          "or sometimes machines can figure out",
+          "things about music or images or videos",
+          "that we don't tell it to discover,",
+          "but that it can learn",
+          "from looking at a lot of different examples.",
+          "Why do you think companies might use machine learning?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "20",
+        "Sentence": [
+          "Sometimes, the ads you see are really uncanny.",
+          "And I think that's because they're based on so much data.",
+          "They know where you live. They know where your device is.",
+          "It's also important to realize that people in aggregate",
+          "are actually pretty predictable.",
+          "Like when we talk to each other,",
+          "we like to talk about the novel things,",
+          "like here, we're having this conversation.",
+          "We don't do this every day.",
+          "But we probably still eat breakfast.",
+          "We're gonna eat lunch. We're gonna eat dinner.",
+          "You probably are going to the same home",
+          "you go to most of the time.",
+          "And so, they're able to take that data",
+          "that we already give them and make predictions based on that",
+          "as to what ads they should show us."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "22",
+        "Sentence": [
+          "[Hilary laughs]"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "24",
+        "Sentence": [
+          "That's right.",
+          "To do machine learning, we use something called algorithms.",
+          "Have you heard of algorithms before?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "26",
+        "Sentence": [
+          "That's right."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "28",
+        "Sentence": [
+          "So there are things that machines are really great at",
+          "that humans are actually not great at.",
+          "And imagine watching every video posted to TikTok every day.",
+          "So we just don't have enough time to do that",
+          "at the rate at which we can actually watch those videos.",
+          "But a machine can analyze all of them",
+          "and then make recommendations to us.",
+          "And then thinking about things that machines are bad at",
+          "and people are good at, people are really great",
+          "with only one or two examples of learning something new",
+          "and incorporating that into our model of the world",
+          "to make good decisions.",
+          "Whereas machines often need tens of thousands of examples,",
+          "and that's not even getting into things like good judgment",
+          "because we care about people,",
+          "because we can imagine a future that we want to live in",
+          "that doesn't exist today.",
+          "And that's something that is still uniquely human.",
+          "Machines are great at predicting",
+          "based on what they've seen in the past,",
+          "but they're not creative.",
+          "They're not going to invent.",
+          "They're not gonna, you know,",
+          "really change where we're gonna go.",
+          "That's up to us."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "2",
+        "Sentence": [
+          "[Hilary] And what are you majoring in?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "4",
+        "Sentence": [
+          "So in your studies,",
+          "have you learned about machine learning?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "6",
+        "Sentence": [
+          "Absolutely.",
+          "And that's a great example because you have models",
+          "that are operating to do things like figure out",
+          "if a new email is spam or not.",
+          "So what would you think",
+          "about if you were looking at an email",
+          "and trying to decide if it went in one category or another?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "8",
+        "Sentence": [
+          "So these are things we would call features.",
+          "And we go through a process where we do feature engineering,",
+          "where somebody looks at the example and says,",
+          "Okay, these are the things that I think might allow us",
+          "to statistically tell the difference",
+          "from something in one category versus another.",
+          "So for example, perhaps you don't speak Russian,",
+          "you start getting a lot of email in Russian."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "10",
+        "Sentence": [
+          "This is a great question",
+          "because it really gets to the difference",
+          "between some of our different tools",
+          "in our machine learning tool belt",
+          "in addressing problems like this.",
+          "So if we were to use a supervised learning classic",
+          "classification approach,",
+          "a person would need to think about those features",
+          "and creatively come up with them",
+          "in approach we call the kitchen sink approach,",
+          "which is just try everything you can possibly think of",
+          "and see what works.",
+          "Unsupervised learning, where we don't have labeled data",
+          "and we're trying to infer some structure out of the data",
+          "is you're projecting that data into a space",
+          "and looking for things like clusters.",
+          "And there's a bunch of really fun math",
+          "about how you do that, how you think about distance",
+          "and by distance, I mean that if we have two data points",
+          "in space, how do we decide if they're similar or not?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "12",
+        "Sentence": [
+          "Supervised learning, we have our labels",
+          "and we're trying to figure out what statistically indicates",
+          "if something matches one label or another label.",
+          "Unsupervised learning,",
+          "we don't necessarily have those labels.",
+          "That's the thing we're trying to discover.",
+          "So reinforcement learning is another technique",
+          "that we use sometimes.",
+          "You can think about it like a turn in a game",
+          "and you can play, you know, millions and millions of trials",
+          "so that you're able to develop a system",
+          "that by experimenting with reinforcement learning",
+          "can eventually learn to play these games",
+          "pretty successfully.",
+          "Deep learning, which is essentially using neural networks",
+          "and very large amounts of data to eventually iterate",
+          "on a network structure that can make predictions."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "14",
+        "Sentence": [
+          "It is, but it also thrives in environments",
+          "where you have a decision point,",
+          "a pallet of actions to choose from.",
+          "And it actually comes historically",
+          "from trying to train a robot to navigate a room.",
+          "If it bonks into this chair, it can't go forward anymore.",
+          "And if it falls into that pit,",
+          "you know, it's not going to succeed.",
+          "But if it keeps exploring, it'll eventually get to the goal."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "16",
+        "Sentence": [
+          "[Hilary] Yes.",
+          "[both laugh]"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "18",
+        "Sentence": [
+          "So typically, you would choose deep learning",
+          "if you have sufficient high quality data,",
+          "hopefully labeled in a useful way.",
+          "If you really are happy not to necessarily understand",
+          "or be able to interpret what your system is doing",
+          "or you're willing to invest",
+          "in another set of work afterwards to understand",
+          "what the system is doing once you've already trained it.",
+          "And this also comes down to the fact that some things",
+          "are actually really easy to solve with linear regression",
+          "or simple statistical approaches.",
+          "And some things are impossible."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "20",
+        "Sentence": [
+          "You build a system that could actually be useless.",
+          "So years ago, I had a client that was a big telecom company",
+          "and they had a data scientist",
+          "who built a deep learning system to predict customer churn.",
+          "It actually was very accurate, but it wasn't useful",
+          "because nobody knew why the prediction was what it was.",
+          "So they could say, you know,",
+          "Sunny, you're likely to quit next month.",
+          "But they had no idea what to do about it.",
+          "And so, I think there are a bunch of failure modes."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah.",
+          "This is actually a good example of a very real world",
+          "kind of machine learning problem where the solution to this",
+          "was to build an interpretable system",
+          "on top of the accurate predictions not to throw it away,",
+          "but to do a bunch more work to figure out the why."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "24",
+        "Sentence": [
+          "It's actually fairly new",
+          "that we're able to solve all of these problems",
+          "and start to build these products and apply it in businesses",
+          "and apply it, you know, everywhere.",
+          "And so, we're still developing good practices",
+          "and what it means to be a professional in machine learning.",
+          "We're really developing a notion of what good looks like."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "2",
+        "Sentence": [
+          "So would you mind telling me a bit about",
+          "what you've been working on or interested in lately?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "4",
+        "Sentence": [
+          "So what are some of the techniques you're applying",
+          "to look at that debate data?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "6",
+        "Sentence": [
+          "Do you think there are going to be general principles",
+          "that guide those decisions?",
+          "Because right now, it's generally",
+          "up to the machine learning engineer to decide",
+          "what tools they want to apply."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "8",
+        "Sentence": [
+          "So is that where some of that frustration",
+          "around the lack of controllability",
+          "and interpretability comes from?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "10",
+        "Sentence": [
+          "If you train a model off of language off the internet,",
+          "it sometimes says uncomfortable things",
+          "or inappropriate things and sometimes really biased things.",
+          "Have you ever run into this yourself?",
+          "And then how do you think about that problem",
+          "of potentially even measuring the bias",
+          "in a model that we've trained?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "12",
+        "Sentence": [
+          "I imagine in the last few years,",
+          "we've seen a lot of changes and improvements",
+          "in the capabilities of NLP systems.",
+          "So is there anything in that",
+          "that you're particularly excited about exploring further?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah, I agree."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "So, hi Claudia. It's so great to see you."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "You know, we first met 10, 11 years ago",
+          "and machine learning has changed a lot since then."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "Well, you're absolutely right that the attention",
+          "machine learning gets has grown dramatically.",
+          "20 years ago, going to gatherings",
+          "and telling people what I was working on",
+          "and seeing the blank face or the like,",
+          "Where's the turn? and walk away.",
+          "Like, Oh, no.",
+          "The accessibility of the tooling,",
+          "like, we can now do in, like, five lines of code",
+          "something that would have taken 500 lines",
+          "of very mathematical, messy, gnarly code",
+          "even, you know, five years ago.",
+          "And that's not an exaggeration.",
+          "And there are tools that mean that pretty much anyone",
+          "can pick this up and start playing with it",
+          "and start to build with it.",
+          "And that is also really exciting."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "And part of the challenge of it",
+          "is not the mathematics of building models,",
+          "but the challenge is making sure that the data",
+          "is sufficiently representative, potentially high quality."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "Right.",
+          "And so, to say that another way,",
+          "when you're collecting data from the real world",
+          "and then building machine learning systems",
+          "that automate decisions based on that data,",
+          "all of the biases and problems",
+          "that are already in the real world then can be magnified",
+          "through that machine learning system.",
+          "And so, it can make many of these problems much worse."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "And so, it's not just the provenance of that data,",
+          "but it's, sort of, deeply understanding,",
+          "Why does it look the way it looks?",
+          "Why was it collected this way?",
+          "What are the limitations of it?",
+          "We need to think about that",
+          "in entire process, how we document that process.",
+          "This is an issue in companies",
+          "where somebody might create something",
+          "that even their peers can't recreate."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "These are great questions.",
+          "So things like actuarial science, operations research,",
+          "where they actually are not using machine learning",
+          "as much as you might think.",
+          "And then you have other sorts of companies",
+          "or on the FinTech side, or even the ad tech side of things",
+          "where they perhaps are using machine learning",
+          "to the point of even absurdity."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "So when we think about the next five to 10 years,",
+          "the things that are really still holding us back",
+          "are these uneven applications of resources to problems",
+          "because the problems that get attention",
+          "are the high value ones",
+          "in terms of how much money you can make",
+          "or the things that are fashionable enough",
+          "that you can publish a paper on it.",
+          "So what do you think is holding us back?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "I am incredibly optimistic and not...",
+          "Perhaps it's a personality flaw, but I can't help but look",
+          "at the potential of the technology to reduce harm,",
+          "to give us information that help us make better decisions.",
+          "And to think that we would choose",
+          "to address the big problems ahead of us.",
+          "I don't think we have a hope of addressing them",
+          "without figuring out the role",
+          "that machine learning will play.",
+          "And to think that we would then choose not to do that",
+          "is just unthinkable."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I hope you learned something about machine learning.",
+          "There has never been a better time to study machine learning",
+          "because you're now able to build products",
+          "that have tremendous potential and impact"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI?t=31",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Hi."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm Brynn."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Sure."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "It's a dog."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "A cat."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Well, dogs are very playful, I think, more than cats.",
+          "Cats lick themselves more than dogs, I think."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah. Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "A dog.",
+          "A cat.",
+          "I think, a cat?",
+          "Because it's more skinny.",
+          "And also, its legs are like really tall",
+          "and its ears are a little pointy."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "[Brynn] None."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "It's humans."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Because cats and dogs...",
+          "Because they walk on their paws",
+          "and their ears are like right here, not right here,",
+          "and they don't wear watches."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yeah, I have.",
+          "After every unit, we have a review and then we have a test."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Well, just like everything that's gonna be on the test",
+          "is on the review."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Kind of.",
+          "Because I kind of want to become a spy.",
+          "And we used to do coding,",
+          "so I may be kind of good at it."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI?t=248",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hello."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "Yes, I just finished ninth grade."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Thank you. It's very exciting."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "I'm going to assume that it means humans being able",
+          "to teach machines or robots how to learn themselves?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah, Melanie Martinez."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "I do not."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "15",
+        "Sentence": [
+          "Well, I know that in Melanie Martinez's music,",
+          "she used a lot of the filtered voice",
+          "to make it sound very deep and low",
+          "and that song had that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "17",
+        "Sentence": [
+          "Pitch of the music.",
+          "If it's really low or if it's super high,",
+          "it could know that.",
+          "What can the machine understand?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "19",
+        "Sentence": [
+          "Well, I think things like Facebook or Instagram,",
+          "they probably use it to target ads."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "21",
+        "Sentence": [
+          "So, you're saying I give them enough data as it is",
+          "about what I might be talking about or thinking about",
+          "that they can read my mind,"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "23",
+        "Sentence": [
+          "but just use the data that I've already given them.",
+          "And it almost seems like",
+          "they're watching us."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "25",
+        "Sentence": [
+          "A set of steps or a process",
+          "carried out to complete something?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "27",
+        "Sentence": [
+          "So do you think that we've been able",
+          "to teach machines enough",
+          "so that they can do things that even we can't do?",
+          "And on the opposite side of that,",
+          "do you think there are things that we can do",
+          "that a machine might never be able to do?"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI?t=525",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "I'm Sunny."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "I study Math and Computer Science."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah, I have.",
+          "So to me, machine learning is essentially",
+          "exactly what it sounds like.",
+          "It's trying to teach a machine specifics about something",
+          "by inputting a lot of data points",
+          "and slowly, the machine will build up knowledge",
+          "about it over time.",
+          "For example, my Gmail program,",
+          "I assume that there would be a lot of, like,",
+          "machine learning models happening at once, right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "I'd probably look at certain keywords.",
+          "Maybe if the recipient and the sender",
+          "had exchanged emails before",
+          "and generally, those fell into in the past."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "Obviously, like the features that you just described",
+          "are features which a person would have had to think about.",
+          "Are there features",
+          "which, like, the machine itself could learn?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "And how do the algorithms themselves usually differ",
+          "between unsupervised and supervised learning."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "With reinforcement learning versus deep learning,",
+          "it seems to me that reinforcement learning,",
+          "is it sort of like the kitchen sink approach",
+          "that you were talking about earlier,",
+          "where you're just kind of trying everything?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "15",
+        "Sentence": [
+          "Oh, like roombas?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "17",
+        "Sentence": [
+          "Oh, I didn't realize it was that deep, almost.",
+          "Is there a situation which you'd want to use",
+          "a deep learning algorithm",
+          "over a reinforcement learning algorithm?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "19",
+        "Sentence": [
+          "What would be the outcome if you were to choose",
+          "the, quote-unquote, wrong approach?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "21",
+        "Sentence": [
+          "Would that be an example of, like, linear regression",
+          "where the regression is accurate, but,",
+          "you know, for marketing purposes, it's like,",
+          "if you don't know why I'm quitting the service,",
+          "then how can we fix this?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "23",
+        "Sentence": [
+          "How can we improve machine learning algorithms?"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI?t=892",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "I'm in my first year of a PhD in Computer Science",
+          "and I'm studying natural language processing",
+          "and machine learning."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "I've been looking at understanding persuasion",
+          "in online text and the ways that we might be able to",
+          "automatically detect the intent behind that persuasion",
+          "or who it's targeted at",
+          "and what makes effective persuasive techniques."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "Something I'm interested in exploring",
+          "is how well it works to use deep learning",
+          "and sort of automatically extracted features from this text",
+          "versus using some of the more traditional techniques",
+          "that we have, things like lexicons",
+          "or some sort of template matching techniques",
+          "for extracting features from texts.",
+          "That's a question I'm just interested in, in general.",
+          "When do we really need deep learning",
+          "versus when can we use something",
+          "that's a little bit more interpretable,",
+          "something that's been around for a while?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "I definitely think there is,",
+          "but I also, sort of, see it varying a lot",
+          "based on the use case,",
+          "something that, kind of, works out of the box",
+          "and maybe works a little bit more automatically",
+          "might be better.",
+          "And in other cases, you do, sort of, kind of,",
+          "you want a lot of fine grain control."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah, if you're building a model",
+          "that just predicts the next thing",
+          "based off of everything it's seen from texts online,",
+          "then yeah, you're really gonna be replicating",
+          "whatever that distribution online is."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "Yeah, it's a really tricky question.",
+          "As you said, these models are trained to, sort of, predict",
+          "the next sequence of words,",
+          "given a certain sequence of words.",
+          "So we could start with just, sort of, prompts",
+          "like the woman was versus the man was,",
+          "and, kind of, pull out common words",
+          "that are, sort of, more used",
+          "with one phrase versus the other.",
+          "So that's, sort of, a qualitative way of looking at it.",
+          "It's not ever kind of a guarantee of how the model",
+          "is gonna behave in one particular instance.",
+          "And I think that's what's really tricky",
+          "and that's why I, sort of, think it's really good",
+          "for creators of systems to just be honest",
+          "about, This is, sort of, what we have seen.",
+          "And so then, someone can make their own judgment about,",
+          "Is this gonna be too high risk",
+          "for, sort of, my particular use case?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "I'm really interested in, sort of, the creative potential",
+          "that we've started to see from NLP systems",
+          "with things like GPT-3",
+          "and other really powerful language models.",
+          "It's really easy to write long grammatical passages",
+          "thinking about the way that we can then harness, like,",
+          "the human ability to actually give meaning to those words",
+          "and, sort of, provide structure",
+          "and how we can combine those things with the, kind of like,",
+          "generative capabilities of these models now",
+          "is really interesting."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/5q87K1WaoFI?t=1104",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-machine-learning",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "It has been far too long."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Tooling that we now have, the capacity,",
+          "and also, an elevation of the problem sets",
+          "that we're dealing with and how to frame the problem.",
+          "And I'm almost struggling to figure out",
+          "whether it's a blessing or curse that it has become",
+          "as accessible and as democratized and as easy to execute",
+          "and you just build another new company from scratch.",
+          "And so, what's been, kind of, your reflection on that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "In contrast, what I'm struggling with,",
+          "the friend of mine who asked me",
+          "to look at some health care data for him.",
+          "And despite the capabilities that we're having",
+          "in all of the, kind of, bigger societal problems",
+          "alongside with data collection engineering,",
+          "all the gnarly stuff,",
+          "that is actually not the machine learning itself,",
+          "it's the rest of it where certain data isn't available.",
+          "And to me, it's staggering how difficult it is",
+          "to get it off the ground and actually use."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "And how transparent do I need to build it",
+          "for it to be adopted at some point?",
+          "What types of biases in the data collection,",
+          "and then also in the usage?",
+          "We now call it the bias, but we're still struggling",
+          "with the society not really living up to its expectations",
+          "and then machine learning, bringing it to the forefront."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Feeling increasingly challenged",
+          "that my skillset of being very good at programming",
+          "has become somewhat secondary.",
+          "And it's feeling...",
+          "[both laugh]",
+          "It's really the bigger picture understanding",
+          "of Who would be using that?",
+          "How transparent do I need to build it",
+          "for it to be adopted at some point?",
+          "What types of biases in the data collection",
+          "and then also in the usage?",
+          "I think, in certain areas, we have societal expectations",
+          "as to what is fair and what isn't."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "What have you seen in terms of which industries,",
+          "where they stand, like who is adopting now?",
+          "Who is ready to utilize it?",
+          "Where would you maybe wish that didn't even try?",
+          "[Hilary laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So I spent about eight years working in ad tech.",
+          "And the motivation was really",
+          "because it was such an amazingly exciting playground",
+          "to push that technology",
+          "that used to largely live in academia, really,",
+          "out in the world and see, kind of, what it can achieve.",
+          "It has created such a hunger for data",
+          "that now everything is being collected.",
+          "I'm curious, when are we going to",
+          "make a foray into things like agriculture",
+          "about smart production of the things we eat?",
+          "You see and hear these interesting stories,",
+          "but I feel like we're not ready yet",
+          "to put that into a economically viable situation."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "I fully agree on the steps you pointed out",
+          "and the processes.",
+          "I think there is a chicken and egg problem,",
+          "like your former example,",
+          "that these areas that need to wait for data,",
+          "the value of the data collection",
+          "is then also slightly less apparent.",
+          "And so, it gets delayed further",
+          "and you'll see that happening.",
+          "But what my experience has been,",
+          "there's unfortunately, I feel a drifting apart",
+          "between academia",
+          "and the uses of AI,",
+          "but I am somewhat frustrated with a generation of students",
+          "who have standard data sets that they never think about",
+          "what the model needs to be used for,",
+          "that they never have to think about",
+          "how the data was collected.",
+          "So with all of these challenges ahead of us,",
+          "how optimistic are you about this world",
+          "that I deeply believe we can create",
+          "and the steps towards it?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Despite that the rightfully raised concerns",
+          "about the challenges ahead,",
+          "but I think they also make us as a society better.",
+          "They challenge us to be a lot clearer",
+          "of what fairness means to all of us.",
+          "So with all of the setbacks,",
+          "I think we have exciting years to come.",
+          "And I am looking forward to a world where a lot more of that",
+          "is used for the right purposes."
+        ]
+      }
+    ]
+  }
+}

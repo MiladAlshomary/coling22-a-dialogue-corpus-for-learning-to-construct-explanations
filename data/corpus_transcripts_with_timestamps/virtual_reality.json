@@ -1,0 +1,1842 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:00,000 --> 00:00:01,770",
+                  "H\u00ee, I'm John Carmack."
+               ],
+               [
+                  "00:00:01,770 --> 00:00:04,470",
+                  "I'm the chief technology officer for Oculus."
+               ],
+               [
+                  "00:00:04,470 --> 00:00:06,509",
+                  "I work on virtual reality."
+               ],
+               [
+                  "00:00:06,509 --> 00:00:08,970",
+                  "I've been challenged today to talk about one concept"
+               ],
+               [
+                  "00:00:08,970 --> 00:00:11,429",
+                  "at five levels of increasing complexity."
+               ],
+               [
+                  "00:00:11,429 --> 00:00:12,900",
+                  "So we're going to be talking about reality and virtual"
+               ],
+               [
+                  "00:00:12,900 --> 00:00:14,880",
+                  "reality, what the technology allows us to do today,"
+               ],
+               [
+                  "00:00:14,880 --> 00:00:17,550",
+                  "what it may allow us to do in future, and whether"
+               ],
+               [
+                  "00:00:17,550 --> 00:00:19,560",
+                  "that should even be our goal to approximate reality."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:19,560 --> 00:00:21,480",
+                  "So do you know what virtual reality is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:00:31,980 --> 00:00:33,780",
+                  "That's actually a really good description."
+               ],
+               [
+                  "00:00:33,780 --> 00:00:35,670",
+                  "The idea is that if you've got a system here that can make"
+               ],
+               [
+                  "00:00:35,670 --> 00:00:38,430",
+                  "you see whatever we want you to see, then we can make you"
+               ],
+               [
+                  "00:00:38,430 --> 00:00:40,739",
+                  "believe that you're anywhere else, like on top of"
+               ],
+               [
+                  "00:00:40,739 --> 00:00:42,450",
+                  "a mountain, or in a dungeon or under the ocean."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:00:44,850 --> 00:00:46,680",
+                  "Yeah, or in Minecraft."
+               ],
+               [
+                  "00:00:46,680 --> 00:00:49,379",
+                  "When you look at a TV on the wall there showing like"
+               ],
+               [
+                  "00:00:49,379 --> 00:00:51,270",
+                  "a picture of a mountain or something,"
+               ],
+               [
+                  "00:00:51,270 --> 00:00:53,550",
+                  "how can you tell that its not just a window"
+               ],
+               [
+                  "00:00:53,550 --> 00:00:55,770",
+                  "and there's something else behind it."
+               ],
+               [
+                  "00:00:55,770 --> 00:00:57,420",
+                  "Because it always doesn't look quite right"
+               ],
+               [
+                  "00:00:57,420 --> 00:00:59,070",
+                  "if you have a static picture of a person on a screen"
+               ],
+               [
+                  "00:00:59,070 --> 00:01:01,770",
+                  "and you move around like this, its not really changing."
+               ],
+               [
+                  "00:01:01,770 --> 00:01:04,890",
+                  "And its interesting, those are things we have to figure out"
+               ],
+               [
+                  "00:01:04,890 --> 00:01:07,409",
+                  "We need to figure out when you look at something in reality"
+               ],
+               [
+                  "00:01:07,409 --> 00:01:10,170",
+                  "how can you tell whether its real or not."
+               ],
+               [
+                  "00:01:10,170 --> 00:01:11,520",
+                  "Have you been to a 3-D movie"
+               ],
+               [
+                  "00:01:11,520 --> 00:01:13,560",
+                  "where you put on the little glasses?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:01:15,390 --> 00:01:17,369",
+                  "So what they do, the trick for that is, if you ever"
+               ],
+               [
+                  "00:01:17,369 --> 00:01:19,350",
+                  "at a theater and you take up the glasses and you look"
+               ],
+               [
+                  "00:01:19,350 --> 00:01:21,600",
+                  "at it, you'll see its blurry where there's actually"
+               ],
+               [
+                  "00:01:21,600 --> 00:01:23,520",
+                  "two pictures that they're showing at the same time."
+               ],
+               [
+                  "00:01:23,520 --> 00:01:26,759",
+                  "And what those little glasses do, is they let one eye"
+               ],
+               [
+                  "00:01:26,759 --> 00:01:29,310",
+                  "see one picture, and the other eye see a different picture."
+               ],
+               [
+                  "00:01:29,310 --> 00:01:31,020",
+                  "So then your eyes can say, oh it looks like I'm seeing"
+               ],
+               [
+                  "00:01:31,020 --> 00:01:32,549",
+                  "through the screen or something is floating out"
+               ],
+               [
+                  "00:01:32,549 --> 00:01:34,020",
+                  "in front of it."
+               ],
+               [
+                  "00:01:34,020 --> 00:01:36,299",
+                  "In the VR headsets, what we do is, there's actually either"
+               ],
+               [
+                  "00:01:36,299 --> 00:01:39,840",
+                  "two screens or one screen split in half,"
+               ],
+               [
+                  "00:01:39,840 --> 00:01:41,880",
+                  "so that it draws a different picture,"
+               ],
+               [
+                  "00:01:41,880 --> 00:01:44,189",
+                  "completely different picture, for each eye."
+               ],
+               [
+                  "00:01:44,189 --> 00:01:45,869",
+                  "And we make sure that each eye can only"
+               ],
+               [
+                  "00:01:45,869 --> 00:01:48,090",
+                  "see the picture it intended to."
+               ],
+               [
+                  "00:01:48,090 --> 00:01:50,310",
+                  "And that's what can make things feel like they got this real"
+               ],
+               [
+                  "00:01:50,310 --> 00:01:52,619",
+                  "depth to them, that its something that you could reach out"
+               ],
+               [
+                  "00:01:52,619 --> 00:01:55,380",
+                  "and touch and it doesn't feel like a flat TV screen."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:01:55,380 --> 00:01:57,689",
+                  "Try look over there and concentrate on his face over there."
+               ],
+               [
+                  "00:01:57,689 --> 00:01:59,159",
+                  "Can you see me waving my hand without turning your eyes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:02:01,829 --> 00:02:04,020",
+                  "Alright, so, at some point,"
+               ],
+               [
+                  "00:02:04,020 --> 00:02:06,000",
+                  "you can probably see it right now?"
+               ],
+               [
+                  "00:02:06,000 --> 00:02:07,829",
+                  "So without moving your eyes, this is kind of hard,"
+               ],
+               [
+                  "00:02:07,829 --> 00:02:09,209",
+                  "tell me how many fingers I'm holding up?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:02:11,220 --> 00:02:12,950",
+                  "You can just barely tell."
+               ],
+               [
+                  "00:02:12,950 --> 00:02:14,379",
+                  "And you can see that even, like if you hold out your hand"
+               ],
+               [
+                  "00:02:14,379 --> 00:02:17,660",
+                  "and you focus on your hand, then your foot would be blurry"
+               ],
+               [
+                  "00:02:17,660 --> 00:02:20,000",
+                  "because there's that difference there."
+               ],
+               [
+                  "00:02:20,000 --> 00:02:21,230",
+                  "And you can change between that, like you can then focus"
+               ],
+               [
+                  "00:02:21,230 --> 00:02:24,349",
+                  "on your foot and your hand gets blurry."
+               ],
+               [
+                  "00:02:24,349 --> 00:02:25,910",
+                  "Because your eyes can see different amounts of detail"
+               ],
+               [
+                  "00:02:25,910 --> 00:02:26,780",
+                  "in different places."
+               ],
+               [
+                  "00:02:26,780 --> 00:02:29,269",
+                  "So we're hoping in the future,"
+               ],
+               [
+                  "00:02:29,269 --> 00:02:31,250",
+                  "that hardware can be like that."
+               ],
+               [
+                  "00:02:31,250 --> 00:02:36,739",
+                  "Where we can make a display that puts lots of detail"
+               ],
+               [
+                  "00:02:36,739 --> 00:02:39,380",
+                  "right where you're looking."
+               ],
+               [
+                  "00:02:39,380 --> 00:02:40,519",
+                  "And every time you look someplace else,"
+               ],
+               [
+                  "00:02:40,519 --> 00:02:43,310",
+                  "it moves the detail over to there."
+               ],
+               [
+                  "00:02:43,310 --> 00:02:45,200",
+                  "So we don't need to render a hundred times"
+               ],
+               [
+                  "00:02:45,200 --> 00:02:46,700",
+                  "as much as we've got right now."
+               ],
+               [
+                  "00:02:46,700 --> 00:02:48,410",
+                  "Figuring out where you're looking is a pretty hard problem."
+               ],
+               [
+                  "00:02:48,410 --> 00:02:50,209",
+                  "What we try to go about this, is by taking a camera"
+               ],
+               [
+                  "00:02:50,209 --> 00:02:52,640",
+                  "and looking at people's eyes and then try to figure out"
+               ],
+               [
+                  "00:02:52,640 --> 00:02:55,549",
+                  "is the eye looking over here or up here."
+               ],
+               [
+                  "00:02:55,549 --> 00:02:57,620",
+                  "We're working hard on stuff like this right now"
+               ],
+               [
+                  "00:02:57,620 --> 00:02:59,329",
+                  "so we hopefully can have a virtual reality that's"
+               ],
+               [
+                  "00:02:59,329 --> 00:03:02,150",
+                  "as detailed and realistic feeling"
+               ],
+               [
+                  "00:03:02,150 --> 00:03:03,769",
+                  "as the reality that we've actually got around us."
+               ],
+               [
+                  "00:03:03,769 --> 00:03:06,230",
+                  "But its going to be a long time before we get to"
+               ],
+               [
+                  "00:03:06,230 --> 00:03:08,090",
+                  "where we can really fool people."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:03:08,090 --> 00:03:10,519",
+                  "So do you have a basic sense of what latency is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:03:17,660 --> 00:03:20,389",
+                  "Its basically a delay and it happens in all parts"
+               ],
+               [
+                  "00:03:20,389 --> 00:03:22,250",
+                  "of the system: monitors can be a big one."
+               ],
+               [
+                  "00:03:22,250 --> 00:03:24,290",
+                  "Like consumer televisions can often have 15 milliseconds"
+               ],
+               [
+                  "00:03:24,290 --> 00:03:25,940",
+                  "or more of latency just in the TV part."
+               ],
+               [
+                  "00:03:25,940 --> 00:03:29,750",
+                  "And then you've got the processing and the computer"
+               ],
+               [
+                  "00:03:29,750 --> 00:03:32,209",
+                  "and all of these add up to the total latency."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:03:43,370 --> 00:03:45,049",
+                  "Games that feel really good, they've got that sense"
+               ],
+               [
+                  "00:03:45,049 --> 00:03:46,760",
+                  "of it happens instantly when you're doing something."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:03:55,250 --> 00:03:57,590",
+                  "30 years ago, you had desktop PCs which were,"
+               ],
+               [
+                  "00:03:57,590 --> 00:03:59,900",
+                  "you spent whatever on that, but there was always this idea"
+               ],
+               [
+                  "00:03:59,900 --> 00:04:01,730",
+                  "well you could spend a million dollars and buy"
+               ],
+               [
+                  "00:04:01,730 --> 00:04:04,970",
+                  "a super-computer and its gonna be a lot faster."
+               ],
+               [
+                  "00:04:04,970 --> 00:04:06,530",
+                  "And that's not really true today."
+               ],
+               [
+                  "00:04:06,530 --> 00:04:09,590",
+                  "For scalar processing, when you just do one thing after"
+               ],
+               [
+                  "00:04:09,590 --> 00:04:11,239",
+                  "another, a high-end, overclocked, cool gaming PC"
+               ],
+               [
+                  "00:04:11,239 --> 00:04:13,130",
+                  "is about the fastest thing in the world."
+               ],
+               [
+                  "00:04:13,130 --> 00:04:14,930",
+                  "It is within a very small delta, yeah for some things"
+               ],
+               [
+                  "00:04:14,930 --> 00:04:17,238",
+                  "you'll get some IBM power system that might be"
+               ],
+               [
+                  "00:04:17,238 --> 00:04:18,889",
+                  "a little bit faster, but not a whole lot."
+               ],
+               [
+                  "00:04:18,889 --> 00:04:20,810",
+                  "So if I'm looking at this and saying"
+               ],
+               [
+                  "00:04:20,810 --> 00:04:22,970",
+                  "we need to be five times faster."
+               ],
+               [
+                  "00:04:22,970 --> 00:04:25,159",
+                  "What do you do?"
+               ],
+               [
+                  "00:04:25,159 --> 00:04:26,650",
+                  "You can't just say make each thing faster."
+               ],
+               [
+                  "00:04:26,650 --> 00:04:29,020",
+                  "As a developer you're making a trade-off,"
+               ],
+               [
+                  "00:04:29,020 --> 00:04:31,660",
+                  "I can put my effort into making this more efficient"
+               ],
+               [
+                  "00:04:31,660 --> 00:04:33,250",
+                  "or making it more fun."
+               ],
+               [
+                  "00:04:33,250 --> 00:04:36,430",
+                  "And more fun usually wins out for very good reasons."
+               ],
+               [
+                  "00:04:36,430 --> 00:04:38,080",
+                  "So there's some good judgment and trickery"
+               ],
+               [
+                  "00:04:38,080 --> 00:04:40,090",
+                  "that goes into the design of things."
+               ],
+               [
+                  "00:04:40,090 --> 00:04:43,330",
+                  "But you can always just design a game"
+               ],
+               [
+                  "00:04:43,330 --> 00:04:45,190",
+                  "that will just not work well. (laughing)"
+               ],
+               [
+                  "00:04:45,190 --> 00:04:46,600",
+                  "I mean in the old days, games had to be"
+               ],
+               [
+                  "00:04:46,600 --> 00:04:48,400",
+                  "so precisely designed."
+               ],
+               [
+                  "00:04:48,400 --> 00:04:50,050",
+                  "Nowadays you've got a ton more freedom."
+               ],
+               [
+                  "00:04:50,050 --> 00:04:52,150",
+                  "You really can--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:04:58,840 --> 00:05:00,520",
+                  "Yeah, any crazy idea you had now you could probably make"
+               ],
+               [
+                  "00:05:00,520 --> 00:05:02,800",
+                  "a pretty good video game out of it."
+               ],
+               [
+                  "00:05:02,800 --> 00:05:04,389",
+                  "Which is a wonderful, wonderful thing."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:05:06,490 --> 00:05:09,550",
+                  "But VR makes, you have to give up a little bit of that"
+               ],
+               [
+                  "00:05:09,550 --> 00:05:10,870",
+                  "freedom, you have to not do so many crazy things,"
+               ],
+               [
+                  "00:05:10,870 --> 00:05:12,940",
+                  "so you can wind up having it be as responsive"
+               ],
+               [
+                  "00:05:12,940 --> 00:05:14,680",
+                  "and high quality as it needs to be."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:05:16,539 --> 00:05:18,340",
+                  "You know an interesting topic is: what are the limits"
+               ],
+               [
+                  "00:05:18,340 --> 00:05:20,110",
+                  "to what we can do with virtual reality?"
+               ],
+               [
+                  "00:05:20,110 --> 00:05:22,419",
+                  "Where I'm pretty pleased with what we have today."
+               ],
+               [
+                  "00:05:22,419 --> 00:05:24,430",
+                  "What we can show people and say virtual reality, its cool."
+               ],
+               [
+                  "00:05:24,430 --> 00:05:26,410",
+                  "People get an amazing response from it."
+               ],
+               [
+                  "00:05:26,410 --> 00:05:28,539",
+                  "But we're still clearly a very, very long ways from reality."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:05:47,919 --> 00:05:49,659",
+                  "Mostly in VR we talk about the display and optics,"
+               ],
+               [
+                  "00:05:49,659 --> 00:05:51,280",
+                  "the visual side of things,"
+               ],
+               [
+                  "00:05:51,280 --> 00:05:53,320",
+                  "but we should at least tick off the other senses."
+               ],
+               [
+                  "00:05:53,320 --> 00:05:54,520",
+                  "And haptics is an interesting thing about virtual reality"
+               ],
+               [
+                  "00:05:54,520 --> 00:05:57,669",
+                  "really doesn't have that aspect of touching things."
+               ],
+               [
+                  "00:05:57,669 --> 00:05:59,289",
+                  "You can move your hands around, you can do everything"
+               ],
+               [
+                  "00:05:59,289 --> 00:06:01,659",
+                  "but its a disconnected experience because you know"
+               ],
+               [
+                  "00:06:01,659 --> 00:06:05,340",
+                  "you don't have an actual solidity there."
+               ],
+               [
+                  "00:06:06,280 --> 00:06:08,600",
+                  "And I am pessimistic about progress in haptics technology."
+               ],
+               [
+                  "00:06:08,600 --> 00:06:10,070",
+                  "Almost all other areas I'm an optimist and I'm excited"
+               ],
+               [
+                  "00:06:10,070 --> 00:06:12,259",
+                  "about what's coming up, but I don't have any brilliant"
+               ],
+               [
+                  "00:06:12,259 --> 00:06:14,419",
+                  "vision about how we're going to revolutionize haptics"
+               ],
+               [
+                  "00:06:14,419 --> 00:06:16,610",
+                  "and make it feel like we're touching the things"
+               ],
+               [
+                  "00:06:16,610 --> 00:06:18,590",
+                  "in the virtual world."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:06:52,220 --> 00:06:54,139",
+                  "Yeah, that is one potential quality improvement that"
+               ],
+               [
+                  "00:06:54,139 --> 00:06:55,729",
+                  "is still on the horizon is when we do spatialization,"
+               ],
+               [
+                  "00:06:55,729 --> 00:06:58,039",
+                  "we use HRTF, the Head Relative Transfer Function,"
+               ],
+               [
+                  "00:06:58,039 --> 00:06:59,840",
+                  "to make it sound like its in different places."
+               ],
+               [
+                  "00:06:59,840 --> 00:07:03,110",
+                  "But usually we just use this one kind of generic,"
+               ],
+               [
+                  "00:07:03,110 --> 00:07:05,750",
+                  "here's your average human, HRTF function."
+               ],
+               [
+                  "00:07:05,750 --> 00:07:07,729",
+                  "Its possible, that of course, if you are right"
+               ],
+               [
+                  "00:07:07,729 --> 00:07:09,650",
+                  "in the average then its perfect for you."
+               ],
+               [
+                  "00:07:09,650 --> 00:07:12,770",
+                  "But there's always people off to the extremes,"
+               ],
+               [
+                  "00:07:12,770 --> 00:07:14,020",
+                  "that it doesn't do a very good job at."
+               ],
+               [
+                  "00:07:14,020 --> 00:07:16,130",
+                  "And there may be better ways to allow people to sample"
+               ],
+               [
+                  "00:07:16,130 --> 00:07:17,630",
+                  "their own perfect HRTF which can improve"
+               ],
+               [
+                  "00:07:17,630 --> 00:07:20,150",
+                  "the audio experience a lot."
+               ],
+               [
+                  "00:07:20,150 --> 00:07:21,949",
+                  "It all comes down to all these trade-offs."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:07:29,449 --> 00:07:31,039",
+                  "There was a huge concern about that at Oculus."
+               ],
+               [
+                  "00:07:31,039 --> 00:07:32,150",
+                  "And the term internally that went around"
+               ],
+               [
+                  "00:07:32,150 --> 00:07:34,310",
+                  "was poisoning the well."
+               ],
+               [
+                  "00:07:34,310 --> 00:07:35,330",
+                  "They were very, very concerned."
+               ],
+               [
+                  "00:07:35,330 --> 00:07:37,009",
+                  "I mean for a long time there was a fight about whether"
+               ],
+               [
+                  "00:07:37,009 --> 00:07:38,360",
+                  "gear VR should even be done, because the worry was"
+               ],
+               [
+                  "00:07:38,360 --> 00:07:39,349",
+                  "if we let a product go out,"
+               ],
+               [
+                  "00:07:39,349 --> 00:07:41,300",
+                  "like gear VR that didn't have those things."
+               ],
+               [
+                  "00:07:41,300 --> 00:07:43,639",
+                  "That if somebody saw it and it was bad, made them sick,"
+               ],
+               [
+                  "00:07:43,639 --> 00:07:45,440",
+                  "made their eyes hurt, then they would be like"
+               ],
+               [
+                  "00:07:45,440 --> 00:07:46,880",
+                  "I'm never going to try VR again."
+               ],
+               [
+                  "00:07:46,880 --> 00:07:48,080",
+                  "I tried it that time and it was terrible."
+               ],
+               [
+                  "00:07:48,080 --> 00:07:50,659",
+                  "And there was legitimate arguments about whether"
+               ],
+               [
+                  "00:07:50,659 --> 00:07:52,099",
+                  "it was even a good idea to do that."
+               ],
+               [
+                  "00:07:52,099 --> 00:07:53,750",
+                  "And it turned out that yes, its obviously better to have all"
+               ],
+               [
+                  "00:07:53,750 --> 00:07:55,759",
+                  "those things, but you can still do something"
+               ],
+               [
+                  "00:07:55,759 --> 00:07:57,560",
+                  "that's valuable for the user without it."
+               ],
+               [
+                  "00:07:57,560 --> 00:08:00,320",
+                  "Its weird being at the beginning of a medium like this."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:08:06,259 --> 00:08:09,380",
+                  "Mostly today, I've been talking a lot about"
+               ],
+               [
+                  "00:08:09,380 --> 00:08:12,590",
+                  "what can we do, what's possible."
+               ],
+               [
+                  "00:08:12,590 --> 00:08:14,029",
+                  "We think might be possible in the next couple of years."
+               ],
+               [
+                  "00:08:14,029 --> 00:08:15,320",
+                  "But really at the professional level its more"
+               ],
+               [
+                  "00:08:15,320 --> 00:08:17,210",
+                  "the question of wisdom of what should we be doing."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:08:43,760 --> 00:08:45,890",
+                  "As an engineer of course, I love quantifiable things."
+               ],
+               [
+                  "00:08:45,890 --> 00:08:47,300",
+                  "I like saying here's my 18 millisecond motion to photon,"
+               ],
+               [
+                  "00:08:47,300 --> 00:08:49,460",
+                  "here's my angular resolution that I'm improving."
+               ],
+               [
+                  "00:08:49,460 --> 00:08:51,320",
+                  "I'm doing the color-space right."
+               ],
+               [
+                  "00:08:51,320 --> 00:08:52,910",
+                  "But you can look not too far back where you say we"
+               ],
+               [
+                  "00:08:52,910 --> 00:08:55,010",
+                  "have blu-ray DVDs at this amazing resolution,"
+               ],
+               [
+                  "00:08:55,010 --> 00:08:57,290",
+                  "but more people want to watch Youtube videos"
+               ],
+               [
+                  "00:08:57,290 --> 00:08:59,750",
+                  "at really bad early internet video speeds."
+               ],
+               [
+                  "00:08:59,750 --> 00:09:02,000",
+                  "Where there are things that if you deliver"
+               ],
+               [
+                  "00:09:02,000 --> 00:09:04,550",
+                  "a value to people then these objective quantities"
+               ],
+               [
+                  "00:09:04,550 --> 00:09:06,020",
+                  "may not be the most important thing."
+               ],
+               [
+                  "00:09:06,020 --> 00:09:07,880",
+                  "And while we're certainly pushing as hard as we can"
+               ],
+               [
+                  "00:09:07,880 --> 00:09:10,310",
+                  "on lots of these things that make the experience better"
+               ],
+               [
+                  "00:09:10,310 --> 00:09:13,040",
+                  "in potentially every way or maybe just for videos"
+               ],
+               [
+                  "00:09:13,040 --> 00:09:16,190",
+                  "or for different things."
+               ],
+               [
+                  "00:09:16,190 --> 00:09:17,840",
+                  "I don't think that its necessary."
+               ],
+               [
+                  "00:09:17,840 --> 00:09:19,340",
+                  "I've commented that I think usually my favorite titles"
+               ],
+               [
+                  "00:09:19,340 --> 00:09:20,570",
+                  "on mobile that are fully synthetic are ones that don't"
+               ],
+               [
+                  "00:09:20,570 --> 00:09:22,910",
+                  "even try, they just go and do light-mapped, black-shaded."
+               ],
+               [
+                  "00:09:22,910 --> 00:09:25,460",
+                  "And I think its a lovely aesthetic."
+               ],
+               [
+                  "00:09:25,460 --> 00:09:27,620",
+                  "I think that you don't wind up fighting all of the aliasing."
+               ],
+               [
+                  "00:09:27,620 --> 00:09:30,920",
+                  "While you get some other titles that, oh we're gonna"
+               ],
+               [
+                  "00:09:30,920 --> 00:09:32,360",
+                  "be high-tech with our specular bump maps with roughness."
+               ],
+               [
+                  "00:09:32,360 --> 00:09:33,530",
+                  "And you've got aliasing everywhere,"
+               ],
+               [
+                  "00:09:33,530 --> 00:09:35,050",
+                  "and you can't hold frame rate and its all problematic."
+               ],
+               [
+                  "00:09:35,050 --> 00:09:37,190",
+                  "While some of these that are clearly very synthetic worlds"
+               ],
+               [
+                  "00:09:37,190 --> 00:09:39,740",
+                  "where its nothing but these cartoony flat-shaded things"
+               ],
+               [
+                  "00:09:39,740 --> 00:09:41,720",
+                  "with lighting, but they look and they feel good."
+               ],
+               [
+                  "00:09:41,720 --> 00:09:43,400",
+                  "And you can buy that you're in that place."
+               ],
+               [
+                  "00:09:43,400 --> 00:09:44,930",
+                  "And you want to know what's around that monolith over there."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:10:05,270 --> 00:10:06,740",
+                  "The end goal of reality, of course in computer graphics"
+               ],
+               [
+                  "00:10:06,740 --> 00:10:08,240",
+                  "people chase photo-realistic form for a long time."
+               ],
+               [
+                  "00:10:08,240 --> 00:10:10,040",
+                  "And basically, we've achieved it."
+               ],
+               [
+                  "00:10:10,040 --> 00:10:11,660",
+                  "Photo-realism, if you're willing to throw enough discreet"
+               ],
+               [
+                  "00:10:11,660 --> 00:10:13,640",
+                  "path traced rays at things,"
+               ],
+               [
+                  "00:10:13,640 --> 00:10:15,020",
+                  "you can generate photo-realistic views."
+               ],
+               [
+                  "00:10:15,020 --> 00:10:17,840",
+                  "And we understand the light really well."
+               ],
+               [
+                  "00:10:17,840 --> 00:10:19,610",
+                  "Of course it still takes a half hour per frame"
+               ],
+               [
+                  "00:10:19,610 --> 00:10:21,800",
+                  "like it always has, or more, to render the different things."
+               ],
+               [
+                  "00:10:21,800 --> 00:10:23,750",
+                  "So its an understood problem and given infinite computing"
+               ],
+               [
+                  "00:10:23,750 --> 00:10:25,760",
+                  "power we could be doing that in virtual reality."
+               ],
+               [
+                  "00:10:25,760 --> 00:10:28,400",
+                  "However, a point that I've made to people in recent years"
+               ],
+               [
+                  "00:10:28,400 --> 00:10:30,080",
+                  "is that, we are running out of More's Law."
+               ],
+               [
+                  "00:10:30,080 --> 00:10:31,350",
+                  "Maybe we'll see some wonderful breakthrough in quantum"
+               ],
+               [
+                  "00:10:31,350 --> 00:10:34,560",
+                  "structures or whatever--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:10:36,540 --> 00:10:38,820",
+                  "But if we just wind up following the path that we're on,"
+               ],
+               [
+                  "00:10:38,820 --> 00:10:40,830",
+                  "we're gonna get double and quadruple, but we're not gonna"
+               ],
+               [
+                  "00:10:40,830 --> 00:10:42,720",
+                  "get 50 times more powerful than we are right now."
+               ],
+               [
+                  "00:10:42,720 --> 00:10:45,120",
+                  "We will run into atomic limits on our fabrication."
+               ],
+               [
+                  "00:10:45,120 --> 00:10:46,860",
+                  "So given that, I'm trying to tell people that, start buying"
+               ],
+               [
+                  "00:10:46,860 --> 00:10:48,750",
+                  "back into optimization, start buying back into thinking"
+               ],
+               [
+                  "00:10:48,750 --> 00:10:50,490",
+                  "a bit more creatively."
+               ],
+               [
+                  "00:10:50,490 --> 00:10:53,130",
+                  "Because you can't just wait, its not going to get to"
+               ],
+               [
+                  "00:10:53,130 --> 00:10:54,780",
+                  "that point where it really is fixed to those highest degrees"
+               ],
+               [
+                  "00:10:54,780 --> 00:10:56,940",
+                  "just by waiting for computing to be advanced."
+               ],
+               [
+                  "00:10:56,940 --> 00:10:59,580",
+                  "If we want this to be something used by a billion people"
+               ],
+               [
+                  "00:10:59,580 --> 00:11:01,290",
+                  "then we need it to be lighter, cheaper, more comfortable."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:11:16,620 --> 00:11:18,150",
+                  "You know there's tons of opportunities for the synthetic"
+               ],
+               [
+                  "00:11:18,150 --> 00:11:19,470",
+                  "case where you want to be able to have your synthetic"
+               ],
+               [
+                  "00:11:19,470 --> 00:11:21,420",
+                  "fantasy world where everybody is a creature"
+               ],
+               [
+                  "00:11:21,420 --> 00:11:24,630",
+                  "that's created by the computer and simulated reasonably."
+               ],
+               [
+                  "00:11:24,630 --> 00:11:27,150",
+                  "But of course we've got, you know we still"
+               ],
+               [
+                  "00:11:27,150 --> 00:11:29,040",
+                  "don't do people well simulated."
+               ],
+               [
+                  "00:11:29,040 --> 00:11:30,720",
+                  "That's a hard problem, we've been beating"
+               ],
+               [
+                  "00:11:30,720 --> 00:11:32,610",
+                  "our heads against it for a long time."
+               ],
+               [
+                  "00:11:32,610 --> 00:11:34,290",
+                  "I do think we're making progress and I wouldn't bet"
+               ],
+               [
+                  "00:11:34,290 --> 00:11:36,330",
+                  "on that being solved in 10 years, but maybe 20 years."
+               ],
+               [
+                  "00:11:36,330 --> 00:11:37,890",
+                  "Because it is going to take a lot of AI."
+               ],
+               [
+                  "00:11:37,890 --> 00:11:39,960",
+                  "Its going to take a lot of machine-learning,"
+               ],
+               [
+                  "00:11:39,960 --> 00:11:42,030",
+                  "where its not going to be a matter of us dissecting"
+               ],
+               [
+                  "00:11:42,030 --> 00:11:43,380",
+                  "all the micro-expressions that people do."
+               ],
+               [
+                  "00:11:43,380 --> 00:11:44,940",
+                  "Its gonna be lets take every youtube video ever made"
+               ],
+               [
+                  "00:11:44,940 --> 00:11:46,620",
+                  "and run it through some enormous learner"
+               ],
+               [
+                  "00:11:46,620 --> 00:11:47,970",
+                  "that's going to figure out how to make people realistic."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:12:00,420 --> 00:12:02,190",
+                  "I'm still a believer that the magic's out there."
+               ],
+               [
+                  "00:12:02,190 --> 00:12:04,410",
+                  "We haven't found it yet, so somebody's going to"
+               ],
+               [
+                  "00:12:04,410 --> 00:12:05,910",
+                  "happen upon the formula."
+               ],
+               [
+                  "00:12:05,910 --> 00:12:08,010",
+                  "I feel like I've felt little pockets of magic."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:12:48,030 --> 00:12:50,130",
+                  "So VR right now is pretty amazing."
+               ],
+               [
+                  "00:12:50,130 --> 00:12:53,220",
+                  "When you look at it its things that you haven't seen."
+               ],
+               [
+                  "00:12:53,220 --> 00:12:54,690",
+                  "But we are just getting started."
+               ],
+               [
+                  "00:12:54,690 --> 00:12:57,870",
+                  "The next five years both technologically and creatively"
+               ],
+               [
+                  "00:12:57,870 --> 00:12:59,940",
+                  "are going to really take this medium someplace"
+               ],
+               [
+                  "00:12:59,940 --> 00:13:01,710",
+                  "that you've never imagined."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw?t=23",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:00:21,480 --> 00:00:25,320",
+                  "Yes, its simple."
+               ],
+               [
+                  "00:00:25,320 --> 00:00:28,830",
+                  "Its like a video game except it feels like"
+               ],
+               [
+                  "00:00:28,830 --> 00:00:31,980",
+                  "you're in the video game."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:00:42,450 --> 00:00:44,850",
+                  "Or in Minecraft."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:01:13,560 --> 00:01:15,390",
+                  "Yeah."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw?t=133",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:01:59,159 --> 00:02:01,829",
+                  "No."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:02:09,209 --> 00:02:11,220",
+                  "Uh, three?"
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw?t=223",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:03:10,519 --> 00:03:12,230",
+                  "Yeah, so my understanding of what latency is,"
+               ],
+               [
+                  "00:03:12,230 --> 00:03:14,709",
+                  "is its basically the time delay"
+               ],
+               [
+                  "00:03:14,709 --> 00:03:17,660",
+                  "between the rendering at different points."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:03:32,209 --> 00:03:34,069",
+                  "The latency is, in my opinion, the most important part"
+               ],
+               [
+                  "00:03:34,069 --> 00:03:36,200",
+                  "of VR, because if you have that offset your body is"
+               ],
+               [
+                  "00:03:36,200 --> 00:03:38,870",
+                  "no longer immersed and you getting that motion sickness"
+               ],
+               [
+                  "00:03:38,870 --> 00:03:43,370",
+                  "which can pull a lot of people out of the experience."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:03:46,760 --> 00:03:48,440",
+                  "It really is a testament to this kind of technology"
+               ],
+               [
+                  "00:03:48,440 --> 00:03:51,470",
+                  "and how its developing and how over time its gonna just be,"
+               ],
+               [
+                  "00:03:51,470 --> 00:03:53,150",
+                  "you're gonna be able to pack more pixel density in those"
+               ],
+               [
+                  "00:03:53,150 --> 00:03:55,250",
+                  "displays and its gonna get a lot more immersive."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:04:52,150 --> 00:04:53,919",
+                  "Just the hardware."
+               ],
+               [
+                  "00:04:53,919 --> 00:04:55,840",
+                  "Old games were ran off of 8 bit"
+               ],
+               [
+                  "00:04:55,840 --> 00:04:58,840",
+                  "and that's all the data you could have."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:05:04,389 --> 00:05:06,490",
+                  "Yeah, a lot of freedom."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:05:14,680 --> 00:05:16,539",
+                  "That's very interesting."
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw?t=364",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:05:28,539 --> 00:05:30,160",
+                  "That kinds of notes back to Realism in our history"
+               ],
+               [
+                  "00:05:30,160 --> 00:05:32,740",
+                  "and how Realism was a response to Romanticism."
+               ],
+               [
+                  "00:05:32,740 --> 00:05:35,590",
+                  "And Realism was meant to capture the mundane,"
+               ],
+               [
+                  "00:05:35,590 --> 00:05:37,510",
+                  "everyday lives of individuals and not idealize"
+               ],
+               [
+                  "00:05:37,510 --> 00:05:39,820",
+                  "any of their activities in any way."
+               ],
+               [
+                  "00:05:39,820 --> 00:05:42,400",
+                  "And I think that that's really important"
+               ],
+               [
+                  "00:05:42,400 --> 00:05:44,110",
+                  "for virtual reality."
+               ],
+               [
+                  "00:05:44,110 --> 00:05:46,449",
+                  "I think its kind of rite-of-passage for any kind"
+               ],
+               [
+                  "00:05:46,449 --> 00:05:47,919",
+                  "of our technology to go through."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:06:18,590 --> 00:06:20,870",
+                  "So I've tried the demos, at VRLA there's one that has"
+               ],
+               [
+                  "00:06:20,870 --> 00:06:23,300",
+                  "waves, like audio waves I believe, that come up"
+               ],
+               [
+                  "00:06:23,300 --> 00:06:24,860",
+                  "and then you can put your hands through that and feel"
+               ],
+               [
+                  "00:06:24,860 --> 00:06:26,630",
+                  "the waves whenever you're supposed to be feeling bubbles"
+               ],
+               [
+                  "00:06:26,630 --> 00:06:28,789",
+                  "or any kind of force field or something."
+               ],
+               [
+                  "00:06:28,789 --> 00:06:30,919",
+                  "And those are pretty interesting."
+               ],
+               [
+                  "00:06:30,919 --> 00:06:33,320",
+                  "I've seen some pretty interesting things that you can do"
+               ],
+               [
+                  "00:06:33,320 --> 00:06:34,340",
+                  "with audios, you can cut down a lot of the storage I guess"
+               ],
+               [
+                  "00:06:34,340 --> 00:06:35,570",
+                  "and the power that you would need in order to power a huge"
+               ],
+               [
+                  "00:06:35,570 --> 00:06:36,560",
+                  "scene, you can just mimic the sounds of those scenes"
+               ],
+               [
+                  "00:06:36,560 --> 00:06:38,000",
+                  "actually being there and they're not actually."
+               ],
+               [
+                  "00:06:38,000 --> 00:06:40,039",
+                  "For example, a professor at USC would have the sound of"
+               ],
+               [
+                  "00:06:40,039 --> 00:06:42,680",
+                  "a train drive by without actually rendering the sound."
+               ],
+               [
+                  "00:06:42,680 --> 00:06:44,539",
+                  "And you would feel like you're deeply immersed in this world"
+               ],
+               [
+                  "00:06:44,539 --> 00:06:48,229",
+                  "without having to have such an expensive scene"
+               ],
+               [
+                  "00:06:48,229 --> 00:06:50,210",
+                  "built around you."
+               ],
+               [
+                  "00:06:50,210 --> 00:06:52,220",
+                  "So I think those are pretty significant."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:07:21,949 --> 00:07:23,630",
+                  "You know, with display and with resolution, its one"
+               ],
+               [
+                  "00:07:23,630 --> 00:07:24,740",
+                  "of those things where if people have one bad experience"
+               ],
+               [
+                  "00:07:24,740 --> 00:07:25,789",
+                  "they kind of, oh well everything else."
+               ],
+               [
+                  "00:07:25,789 --> 00:07:26,720",
+                  "Its really difficult to build trust again with people"
+               ],
+               [
+                  "00:07:26,720 --> 00:07:28,370",
+                  "who haven't done VR before but its easy to break off"
+               ],
+               [
+                  "00:07:28,370 --> 00:07:29,449",
+                  "that trust when they have a bad experience."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:08:00,320 --> 00:08:02,180",
+                  "Right, I'm very excited to see how filmmakers tackle"
+               ],
+               [
+                  "00:08:02,180 --> 00:08:03,860",
+                  "creating content and those things."
+               ],
+               [
+                  "00:08:03,860 --> 00:08:06,259",
+                  "Especially if they're experienced with traditional medium."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/akveRNY6Ulw?t=574",
+      "wired_link":"https://www.wired.com/video/watch/oculus-john-carmack-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:08:17,210 --> 00:08:18,020",
+                  "That's one of the things we're trying to figure out,"
+               ],
+               [
+                  "00:08:18,020 --> 00:08:20,060",
+                  "from an artist and storytelling perspective, what are"
+               ],
+               [
+                  "00:08:20,060 --> 00:08:22,280",
+                  "the things that will make this meaningfully different"
+               ],
+               [
+                  "00:08:22,280 --> 00:08:24,650",
+                  "from what we're used to, like a television on our wall."
+               ],
+               [
+                  "00:08:24,650 --> 00:08:26,870",
+                  "And we've been finding a lot of things, aspects"
+               ],
+               [
+                  "00:08:26,870 --> 00:08:28,280",
+                  "of virtual reality that very much do that in my opinion."
+               ],
+               [
+                  "00:08:28,280 --> 00:08:30,650",
+                  "Things that allow you to feel presence, first and foremost,"
+               ],
+               [
+                  "00:08:30,650 --> 00:08:32,090",
+                  "where you get lost, and you have to remind yourself,"
+               ],
+               [
+                  "00:08:32,090 --> 00:08:34,070",
+                  "this isn't actually happening."
+               ],
+               [
+                  "00:08:34,070 --> 00:08:35,780",
+                  "And things that ultimately allow you"
+               ],
+               [
+                  "00:08:35,780 --> 00:08:38,360",
+                  "to embody other characters."
+               ],
+               [
+                  "00:08:38,360 --> 00:08:40,640",
+                  "Things where you can actually change your"
+               ],
+               [
+                  "00:08:40,640 --> 00:08:42,200",
+                  "own self-perception and play with neuro-plasticity"
+               ],
+               [
+                  "00:08:42,200 --> 00:08:43,760",
+                  "and teach yourself things that are bizarre and unique."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:09:44,930 --> 00:09:46,580",
+                  "We did a project called Life of Us,"
+               ],
+               [
+                  "00:09:46,580 --> 00:09:47,840",
+                  "which was exactly that mindset."
+               ],
+               [
+                  "00:09:47,840 --> 00:09:49,490",
+                  "We were let's embrace low-poly aesthetic"
+               ],
+               [
+                  "00:09:49,490 --> 00:09:51,470",
+                  "and just simple vertex shading."
+               ],
+               [
+                  "00:09:51,470 --> 00:09:52,610",
+                  "And we ended up realizing, you can embody"
+               ],
+               [
+                  "00:09:52,610 --> 00:09:54,560",
+                  "these various creatures and transform yourself."
+               ],
+               [
+                  "00:09:54,560 --> 00:09:56,120",
+                  "And when you do that with co-presence of another creature,"
+               ],
+               [
+                  "00:09:56,120 --> 00:09:58,520",
+                  "another human, it makes for a totally magical journey."
+               ],
+               [
+                  "00:09:58,520 --> 00:10:00,500",
+                  "You don't even think for a second, you actually dismiss"
+               ],
+               [
+                  "00:10:00,500 --> 00:10:01,850",
+                  "the whole idea of photo-realism"
+               ],
+               [
+                  "00:10:01,850 --> 00:10:03,920",
+                  "and embrace that reality for what it is."
+               ],
+               [
+                  "00:10:03,920 --> 00:10:05,270",
+                  "I think it actually helps put you at ease a little bit."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:10:34,560 --> 00:10:36,540",
+                  "Or bandwidth, or streaming."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:11:01,290 --> 00:11:03,120",
+                  "And there's constantly novel UX innovations."
+               ],
+               [
+                  "00:11:03,120 --> 00:11:04,890",
+                  "Like Google Earth, where the kind of elimination of"
+               ],
+               [
+                  "00:11:04,890 --> 00:11:06,900",
+                  "your periphery as you zoom in and move."
+               ],
+               [
+                  "00:11:06,900 --> 00:11:09,300",
+                  "And also, giving you the user action to decide"
+               ],
+               [
+                  "00:11:09,300 --> 00:11:11,460",
+                  "where you're going and looking."
+               ],
+               [
+                  "00:11:11,460 --> 00:11:12,840",
+                  "I'm constantly seeing people coming up with ways to break"
+               ],
+               [
+                  "00:11:12,840 --> 00:11:14,580",
+                  "from the paradigms of actual reality and then introduce"
+               ],
+               [
+                  "00:11:14,580 --> 00:11:16,620",
+                  "mechanisms that work very well."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:11:47,970 --> 00:11:49,410",
+                  "Absolutely, there are these crucial thresholds"
+               ],
+               [
+                  "00:11:49,410 --> 00:11:51,330",
+                  "where you pass a technological hurdle and all of a sudden"
+               ],
+               [
+                  "00:11:51,330 --> 00:11:53,280",
+                  "that unlocks a whole world of creative potential."
+               ],
+               [
+                  "00:11:53,280 --> 00:11:54,630",
+                  "But I think, to your point very much, we need to solve"
+               ],
+               [
+                  "00:11:54,630 --> 00:11:56,220",
+                  "the actual human and social challenges and turn those"
+               ],
+               [
+                  "00:11:56,220 --> 00:11:58,680",
+                  "into opportunities to figure out"
+               ],
+               [
+                  "00:11:58,680 --> 00:12:00,420",
+                  "how this technology fits into our lives."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:12:08,010 --> 00:12:09,690",
+                  "You can imagine the utility behind this for creating a world"
+               ],
+               [
+                  "00:12:09,690 --> 00:12:11,670",
+                  "or you can imagine the power of a story that would be told"
+               ],
+               [
+                  "00:12:11,670 --> 00:12:13,410",
+                  "to you in this context."
+               ],
+               [
+                  "00:12:13,410 --> 00:12:15,690",
+                  "And a lot of it is just picking those, putting them together"
+               ],
+               [
+                  "00:12:15,690 --> 00:12:17,280",
+                  "in a meaningful way and then crafting something"
+               ],
+               [
+                  "00:12:17,280 --> 00:12:19,170",
+                  "that's really bigger and intentional."
+               ],
+               [
+                  "00:12:19,170 --> 00:12:20,970",
+                  "But I've now been joining with real people"
+               ],
+               [
+                  "00:12:20,970 --> 00:12:23,310",
+                  "in virtual reality."
+               ],
+               [
+                  "00:12:23,310 --> 00:12:26,190",
+                  "I think we also have different levels of connection."
+               ],
+               [
+                  "00:12:26,190 --> 00:12:29,250",
+                  "Like the audio side is leaps and bounds above in terms"
+               ],
+               [
+                  "00:12:29,250 --> 00:12:31,050",
+                  "of the nuance and personality and humanity."
+               ],
+               [
+                  "00:12:31,050 --> 00:12:33,000",
+                  "When I hear people laughing and joking"
+               ],
+               [
+                  "00:12:33,000 --> 00:12:34,440",
+                  "and really enjoying something."
+               ],
+               [
+                  "00:12:34,440 --> 00:12:35,700",
+                  "Soon we'll get into that."
+               ],
+               [
+                  "00:12:35,700 --> 00:12:37,230",
+                  "We're in macro-gestureland,"
+               ],
+               [
+                  "00:12:37,230 --> 00:12:39,390",
+                  "where I can wave and say thumbs-up."
+               ],
+               [
+                  "00:12:39,390 --> 00:12:42,120",
+                  "But when we get into micro-gestures and actually getting"
+               ],
+               [
+                  "00:12:42,120 --> 00:12:43,770",
+                  "a sense of facial reactions and other things I think"
+               ],
+               [
+                  "00:12:43,770 --> 00:12:46,470",
+                  "then we'll have a really incredibly rewarding time,"
+               ],
+               [
+                  "00:12:46,470 --> 00:12:48,030",
+                  "spending time with each other."
+               ]
+            ]
+         }
+      ]
+   }
+}

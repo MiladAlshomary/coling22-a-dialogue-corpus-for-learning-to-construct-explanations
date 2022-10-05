@@ -1,0 +1,4264 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:00,140 --> 00:00:02,930",
+                  "- Hi, I'm George Tulevski,"
+               ],
+               [
+                  "00:00:00,140 --> 00:00:02,930",
+                  "and I'm a research scientist"
+               ],
+               [
+                  "00:00:02,930 --> 00:00:05,030",
+                  "at IBM TJ Watson Research Center."
+               ],
+               [
+                  "00:00:05,030 --> 00:00:08,010",
+                  "Today I've been challenged"
+               ],
+               [
+                  "00:00:05,030 --> 00:00:08,010",
+                  "to teach one concept"
+               ],
+               [
+                  "00:00:08,010 --> 00:00:10,300",
+                  "in five levels of increasing complexity."
+               ],
+               [
+                  "00:00:10,300 --> 00:00:12,540",
+                  "And my topic is nanotechnology."
+               ],
+               [
+                  "00:00:12,540 --> 00:00:16,129",
+                  "Nanotechnology is a study"
+               ],
+               [
+                  "00:00:12,540 --> 00:00:16,129",
+                  "of objects in the nanoscale"
+               ],
+               [
+                  "00:00:16,129 --> 00:00:18,980",
+                  "between 1 and 100 nanometers in size."
+               ],
+               [
+                  "00:00:18,980 --> 00:00:21,650",
+                  "And it turns out that"
+               ],
+               [
+                  "00:00:18,980 --> 00:00:21,650",
+                  "objects in this size scale"
+               ],
+               [
+                  "00:00:21,650 --> 00:00:23,360",
+                  "have really interesting properties"
+               ],
+               [
+                  "00:00:23,360 --> 00:00:26,550",
+                  "that differ from objects"
+               ],
+               [
+                  "00:00:23,360 --> 00:00:26,550",
+                  "at a macroscopic scale."
+               ],
+               [
+                  "00:00:26,550 --> 00:00:28,380",
+                  "Our task is nanotechnologists"
+               ],
+               [
+                  "00:00:28,380 --> 00:00:30,390",
+                  "is to understand these materials,"
+               ],
+               [
+                  "00:00:30,390 --> 00:00:31,910",
+                  "understand their properties,"
+               ],
+               [
+                  "00:00:31,910 --> 00:00:34,080",
+                  "and then try to build new technologies"
+               ],
+               [
+                  "00:00:34,080 --> 00:00:35,540",
+                  "based on these properties."
+               ],
+               [
+                  "00:00:35,540 --> 00:00:37,220",
+                  "At the end of the day, my hope"
+               ],
+               [
+                  "00:00:37,220 --> 00:00:39,983",
+                  "is that you'll understand"
+               ],
+               [
+                  "00:00:37,220 --> 00:00:39,983",
+                  "nanotechnology at some level."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:43,190 --> 00:00:45,230",
+                  "Hi, are you Bella?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:00:45,230 --> 00:00:46,810",
+                  "- Bella, I'm George, nice to meet you."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:00:46,810 --> 00:00:49,310",
+                  "- I'm a research scientist."
+               ],
+               [
+                  "00:00:49,310 --> 00:00:50,920",
+                  "Do you like science?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:00:50,920 --> 00:00:54,160",
+                  "- I wanted to talk to you about"
+               ],
+               [
+                  "00:00:50,920 --> 00:00:54,160",
+                  "a specific type of science"
+               ],
+               [
+                  "00:00:54,160 --> 00:00:55,370",
+                  "called nanotechnology."
+               ],
+               [
+                  "00:00:55,370 --> 00:00:56,993",
+                  "Have you ever heard of this word before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:00:57,826 --> 00:00:59,340",
+                  "- Nano is kind of a funny word, right?"
+               ],
+               [
+                  "00:00:59,340 --> 00:01:01,560",
+                  "It's a word that's used"
+               ],
+               [
+                  "00:00:59,340 --> 00:01:01,560",
+                  "before another word,"
+               ],
+               [
+                  "00:01:01,560 --> 00:01:03,230",
+                  "and it means one billion."
+               ],
+               [
+                  "00:01:03,230 --> 00:01:05,747",
+                  "What's the smallest"
+               ],
+               [
+                  "00:01:03,230 --> 00:01:05,747",
+                  "object you can think of?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:01:05,747 --> 00:01:07,930",
+                  "- A baby ant?"
+               ],
+               [
+                  "00:01:07,930 --> 00:01:08,763",
+                  "Very good."
+               ],
+               [
+                  "00:01:08,763 --> 00:01:11,440",
+                  "So I have over here a meter"
+               ],
+               [
+                  "00:01:08,763 --> 00:01:11,440",
+                  "stick, let me show it to you."
+               ],
+               [
+                  "00:01:11,440 --> 00:01:15,140",
+                  "And so that's a meter and"
+               ],
+               [
+                  "00:01:11,440 --> 00:01:15,140",
+                  "if I divide it by 1000,"
+               ],
+               [
+                  "00:01:15,140 --> 00:01:18,460",
+                  "I get a millimeter. So"
+               ],
+               [
+                  "00:01:15,140 --> 00:01:18,460",
+                  "milli just means 1000."
+               ],
+               [
+                  "00:01:18,460 --> 00:01:20,600",
+                  "There's all these little"
+               ],
+               [
+                  "00:01:18,460 --> 00:01:20,600",
+                  "lines on the ruler."
+               ],
+               [
+                  "00:01:20,600 --> 00:01:22,840",
+                  "And each of those little"
+               ],
+               [
+                  "00:01:20,600 --> 00:01:22,840",
+                  "lines is one millimeter."
+               ],
+               [
+                  "00:01:22,840 --> 00:01:25,430",
+                  "So a baby ant is probably"
+               ],
+               [
+                  "00:01:22,840 --> 00:01:25,430",
+                  "a couple of millimeters."
+               ],
+               [
+                  "00:01:25,430 --> 00:01:27,340",
+                  "So even the thing,"
+               ],
+               [
+                  "00:01:25,430 --> 00:01:27,340",
+                  "that's the smallest thing"
+               ],
+               [
+                  "00:01:27,340 --> 00:01:29,730",
+                  "you can think of, it's"
+               ],
+               [
+                  "00:01:27,340 --> 00:01:29,730",
+                  "a million times bigger"
+               ],
+               [
+                  "00:01:29,730 --> 00:01:30,830",
+                  "than a nanometer."
+               ],
+               [
+                  "00:01:30,830 --> 00:01:33,983",
+                  "Tiny, tiny, tiny."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:01:35,520 --> 00:01:40,510",
+                  "- If I took this stick and I"
+               ],
+               [
+                  "00:01:35,520 --> 00:01:40,510",
+                  "was to draw 1 billion lines,"
+               ],
+               [
+                  "00:01:40,510 --> 00:01:43,850",
+                  "the distance between those two"
+               ],
+               [
+                  "00:01:40,510 --> 00:01:43,850",
+                  "lines would be one nanometer."
+               ],
+               [
+                  "00:01:43,850 --> 00:01:46,680",
+                  "So that's really all it is."
+               ],
+               [
+                  "00:01:43,850 --> 00:01:46,680",
+                  "It's just a measure of size."
+               ],
+               [
+                  "00:01:46,680 --> 00:01:49,660",
+                  "But it's really, really, really tiny,"
+               ],
+               [
+                  "00:01:49,660 --> 00:01:53,210",
+                  "smaller than anything that"
+               ],
+               [
+                  "00:01:49,660 --> 00:01:53,210",
+                  "we can see with our eyes."
+               ],
+               [
+                  "00:01:53,210 --> 00:01:56,790",
+                  "The reason why, in"
+               ],
+               [
+                  "00:01:53,210 --> 00:01:56,790",
+                  "nanotechnology, scientists,"
+               ],
+               [
+                  "00:01:56,790 --> 00:01:59,060",
+                  "we care about things that are that small,"
+               ],
+               [
+                  "00:01:59,060 --> 00:02:01,990",
+                  "is because there are objects called atoms."
+               ],
+               [
+                  "00:02:01,990 --> 00:02:03,210",
+                  "Have you ever heard of atoms before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:02:15,234 --> 00:02:16,710",
+                  "- That was a perfect explanation."
+               ],
+               [
+                  "00:02:16,710 --> 00:02:18,970",
+                  "But what if I told you that scientists"
+               ],
+               [
+                  "00:02:18,970 --> 00:02:21,720",
+                  "invented a special type of microscope"
+               ],
+               [
+                  "00:02:21,720 --> 00:02:24,270",
+                  "that not only lets you see atoms,"
+               ],
+               [
+                  "00:02:24,270 --> 00:02:25,920",
+                  "but also lets you move them around"
+               ],
+               [
+                  "00:02:25,920 --> 00:02:27,293",
+                  "and build things with them."
+               ],
+               [
+                  "00:02:27,293 --> 00:02:28,126",
+                  "Would you think that would be pretty cool?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:02:28,959 --> 00:02:31,250",
+                  "- So it's called a scanning"
+               ],
+               [
+                  "00:02:28,959 --> 00:02:31,250",
+                  "tunneling microscope."
+               ],
+               [
+                  "00:02:31,250 --> 00:02:32,940",
+                  "And not only can you see the atoms,"
+               ],
+               [
+                  "00:02:32,940 --> 00:02:34,040",
+                  "but you can move them around."
+               ],
+               [
+                  "00:02:34,040 --> 00:02:35,440",
+                  "Atoms are kind of sticky."
+               ],
+               [
+                  "00:02:35,440 --> 00:02:38,140",
+                  "You can actually build"
+               ],
+               [
+                  "00:02:35,440 --> 00:02:38,140",
+                  "things using this instrument"
+               ],
+               [
+                  "00:02:38,140 --> 00:02:40,280",
+                  "with actual individual atoms."
+               ],
+               [
+                  "00:02:40,280 --> 00:02:43,080",
+                  "So if I gave you that machine,"
+               ],
+               [
+                  "00:02:43,080 --> 00:02:44,270",
+                  "would you want to make something?"
+               ],
+               [
+                  "00:02:44,270 --> 00:02:46,841",
+                  "Would you want to look at"
+               ],
+               [
+                  "00:02:44,270 --> 00:02:46,841",
+                  "something very carefully?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:02:51,040 --> 00:02:52,950",
+                  "- You are definitely a"
+               ],
+               [
+                  "00:02:51,040 --> 00:02:52,950",
+                  "second grader! [laughing]"
+               ],
+               [
+                  "00:02:52,950 --> 00:02:55,520",
+                  "My daughter would probably"
+               ],
+               [
+                  "00:02:52,950 --> 00:02:55,520",
+                  "answer the exact same way."
+               ],
+               [
+                  "00:02:55,520 --> 00:02:57,080",
+                  "A unicorn would be awesome."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:03:00,180 --> 00:03:03,550",
+                  "- I study it because"
+               ],
+               [
+                  "00:03:00,180 --> 00:03:03,550",
+                  "objects that are that small"
+               ],
+               [
+                  "00:03:03,550 --> 00:03:05,910",
+                  "have really interesting properties."
+               ],
+               [
+                  "00:03:05,910 --> 00:03:10,360",
+                  "They behave completely different"
+               ],
+               [
+                  "00:03:05,910 --> 00:03:10,360",
+                  "than objects that are big."
+               ],
+               [
+                  "00:03:10,360 --> 00:03:11,280",
+                  "And because of that,"
+               ],
+               [
+                  "00:03:11,280 --> 00:03:13,460",
+                  "we can build really cool things with them."
+               ],
+               [
+                  "00:03:13,460 --> 00:03:16,210",
+                  "Like really fast computers, for example,"
+               ],
+               [
+                  "00:03:16,210 --> 00:03:19,910",
+                  "or new types of batteries"
+               ],
+               [
+                  "00:03:16,210 --> 00:03:19,910",
+                  "or new types of solar cells."
+               ],
+               [
+                  "00:03:19,910 --> 00:03:21,220",
+                  "And a lot of nanotechnology"
+               ],
+               [
+                  "00:03:21,220 --> 00:03:22,520",
+                  "is kind of like playing with Legos."
+               ],
+               [
+                  "00:03:22,520 --> 00:03:24,160",
+                  "You take these small objects"
+               ],
+               [
+                  "00:03:24,160 --> 00:03:27,010",
+                  "and you put them together"
+               ],
+               [
+                  "00:03:24,160 --> 00:03:27,010",
+                  "to build something new."
+               ],
+               [
+                  "00:03:27,010 --> 00:03:28,800",
+                  "Something interesting that"
+               ],
+               [
+                  "00:03:27,010 --> 00:03:28,800",
+                  "no one's built before."
+               ],
+               [
+                  "00:03:28,800 --> 00:03:30,902",
+                  "It's like Legos for scientists."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:03:34,350 --> 00:03:36,400",
+                  "- So how old are you?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:03:36,400 --> 00:03:38,600",
+                  "- 16. So what is that,"
+               ],
+               [
+                  "00:03:36,400 --> 00:03:38,600",
+                  "you're in 10th grade?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:03:38,600 --> 00:03:41,500",
+                  "- Have you of nanotechnology?"
+               ],
+               [
+                  "00:03:41,500 --> 00:03:42,630",
+                  "Have you heard of this term before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:03:42,630 --> 00:03:44,178",
+                  "- What do you think of"
+               ],
+               [
+                  "00:03:44,178 --> 00:03:45,780",
+                  "when you think of nanotechnology?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:03:48,570 --> 00:03:49,403",
+                  "- You know, you're right."
+               ],
+               [
+                  "00:03:49,403 --> 00:03:50,960",
+                  "When you read about some"
+               ],
+               [
+                  "00:03:49,403 --> 00:03:50,960",
+                  "of these technologies,"
+               ],
+               [
+                  "00:03:50,960 --> 00:03:52,460",
+                  "it does feel like science fiction."
+               ],
+               [
+                  "00:03:52,460 --> 00:03:53,870",
+                  "But the part of nanotechnology"
+               ],
+               [
+                  "00:03:53,870 --> 00:03:55,210",
+                  "I wanted to talk to you about"
+               ],
+               [
+                  "00:03:55,210 --> 00:03:59,140",
+                  "is stuff that you probably use every day,"
+               ],
+               [
+                  "00:03:59,140 --> 00:04:01,200",
+                  "most of your day, all of the time."
+               ],
+               [
+                  "00:04:01,200 --> 00:04:03,570",
+                  "Can you guess what"
+               ],
+               [
+                  "00:04:01,200 --> 00:04:03,570",
+                  "aspect of nanotechnology"
+               ],
+               [
+                  "00:04:03,570 --> 00:04:05,960",
+                  "I'm gonna talk to you about?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:04:05,960 --> 00:04:07,980",
+                  "- Yeah, so modern computer chips"
+               ],
+               [
+                  "00:04:07,980 --> 00:04:10,040",
+                  "rely heavily on nanotechnology."
+               ],
+               [
+                  "00:04:10,040 --> 00:04:11,040",
+                  "Does this look familiar to you?"
+               ],
+               [
+                  "00:04:11,040 --> 00:04:12,140",
+                  "Can you guess what this might be?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:04:13,920 --> 00:04:15,970",
+                  "- So this is a silicon wafer,"
+               ],
+               [
+                  "00:04:15,970 --> 00:04:18,589",
+                  "and they're embedded in"
+               ],
+               [
+                  "00:04:15,970 --> 00:04:18,589",
+                  "basically almost every object"
+               ],
+               [
+                  "00:04:18,589 --> 00:04:21,809",
+                  "that you use, from a"
+               ],
+               [
+                  "00:04:18,589 --> 00:04:21,809",
+                  "laptop, to a phone, to cars,"
+               ],
+               [
+                  "00:04:21,810 --> 00:04:24,320",
+                  "television sets, appliances."
+               ],
+               [
+                  "00:04:24,320 --> 00:04:26,740",
+                  "We ended up cutting"
+               ],
+               [
+                  "00:04:24,320 --> 00:04:26,740",
+                  "these into little squares"
+               ],
+               [
+                  "00:04:26,740 --> 00:04:29,510",
+                  "and those repeating patterns,"
+               ],
+               [
+                  "00:04:26,740 --> 00:04:29,510",
+                  "each of those is a processor."
+               ],
+               [
+                  "00:04:29,510 --> 00:04:32,440",
+                  "And those chips are what goes"
+               ],
+               [
+                  "00:04:29,510 --> 00:04:32,440",
+                  "into all of these objects."
+               ],
+               [
+                  "00:04:32,440 --> 00:04:34,270",
+                  "What I want to talk to"
+               ],
+               [
+                  "00:04:32,440 --> 00:04:34,270",
+                  "you about is how we got"
+               ],
+               [
+                  "00:04:34,270 --> 00:04:38,790",
+                  "from where we started, and"
+               ],
+               [
+                  "00:04:34,270 --> 00:04:38,790",
+                  "how we're able to actually fit"
+               ],
+               [
+                  "00:04:38,790 --> 00:04:42,310",
+                  "18 billion of these little devices"
+               ],
+               [
+                  "00:04:42,310 --> 00:04:46,090",
+                  "in a little one inch by one inch area."
+               ],
+               [
+                  "00:04:46,090 --> 00:04:48,110",
+                  "They're called transistors. It's a switch."
+               ],
+               [
+                  "00:04:48,110 --> 00:04:49,690",
+                  "Very simply, think of it as a light switch"
+               ],
+               [
+                  "00:04:49,690 --> 00:04:52,670",
+                  "that turns on and turns"
+               ],
+               [
+                  "00:04:49,690 --> 00:04:52,670",
+                  "off using an electric field"
+               ],
+               [
+                  "00:04:52,670 --> 00:04:54,470",
+                  "by applying a voltage."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:04:54,470 --> 00:04:56,240",
+                  "- I went through my kid's Lego bins"
+               ],
+               [
+                  "00:04:56,240 --> 00:04:58,830",
+                  "to build a very simple"
+               ],
+               [
+                  "00:04:56,240 --> 00:04:58,830",
+                  "model of a transistor."
+               ],
+               [
+                  "00:04:58,830 --> 00:05:01,500",
+                  "And these are wired together in circuits"
+               ],
+               [
+                  "00:05:01,500 --> 00:05:03,090",
+                  "so that you can do computation."
+               ],
+               [
+                  "00:05:03,090 --> 00:05:04,380",
+                  "You can do logic with them."
+               ],
+               [
+                  "00:05:04,380 --> 00:05:06,320",
+                  "Where nanotechnology comes into play,"
+               ],
+               [
+                  "00:05:06,320 --> 00:05:09,000",
+                  "the way you double the number"
+               ],
+               [
+                  "00:05:06,320 --> 00:05:09,000",
+                  "of transistors on a chip."
+               ],
+               [
+                  "00:05:09,000 --> 00:05:11,000",
+                  "Can you guess what you would"
+               ],
+               [
+                  "00:05:09,000 --> 00:05:11,000",
+                  "have to do to this transistor?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:05:12,229 --> 00:05:13,840",
+                  "- You have to make it smaller. Exactly."
+               ],
+               [
+                  "00:05:13,840 --> 00:05:14,673",
+                  "But here's the problem."
+               ],
+               [
+                  "00:05:14,673 --> 00:05:19,673",
+                  "So about 10 to 15 years ago,"
+               ],
+               [
+                  "00:05:14,673 --> 00:05:19,673",
+                  "the devices got so small"
+               ],
+               [
+                  "00:05:19,880 --> 00:05:22,320",
+                  "that if you shrunk them this gate,"
+               ],
+               [
+                  "00:05:22,320 --> 00:05:24,140",
+                  "that actually turns it on and off"
+               ],
+               [
+                  "00:05:24,140 --> 00:05:26,320",
+                  "loses its ability to control the channel."
+               ],
+               [
+                  "00:05:26,320 --> 00:05:28,640",
+                  "And so what they did, was"
+               ],
+               [
+                  "00:05:26,320 --> 00:05:28,640",
+                  "they took devices like this"
+               ],
+               [
+                  "00:05:28,640 --> 00:05:30,890",
+                  "into these things, we call them, FinFETs,"
+               ],
+               [
+                  "00:05:30,890 --> 00:05:32,890",
+                  "kind of like a fin on a fish."
+               ],
+               [
+                  "00:05:32,890 --> 00:05:35,020",
+                  "So they're very thin transistors."
+               ],
+               [
+                  "00:05:35,020 --> 00:05:38,200",
+                  "The width of these fins is"
+               ],
+               [
+                  "00:05:35,020 --> 00:05:38,200",
+                  "only six nanometers. Okay?"
+               ],
+               [
+                  "00:05:38,200 --> 00:05:42,660",
+                  "So 6 nanometers is 25 to 30 atoms across."
+               ],
+               [
+                  "00:05:42,660 --> 00:05:43,493",
+                  "And they repeat this"
+               ],
+               [
+                  "00:05:43,493 --> 00:05:46,220",
+                  "over the entire wafer"
+               ],
+               [
+                  "00:05:43,493 --> 00:05:46,220",
+                  "just about perfectly."
+               ],
+               [
+                  "00:05:46,220 --> 00:05:48,250",
+                  "It's just a huge feat in engineering."
+               ],
+               [
+                  "00:05:48,250 --> 00:05:50,930",
+                  "But these types of devices are"
+               ],
+               [
+                  "00:05:48,250 --> 00:05:50,930",
+                  "exactly the kind of devices"
+               ],
+               [
+                  "00:05:50,930 --> 00:05:52,930",
+                  "that your phones and"
+               ],
+               [
+                  "00:05:50,930 --> 00:05:52,930",
+                  "computers either have,"
+               ],
+               [
+                  "00:05:52,930 --> 00:05:54,370",
+                  "or will have in the near future."
+               ],
+               [
+                  "00:05:54,370 --> 00:05:55,910",
+                  "And it's a way that nanotechnology"
+               ],
+               [
+                  "00:05:55,910 --> 00:05:58,330",
+                  "is directly impacting you right now."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:06:03,480 --> 00:06:04,313",
+                  "- Exactly."
+               ],
+               [
+                  "00:06:04,313 --> 00:06:07,080",
+                  "So these are made using a"
+               ],
+               [
+                  "00:06:04,313 --> 00:06:07,080",
+                  "technique called lithography."
+               ],
+               [
+                  "00:06:07,080 --> 00:06:09,940",
+                  "You basically coat the"
+               ],
+               [
+                  "00:06:07,080 --> 00:06:09,940",
+                  "silicon wafer with a polymer."
+               ],
+               [
+                  "00:06:09,940 --> 00:06:11,270",
+                  "Then you put a mask on it"
+               ],
+               [
+                  "00:06:11,270 --> 00:06:12,600",
+                  "and then you shine light through it."
+               ],
+               [
+                  "00:06:12,600 --> 00:06:15,710",
+                  "And the features of the"
+               ],
+               [
+                  "00:06:12,600 --> 00:06:15,710",
+                  "mask, the size of those holes"
+               ],
+               [
+                  "00:06:15,710 --> 00:06:18,250",
+                  "determine the feature size in the chip."
+               ],
+               [
+                  "00:06:18,250 --> 00:06:20,830",
+                  "It's not just the size"
+               ],
+               [
+                  "00:06:18,250 --> 00:06:20,830",
+                  "of the mask that matters."
+               ],
+               [
+                  "00:06:20,830 --> 00:06:23,470",
+                  "It's the wavelength of"
+               ],
+               [
+                  "00:06:20,830 --> 00:06:23,470",
+                  "the light that's used."
+               ],
+               [
+                  "00:06:23,470 --> 00:06:26,070",
+                  "We talked about nanotechnology"
+               ],
+               [
+                  "00:06:23,470 --> 00:06:26,070",
+                  "being science fiction before,"
+               ],
+               [
+                  "00:06:26,070 --> 00:06:28,160",
+                  "but this is real stuff"
+               ],
+               [
+                  "00:06:26,070 --> 00:06:28,160",
+                  "that's being produced,"
+               ],
+               [
+                  "00:06:28,160 --> 00:06:31,490",
+                  "that's being made, that's"
+               ],
+               [
+                  "00:06:28,160 --> 00:06:31,490",
+                  "being used every day by people."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:06:51,220 --> 00:06:53,773",
+                  "- Exactly. I couldn't put"
+               ],
+               [
+                  "00:06:51,220 --> 00:06:53,773",
+                  "it any better. That's right."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:06:56,570 --> 00:06:58,220",
+                  "So what's your major?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:06:58,220 --> 00:07:00,340",
+                  "- What made you choose that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:07:08,590 --> 00:07:10,750",
+                  "- So have you taken a"
+               ],
+               [
+                  "00:07:08,590 --> 00:07:10,750",
+                  "quantum mechanics course?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:07:11,613 --> 00:07:14,670",
+                  "- I think to really get"
+               ],
+               [
+                  "00:07:11,613 --> 00:07:14,670",
+                  "deep into nanomaterials"
+               ],
+               [
+                  "00:07:14,670 --> 00:07:17,240",
+                  "and nanoscale devices, you"
+               ],
+               [
+                  "00:07:14,670 --> 00:07:17,240",
+                  "really have to understand"
+               ],
+               [
+                  "00:07:17,240 --> 00:07:18,830",
+                  "to some level, quantum mechanics."
+               ],
+               [
+                  "00:07:18,830 --> 00:07:19,800",
+                  "What it teaches us"
+               ],
+               [
+                  "00:07:19,800 --> 00:07:22,290",
+                  "as we make these devices"
+               ],
+               [
+                  "00:07:19,800 --> 00:07:22,290",
+                  "smaller and smaller,"
+               ],
+               [
+                  "00:07:22,290 --> 00:07:24,490",
+                  "their properties begin to now depend"
+               ],
+               [
+                  "00:07:24,490 --> 00:07:27,620",
+                  "on the size and the"
+               ],
+               [
+                  "00:07:24,490 --> 00:07:27,620",
+                  "orientation of these devices."
+               ],
+               [
+                  "00:07:27,620 --> 00:07:30,250",
+                  "There are materials, and you're"
+               ],
+               [
+                  "00:07:27,620 --> 00:07:30,250",
+                  "taking a 2D materials class,"
+               ],
+               [
+                  "00:07:30,250 --> 00:07:32,710",
+                  "you know about this, that"
+               ],
+               [
+                  "00:07:30,250 --> 00:07:32,710",
+                  "are intrinsically thin."
+               ],
+               [
+                  "00:07:32,710 --> 00:07:34,720",
+                  "As they're grown, as they're fabricated,"
+               ],
+               [
+                  "00:07:34,720 --> 00:07:37,120",
+                  "they're already at the"
+               ],
+               [
+                  "00:07:34,720 --> 00:07:37,120",
+                  "nanoscale and they possess"
+               ],
+               [
+                  "00:07:37,120 --> 00:07:39,420",
+                  "these quantum confinement properties"
+               ],
+               [
+                  "00:07:39,420 --> 00:07:42,080",
+                  "that as a nanotechnologist,"
+               ],
+               [
+                  "00:07:39,420 --> 00:07:42,080",
+                  "you try to exploit."
+               ],
+               [
+                  "00:07:42,080 --> 00:07:44,010",
+                  "And so the first ones I"
+               ],
+               [
+                  "00:07:42,080 --> 00:07:44,010",
+                  "wanted to talk to you about"
+               ],
+               [
+                  "00:07:44,010 --> 00:07:46,840",
+                  "are quantum dots, have you"
+               ],
+               [
+                  "00:07:44,010 --> 00:07:46,840",
+                  "heard of quantum dots before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:07:46,840 --> 00:07:48,090",
+                  "- So these are"
+               ],
+               [
+                  "00:07:48,090 --> 00:07:49,790",
+                  "typically semiconductors."
+               ],
+               [
+                  "00:07:49,790 --> 00:07:53,077",
+                  "They can be cadmium selenide"
+               ],
+               [
+                  "00:07:49,790 --> 00:07:53,077",
+                  "cadmium sulfide, zinc selenide"
+               ],
+               [
+                  "00:07:53,077 --> 00:07:55,560",
+                  "and they're small clusters of atoms."
+               ],
+               [
+                  "00:07:55,560 --> 00:07:58,440",
+                  "They can be from 2 to 10 nanometers."
+               ],
+               [
+                  "00:07:58,440 --> 00:08:00,310",
+                  "What's interesting about these materials?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:08:10,400 --> 00:08:11,310",
+                  "- That's correct. Yeah."
+               ],
+               [
+                  "00:08:11,310 --> 00:08:13,280",
+                  "Because of quantum confinement,"
+               ],
+               [
+                  "00:08:13,280 --> 00:08:16,340",
+                  "once you get below this"
+               ],
+               [
+                  "00:08:13,280 --> 00:08:16,340",
+                  "15 nanometer range,"
+               ],
+               [
+                  "00:08:16,340 --> 00:08:18,360",
+                  "the band gap of the material"
+               ],
+               [
+                  "00:08:18,360 --> 00:08:20,900",
+                  "depends completely on"
+               ],
+               [
+                  "00:08:18,360 --> 00:08:20,900",
+                  "the size of the material."
+               ],
+               [
+                  "00:08:20,900 --> 00:08:23,070",
+                  "So in bulk materials, if you"
+               ],
+               [
+                  "00:08:20,900 --> 00:08:23,070",
+                  "want to change the band gap,"
+               ],
+               [
+                  "00:08:23,070 --> 00:08:24,810",
+                  "you have to change the material, right?"
+               ],
+               [
+                  "00:08:24,810 --> 00:08:26,970",
+                  "But in these quantum dots specifically,"
+               ],
+               [
+                  "00:08:26,970 --> 00:08:29,890",
+                  "just by changing the size,"
+               ],
+               [
+                  "00:08:26,970 --> 00:08:29,890",
+                  "you can change their band gap."
+               ],
+               [
+                  "00:08:29,890 --> 00:08:31,810",
+                  "And because their band gap is changing,"
+               ],
+               [
+                  "00:08:31,810 --> 00:08:33,429",
+                  "their optical properties are different."
+               ],
+               [
+                  "00:08:33,429 --> 00:08:36,589",
+                  "And you can precisely tune"
+               ],
+               [
+                  "00:08:33,429 --> 00:08:36,589",
+                  "the wavelength of light"
+               ],
+               [
+                  "00:08:36,590 --> 00:08:38,940",
+                  "that they emit just by"
+               ],
+               [
+                  "00:08:36,590 --> 00:08:38,940",
+                  "changing their size."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:08:41,740 --> 00:08:42,870",
+                  "- There are people that are exploring"
+               ],
+               [
+                  "00:08:42,870 --> 00:08:45,000",
+                  "using these materials for diode lasers."
+               ],
+               [
+                  "00:08:45,000 --> 00:08:47,040",
+                  "There are companies that"
+               ],
+               [
+                  "00:08:45,000 --> 00:08:47,040",
+                  "are building displays"
+               ],
+               [
+                  "00:08:47,040 --> 00:08:48,120",
+                  "from these materials."
+               ],
+               [
+                  "00:08:48,120 --> 00:08:49,520",
+                  "And there're even people thinking about"
+               ],
+               [
+                  "00:08:49,520 --> 00:08:51,110",
+                  "if I take these quantum dots,"
+               ],
+               [
+                  "00:08:51,110 --> 00:08:53,300",
+                  "and I change the chemistry on the outside"
+               ],
+               [
+                  "00:08:53,300 --> 00:08:57,240",
+                  "so they stick to specific"
+               ],
+               [
+                  "00:08:53,300 --> 00:08:57,240",
+                  "types of cells or tissue,"
+               ],
+               [
+                  "00:08:57,240 --> 00:08:59,080",
+                  "that I could really do"
+               ],
+               [
+                  "00:08:57,240 --> 00:08:59,080",
+                  "some interesting imaging"
+               ],
+               [
+                  "00:08:59,080 --> 00:09:01,070",
+                  "and therapeutic work to track disease,"
+               ],
+               [
+                  "00:09:01,070 --> 00:09:02,330",
+                  "even maybe to treat disease,"
+               ],
+               [
+                  "00:09:02,330 --> 00:09:04,520",
+                  "if you can very precisely"
+               ],
+               [
+                  "00:09:02,330 --> 00:09:04,520",
+                  "control the chemistry."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:09:08,420 --> 00:09:10,960",
+                  "- The optical applications"
+               ],
+               [
+                  "00:09:08,420 --> 00:09:10,960",
+                  "are in development."
+               ],
+               [
+                  "00:09:10,960 --> 00:09:12,700",
+                  "The science has really been worked out."
+               ],
+               [
+                  "00:09:12,700 --> 00:09:15,230",
+                  "The health stuff, because"
+               ],
+               [
+                  "00:09:12,700 --> 00:09:15,230",
+                  "of all of the things"
+               ],
+               [
+                  "00:09:15,230 --> 00:09:16,970",
+                  "you have to consider when"
+               ],
+               [
+                  "00:09:15,230 --> 00:09:16,970",
+                  "you're putting something"
+               ],
+               [
+                  "00:09:16,970 --> 00:09:19,710",
+                  "in someone's body is"
+               ],
+               [
+                  "00:09:16,970 --> 00:09:19,710",
+                  "definitely further out there."
+               ],
+               [
+                  "00:09:19,710 --> 00:09:21,540",
+                  "For example, some of them"
+               ],
+               [
+                  "00:09:19,710 --> 00:09:21,540",
+                  "are made from cadmium."
+               ],
+               [
+                  "00:09:21,540 --> 00:09:22,420",
+                  "Cadmium's toxic."
+               ],
+               [
+                  "00:09:22,420 --> 00:09:24,200",
+                  "You would never put"
+               ],
+               [
+                  "00:09:22,420 --> 00:09:24,200",
+                  "that in someone's body."
+               ],
+               [
+                  "00:09:24,200 --> 00:09:26,900",
+                  "But there are other materials"
+               ],
+               [
+                  "00:09:24,200 --> 00:09:26,900",
+                  "like gold and silver"
+               ],
+               [
+                  "00:09:26,900 --> 00:09:29,190",
+                  "and titanium dioxide, which are less toxic"
+               ],
+               [
+                  "00:09:29,190 --> 00:09:31,350",
+                  "and people are exploring using those."
+               ],
+               [
+                  "00:09:31,350 --> 00:09:32,770",
+                  "So have you learned about graphene?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:09:32,770 --> 00:09:33,603",
+                  "- Do you know what this is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:09:33,603 --> 00:09:35,900",
+                  "- Carbon nanotube, right."
+               ],
+               [
+                  "00:09:35,900 --> 00:09:39,270",
+                  "So if you roll up graphene,"
+               ],
+               [
+                  "00:09:35,900 --> 00:09:39,270",
+                  "depending on how you roll it"
+               ],
+               [
+                  "00:09:39,270 --> 00:09:40,790",
+                  "and the angle, you roll it with,"
+               ],
+               [
+                  "00:09:40,790 --> 00:09:42,750",
+                  "it has different properties."
+               ],
+               [
+                  "00:09:42,750 --> 00:09:45,560",
+                  "So if I roll it one way,"
+               ],
+               [
+                  "00:09:42,750 --> 00:09:45,560",
+                  "it'll act like a metal."
+               ],
+               [
+                  "00:09:45,560 --> 00:09:46,980",
+                  "If I roll it a different way,"
+               ],
+               [
+                  "00:09:46,980 --> 00:09:48,600",
+                  "it'll act like a semiconductor."
+               ],
+               [
+                  "00:09:48,600 --> 00:09:50,830",
+                  "The one that gets everyone most excited"
+               ],
+               [
+                  "00:09:50,830 --> 00:09:52,840",
+                  "is that the electrons and holes"
+               ],
+               [
+                  "00:09:52,840 --> 00:09:55,430",
+                  "move very fast through graphene."
+               ],
+               [
+                  "00:09:55,430 --> 00:09:57,510",
+                  "And so there's a lot of"
+               ],
+               [
+                  "00:09:55,430 --> 00:09:57,510",
+                  "interest in using these"
+               ],
+               [
+                  "00:09:57,510 --> 00:09:59,730",
+                  "for certain types of"
+               ],
+               [
+                  "00:09:57,510 --> 00:09:59,730",
+                  "high-speed electronics."
+               ],
+               [
+                  "00:09:59,730 --> 00:10:00,690",
+                  "The other interesting application"
+               ],
+               [
+                  "00:10:00,690 --> 00:10:03,420",
+                  "is because it's one atom thin,"
+               ],
+               [
+                  "00:10:03,420 --> 00:10:05,720",
+                  "it's very sensitive to"
+               ],
+               [
+                  "00:10:03,420 --> 00:10:05,720",
+                  "changes in the environment."
+               ],
+               [
+                  "00:10:05,720 --> 00:10:06,840",
+                  "And so there's a lot of interest"
+               ],
+               [
+                  "00:10:06,840 --> 00:10:08,360",
+                  "in using them as diagnostics."
+               ],
+               [
+                  "00:10:08,360 --> 00:10:11,350",
+                  "It's on us researchers to find ways"
+               ],
+               [
+                  "00:10:11,350 --> 00:10:15,860",
+                  "to A, control that process"
+               ],
+               [
+                  "00:10:11,350 --> 00:10:15,860",
+                  "and then B, to actually build"
+               ],
+               [
+                  "00:10:15,860 --> 00:10:18,120",
+                  "some sort of interesting"
+               ],
+               [
+                  "00:10:15,860 --> 00:10:18,120",
+                  "technology from them."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:10:27,785 --> 00:10:29,030",
+                  "- You're speaking my language."
+               ],
+               [
+                  "00:10:29,030 --> 00:10:32,090",
+                  "This is what I spent many"
+               ],
+               [
+                  "00:10:29,030 --> 00:10:32,090",
+                  "years of my life working on."
+               ],
+               [
+                  "00:10:32,090 --> 00:10:34,130",
+                  "You don't physically roll up graphene."
+               ],
+               [
+                  "00:10:34,130 --> 00:10:38,230",
+                  "You grow nanotubes by"
+               ],
+               [
+                  "00:10:34,130 --> 00:10:38,230",
+                  "basically taking nanocrystals"
+               ],
+               [
+                  "00:10:38,230 --> 00:10:40,200",
+                  "and you deposit them on a surface."
+               ],
+               [
+                  "00:10:40,200 --> 00:10:42,870",
+                  "And then you do a CVD process,"
+               ],
+               [
+                  "00:10:40,200 --> 00:10:42,870",
+                  "chemical vapor deposition."
+               ],
+               [
+                  "00:10:42,870 --> 00:10:45,900",
+                  "So you basically flow in a carbon source,"
+               ],
+               [
+                  "00:10:45,900 --> 00:10:48,110",
+                  "the carbon dissolves in a nanocrystal"
+               ],
+               [
+                  "00:10:48,110 --> 00:10:50,240",
+                  "and then once nanocrystal is saturated,"
+               ],
+               [
+                  "00:10:50,240 --> 00:10:53,510",
+                  "the nanotubes precipitate"
+               ],
+               [
+                  "00:10:50,240 --> 00:10:53,510",
+                  "out of them in tubes."
+               ],
+               [
+                  "00:10:53,510 --> 00:10:54,950",
+                  "Then you have to develop ways"
+               ],
+               [
+                  "00:10:54,950 --> 00:10:57,890",
+                  "to go into this pile of nanotubes"
+               ],
+               [
+                  "00:10:57,890 --> 00:11:00,190",
+                  "and pull out exactly"
+               ],
+               [
+                  "00:10:57,890 --> 00:11:00,190",
+                  "the ones that you want."
+               ],
+               [
+                  "00:11:00,190 --> 00:11:02,870",
+                  "So I have to find ways to program them"
+               ],
+               [
+                  "00:11:02,870 --> 00:11:05,700",
+                  "to go exactly in the places that I want."
+               ],
+               [
+                  "00:11:05,700 --> 00:11:10,310",
+                  "I modify the surface of the"
+               ],
+               [
+                  "00:11:05,700 --> 00:11:10,310",
+                  "nanotube with specific molecules"
+               ],
+               [
+                  "00:11:10,310 --> 00:11:13,370",
+                  "that recognize one type"
+               ],
+               [
+                  "00:11:10,310 --> 00:11:13,370",
+                  "of surface over another."
+               ],
+               [
+                  "00:11:13,370 --> 00:11:16,150",
+                  "And then I just pattern the"
+               ],
+               [
+                  "00:11:13,370 --> 00:11:16,150",
+                  "surface and the tubes just land"
+               ],
+               [
+                  "00:11:16,150 --> 00:11:17,870",
+                  "exactly where we want them to."
+               ],
+               [
+                  "00:11:17,870 --> 00:11:19,890",
+                  "And it's still very much"
+               ],
+               [
+                  "00:11:17,870 --> 00:11:19,890",
+                  "in the research stage."
+               ],
+               [
+                  "00:11:19,890 --> 00:11:22,510",
+                  "The ultimate goal is to build functional"
+               ],
+               [
+                  "00:11:22,510 --> 00:11:25,300",
+                  "high-speed electronics"
+               ],
+               [
+                  "00:11:22,510 --> 00:11:25,300",
+                  "using these new materials."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:11:43,310 --> 00:11:44,440",
+                  "- Yeah. 100%. That's right."
+               ],
+               [
+                  "00:11:44,440 --> 00:11:45,510",
+                  "And that's the motivation"
+               ],
+               [
+                  "00:11:45,510 --> 00:11:47,610",
+                  "for looking at these emerging materials."
+               ],
+               [
+                  "00:11:47,610 --> 00:11:50,850",
+                  "But I would never bet"
+               ],
+               [
+                  "00:11:47,610 --> 00:11:50,850",
+                  "against the innovation"
+               ],
+               [
+                  "00:11:50,850 --> 00:11:54,120",
+                  "and the creativity in this"
+               ],
+               [
+                  "00:11:50,850 --> 00:11:54,120",
+                  "nano electronic space."
+               ],
+               [
+                  "00:11:54,120 --> 00:11:55,850",
+                  "Tens of thousands of scientists,"
+               ],
+               [
+                  "00:11:55,850 --> 00:12:00,160",
+                  "every time they hit a barrier,"
+               ],
+               [
+                  "00:11:55,850 --> 00:12:00,160",
+                  "at least historically,"
+               ],
+               [
+                  "00:12:00,160 --> 00:12:02,790",
+                  "as a guide, they have"
+               ],
+               [
+                  "00:12:00,160 --> 00:12:02,790",
+                  "found a way to overcome it."
+               ],
+               [
+                  "00:12:02,790 --> 00:12:05,910",
+                  "It's a real marvel in ingenuity."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:12:10,410 --> 00:12:13,380",
+                  "- It's just pretty lights. [laughing]"
+               ],
+               [
+                  "00:12:13,380 --> 00:12:16,440",
+                  "But now that you suggested"
+               ],
+               [
+                  "00:12:13,380 --> 00:12:16,440",
+                  "it, these were inspired"
+               ],
+               [
+                  "00:12:16,440 --> 00:12:19,700",
+                  "by the array of quantum"
+               ],
+               [
+                  "00:12:16,440 --> 00:12:19,700",
+                  "dots that we showed earlier."
+               ],
+               [
+                  "00:12:19,700 --> 00:12:21,174",
+                  "So that's the story I'm"
+               ],
+               [
+                  "00:12:19,700 --> 00:12:21,174",
+                  "going to stick with."
+               ],
+               [
+                  "00:12:21,174 --> 00:12:23,220",
+                  "[laughing]"
+               ],
+               [
+                  "00:12:21,174 --> 00:12:23,220",
+                  "I like it."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:12:29,020 --> 00:12:30,270",
+                  "- So you're a graduate student."
+               ],
+               [
+                  "00:12:30,270 --> 00:12:32,260",
+                  "And so tell me a bit about your work."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:12:45,260 --> 00:12:48,090",
+                  "- What is it about"
+               ],
+               [
+                  "00:12:45,260 --> 00:12:48,090",
+                  "nanomaterials, that scale"
+               ],
+               [
+                  "00:12:48,090 --> 00:12:49,630",
+                  "and the properties of these materials"
+               ],
+               [
+                  "00:12:49,630 --> 00:12:51,580",
+                  "that make them uniquely promising"
+               ],
+               [
+                  "00:12:51,580 --> 00:12:53,980",
+                  "to incorporate into battery technology?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:13:16,518 --> 00:13:18,470",
+                  "- What is it exactly that"
+               ],
+               [
+                  "00:13:16,518 --> 00:13:18,470",
+                  "you're trying to tease"
+               ],
+               [
+                  "00:13:18,470 --> 00:13:21,610",
+                  "out of these materials to improve"
+               ],
+               [
+                  "00:13:18,470 --> 00:13:21,610",
+                  "the battery's performance?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:14:00,640 --> 00:14:02,310",
+                  "- Because the materials are so small,"
+               ],
+               [
+                  "00:14:02,310 --> 00:14:03,910",
+                  "they're at the nanoscale,"
+               ],
+               [
+                  "00:14:03,910 --> 00:14:06,220",
+                  "their properties are dominated"
+               ],
+               [
+                  "00:14:03,910 --> 00:14:06,220",
+                  "by quantum mechanics,"
+               ],
+               [
+                  "00:14:06,220 --> 00:14:09,390",
+                  "which means that even slight"
+               ],
+               [
+                  "00:14:06,220 --> 00:14:09,390",
+                  "changes in their size,"
+               ],
+               [
+                  "00:14:09,390 --> 00:14:10,560",
+                  "in their orientation"
+               ],
+               [
+                  "00:14:10,560 --> 00:14:12,930",
+                  "give profound changes in their properties."
+               ],
+               [
+                  "00:14:12,930 --> 00:14:16,150",
+                  "And while that's very"
+               ],
+               [
+                  "00:14:12,930 --> 00:14:16,150",
+                  "scientifically interesting,"
+               ],
+               [
+                  "00:14:16,150 --> 00:14:17,760",
+                  "and it allows you to tune their properties"
+               ],
+               [
+                  "00:14:17,760 --> 00:14:20,970",
+                  "by making subtle changes, from"
+               ],
+               [
+                  "00:14:17,760 --> 00:14:20,970",
+                  "a technology point of view,"
+               ],
+               [
+                  "00:14:20,970 --> 00:14:22,570",
+                  "it's a bit of a headache in the sense"
+               ],
+               [
+                  "00:14:22,570 --> 00:14:25,110",
+                  "that in technology want"
+               ],
+               [
+                  "00:14:22,570 --> 00:14:25,110",
+                  "to optimize for a property"
+               ],
+               [
+                  "00:14:25,110 --> 00:14:27,120",
+                  "and then repeat that over and over again."
+               ],
+               [
+                  "00:14:27,120 --> 00:14:31,070",
+                  "So what are some of the challenges"
+               ],
+               [
+                  "00:14:27,120 --> 00:14:31,070",
+                  "that you face in the lab"
+               ],
+               [
+                  "00:14:31,070 --> 00:14:33,078",
+                  "related to working with these materials"
+               ],
+               [
+                  "00:14:33,078 --> 00:14:35,890",
+                  "and then trying to incorporate"
+               ],
+               [
+                  "00:14:33,078 --> 00:14:35,890",
+                  "them into the batteries?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:15:02,700 --> 00:15:04,700",
+                  "- That's actually, I think"
+               ],
+               [
+                  "00:15:02,700 --> 00:15:04,700",
+                  "a very common problem."
+               ],
+               [
+                  "00:15:04,700 --> 00:15:06,310",
+                  "We can build a device in the lab"
+               ],
+               [
+                  "00:15:06,310 --> 00:15:08,020",
+                  "it could be a transistor,"
+               ],
+               [
+                  "00:15:06,310 --> 00:15:08,020",
+                  "can be a battery."
+               ],
+               [
+                  "00:15:08,020 --> 00:15:08,870",
+                  "And then you ask the question,"
+               ],
+               [
+                  "00:15:08,870 --> 00:15:09,840",
+                  "okay, so what's the next step?"
+               ],
+               [
+                  "00:15:09,840 --> 00:15:12,340",
+                  "How do we take it from"
+               ],
+               [
+                  "00:15:09,840 --> 00:15:12,340",
+                  "that lab demonstration"
+               ],
+               [
+                  "00:15:12,340 --> 00:15:13,520",
+                  "into a technology?"
+               ],
+               [
+                  "00:15:13,520 --> 00:15:15,490",
+                  "The kind of work that"
+               ],
+               [
+                  "00:15:13,520 --> 00:15:15,490",
+                  "I'm very interested in"
+               ],
+               [
+                  "00:15:15,490 --> 00:15:16,890",
+                  "is developing tools"
+               ],
+               [
+                  "00:15:16,890 --> 00:15:21,000",
+                  "to make the exact type of"
+               ],
+               [
+                  "00:15:16,890 --> 00:15:21,000",
+                  "materials that you want."
+               ],
+               [
+                  "00:15:21,000 --> 00:15:22,670",
+                  "The tools that we've used in the past"
+               ],
+               [
+                  "00:15:22,670 --> 00:15:24,460",
+                  "for conventional fabrication"
+               ],
+               [
+                  "00:15:24,460 --> 00:15:26,230",
+                  "just don't work with these materials"
+               ],
+               [
+                  "00:15:26,230 --> 00:15:28,730",
+                  "because they're all"
+               ],
+               [
+                  "00:15:26,230 --> 00:15:28,730",
+                  "grown from the bottom up."
+               ],
+               [
+                  "00:15:28,730 --> 00:15:31,780",
+                  "They're intrinsically small,"
+               ],
+               [
+                  "00:15:28,730 --> 00:15:31,780",
+                  "and you have to find ways"
+               ],
+               [
+                  "00:15:31,780 --> 00:15:33,560",
+                  "to either use chemistry"
+               ],
+               [
+                  "00:15:31,780 --> 00:15:33,560",
+                  "or some other means"
+               ],
+               [
+                  "00:15:33,560 --> 00:15:37,610",
+                  "to get them to assemble into"
+               ],
+               [
+                  "00:15:33,560 --> 00:15:37,610",
+                  "the structures that you want"
+               ],
+               [
+                  "00:15:37,610 --> 00:15:39,840",
+                  "to actually either grow"
+               ],
+               [
+                  "00:15:37,610 --> 00:15:39,840",
+                  "specifically what you want"
+               ],
+               [
+                  "00:15:39,840 --> 00:15:41,810",
+                  "or after you grow them, to pull"
+               ],
+               [
+                  "00:15:39,840 --> 00:15:41,810",
+                  "out the ones that you want."
+               ],
+               [
+                  "00:15:41,810 --> 00:15:44,470",
+                  "You need to be able to"
+               ],
+               [
+                  "00:15:41,810 --> 00:15:44,470",
+                  "build that same thing"
+               ],
+               [
+                  "00:15:44,470 --> 00:15:46,890",
+                  "over and over again, with"
+               ],
+               [
+                  "00:15:44,470 --> 00:15:46,890",
+                  "the exact same properties."
+               ],
+               [
+                  "00:15:46,890 --> 00:15:51,890",
+                  "No one institution, no one"
+               ],
+               [
+                  "00:15:46,890 --> 00:15:51,890",
+                  "research lab, no one national lab"
+               ],
+               [
+                  "00:15:52,530 --> 00:15:54,840",
+                  "is gonna solve all of"
+               ],
+               [
+                  "00:15:52,530 --> 00:15:54,840",
+                  "these problems on their own"
+               ],
+               [
+                  "00:15:54,840 --> 00:15:56,570",
+                  "because they are difficult problems."
+               ],
+               [
+                  "00:15:56,570 --> 00:15:59,740",
+                  "And there is a real"
+               ],
+               [
+                  "00:15:56,570 --> 00:15:59,740",
+                  "important payoff at the end."
+               ],
+               [
+                  "00:15:59,740 --> 00:16:02,525",
+                  "And it's gonna take all of"
+               ],
+               [
+                  "00:15:59,740 --> 00:16:02,525",
+                  "us, making our contributions"
+               ],
+               [
+                  "00:16:02,525 --> 00:16:07,525",
+                  "to push this field forward."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:16:07,640 --> 00:16:09,990",
+                  "I remember reading your"
+               ],
+               [
+                  "00:16:07,640 --> 00:16:09,990",
+                  "papers when I was a student"
+               ],
+               [
+                  "00:16:09,990 --> 00:16:12,900",
+                  "and we're all trying to"
+               ],
+               [
+                  "00:16:09,990 --> 00:16:12,900",
+                  "create these materials"
+               ],
+               [
+                  "00:16:12,900 --> 00:16:16,040",
+                  "and finding ways to"
+               ],
+               [
+                  "00:16:12,900 --> 00:16:16,040",
+                  "exploit their properties."
+               ],
+               [
+                  "00:16:16,040 --> 00:16:17,490",
+                  "What I love, and I'm"
+               ],
+               [
+                  "00:16:16,040 --> 00:16:17,490",
+                  "delighted that you're here"
+               ],
+               [
+                  "00:16:17,490 --> 00:16:19,980",
+                  "to talk to us about is how you"
+               ],
+               [
+                  "00:16:17,490 --> 00:16:19,980",
+                  "took inspiration from nature"
+               ],
+               [
+                  "00:16:19,980 --> 00:16:22,050",
+                  "and sort of recognize that"
+               ],
+               [
+                  "00:16:19,980 --> 00:16:22,050",
+                  "nature's figured out a way"
+               ],
+               [
+                  "00:16:22,050 --> 00:16:26,120",
+                  "to both synthesize incredibly"
+               ],
+               [
+                  "00:16:22,050 --> 00:16:26,120",
+                  "complex nanostructures"
+               ],
+               [
+                  "00:16:26,120 --> 00:16:29,620",
+                  "with high functionality and"
+               ],
+               [
+                  "00:16:26,120 --> 00:16:29,620",
+                  "how you sort of were inspired"
+               ],
+               [
+                  "00:16:29,620 --> 00:16:32,060",
+                  "by that to do the research"
+               ],
+               [
+                  "00:16:29,620 --> 00:16:32,060",
+                  "that you're doing now."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:17:43,120 --> 00:17:44,580",
+                  "- It's really fascinating work,"
+               ],
+               [
+                  "00:17:44,580 --> 00:17:45,830",
+                  "especially now we're all familiar"
+               ],
+               [
+                  "00:17:45,830 --> 00:17:47,400",
+                  "with the viruses and how they act."
+               ],
+               [
+                  "00:17:47,400 --> 00:17:49,860",
+                  "And I'm not aware of any viruses"
+               ],
+               [
+                  "00:17:47,400 --> 00:17:49,860",
+                  "that build nanostructures."
+               ],
+               [
+                  "00:17:49,860 --> 00:17:50,830",
+                  "So how did you come to that?"
+               ],
+               [
+                  "00:17:50,830 --> 00:17:54,210",
+                  "And then how do you"
+               ],
+               [
+                  "00:17:50,830 --> 00:17:54,210",
+                  "actually program a virus"
+               ],
+               [
+                  "00:17:54,210 --> 00:17:56,110",
+                  "to do your bidding?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:19:02,060 --> 00:19:05,800",
+                  "- So you've evolved, and I"
+               ],
+               [
+                  "00:19:02,060 --> 00:19:05,800",
+                  "suppose, trained these viruses"
+               ],
+               [
+                  "00:19:05,800 --> 00:19:07,830",
+                  "to build the materials"
+               ],
+               [
+                  "00:19:05,800 --> 00:19:07,830",
+                  "that you want them to build"
+               ],
+               [
+                  "00:19:07,830 --> 00:19:10,430",
+                  "by exposing them to the raw materials"
+               ],
+               [
+                  "00:19:10,430 --> 00:19:13,230",
+                  "and then evolving their function."
+               ],
+               [
+                  "00:19:13,230 --> 00:19:15,170",
+                  "We're talking about the"
+               ],
+               [
+                  "00:19:13,230 --> 00:19:15,170",
+                  "electronics from nanomaterials."
+               ],
+               [
+                  "00:19:15,170 --> 00:19:16,780",
+                  "That critical issue that we're facing"
+               ],
+               [
+                  "00:19:16,780 --> 00:19:18,850",
+                  "is how do you go from"
+               ],
+               [
+                  "00:19:16,780 --> 00:19:18,850",
+                  "those single experiments"
+               ],
+               [
+                  "00:19:18,850 --> 00:19:21,240",
+                  "with a single material,"
+               ],
+               [
+                  "00:19:18,850 --> 00:19:21,240",
+                  "understanding its properties,"
+               ],
+               [
+                  "00:19:21,240 --> 00:19:23,760",
+                  "how do you scale that to"
+               ],
+               [
+                  "00:19:21,240 --> 00:19:23,760",
+                  "the billions of devices"
+               ],
+               [
+                  "00:19:23,760 --> 00:19:25,250",
+                  "that you need in a technology?"
+               ],
+               [
+                  "00:19:25,250 --> 00:19:27,640",
+                  "It is a chemistry driven approach."
+               ],
+               [
+                  "00:19:27,640 --> 00:19:29,840",
+                  "We're not going to grow them"
+               ],
+               [
+                  "00:19:27,640 --> 00:19:29,840",
+                  "exactly where we want them,"
+               ],
+               [
+                  "00:19:29,840 --> 00:19:31,822",
+                  "but to take that one step,"
+               ],
+               [
+                  "00:19:31,822 --> 00:19:33,260",
+                  "and to tie into what you're doing,"
+               ],
+               [
+                  "00:19:33,260 --> 00:19:35,530",
+                  "tt sounds like there could"
+               ],
+               [
+                  "00:19:33,260 --> 00:19:35,530",
+                  "be an area of collaboration"
+               ],
+               [
+                  "00:19:35,530 --> 00:19:38,190",
+                  "where instead of using"
+               ],
+               [
+                  "00:19:35,530 --> 00:19:38,190",
+                  "conventional chemistry,"
+               ],
+               [
+                  "00:19:38,190 --> 00:19:40,941",
+                  "that we can train some of"
+               ],
+               [
+                  "00:19:38,190 --> 00:19:40,941",
+                  "these biological elements"
+               ],
+               [
+                  "00:19:40,941 --> 00:19:43,720",
+                  "to do that work work for us."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:20:36,040 --> 00:20:37,190",
+                  "- It's really fascinating."
+               ],
+               [
+                  "00:20:37,190 --> 00:20:38,690",
+                  "You have all these little worker viruses"
+               ],
+               [
+                  "00:20:38,690 --> 00:20:40,110",
+                  "building the materials for you."
+               ],
+               [
+                  "00:20:40,110 --> 00:20:41,970",
+                  "How are you then applying these materials"
+               ],
+               [
+                  "00:20:41,970 --> 00:20:43,190",
+                  "that you're building?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:22:03,580 --> 00:22:06,800",
+                  "- Looking ahead, 5 years, 10 years,"
+               ],
+               [
+                  "00:22:06,800 --> 00:22:08,930",
+                  "where do you see your own work,"
+               ],
+               [
+                  "00:22:08,930 --> 00:22:10,710",
+                  "and maybe the field more broadly?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:22:27,610 --> 00:22:29,470",
+                  "- One of the things I love"
+               ],
+               [
+                  "00:22:27,610 --> 00:22:29,470",
+                  "about about nanoscience"
+               ],
+               [
+                  "00:22:29,470 --> 00:22:31,650",
+                  "is it tends to break up the silos"
+               ],
+               [
+                  "00:22:31,650 --> 00:22:34,130",
+                  "between those traditional"
+               ],
+               [
+                  "00:22:31,650 --> 00:22:34,130",
+                  "scientific disciplines."
+               ],
+               [
+                  "00:22:34,130 --> 00:22:35,450",
+                  "My training was in chemistry,"
+               ],
+               [
+                  "00:22:35,450 --> 00:22:38,350",
+                  "but I had to very quickly"
+               ],
+               [
+                  "00:22:35,450 --> 00:22:38,350",
+                  "merged chemistry and physics."
+               ],
+               [
+                  "00:22:38,350 --> 00:22:40,340",
+                  "And now I see an area"
+               ],
+               [
+                  "00:22:38,350 --> 00:22:40,340",
+                  "where chemistry, physics,"
+               ],
+               [
+                  "00:22:40,340 --> 00:22:43,940",
+                  "and biology are coming together"
+               ],
+               [
+                  "00:22:40,340 --> 00:22:43,940",
+                  "to produce new materials"
+               ],
+               [
+                  "00:22:43,940 --> 00:22:46,380",
+                  "and new technology, and to"
+               ],
+               [
+                  "00:22:43,940 --> 00:22:46,380",
+                  "advance the field forward."
+               ],
+               [
+                  "00:22:46,380 --> 00:22:47,930",
+                  "And so being in this field,"
+               ],
+               [
+                  "00:22:47,930 --> 00:22:50,380",
+                  "you kind of have to cross pollinate"
+               ],
+               [
+                  "00:22:50,380 --> 00:22:51,620",
+                  "between these different disciplines"
+               ],
+               [
+                  "00:22:51,620 --> 00:22:53,460",
+                  "and kind of advance the field together."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:23:21,610 --> 00:23:23,490",
+                  "- So Angela,"
+               ],
+               [
+                  "00:23:23,490 --> 00:23:24,950",
+                  "thank you so much for joining us."
+               ],
+               [
+                  "00:23:24,950 --> 00:23:26,860",
+                  "And I look forward to seeing more work"
+               ],
+               [
+                  "00:23:26,860 --> 00:23:28,620",
+                  "coming out of your lab in the future."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:23:33,480 --> 00:23:37,090",
+                  "- Me too. Absolutely."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:23:37,090 --> 00:23:39,470",
+                  "I really enjoy talking to"
+               ],
+               [
+                  "00:23:37,090 --> 00:23:39,470",
+                  "these five different people"
+               ],
+               [
+                  "00:23:39,470 --> 00:23:40,770",
+                  "about nanotechnology."
+               ],
+               [
+                  "00:23:40,770 --> 00:23:44,850",
+                  "Nanotechnology is a field that"
+               ],
+               [
+                  "00:23:40,770 --> 00:23:44,850",
+                  "affects all of us every day"
+               ],
+               [
+                  "00:23:44,850 --> 00:23:47,780",
+                  "as finds its way into a"
+               ],
+               [
+                  "00:23:44,850 --> 00:23:47,780",
+                  "variety of applications."
+               ],
+               [
+                  "00:23:47,780 --> 00:23:50,390",
+                  "And I hope you enjoyed it"
+               ],
+               [
+                  "00:23:47,780 --> 00:23:50,390",
+                  "as well and see the impact"
+               ],
+               [
+                  "00:23:50,390 --> 00:23:52,500",
+                  "that nanotechnology"
+               ],
+               [
+                  "00:23:50,390 --> 00:23:52,500",
+                  "has on your life today,"
+               ],
+               [
+                  "00:23:52,500 --> 00:23:54,170",
+                  "and how much more of an impact it'll have"
+               ],
+               [
+                  "00:23:54,170 --> 00:23:55,870",
+                  "on all of our lives in the future."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4?t=40",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:00:43,190 --> 00:00:45,230",
+                  "- Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:00:46,810 --> 00:00:49,310",
+                  "- Nice to meet you too!"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:00:49,310 --> 00:00:50,920",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:00:56,993 --> 00:00:57,826",
+                  "- Nhn nhn."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:01:05,747 --> 00:01:07,930",
+                  "- A baby ant?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:01:30,830 --> 00:01:33,983",
+                  "- Tiny, tiny, tiny, tiny."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:02:03,210 --> 00:02:04,740",
+                  "- Yes."
+               ],
+               [
+                  "00:02:04,740 --> 00:02:06,130",
+                  "I first heard of them"
+               ],
+               [
+                  "00:02:06,130 --> 00:02:09,060",
+                  "on a show I watched called \"StoryBots.\""
+               ],
+               [
+                  "00:02:09,060 --> 00:02:10,639",
+                  "They're just little things"
+               ],
+               [
+                  "00:02:10,639 --> 00:02:15,234",
+                  "that make up everything"
+               ],
+               [
+                  "00:02:10,639 --> 00:02:15,234",
+                  "on Earth, even earth."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:02:28,126 --> 00:02:28,959",
+                  "- Yeah!"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:02:46,841 --> 00:02:51,040",
+                  "- I would want to make"
+               ],
+               [
+                  "00:02:46,841 --> 00:02:51,040",
+                  "a unicorn out of atoms."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:02:57,080 --> 00:03:00,180",
+                  "- Why do you study stuff so small?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:03:30,902 --> 00:03:34,350",
+                  "- Cool."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4?t=212",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:03:34,350 --> 00:03:36,400",
+                  "- I'm 16."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:03:38,600 --> 00:03:41,500",
+                  "- Junior year. So 11th grade."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:03:42,630 --> 00:03:44,178",
+                  "- Yeah, I've heard of it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:03:45,780 --> 00:03:48,570",
+                  "- It kind of seems very science fiction."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:04:03,570 --> 00:04:05,960",
+                  "- My phone?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:04:12,140 --> 00:04:13,920",
+                  "- I don't know."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:04:52,670 --> 00:04:54,470",
+                  "- OK."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:05:11,000 --> 00:05:12,229",
+                  "- You make it smaller?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:05:58,330 --> 00:05:59,990",
+                  "- How do you make stuff that small?"
+               ],
+               [
+                  "00:05:59,990 --> 00:06:03,480",
+                  "Obviously it's not handmade,"
+               ],
+               [
+                  "00:05:59,990 --> 00:06:03,480",
+                  "so is it factories and stuff?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:06:31,490 --> 00:06:34,770",
+                  "- In middle school, I built"
+               ],
+               [
+                  "00:06:31,490 --> 00:06:34,770",
+                  "all of the little switches"
+               ],
+               [
+                  "00:06:34,770 --> 00:06:36,007",
+                  "where you turn the electricity on,"
+               ],
+               [
+                  "00:06:36,007 --> 00:06:38,150",
+                  "and it goes from one thing to the other."
+               ],
+               [
+                  "00:06:38,150 --> 00:06:41,650",
+                  "But those are the really big, comical,"
+               ],
+               [
+                  "00:06:41,650 --> 00:06:44,080",
+                  "like plugging in Legos and stuff."
+               ],
+               [
+                  "00:06:44,080 --> 00:06:46,710",
+                  "When we saw the picture"
+               ],
+               [
+                  "00:06:44,080 --> 00:06:46,710",
+                  "of all of the little ones,"
+               ],
+               [
+                  "00:06:46,710 --> 00:06:49,360",
+                  "it's like a city, it's crazy how simple"
+               ],
+               [
+                  "00:06:49,360 --> 00:06:51,220",
+                  "and complex it is at the same time."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4?t=414",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:06:56,570 --> 00:06:58,220",
+                  "- Chemical engineering."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:06:58,220 --> 00:07:00,340",
+                  "- Like any freshman,"
+               ],
+               [
+                  "00:07:00,340 --> 00:07:01,370",
+                  "going into chemical engineering,"
+               ],
+               [
+                  "00:07:01,370 --> 00:07:03,240",
+                  "I was like, I like chemistry!"
+               ],
+               [
+                  "00:07:03,240 --> 00:07:04,910",
+                  "So I'm gonna go into chemical engineering."
+               ],
+               [
+                  "00:07:04,910 --> 00:07:07,060",
+                  "But luckily I also like"
+               ],
+               [
+                  "00:07:07,060 --> 00:07:08,590",
+                  "all the math and all the science too."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:07:10,750 --> 00:07:11,613",
+                  "- I have. I took that last year."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:07:46,840 --> 00:07:48,090",
+                  "- Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:08:00,310 --> 00:08:02,590",
+                  "- Well, the other day"
+               ],
+               [
+                  "00:08:00,310 --> 00:08:02,590",
+                  "we were talking about"
+               ],
+               [
+                  "00:08:02,590 --> 00:08:05,470",
+                  "the different dimensions you"
+               ],
+               [
+                  "00:08:02,590 --> 00:08:05,470",
+                  "can have of nanotechnology."
+               ],
+               [
+                  "00:08:05,470 --> 00:08:07,470",
+                  "So all the way from like 0D to 3D."
+               ],
+               [
+                  "00:08:07,470 --> 00:08:10,400",
+                  "If I remember correctly, my"
+               ],
+               [
+                  "00:08:07,470 --> 00:08:10,400",
+                  "professor labeled it as 0D?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:08:38,940 --> 00:08:41,740",
+                  "- What are the applications"
+               ],
+               [
+                  "00:08:38,940 --> 00:08:41,740",
+                  "of these quantum dots?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:09:04,520 --> 00:09:05,353",
+                  "- How far away is this"
+               ],
+               [
+                  "00:09:05,353 --> 00:09:08,420",
+                  "from being actually used"
+               ],
+               [
+                  "00:09:05,353 --> 00:09:08,420",
+                  "on an industrial level?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:09:32,770 --> 00:09:33,603",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:09:33,603 --> 00:09:35,900",
+                  "- Carbon nanotube?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:10:18,120 --> 00:10:20,370",
+                  "- So you've been talking about"
+               ],
+               [
+                  "00:10:20,370 --> 00:10:22,770",
+                  "the different ways you can"
+               ],
+               [
+                  "00:10:20,370 --> 00:10:22,770",
+                  "say, roll these nanotubes."
+               ],
+               [
+                  "00:10:22,770 --> 00:10:24,370",
+                  "So how do you go about building"
+               ],
+               [
+                  "00:10:24,370 --> 00:10:27,785",
+                  "and controlling these nanotubes"
+               ],
+               [
+                  "00:10:24,370 --> 00:10:27,785",
+                  "in terms of their diameter?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:11:25,300 --> 00:11:26,890",
+                  "- In my nanomaterials class,"
+               ],
+               [
+                  "00:11:26,890 --> 00:11:28,590",
+                  "actually just a couple of days ago,"
+               ],
+               [
+                  "00:11:28,590 --> 00:11:31,000",
+                  "we were talking about"
+               ],
+               [
+                  "00:11:28,590 --> 00:11:31,000",
+                  "different applications"
+               ],
+               [
+                  "00:11:31,000 --> 00:11:33,570",
+                  "of nanotechnology and things we know."
+               ],
+               [
+                  "00:11:33,570 --> 00:11:36,080",
+                  "And we touched on the"
+               ],
+               [
+                  "00:11:33,570 --> 00:11:36,080",
+                  "topic that right now,"
+               ],
+               [
+                  "00:11:36,080 --> 00:11:38,870",
+                  "silicon is down to the"
+               ],
+               [
+                  "00:11:36,080 --> 00:11:38,870",
+                  "smallest level that it can get."
+               ],
+               [
+                  "00:11:38,870 --> 00:11:40,640",
+                  "And so we have scientists out there"
+               ],
+               [
+                  "00:11:40,640 --> 00:11:43,310",
+                  "researching other materials,"
+               ],
+               [
+                  "00:11:40,640 --> 00:11:43,310",
+                  "to replace silicon."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:12:05,910 --> 00:12:06,743",
+                  "- I gotta ask."
+               ],
+               [
+                  "00:12:06,743 --> 00:12:08,670",
+                  "The lights that are behind"
+               ],
+               [
+                  "00:12:06,743 --> 00:12:08,670",
+                  "you, is that related"
+               ],
+               [
+                  "00:12:08,670 --> 00:12:10,410",
+                  "to the quantum dots that"
+               ],
+               [
+                  "00:12:08,670 --> 00:12:10,410",
+                  "you work with at all?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:12:23,220 --> 00:12:26,510",
+                  "- Well, thank you so much. This"
+               ],
+               [
+                  "00:12:23,220 --> 00:12:26,510",
+                  "was all so very interesting."
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4?t=746",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:12:32,260 --> 00:12:34,407",
+                  "- I've been working on"
+               ],
+               [
+                  "00:12:32,260 --> 00:12:34,407",
+                  "energy storage materials."
+               ],
+               [
+                  "00:12:34,407 --> 00:12:37,630",
+                  "And the most popular are"
+               ],
+               [
+                  "00:12:34,407 --> 00:12:37,630",
+                  "batteries that we work on."
+               ],
+               [
+                  "00:12:37,630 --> 00:12:39,800",
+                  "A lot of the revolution"
+               ],
+               [
+                  "00:12:37,630 --> 00:12:39,800",
+                  "that's come in electronics"
+               ],
+               [
+                  "00:12:39,800 --> 00:12:40,720",
+                  "is kind of our model"
+               ],
+               [
+                  "00:12:40,720 --> 00:12:43,120",
+                  "to try and use some nanoscale advances"
+               ],
+               [
+                  "00:12:43,120 --> 00:12:45,260",
+                  "and put them into batteries."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:12:53,980 --> 00:12:56,450",
+                  "- So for batteries, one"
+               ],
+               [
+                  "00:12:53,980 --> 00:12:56,450",
+                  "of the main constraints"
+               ],
+               [
+                  "00:12:56,450 --> 00:12:59,850",
+                  "when we're designing batteries"
+               ],
+               [
+                  "00:12:56,450 --> 00:12:59,850",
+                  "is trying to maintain"
+               ],
+               [
+                  "00:12:59,850 --> 00:13:03,270",
+                  "or reduce the volume and"
+               ],
+               [
+                  "00:12:59,850 --> 00:13:03,270",
+                  "mass of the components."
+               ],
+               [
+                  "00:13:03,270 --> 00:13:06,890",
+                  "And nanomaterials are"
+               ],
+               [
+                  "00:13:03,270 --> 00:13:06,890",
+                  "particularly well suited"
+               ],
+               [
+                  "00:13:06,890 --> 00:13:08,450",
+                  "to adding functionality"
+               ],
+               [
+                  "00:13:08,450 --> 00:13:11,010",
+                  "while having this negligible"
+               ],
+               [
+                  "00:13:08,450 --> 00:13:11,010",
+                  "increase in volume."
+               ],
+               [
+                  "00:13:11,010 --> 00:13:13,680",
+                  "So we get a huge benefit"
+               ],
+               [
+                  "00:13:11,010 --> 00:13:13,680",
+                  "from using nano materials"
+               ],
+               [
+                  "00:13:13,680 --> 00:13:16,518",
+                  "without sacrificing the"
+               ],
+               [
+                  "00:13:13,680 --> 00:13:16,518",
+                  "volume of the battery."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:13:21,610 --> 00:13:23,490",
+                  "- At first, one of the"
+               ],
+               [
+                  "00:13:21,610 --> 00:13:23,490",
+                  "main things that we did"
+               ],
+               [
+                  "00:13:23,490 --> 00:13:25,470",
+                  "was use nanomaterials to add conductivity."
+               ],
+               [
+                  "00:13:25,470 --> 00:13:28,700",
+                  "And so carbon anodes and"
+               ],
+               [
+                  "00:13:25,470 --> 00:13:28,700",
+                  "graphene are really good"
+               ],
+               [
+                  "00:13:28,700 --> 00:13:30,620",
+                  "at adding conductivity to batteries."
+               ],
+               [
+                  "00:13:30,620 --> 00:13:32,460",
+                  "And then in the subsequent years,"
+               ],
+               [
+                  "00:13:32,460 --> 00:13:34,380",
+                  "nanomaterials have been really interesting"
+               ],
+               [
+                  "00:13:34,380 --> 00:13:37,540",
+                  "from things like incorporating"
+               ],
+               [
+                  "00:13:34,380 --> 00:13:37,540",
+                  "sensors into batteries,"
+               ],
+               [
+                  "00:13:37,540 --> 00:13:39,530",
+                  "to increasing the"
+               ],
+               [
+                  "00:13:37,540 --> 00:13:39,530",
+                  "functionality of batteries,"
+               ],
+               [
+                  "00:13:39,530 --> 00:13:42,070",
+                  "having some responsive materials"
+               ],
+               [
+                  "00:13:42,070 --> 00:13:44,600",
+                  "that use things like graphene sheets"
+               ],
+               [
+                  "00:13:44,600 --> 00:13:46,410",
+                  "that are incorporated into a matrix,"
+               ],
+               [
+                  "00:13:46,410 --> 00:13:48,550",
+                  "and then you add a safety"
+               ],
+               [
+                  "00:13:46,410 --> 00:13:48,550",
+                  "functionality to a battery."
+               ],
+               [
+                  "00:13:48,550 --> 00:13:49,920",
+                  "We're trying to squeeze out"
+               ],
+               [
+                  "00:13:49,920 --> 00:13:52,340",
+                  "almost all the functionality that we can."
+               ],
+               [
+                  "00:13:52,340 --> 00:13:54,500",
+                  "And as new nano materials"
+               ],
+               [
+                  "00:13:52,340 --> 00:13:54,500",
+                  "are being discovered"
+               ],
+               [
+                  "00:13:54,500 --> 00:13:56,900",
+                  "and there're new properties"
+               ],
+               [
+                  "00:13:54,500 --> 00:13:56,900",
+                  "being discovered,"
+               ],
+               [
+                  "00:13:56,900 --> 00:13:59,290",
+                  "a lot of the time that someone"
+               ],
+               [
+                  "00:13:56,900 --> 00:13:59,290",
+                  "tries to think of a way"
+               ],
+               [
+                  "00:13:59,290 --> 00:14:00,640",
+                  "to translate that into a battery."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:14:35,890 --> 00:14:37,940",
+                  "- I think every step of"
+               ],
+               [
+                  "00:14:35,890 --> 00:14:37,940",
+                  "a process in a battery"
+               ],
+               [
+                  "00:14:37,940 --> 00:14:39,580",
+                  "is something where you have to think about"
+               ],
+               [
+                  "00:14:39,580 --> 00:14:42,090",
+                  "how would this translate"
+               ],
+               [
+                  "00:14:39,580 --> 00:14:42,090",
+                  "to making a battery"
+               ],
+               [
+                  "00:14:42,090 --> 00:14:43,630",
+                  "in terms of the production?"
+               ],
+               [
+                  "00:14:43,630 --> 00:14:44,990",
+                  "One thing that I think is very interesting"
+               ],
+               [
+                  "00:14:44,990 --> 00:14:47,440",
+                  "about the field of nanoscale"
+               ],
+               [
+                  "00:14:44,990 --> 00:14:47,440",
+                  "materials in general,"
+               ],
+               [
+                  "00:14:47,440 --> 00:14:48,770",
+                  "is that how you make the material"
+               ],
+               [
+                  "00:14:48,770 --> 00:14:50,540",
+                  "changes the properties a lot."
+               ],
+               [
+                  "00:14:50,540 --> 00:14:54,270",
+                  "And so we claim that this 2D"
+               ],
+               [
+                  "00:14:50,540 --> 00:14:54,270",
+                  "material has this property,"
+               ],
+               [
+                  "00:14:54,270 --> 00:14:56,290",
+                  "then tying that to the battery performance"
+               ],
+               [
+                  "00:14:56,290 --> 00:14:58,430",
+                  "is something that's"
+               ],
+               [
+                  "00:14:56,290 --> 00:14:58,430",
+                  "pretty difficult to do."
+               ],
+               [
+                  "00:14:58,430 --> 00:14:59,860",
+                  "It takes a few steps in between."
+               ],
+               [
+                  "00:14:59,860 --> 00:15:01,210",
+                  "So we have to think kind of creatively"
+               ],
+               [
+                  "00:15:01,210 --> 00:15:02,700",
+                  "with how we can do that."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/WW0IIyrq8z4?t=965",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-nanotechnology",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:16:32,060 --> 00:16:33,530",
+                  "- Life gave us this toolkit"
+               ],
+               [
+                  "00:16:33,530 --> 00:16:35,260",
+                  "that is already on the nanoscale."
+               ],
+               [
+                  "00:16:35,260 --> 00:16:37,220",
+                  "So we think that that's a great place"
+               ],
+               [
+                  "00:16:37,220 --> 00:16:40,340",
+                  "to think about making"
+               ],
+               [
+                  "00:16:37,220 --> 00:16:40,340",
+                  "materials on the nano scale"
+               ],
+               [
+                  "00:16:40,340 --> 00:16:42,629",
+                  "and manipulating materials"
+               ],
+               [
+                  "00:16:40,340 --> 00:16:42,629",
+                  "on the nano scale,"
+               ],
+               [
+                  "00:16:42,629 --> 00:16:44,600",
+                  "and wiring them together as well."
+               ],
+               [
+                  "00:16:44,600 --> 00:16:46,050",
+                  "This abalone shell, you can see"
+               ],
+               [
+                  "00:16:46,050 --> 00:16:49,090",
+                  "the exquisite beautiful"
+               ],
+               [
+                  "00:16:46,050 --> 00:16:49,090",
+                  "colors and structures of it."
+               ],
+               [
+                  "00:16:49,090 --> 00:16:51,690",
+                  "This is a nano composite material."
+               ],
+               [
+                  "00:16:51,690 --> 00:16:53,980",
+                  "If you take this and fracture"
+               ],
+               [
+                  "00:16:51,690 --> 00:16:53,980",
+                  "it, and you look at it"
+               ],
+               [
+                  "00:16:53,980 --> 00:16:56,200",
+                  "in a scanning electron"
+               ],
+               [
+                  "00:16:53,980 --> 00:16:56,200",
+                  "microscope, what you'll see"
+               ],
+               [
+                  "00:16:56,200 --> 00:16:58,280",
+                  "is that it's made out of"
+               ],
+               [
+                  "00:16:56,200 --> 00:16:58,280",
+                  "these beautiful tablets."
+               ],
+               [
+                  "00:16:58,280 --> 00:16:59,930",
+                  "And I studied that as a graduate student."
+               ],
+               [
+                  "00:16:59,930 --> 00:17:02,590",
+                  "I looked at that and I said,"
+               ],
+               [
+                  "00:16:59,930 --> 00:17:02,590",
+                  "that is completely amazing."
+               ],
+               [
+                  "00:17:02,590 --> 00:17:04,210",
+                  "You have an organism in the ocean,"
+               ],
+               [
+                  "00:17:04,210 --> 00:17:06,040",
+                  "that takes what's in its environment,"
+               ],
+               [
+                  "00:17:06,040 --> 00:17:08,040",
+                  "which is calcium and carbonate."
+               ],
+               [
+                  "00:17:08,040 --> 00:17:10,190",
+                  "That's dissolved in the"
+               ],
+               [
+                  "00:17:08,040 --> 00:17:10,190",
+                  "water and templates it"
+               ],
+               [
+                  "00:17:10,190 --> 00:17:11,680",
+                  "into this really exquisite structure."
+               ],
+               [
+                  "00:17:11,680 --> 00:17:12,760",
+                  "And so you think that's great."
+               ],
+               [
+                  "00:17:12,760 --> 00:17:14,020",
+                  "Calcium carbonate is great,"
+               ],
+               [
+                  "00:17:14,020 --> 00:17:16,030",
+                  "but what if we wanted to make a solar cell"
+               ],
+               [
+                  "00:17:16,030 --> 00:17:20,680",
+                  "or a another electronic"
+               ],
+               [
+                  "00:17:16,030 --> 00:17:20,680",
+                  "device or a battery,"
+               ],
+               [
+                  "00:17:20,680 --> 00:17:22,550",
+                  "how would you get an organism to do that?"
+               ],
+               [
+                  "00:17:22,550 --> 00:17:24,880",
+                  "And you say, okay, that's"
+               ],
+               [
+                  "00:17:22,550 --> 00:17:24,880",
+                  "a really crazy idea."
+               ],
+               [
+                  "00:17:24,880 --> 00:17:28,380",
+                  "But is it really that"
+               ],
+               [
+                  "00:17:24,880 --> 00:17:28,380",
+                  "crazy if this abalone,"
+               ],
+               [
+                  "00:17:28,380 --> 00:17:31,430",
+                  "already figured out how to"
+               ],
+               [
+                  "00:17:28,380 --> 00:17:31,430",
+                  "do it, 500 million years ago?"
+               ],
+               [
+                  "00:17:31,430 --> 00:17:34,440",
+                  "So we're saying, okay,"
+               ],
+               [
+                  "00:17:31,430 --> 00:17:34,440",
+                  "abalones build shells."
+               ],
+               [
+                  "00:17:34,440 --> 00:17:38,910",
+                  "Can viruses build solar cells,"
+               ],
+               [
+                  "00:17:34,440 --> 00:17:38,910",
+                  "can viruses build catalysts?"
+               ],
+               [
+                  "00:17:38,910 --> 00:17:43,120",
+                  "Can they build batteries"
+               ],
+               [
+                  "00:17:38,910 --> 00:17:43,120",
+                  "using the same kind of idea?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:17:54,210 --> 00:17:56,110",
+                  "- We work on something"
+               ],
+               [
+                  "00:17:56,110 --> 00:17:58,950",
+                  "called bacteriophages,"
+               ],
+               [
+                  "00:17:56,110 --> 00:17:58,950",
+                  "it's a virus with DNA."
+               ],
+               [
+                  "00:17:58,950 --> 00:18:02,620",
+                  "This particular bacteriophage"
+               ],
+               [
+                  "00:17:58,950 --> 00:18:02,620",
+                  "called M13 bacteriophage"
+               ],
+               [
+                  "00:18:02,620 --> 00:18:05,400",
+                  "is made up of single"
+               ],
+               [
+                  "00:18:02,620 --> 00:18:05,400",
+                  "stranded DNA and proteins."
+               ],
+               [
+                  "00:18:05,400 --> 00:18:06,830",
+                  "It's long and thin."
+               ],
+               [
+                  "00:18:06,830 --> 00:18:09,440",
+                  "So it's 880 nanometers in length,"
+               ],
+               [
+                  "00:18:09,440 --> 00:18:13,000",
+                  "and it's about 9 nanometers in diameter."
+               ],
+               [
+                  "00:18:13,000 --> 00:18:14,380",
+                  "And so one of the reasons I love it"
+               ],
+               [
+                  "00:18:14,380 --> 00:18:15,890",
+                  "is it spans the nanoscale"
+               ],
+               [
+                  "00:18:15,890 --> 00:18:17,890",
+                  "and almost the micron"
+               ],
+               [
+                  "00:18:15,890 --> 00:18:17,890",
+                  "scale at the same time."
+               ],
+               [
+                  "00:18:17,890 --> 00:18:20,660",
+                  "Take the single strand"
+               ],
+               [
+                  "00:18:17,890 --> 00:18:20,660",
+                  "DNAs, obviously a model,"
+               ],
+               [
+                  "00:18:20,660 --> 00:18:23,150",
+                  "and you can cut it with"
+               ],
+               [
+                  "00:18:20,660 --> 00:18:23,150",
+                  "molecular scissors."
+               ],
+               [
+                  "00:18:23,150 --> 00:18:25,690",
+                  "And you can put a new"
+               ],
+               [
+                  "00:18:23,150 --> 00:18:25,690",
+                  "piece of DNA in between."
+               ],
+               [
+                  "00:18:25,690 --> 00:18:27,740",
+                  "And so you put a small"
+               ],
+               [
+                  "00:18:25,690 --> 00:18:27,740",
+                  "piece of DNA in there"
+               ],
+               [
+                  "00:18:27,740 --> 00:18:29,440",
+                  "that doesn't belong there."
+               ],
+               [
+                  "00:18:29,440 --> 00:18:31,620",
+                  "And that piece of DNA"
+               ],
+               [
+                  "00:18:31,620 --> 00:18:35,530",
+                  "is going to randomly code for a protein."
+               ],
+               [
+                  "00:18:35,530 --> 00:18:39,420",
+                  "Now, the next time that"
+               ],
+               [
+                  "00:18:35,530 --> 00:18:39,420",
+                  "that virus is replicated"
+               ],
+               [
+                  "00:18:39,420 --> 00:18:41,290",
+                  "within a bacterial host,"
+               ],
+               [
+                  "00:18:41,290 --> 00:18:44,390",
+                  "it'll be able to put a new"
+               ],
+               [
+                  "00:18:41,290 --> 00:18:44,390",
+                  "protein sequence on the coat,"
+               ],
+               [
+                  "00:18:44,390 --> 00:18:46,400",
+                  "just a short protein sequence on the coat,"
+               ],
+               [
+                  "00:18:46,400 --> 00:18:49,150",
+                  "maybe like 8 or 12 amino acids in length."
+               ],
+               [
+                  "00:18:49,150 --> 00:18:51,390",
+                  "And just like that abalone"
+               ],
+               [
+                  "00:18:49,150 --> 00:18:51,390",
+                  "is going to grab calcium"
+               ],
+               [
+                  "00:18:51,390 --> 00:18:52,700",
+                  "and build calcium carbonate."
+               ],
+               [
+                  "00:18:52,700 --> 00:18:55,710",
+                  "We're going to have our"
+               ],
+               [
+                  "00:18:52,700 --> 00:18:55,710",
+                  "viruses build iron phosphate"
+               ],
+               [
+                  "00:18:55,710 --> 00:18:57,630",
+                  "for a battery electrode material"
+               ],
+               [
+                  "00:18:57,630 --> 00:19:00,490",
+                  "or Gallium arsenide or cad sulfide"
+               ],
+               [
+                  "00:19:00,490 --> 00:19:02,060",
+                  "for a semiconductor material."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:19:43,720 --> 00:19:45,650",
+                  "- Biology is chemistry."
+               ],
+               [
+                  "00:19:45,650 --> 00:19:47,110",
+                  "Molecules, proteins,"
+               ],
+               [
+                  "00:19:47,110 --> 00:19:50,280",
+                  "and DNA work with all"
+               ],
+               [
+                  "00:19:47,110 --> 00:19:50,280",
+                  "the same kinds of bonding"
+               ],
+               [
+                  "00:19:50,280 --> 00:19:51,930",
+                  "and things that the chemicals"
+               ],
+               [
+                  "00:19:51,930 --> 00:19:54,820",
+                  "that you're gonna be looking"
+               ],
+               [
+                  "00:19:51,930 --> 00:19:54,820",
+                  "for in these processes."
+               ],
+               [
+                  "00:19:54,820 --> 00:19:57,390",
+                  "It's put together in a way"
+               ],
+               [
+                  "00:19:57,390 --> 00:20:00,800",
+                  "that when a protein or enzyme folds,"
+               ],
+               [
+                  "00:20:00,800 --> 00:20:02,880",
+                  "it almost always folds correctly."
+               ],
+               [
+                  "00:20:02,880 --> 00:20:04,280",
+                  "That's kind of the beauty of it,"
+               ],
+               [
+                  "00:20:04,280 --> 00:20:07,550",
+                  "the predictable aspect"
+               ],
+               [
+                  "00:20:04,280 --> 00:20:07,550",
+                  "of it encoded in its DNA."
+               ],
+               [
+                  "00:20:07,550 --> 00:20:10,630",
+                  "If we need to make it the"
+               ],
+               [
+                  "00:20:07,550 --> 00:20:10,630",
+                  "same over and over again,"
+               ],
+               [
+                  "00:20:10,630 --> 00:20:12,660",
+                  "then as long as you have"
+               ],
+               [
+                  "00:20:10,630 --> 00:20:12,660",
+                  "the right DNA sequence,"
+               ],
+               [
+                  "00:20:12,660 --> 00:20:15,890",
+                  "DNA is a beautiful"
+               ],
+               [
+                  "00:20:12,660 --> 00:20:15,890",
+                  "structure on the nanoscale."
+               ],
+               [
+                  "00:20:15,890 --> 00:20:18,360",
+                  "And there's really, really"
+               ],
+               [
+                  "00:20:15,890 --> 00:20:18,360",
+                  "cool, incredible work"
+               ],
+               [
+                  "00:20:18,360 --> 00:20:20,450",
+                  "on DNA origami, when DNA can fold"
+               ],
+               [
+                  "00:20:20,450 --> 00:20:22,200",
+                  "into just the right structure."
+               ],
+               [
+                  "00:20:22,200 --> 00:20:24,877",
+                  "And so I can see that as an interface,"
+               ],
+               [
+                  "00:20:24,877 --> 00:20:27,890",
+                  "that would be really cool"
+               ],
+               [
+                  "00:20:24,877 --> 00:20:27,890",
+                  "and interesting in your work."
+               ],
+               [
+                  "00:20:27,890 --> 00:20:31,520",
+                  "And you can have the virus make"
+               ],
+               [
+                  "00:20:27,890 --> 00:20:31,520",
+                  "the DNA for the DNA origami,"
+               ],
+               [
+                  "00:20:31,520 --> 00:20:36,040",
+                  "and then you use DNA to assemble"
+               ],
+               [
+                  "00:20:31,520 --> 00:20:36,040",
+                  "your beautiful structures."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:20:43,190 --> 00:20:44,390",
+                  "- We started thinking about"
+               ],
+               [
+                  "00:20:44,390 --> 00:20:46,980",
+                  "how can we make an impact in cancer?"
+               ],
+               [
+                  "00:20:46,980 --> 00:20:49,670",
+                  "We do it mostly in imaging technology"
+               ],
+               [
+                  "00:20:49,670 --> 00:20:53,490",
+                  "to look deep inside the body"
+               ],
+               [
+                  "00:20:49,670 --> 00:20:53,490",
+                  "noninvasively with light."
+               ],
+               [
+                  "00:20:53,490 --> 00:20:55,090",
+                  "And the way that we came about that"
+               ],
+               [
+                  "00:20:55,090 --> 00:20:57,040",
+                  "was through solar cells and batteries."
+               ],
+               [
+                  "00:20:57,040 --> 00:21:00,040",
+                  "We trained our viruses to"
+               ],
+               [
+                  "00:20:57,040 --> 00:21:00,040",
+                  "pick up carbon nanotubes"
+               ],
+               [
+                  "00:21:00,040 --> 00:21:02,050",
+                  "and hold onto them very, very tightly."
+               ],
+               [
+                  "00:21:02,050 --> 00:21:04,570",
+                  "And then we'll give a virus a second gene,"
+               ],
+               [
+                  "00:21:04,570 --> 00:21:08,050",
+                  "decode for a protein, to"
+               ],
+               [
+                  "00:21:04,570 --> 00:21:08,050",
+                  "grow, in a case of a battery,"
+               ],
+               [
+                  "00:21:08,050 --> 00:21:10,030",
+                  "a battery electrode material."
+               ],
+               [
+                  "00:21:10,030 --> 00:21:14,230",
+                  "It allows it to weave together"
+               ],
+               [
+                  "00:21:10,030 --> 00:21:14,230",
+                  "a good electrical conductor"
+               ],
+               [
+                  "00:21:14,230 --> 00:21:16,810",
+                  "and a good ionic conductor"
+               ],
+               [
+                  "00:21:14,230 --> 00:21:16,810",
+                  "at the same time,"
+               ],
+               [
+                  "00:21:16,810 --> 00:21:19,740",
+                  "all within this really,"
+               ],
+               [
+                  "00:21:16,810 --> 00:21:19,740",
+                  "really small space."
+               ],
+               [
+                  "00:21:19,740 --> 00:21:22,460",
+                  "And the optical properties"
+               ],
+               [
+                  "00:21:19,740 --> 00:21:22,460",
+                  "of these carbon nanotubes"
+               ],
+               [
+                  "00:21:22,460 --> 00:21:23,600",
+                  "are in the wavelength."
+               ],
+               [
+                  "00:21:23,600 --> 00:21:27,050",
+                  "That is interesting for"
+               ],
+               [
+                  "00:21:23,600 --> 00:21:27,050",
+                  "imaging deep inside the body."
+               ],
+               [
+                  "00:21:27,050 --> 00:21:29,680",
+                  "We started building a"
+               ],
+               [
+                  "00:21:27,050 --> 00:21:29,680",
+                  "bunch of imaging tools"
+               ],
+               [
+                  "00:21:29,680 --> 00:21:34,010",
+                  "that could image above a thousand"
+               ],
+               [
+                  "00:21:29,680 --> 00:21:34,010",
+                  "nanometers, a wave length."
+               ],
+               [
+                  "00:21:34,010 --> 00:21:36,190",
+                  "And so this is in [audio distorting]"
+               ],
+               [
+                  "00:21:36,190 --> 00:21:38,710",
+                  "and that's a really special window"
+               ],
+               [
+                  "00:21:38,710 --> 00:21:41,470",
+                  "where you have some optical transparency"
+               ],
+               [
+                  "00:21:41,470 --> 00:21:42,930",
+                  "of tissue in the body."
+               ],
+               [
+                  "00:21:42,930 --> 00:21:45,710",
+                  "The other gene, we engineered"
+               ],
+               [
+                  "00:21:42,930 --> 00:21:45,710",
+                  "to find ovarian cancer."
+               ],
+               [
+                  "00:21:45,710 --> 00:21:48,950",
+                  "We developed imaging tools"
+               ],
+               [
+                  "00:21:45,710 --> 00:21:48,950",
+                  "with Harvard Medical School"
+               ],
+               [
+                  "00:21:48,950 --> 00:21:52,140",
+                  "and MIT Lincoln Labs to"
+               ],
+               [
+                  "00:21:48,950 --> 00:21:52,140",
+                  "find tiny ovarian tumors."
+               ],
+               [
+                  "00:21:52,140 --> 00:21:55,090",
+                  "It's hard to see things less"
+               ],
+               [
+                  "00:21:52,140 --> 00:21:55,090",
+                  "than a centimeter in size"
+               ],
+               [
+                  "00:21:55,090 --> 00:21:58,320",
+                  "with ovarian cancer, just based"
+               ],
+               [
+                  "00:21:55,090 --> 00:21:58,320",
+                  "on the location in the body."
+               ],
+               [
+                  "00:21:58,320 --> 00:22:01,310",
+                  "But with our imaging"
+               ],
+               [
+                  "00:21:58,320 --> 00:22:01,310",
+                  "system, we could find tumors"
+               ],
+               [
+                  "00:22:01,310 --> 00:22:03,580",
+                  "that were below a millimeter"
+               ],
+               [
+                  "00:22:01,310 --> 00:22:03,580",
+                  "in size, actually."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:22:10,710 --> 00:22:11,770",
+                  "- The future I'd like to see"
+               ],
+               [
+                  "00:22:11,770 --> 00:22:13,870",
+                  "is environmentally friendly chemistry"
+               ],
+               [
+                  "00:22:13,870 --> 00:22:15,460",
+                  "and materials synthesis."
+               ],
+               [
+                  "00:22:15,460 --> 00:22:17,590",
+                  "And I think that we're"
+               ],
+               [
+                  "00:22:15,460 --> 00:22:17,590",
+                  "really going that way."
+               ],
+               [
+                  "00:22:17,590 --> 00:22:19,730",
+                  "If we think about batteries of the future,"
+               ],
+               [
+                  "00:22:19,730 --> 00:22:21,250",
+                  "solar cells of the future,"
+               ],
+               [
+                  "00:22:21,250 --> 00:22:24,600",
+                  "thinking about earth abundant"
+               ],
+               [
+                  "00:22:21,250 --> 00:22:24,600",
+                  "materials and processes"
+               ],
+               [
+                  "00:22:24,600 --> 00:22:27,610",
+                  "that are compatible with"
+               ],
+               [
+                  "00:22:24,600 --> 00:22:27,610",
+                  "the earth and environment."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:22:53,460 --> 00:22:56,100",
+                  "- I agree completely. We"
+               ],
+               [
+                  "00:22:53,460 --> 00:22:56,100",
+                  "like to solve problems."
+               ],
+               [
+                  "00:22:56,100 --> 00:22:59,850",
+                  "Nano bio is the toolkit"
+               ],
+               [
+                  "00:22:56,100 --> 00:22:59,850",
+                  "that we bring a lot."
+               ],
+               [
+                  "00:22:59,850 --> 00:23:02,760",
+                  "It happens to be a very"
+               ],
+               [
+                  "00:22:59,850 --> 00:23:02,760",
+                  "strong and evolving toolkit."
+               ],
+               [
+                  "00:23:02,760 --> 00:23:05,460",
+                  "That's another thing"
+               ],
+               [
+                  "00:23:02,760 --> 00:23:05,460",
+                  "that I love about biology"
+               ],
+               [
+                  "00:23:05,460 --> 00:23:08,300",
+                  "is if you can come up with a solution"
+               ],
+               [
+                  "00:23:08,300 --> 00:23:10,330",
+                  "that's not perfect at all to begin with"
+               ],
+               [
+                  "00:23:10,330 --> 00:23:12,320",
+                  "when you're making a"
+               ],
+               [
+                  "00:23:10,330 --> 00:23:12,320",
+                  "battery electrode material"
+               ],
+               [
+                  "00:23:12,320 --> 00:23:14,940",
+                  "or any kind of material you're making,"
+               ],
+               [
+                  "00:23:14,940 --> 00:23:17,610",
+                  "you have evolution on your side"
+               ],
+               [
+                  "00:23:17,610 --> 00:23:21,610",
+                  "to try to make it better and"
+               ],
+               [
+                  "00:23:17,610 --> 00:23:21,610",
+                  "better as a function of time."
+               ],
+               [
+                  "00:23:21,610 --> 00:23:23,490",
+                  "That can be quite rapid."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:23:28,620 --> 00:23:29,970",
+                  "- Thanks for having me, George,"
+               ],
+               [
+                  "00:23:29,970 --> 00:23:32,070",
+                  "it was really fun to"
+               ],
+               [
+                  "00:23:29,970 --> 00:23:32,070",
+                  "interact, and I'm very excited"
+               ],
+               [
+                  "00:23:32,070 --> 00:23:33,480",
+                  "about our future collaborations."
+               ]
+            ]
+         }
+      ]
+   }
+}

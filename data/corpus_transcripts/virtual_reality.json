@@ -1,0 +1,696 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hî, I'm John Carmack.",
+          "I'm the chief technology officer for Oculus.",
+          "I work on virtual reality.",
+          "I've been challenged today to talk about one concept",
+          "at five levels of increasing complexity.",
+          "So we're going to be talking about reality and virtual",
+          "reality, what the technology allows us to do today,",
+          "what it may allow us to do in future, and whether",
+          "that should even be our goal to approximate reality."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "So do you know what virtual reality is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "That's actually a really good description.",
+          "The idea is that if you've got a system here that can make",
+          "you see whatever we want you to see, then we can make you",
+          "believe that you're anywhere else, like on top of",
+          "a mountain, or in a dungeon or under the ocean."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah, or in Minecraft.",
+          "When you look at a TV on the wall there showing like",
+          "a picture of a mountain or something,",
+          "how can you tell that its not just a window",
+          "and there's something else behind it.",
+          "Because it always doesn't look quite right",
+          "if you have a static picture of a person on a screen",
+          "and you move around like this, its not really changing.",
+          "And its interesting, those are things we have to figure out",
+          "We need to figure out when you look at something in reality",
+          "how can you tell whether its real or not.",
+          "Have you been to a 3-D movie",
+          "where you put on the little glasses?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "So what they do, the trick for that is, if you ever",
+          "at a theater and you take up the glasses and you look",
+          "at it, you'll see its blurry where there's actually",
+          "two pictures that they're showing at the same time.",
+          "And what those little glasses do, is they let one eye",
+          "see one picture, and the other eye see a different picture.",
+          "So then your eyes can say, oh it looks like I'm seeing",
+          "through the screen or something is floating out",
+          "in front of it.",
+          "In the VR headsets, what we do is, there's actually either",
+          "two screens or one screen split in half,",
+          "so that it draws a different picture,",
+          "completely different picture, for each eye.",
+          "And we make sure that each eye can only",
+          "see the picture it intended to.",
+          "And that's what can make things feel like they got this real",
+          "depth to them, that its something that you could reach out",
+          "and touch and it doesn't feel like a flat TV screen."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Try look over there and concentrate on his face over there.",
+          "Can you see me waving my hand without turning your eyes?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "Alright, so, at some point,",
+          "you can probably see it right now?",
+          "So without moving your eyes, this is kind of hard,",
+          "tell me how many fingers I'm holding up?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "You can just barely tell.",
+          "And you can see that even, like if you hold out your hand",
+          "and you focus on your hand, then your foot would be blurry",
+          "because there's that difference there.",
+          "And you can change between that, like you can then focus",
+          "on your foot and your hand gets blurry.",
+          "Because your eyes can see different amounts of detail",
+          "in different places.",
+          "So we're hoping in the future,",
+          "that hardware can be like that.",
+          "Where we can make a display that puts lots of detail",
+          "right where you're looking.",
+          "And every time you look someplace else,",
+          "it moves the detail over to there.",
+          "So we don't need to render a hundred times",
+          "as much as we've got right now.",
+          "Figuring out where you're looking is a pretty hard problem.",
+          "What we try to go about this, is by taking a camera",
+          "and looking at people's eyes and then try to figure out",
+          "is the eye looking over here or up here.",
+          "We're working hard on stuff like this right now",
+          "so we hopefully can have a virtual reality that's",
+          "as detailed and realistic feeling",
+          "as the reality that we've actually got around us.",
+          "But its going to be a long time before we get to",
+          "where we can really fool people."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So do you have a basic sense of what latency is?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Its basically a delay and it happens in all parts",
+          "of the system: monitors can be a big one.",
+          "Like consumer televisions can often have 15 milliseconds",
+          "or more of latency just in the TV part.",
+          "And then you've got the processing and the computer",
+          "and all of these add up to the total latency."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "Games that feel really good, they've got that sense",
+          "of it happens instantly when you're doing something."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "30 years ago, you had desktop PCs which were,",
+          "you spent whatever on that, but there was always this idea",
+          "well you could spend a million dollars and buy",
+          "a super-computer and its gonna be a lot faster.",
+          "And that's not really true today.",
+          "For scalar processing, when you just do one thing after",
+          "another, a high-end, overclocked, cool gaming PC",
+          "is about the fastest thing in the world.",
+          "It is within a very small delta, yeah for some things",
+          "you'll get some IBM power system that might be",
+          "a little bit faster, but not a whole lot.",
+          "So if I'm looking at this and saying",
+          "we need to be five times faster.",
+          "What do you do?",
+          "You can't just say make each thing faster.",
+          "As a developer you're making a trade-off,",
+          "I can put my effort into making this more efficient",
+          "or making it more fun.",
+          "And more fun usually wins out for very good reasons.",
+          "So there's some good judgment and trickery",
+          "that goes into the design of things.",
+          "But you can always just design a game",
+          "that will just not work well. (laughing)",
+          "I mean in the old days, games had to be",
+          "so precisely designed.",
+          "Nowadays you've got a ton more freedom.",
+          "You really can--"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah, any crazy idea you had now you could probably make",
+          "a pretty good video game out of it.",
+          "Which is a wonderful, wonderful thing."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "But VR makes, you have to give up a little bit of that",
+          "freedom, you have to not do so many crazy things,",
+          "so you can wind up having it be as responsive",
+          "and high quality as it needs to be."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "You know an interesting topic is: what are the limits",
+          "to what we can do with virtual reality?",
+          "Where I'm pretty pleased with what we have today.",
+          "What we can show people and say virtual reality, its cool.",
+          "People get an amazing response from it.",
+          "But we're still clearly a very, very long ways from reality."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Mostly in VR we talk about the display and optics,",
+          "the visual side of things,",
+          "but we should at least tick off the other senses.",
+          "And haptics is an interesting thing about virtual reality",
+          "really doesn't have that aspect of touching things.",
+          "You can move your hands around, you can do everything",
+          "but its a disconnected experience because you know",
+          "you don't have an actual solidity there.",
+          "And I am pessimistic about progress in haptics technology.",
+          "Almost all other areas I'm an optimist and I'm excited",
+          "about what's coming up, but I don't have any brilliant",
+          "vision about how we're going to revolutionize haptics",
+          "and make it feel like we're touching the things",
+          "in the virtual world."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah, that is one potential quality improvement that",
+          "is still on the horizon is when we do spatialization,",
+          "we use HRTF, the Head Relative Transfer Function,",
+          "to make it sound like its in different places.",
+          "But usually we just use this one kind of generic,",
+          "here's your average human, HRTF function.",
+          "Its possible, that of course, if you are right",
+          "in the average then its perfect for you.",
+          "But there's always people off to the extremes,",
+          "that it doesn't do a very good job at.",
+          "And there may be better ways to allow people to sample",
+          "their own perfect HRTF which can improve",
+          "the audio experience a lot.",
+          "It all comes down to all these trade-offs."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "There was a huge concern about that at Oculus.",
+          "And the term internally that went around",
+          "was poisoning the well.",
+          "They were very, very concerned.",
+          "I mean for a long time there was a fight about whether",
+          "gear VR should even be done, because the worry was",
+          "if we let a product go out,",
+          "like gear VR that didn't have those things.",
+          "That if somebody saw it and it was bad, made them sick,",
+          "made their eyes hurt, then they would be like",
+          "I'm never going to try VR again.",
+          "I tried it that time and it was terrible.",
+          "And there was legitimate arguments about whether",
+          "it was even a good idea to do that.",
+          "And it turned out that yes, its obviously better to have all",
+          "those things, but you can still do something",
+          "that's valuable for the user without it.",
+          "Its weird being at the beginning of a medium like this."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "Mostly today, I've been talking a lot about",
+          "what can we do, what's possible.",
+          "We think might be possible in the next couple of years.",
+          "But really at the professional level its more",
+          "the question of wisdom of what should we be doing."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "As an engineer of course, I love quantifiable things.",
+          "I like saying here's my 18 millisecond motion to photon,",
+          "here's my angular resolution that I'm improving.",
+          "I'm doing the color-space right.",
+          "But you can look not too far back where you say we",
+          "have blu-ray DVDs at this amazing resolution,",
+          "but more people want to watch Youtube videos",
+          "at really bad early internet video speeds.",
+          "Where there are things that if you deliver",
+          "a value to people then these objective quantities",
+          "may not be the most important thing.",
+          "And while we're certainly pushing as hard as we can",
+          "on lots of these things that make the experience better",
+          "in potentially every way or maybe just for videos",
+          "or for different things.",
+          "I don't think that its necessary.",
+          "I've commented that I think usually my favorite titles",
+          "on mobile that are fully synthetic are ones that don't",
+          "even try, they just go and do light-mapped, black-shaded.",
+          "And I think its a lovely aesthetic.",
+          "I think that you don't wind up fighting all of the aliasing.",
+          "While you get some other titles that, oh we're gonna",
+          "be high-tech with our specular bump maps with roughness.",
+          "And you've got aliasing everywhere,",
+          "and you can't hold frame rate and its all problematic.",
+          "While some of these that are clearly very synthetic worlds",
+          "where its nothing but these cartoony flat-shaded things",
+          "with lighting, but they look and they feel good.",
+          "And you can buy that you're in that place.",
+          "And you want to know what's around that monolith over there."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "The end goal of reality, of course in computer graphics",
+          "people chase photo-realistic form for a long time.",
+          "And basically, we've achieved it.",
+          "Photo-realism, if you're willing to throw enough discreet",
+          "path traced rays at things,",
+          "you can generate photo-realistic views.",
+          "And we understand the light really well.",
+          "Of course it still takes a half hour per frame",
+          "like it always has, or more, to render the different things.",
+          "So its an understood problem and given infinite computing",
+          "power we could be doing that in virtual reality.",
+          "However, a point that I've made to people in recent years",
+          "is that, we are running out of More's Law.",
+          "Maybe we'll see some wonderful breakthrough in quantum",
+          "structures or whatever--"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "But if we just wind up following the path that we're on,",
+          "we're gonna get double and quadruple, but we're not gonna",
+          "get 50 times more powerful than we are right now.",
+          "We will run into atomic limits on our fabrication.",
+          "So given that, I'm trying to tell people that, start buying",
+          "back into optimization, start buying back into thinking",
+          "a bit more creatively.",
+          "Because you can't just wait, its not going to get to",
+          "that point where it really is fixed to those highest degrees",
+          "just by waiting for computing to be advanced.",
+          "If we want this to be something used by a billion people",
+          "then we need it to be lighter, cheaper, more comfortable."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "You know there's tons of opportunities for the synthetic",
+          "case where you want to be able to have your synthetic",
+          "fantasy world where everybody is a creature",
+          "that's created by the computer and simulated reasonably.",
+          "But of course we've got, you know we still",
+          "don't do people well simulated.",
+          "That's a hard problem, we've been beating",
+          "our heads against it for a long time.",
+          "I do think we're making progress and I wouldn't bet",
+          "on that being solved in 10 years, but maybe 20 years.",
+          "Because it is going to take a lot of AI.",
+          "Its going to take a lot of machine-learning,",
+          "where its not going to be a matter of us dissecting",
+          "all the micro-expressions that people do.",
+          "Its gonna be lets take every youtube video ever made",
+          "and run it through some enormous learner",
+          "that's going to figure out how to make people realistic."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "I'm still a believer that the magic's out there.",
+          "We haven't found it yet, so somebody's going to",
+          "happen upon the formula.",
+          "I feel like I've felt little pockets of magic."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "So VR right now is pretty amazing.",
+          "When you look at it its things that you haven't seen.",
+          "But we are just getting started.",
+          "The next five years both technologically and creatively",
+          "are going to really take this medium someplace",
+          "that you've never imagined."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw?t=23",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes, its simple.",
+          "Its like a video game except it feels like",
+          "you're in the video game."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Or in Minecraft."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yeah."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw?t=133",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Uh, three?"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw?t=223",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yeah, so my understanding of what latency is,",
+          "is its basically the time delay",
+          "between the rendering at different points."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "The latency is, in my opinion, the most important part",
+          "of VR, because if you have that offset your body is",
+          "no longer immersed and you getting that motion sickness",
+          "which can pull a lot of people out of the experience."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "It really is a testament to this kind of technology",
+          "and how its developing and how over time its gonna just be,",
+          "you're gonna be able to pack more pixel density in those",
+          "displays and its gonna get a lot more immersive."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Just the hardware.",
+          "Old games were ran off of 8 bit",
+          "and that's all the data you could have."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yeah, a lot of freedom."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "That's very interesting."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw?t=364",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "That kinds of notes back to Realism in our history",
+          "and how Realism was a response to Romanticism.",
+          "And Realism was meant to capture the mundane,",
+          "everyday lives of individuals and not idealize",
+          "any of their activities in any way.",
+          "And I think that that's really important",
+          "for virtual reality.",
+          "I think its kind of rite-of-passage for any kind",
+          "of our technology to go through."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "So I've tried the demos, at VRLA there's one that has",
+          "waves, like audio waves I believe, that come up",
+          "and then you can put your hands through that and feel",
+          "the waves whenever you're supposed to be feeling bubbles",
+          "or any kind of force field or something.",
+          "And those are pretty interesting.",
+          "I've seen some pretty interesting things that you can do",
+          "with audios, you can cut down a lot of the storage I guess",
+          "and the power that you would need in order to power a huge",
+          "scene, you can just mimic the sounds of those scenes",
+          "actually being there and they're not actually.",
+          "For example, a professor at USC would have the sound of",
+          "a train drive by without actually rendering the sound.",
+          "And you would feel like you're deeply immersed in this world",
+          "without having to have such an expensive scene",
+          "built around you.",
+          "So I think those are pretty significant."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "You know, with display and with resolution, its one",
+          "of those things where if people have one bad experience",
+          "they kind of, oh well everything else.",
+          "Its really difficult to build trust again with people",
+          "who haven't done VR before but its easy to break off",
+          "that trust when they have a bad experience."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Right, I'm very excited to see how filmmakers tackle",
+          "creating content and those things.",
+          "Especially if they're experienced with traditional medium."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/akveRNY6Ulw?t=574",
+    "wired_link": "https://www.wired.com/video/watch/oculus-john-carmack-explains-virtual-reality-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "That's one of the things we're trying to figure out,",
+          "from an artist and storytelling perspective, what are",
+          "the things that will make this meaningfully different",
+          "from what we're used to, like a television on our wall.",
+          "And we've been finding a lot of things, aspects",
+          "of virtual reality that very much do that in my opinion.",
+          "Things that allow you to feel presence, first and foremost,",
+          "where you get lost, and you have to remind yourself,",
+          "this isn't actually happening.",
+          "And things that ultimately allow you",
+          "to embody other characters.",
+          "Things where you can actually change your",
+          "own self-perception and play with neuro-plasticity",
+          "and teach yourself things that are bizarre and unique."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "We did a project called Life of Us,",
+          "which was exactly that mindset.",
+          "We were let's embrace low-poly aesthetic",
+          "and just simple vertex shading.",
+          "And we ended up realizing, you can embody",
+          "these various creatures and transform yourself.",
+          "And when you do that with co-presence of another creature,",
+          "another human, it makes for a totally magical journey.",
+          "You don't even think for a second, you actually dismiss",
+          "the whole idea of photo-realism",
+          "and embrace that reality for what it is.",
+          "I think it actually helps put you at ease a little bit."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Or bandwidth, or streaming."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "And there's constantly novel UX innovations.",
+          "Like Google Earth, where the kind of elimination of",
+          "your periphery as you zoom in and move.",
+          "And also, giving you the user action to decide",
+          "where you're going and looking.",
+          "I'm constantly seeing people coming up with ways to break",
+          "from the paradigms of actual reality and then introduce",
+          "mechanisms that work very well."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Absolutely, there are these crucial thresholds",
+          "where you pass a technological hurdle and all of a sudden",
+          "that unlocks a whole world of creative potential.",
+          "But I think, to your point very much, we need to solve",
+          "the actual human and social challenges and turn those",
+          "into opportunities to figure out",
+          "how this technology fits into our lives."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "You can imagine the utility behind this for creating a world",
+          "or you can imagine the power of a story that would be told",
+          "to you in this context.",
+          "And a lot of it is just picking those, putting them together",
+          "in a meaningful way and then crafting something",
+          "that's really bigger and intentional.",
+          "But I've now been joining with real people",
+          "in virtual reality.",
+          "I think we also have different levels of connection.",
+          "Like the audio side is leaps and bounds above in terms",
+          "of the nuance and personality and humanity.",
+          "When I hear people laughing and joking",
+          "and really enjoying something.",
+          "Soon we'll get into that.",
+          "We're in macro-gestureland,",
+          "where I can wave and say thumbs-up.",
+          "But when we get into micro-gestures and actually getting",
+          "a sense of facial reactions and other things I think",
+          "then we'll have a really incredibly rewarding time,",
+          "spending time with each other."
+        ]
+      }
+    ]
+  }
+}

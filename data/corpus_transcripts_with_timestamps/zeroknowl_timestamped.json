@@ -1,0 +1,3328 @@
+{
+   "1": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:00:00,120 --> 00:00:01,820",
+                  "- Hi, my name is Amit Sahai,"
+               ],
+               [
+                  "00:00:01,820 --> 00:00:03,380",
+                  "and I'm a Professor of computer science"
+               ],
+               [
+                  "00:00:03,380 --> 00:00:06,050",
+                  "at the UCLA Samueli School of Engineering."
+               ],
+               [
+                  "00:00:06,050 --> 00:00:08,540",
+                  "Today, I've been asked to explain zero-knowledge proofs"
+               ],
+               [
+                  "00:00:08,540 --> 00:00:10,800",
+                  "in five levels of increasing complexity."
+               ],
+               [
+                  "00:00:10,800 --> 00:00:13,880",
+                  "A zero-knowledge proof is a way for a prover to"
+               ],
+               [
+                  "00:00:13,880 --> 00:00:17,080",
+                  "convince a verifier that some statement is true,"
+               ],
+               [
+                  "00:00:17,080 --> 00:00:20,080",
+                  "and yet reveal no additional information"
+               ],
+               [
+                  "00:00:20,080 --> 00:00:22,000",
+                  "beyond the fact that the statement is true."
+               ],
+               [
+                  "00:00:22,000 --> 00:00:24,060",
+                  "Zero-knowledge proofs are being used in"
+               ],
+               [
+                  "00:00:24,060 --> 00:00:26,110",
+                  "blockchains and cryptocurrencies."
+               ],
+               [
+                  "00:00:26,110 --> 00:00:28,950",
+                  "So cryptographers are excited about zero-knowledge"
+               ],
+               [
+                  "00:00:28,950 --> 00:00:32,170",
+                  "because of its amazing mathematical properties."
+               ],
+               [
+                  "00:00:32,170 --> 00:00:34,540",
+                  "But also because of its incredible applicability"
+               ],
+               [
+                  "00:00:34,540 --> 00:00:36,394",
+                  "to so many different scenarios."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:00:41,290 --> 00:00:42,670",
+                  "What's your favorite subject?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:00:50,210 --> 00:00:51,660",
+                  "- I love math for the same reason."
+               ],
+               [
+                  "00:00:51,660 --> 00:00:53,700",
+                  "Today, I'm gonna tell you about a thing called"
+               ],
+               [
+                  "00:00:53,700 --> 00:00:55,030",
+                  "zero-knowledge proof."
+               ],
+               [
+                  "00:00:55,030 --> 00:00:57,920",
+                  "So in a zero-knowledge proof, there are two people."
+               ],
+               [
+                  "00:00:57,920 --> 00:01:01,570",
+                  "There's a prover and a verifier."
+               ],
+               [
+                  "00:01:01,570 --> 00:01:04,700",
+                  "And I wanna prove that something is true to you."
+               ],
+               [
+                  "00:01:04,700 --> 00:01:09,040",
+                  "But the weird thing is, I wanna prove to you that it's true"
+               ],
+               [
+                  "00:01:09,040 --> 00:01:11,320",
+                  "without telling you any reasons why."
+               ],
+               [
+                  "00:01:11,320 --> 00:01:13,340",
+                  "I remember when I first heard about it,"
+               ],
+               [
+                  "00:01:13,340 --> 00:01:14,470",
+                  "I was like, wait, what?"
+               ],
+               [
+                  "00:01:14,470 --> 00:01:15,840",
+                  "How can that possibly be?"
+               ],
+               [
+                  "00:01:15,840 --> 00:01:16,980",
+                  "Right? - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:01:18,750 --> 00:01:19,950",
+                  "- [Chelsea] A lot of penguins."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:01:27,928 --> 00:01:28,761",
+                  "- Hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:01:34,330 --> 00:01:35,590",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:01:56,020 --> 00:01:57,110",
+                  "- I see the puffin."
+               ],
+               [
+                  "00:01:57,110 --> 00:01:58,640",
+                  "So when you look at this board,"
+               ],
+               [
+                  "00:01:58,640 --> 00:02:00,930",
+                  "we don't know where the photo was, right?"
+               ],
+               [
+                  "00:02:00,930 --> 00:02:03,560",
+                  "Was the photo like with the corner here?"
+               ],
+               [
+                  "00:02:03,560 --> 00:02:06,210",
+                  "In which case the puffin would be all the way at this side."
+               ],
+               [
+                  "00:02:06,210 --> 00:02:08,464",
+                  "Or was the photo with the corner here?"
+               ],
+               [
+                  "00:02:08,464 --> 00:02:10,070",
+                  "In which case the puffin would be on the other side."
+               ],
+               [
+                  "00:02:10,070 --> 00:02:13,080",
+                  "So this is a really simple example"
+               ],
+               [
+                  "00:02:13,080 --> 00:02:15,080",
+                  "of a zero-knowledge proof."
+               ],
+               [
+                  "00:02:15,080 --> 00:02:17,570",
+                  "I convinced you that I knew where the puffin was,"
+               ],
+               [
+                  "00:02:17,570 --> 00:02:19,889",
+                  "but you didn't learn anything else."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:02:21,477 --> 00:02:22,960",
+                  "- When I first learned about them,"
+               ],
+               [
+                  "00:02:22,960 --> 00:02:24,510",
+                  "I just thought they were so cool."
+               ],
+               [
+                  "00:02:24,510 --> 00:02:26,550",
+                  "But it turns out they're also really useful,"
+               ],
+               [
+                  "00:02:26,550 --> 00:02:28,530",
+                  "not just for finding like, puffins."
+               ],
+               [
+                  "00:02:28,530 --> 00:02:30,230",
+                  "If you just type in your password"
+               ],
+               [
+                  "00:02:30,230 --> 00:02:32,470",
+                  "and the hacker hacks into the computer,"
+               ],
+               [
+                  "00:02:32,470 --> 00:02:33,710",
+                  "they can just get your password."
+               ],
+               [
+                  "00:02:33,710 --> 00:02:34,920",
+                  "Right? - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:02:49,710 --> 00:02:50,543",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 18,
+            "Sentence": [
+               [
+                  "00:03:00,870 --> 00:03:05,420",
+                  "- Zero-knowledge proof is proof to a statement."
+               ],
+               [
+                  "00:03:05,420 --> 00:03:08,060",
+                  "You don't show them why or what."
+               ],
+               [
+                  "00:03:08,060 --> 00:03:10,290",
+                  "You just show them a tiny segment."
+               ],
+               [
+                  "00:03:10,290 --> 00:03:12,959",
+                  "Or just do some sort of,"
+               ],
+               [
+                  "00:03:12,959 --> 00:03:15,600",
+                  "weird magic trick [chuckles]"
+               ],
+               [
+                  "00:03:15,600 --> 00:03:18,640",
+                  "that's not really a magic trick,"
+               ],
+               [
+                  "00:03:18,640 --> 00:03:20,280",
+                  "and they will be convinced."
+               ],
+               [
+                  "00:03:20,280 --> 00:03:24,413",
+                  "And you didn't show them why, or anything like that."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:03:31,280 --> 00:03:32,600",
+                  "- So have you ever heard the term"
+               ],
+               [
+                  "00:03:32,600 --> 00:03:34,280",
+                  "zero-knowledge proof before?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:03:48,777 --> 00:03:49,610",
+                  "- Like how can that possibly be?"
+               ],
+               [
+                  "00:03:49,610 --> 00:03:54,350",
+                  "What I wanna do is prove to you that I know this combination"
+               ],
+               [
+                  "00:03:54,350 --> 00:03:56,500",
+                  "without revealing the combination to you."
+               ],
+               [
+                  "00:03:56,500 --> 00:03:58,310",
+                  "And what you could do is you could write a little note,"
+               ],
+               [
+                  "00:03:58,310 --> 00:04:00,290",
+                  "a secret that I definitely wouldn't know."
+               ],
+               [
+                  "00:04:00,290 --> 00:04:01,910",
+                  "Fold it up, stick it in here."
+               ],
+               [
+                  "00:04:01,910 --> 00:04:03,530",
+                  "And then, if I know the combination,"
+               ],
+               [
+                  "00:04:03,530 --> 00:04:06,330",
+                  "I should be able to open it and tell you what you wrote."
+               ],
+               [
+                  "00:04:07,427 --> 00:04:08,863",
+                  "[paper rasps] All right."
+               ],
+               [
+                  "00:04:10,187 --> 00:04:12,508",
+                  "[dial clicking]"
+               ],
+               [
+                  "00:04:12,508 --> 00:04:14,130",
+                  "[lock clicks]"
+               ],
+               [
+                  "00:04:14,130 --> 00:04:16,290",
+                  "There we go. [latch clacks]"
+               ],
+               [
+                  "00:04:16,290 --> 00:04:17,680",
+                  "All right."
+               ],
+               [
+                  "00:04:17,680 --> 00:04:18,633",
+                  "So,"
+               ],
+               [
+                  "00:04:19,757 --> 00:04:21,640",
+                  "My dog is named Doug."
+               ],
+               [
+                  "00:04:21,640 --> 00:04:23,445",
+                  "Did you figure out what the combination was?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:04:24,278 --> 00:04:25,900",
+                  "- So nowhere in this interaction,"
+               ],
+               [
+                  "00:04:25,900 --> 00:04:29,580",
+                  "did you see any information that you didn't already know."
+               ],
+               [
+                  "00:04:29,580 --> 00:04:33,230",
+                  "And yet I convinced you that I know the combination."
+               ],
+               [
+                  "00:04:33,230 --> 00:04:34,280",
+                  "Right? - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:04:46,290 --> 00:04:47,140",
+                  "- So you're asking like,"
+               ],
+               [
+                  "00:04:47,140 --> 00:04:49,670",
+                  "why shouldn't I just share my secrets with somebody?"
+               ],
+               [
+                  "00:04:49,670 --> 00:04:51,320",
+                  "People don't trust each other."
+               ],
+               [
+                  "00:04:51,320 --> 00:04:53,270",
+                  "And if I was able to prove that I've"
+               ],
+               [
+                  "00:04:53,270 --> 00:04:56,080",
+                  "done something correctly to someone"
+               ],
+               [
+                  "00:04:56,080 --> 00:04:58,060",
+                  "without having to reveal my secrets,"
+               ],
+               [
+                  "00:04:58,060 --> 00:04:59,640",
+                  "then that person would trust me more."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:05:07,330 --> 00:05:09,510",
+                  "- Suppose you wanted to exchange messages"
+               ],
+               [
+                  "00:05:09,510 --> 00:05:10,929",
+                  "with someone that you knew."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:05:25,470 --> 00:05:26,630",
+                  "- I have no idea."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:05:29,230 --> 00:05:30,090",
+                  "- But it's not."
+               ],
+               [
+                  "00:05:30,090 --> 00:05:33,600",
+                  "You wouldn't use like, a physical lock, or a physical box."
+               ],
+               [
+                  "00:05:33,600 --> 00:05:35,230",
+                  "We would instead use mathematics"
+               ],
+               [
+                  "00:05:35,230 --> 00:05:37,000",
+                  "to do these kinds of things."
+               ],
+               [
+                  "00:05:37,000 --> 00:05:40,940",
+                  "You could take a message and encrypt it using mathematics."
+               ],
+               [
+                  "00:05:40,940 --> 00:05:43,220",
+                  "And then, I could prove to you that I know the key,"
+               ],
+               [
+                  "00:05:43,220 --> 00:05:45,370",
+                  "I could open it up, and send it back to you."
+               ],
+               [
+                  "00:05:45,370 --> 00:05:46,920",
+                  "That way I would be proving to you that I know"
+               ],
+               [
+                  "00:05:46,920 --> 00:05:50,960",
+                  "the mathematical key to the mathematical lockbox."
+               ],
+               [
+                  "00:05:50,960 --> 00:05:53,080",
+                  "So based on what we've discussed today,"
+               ],
+               [
+                  "00:05:53,080 --> 00:05:55,490",
+                  "in your own words, what is a zero-knowledge proof."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:06:13,930 --> 00:06:14,763",
+                  "- What are you studying?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:06:22,800 --> 00:06:24,810",
+                  "- Have you ever heard of zero-knowledge proofs?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:06:25,780 --> 00:06:27,730",
+                  "- So actually, in the blockchain space is"
+               ],
+               [
+                  "00:06:27,730 --> 00:06:29,600",
+                  "one of the spaces where we are seeing"
+               ],
+               [
+                  "00:06:29,600 --> 00:06:31,020",
+                  "zero-knowledge proofs being implemented."
+               ],
+               [
+                  "00:06:31,020 --> 00:06:33,270",
+                  "And I think it's just the beginning."
+               ],
+               [
+                  "00:06:33,270 --> 00:06:35,130",
+                  "Let's talk about zero-knowledge proofs."
+               ],
+               [
+                  "00:06:35,130 --> 00:06:37,270",
+                  "At its core, a zero-knowledge proof"
+               ],
+               [
+                  "00:06:37,270 --> 00:06:39,510",
+                  "is an interaction between two people."
+               ],
+               [
+                  "00:06:39,510 --> 00:06:41,870",
+                  "Then I should be able to convince you"
+               ],
+               [
+                  "00:06:41,870 --> 00:06:43,500",
+                  "that some statement is true,"
+               ],
+               [
+                  "00:06:43,500 --> 00:06:46,260",
+                  "but you won't have any idea why it's true."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:06:55,333 --> 00:06:57,752",
+                  "- What you're basically asking is, wait, what?"
+               ],
+               [
+                  "00:06:57,752 --> 00:06:59,510",
+                  "[both laughing] Right? Right."
+               ],
+               [
+                  "00:06:59,510 --> 00:07:02,390",
+                  "So this is what makes zero-knowledge proof so fascinating,"
+               ],
+               [
+                  "00:07:02,390 --> 00:07:04,110",
+                  "and so counter-intuitive."
+               ],
+               [
+                  "00:07:04,110 --> 00:07:07,740",
+                  "And I think the best way I can explain it to you"
+               ],
+               [
+                  "00:07:07,740 --> 00:07:09,280",
+                  "is by means of an example."
+               ],
+               [
+                  "00:07:09,280 --> 00:07:11,880",
+                  "But before we do that, I have to decide"
+               ],
+               [
+                  "00:07:11,880 --> 00:07:14,011",
+                  "what I'm gonna prove to you in a,"
+               ],
+               [
+                  "00:07:14,011 --> 00:07:15,420",
+                  "with a zero-knowledge proof. - Sounds good."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:08:29,160 --> 00:08:32,160",
+                  "- Without revealing what the address is of your account."
+               ],
+               [
+                  "00:08:32,160 --> 00:08:34,200",
+                  "It turns out I can take that statement"
+               ],
+               [
+                  "00:08:34,200 --> 00:08:35,900",
+                  "that I have at least 0.2 Bitcoins,"
+               ],
+               [
+                  "00:08:37,410 --> 00:08:40,820",
+                  "and convert it into a map of countries."
+               ],
+               [
+                  "00:08:40,820 --> 00:08:45,820",
+                  "And that map of countries will be three-colorable like this"
+               ],
+               [
+                  "00:08:46,170 --> 00:08:49,400",
+                  "only if you have at least 0.2 Bitcoins."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:08:52,270 --> 00:08:53,480",
+                  "- Of course, the first step is"
+               ],
+               [
+                  "00:08:53,480 --> 00:08:54,700",
+                  "we have to erase all the colors."
+               ],
+               [
+                  "00:08:54,700 --> 00:08:57,030",
+                  "What I've done is I've put a color"
+               ],
+               [
+                  "00:08:57,030 --> 00:08:59,160",
+                  "inside each of these envelopes."
+               ],
+               [
+                  "00:08:59,160 --> 00:09:01,770",
+                  "Now, how do you know that it's a valid coloring?"
+               ],
+               [
+                  "00:09:01,770 --> 00:09:02,910",
+                  "You don't. Right?"
+               ],
+               [
+                  "00:09:02,910 --> 00:09:06,819",
+                  "You have to pick any two neighboring countries."
+               ],
+               [
+                  "00:09:06,819 --> 00:09:08,600",
+                  "You can pick them however you like. At random."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:09:09,580 --> 00:09:10,903",
+                  "- These two? - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:09:21,733 --> 00:09:23,110",
+                  "- Mm-hmm. - Right?"
+               ],
+               [
+                  "00:09:23,110 --> 00:09:25,560",
+                  "So you have a little bit of confidence, right,"
+               ],
+               [
+                  "00:09:25,560 --> 00:09:28,100",
+                  "that I have managed to color this correctly."
+               ],
+               [
+                  "00:09:28,100 --> 00:09:29,350",
+                  "but not that much confidence."
+               ],
+               [
+                  "00:09:29,350 --> 00:09:31,280",
+                  "'Cause I've only shown you two of the countries."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 18,
+            "Sentence": [
+               [
+                  "00:09:49,480 --> 00:09:51,210",
+                  "- I'll take this one and this one."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 20,
+            "Sentence": [
+               [
+                  "00:09:56,040 --> 00:10:00,060",
+                  "- But as you'll see, now it's not green,"
+               ],
+               [
+                  "00:10:00,060 --> 00:10:01,650",
+                  "it's blue."
+               ],
+               [
+                  "00:10:01,650 --> 00:10:03,253",
+                  "And this one on the other hand,"
+               ],
+               [
+                  "00:10:05,978 --> 00:10:07,580",
+                  "is green."
+               ],
+               [
+                  "00:10:07,580 --> 00:10:08,413",
+                  "Okay."
+               ],
+               [
+                  "00:10:08,413 --> 00:10:09,820",
+                  "The colors I showed you last time,"
+               ],
+               [
+                  "00:10:09,820 --> 00:10:11,980",
+                  "don't work with these new colors, right?"
+               ],
+               [
+                  "00:10:11,980 --> 00:10:13,100",
+                  "This wouldn't have worked before."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 22,
+            "Sentence": [
+               [
+                  "00:10:14,420 --> 00:10:15,880",
+                  "- Exactly. Right."
+               ],
+               [
+                  "00:10:15,880 --> 00:10:18,330",
+                  "But it works for this coloring"
+               ],
+               [
+                  "00:10:18,330 --> 00:10:19,630",
+                  "that I'm showing you right now."
+               ],
+               [
+                  "00:10:19,630 --> 00:10:22,290",
+                  "So what we've done is we've made it impossible for you"
+               ],
+               [
+                  "00:10:22,290 --> 00:10:24,030",
+                  "to put the pieces together."
+               ],
+               [
+                  "00:10:24,030 --> 00:10:26,950",
+                  "And if you do this, let's say, a thousand times."
+               ],
+               [
+                  "00:10:26,950 --> 00:10:29,760",
+                  "And if I correctly showed you different colors,"
+               ],
+               [
+                  "00:10:29,760 --> 00:10:32,760",
+                  "each thousand times, you'd be really convinced."
+               ],
+               [
+                  "00:10:32,760 --> 00:10:36,310",
+                  "And that's it. That's the entire zero-knowledge proof."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 24,
+            "Sentence": [
+               [
+                  "00:10:37,160 --> 00:10:40,810",
+                  "- So is it like, there's no actual, like, explicit,"
+               ],
+               [
+                  "00:10:40,810 --> 00:10:42,310",
+                  "like, step one, step two,"
+               ],
+               [
+                  "00:10:42,310 --> 00:10:43,143",
+                  "step three. - [Amit] No."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 26,
+            "Sentence": [
+               [
+                  "00:10:45,661 --> 00:10:48,100",
+                  "- Yeah, in actual implementations we wouldn't use envelopes."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 28,
+            "Sentence": [
+               [
+                  "00:10:52,250 --> 00:10:54,240",
+                  "- So what are the broader implications"
+               ],
+               [
+                  "00:10:54,240 --> 00:10:55,590",
+                  "of like, zero-knowledge proofs."
+               ],
+               [
+                  "00:10:55,590 --> 00:10:58,130",
+                  "Are they supposed to be like, more practical for like,"
+               ],
+               [
+                  "00:10:58,130 --> 00:11:00,110",
+                  "implementation, and or, are they supposed to like,"
+               ],
+               [
+                  "00:11:00,110 --> 00:11:01,960",
+                  "structurally prove something?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 30,
+            "Sentence": [
+               [
+                  "00:11:28,020 --> 00:11:30,110",
+                  "- Where do you think we could build like, more trust"
+               ],
+               [
+                  "00:11:30,110 --> 00:11:32,454",
+                  "using like, zero-knowledge proofs?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 32,
+            "Sentence": [
+               [
+                  "00:11:33,390 --> 00:11:35,500",
+                  "- One great example is like in elections."
+               ],
+               [
+                  "00:11:35,500 --> 00:11:39,890",
+                  "If you could prove that an election was correctly conducted."
+               ],
+               [
+                  "00:11:39,890 --> 00:11:41,340",
+                  "That every vote was counted,"
+               ],
+               [
+                  "00:11:41,340 --> 00:11:43,720",
+                  "and it all added up to one person winning"
+               ],
+               [
+                  "00:11:43,720 --> 00:11:46,730",
+                  "with a particular total, in zero-knowledge,"
+               ],
+               [
+                  "00:11:46,730 --> 00:11:48,260",
+                  "then you don't have to give up"
+               ],
+               [
+                  "00:11:48,260 --> 00:11:50,180",
+                  "the actual votes of any person."
+               ],
+               [
+                  "00:11:50,180 --> 00:11:52,630",
+                  "And yet everyone could see that,"
+               ],
+               [
+                  "00:11:52,630 --> 00:11:54,916",
+                  "hey, yeah, it was done correctly."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:11:59,700 --> 00:12:02,960",
+                  "It's so great to have you here and to talk with you, Eli."
+               ],
+               [
+                  "00:12:02,960 --> 00:12:04,440",
+                  "Can you tell me a little bit about your research?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:12:28,500 --> 00:12:29,360",
+                  "- That's awesome."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:12:41,150 --> 00:12:42,800",
+                  "- That's near and dear to my heart."
+               ],
+               [
+                  "00:12:42,800 --> 00:12:43,660",
+                  "Multi-party computations."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:13:10,430 --> 00:13:13,300",
+                  "- Right, and it allows you to prove"
+               ],
+               [
+                  "00:13:13,300 --> 00:13:15,410",
+                  "that you've been behaving honestly,"
+               ],
+               [
+                  "00:13:15,410 --> 00:13:19,270",
+                  "without revealing any of the secrets involved that you use"
+               ],
+               [
+                  "00:13:19,270 --> 00:13:20,670",
+                  "to actually behave honestly."
+               ],
+               [
+                  "00:13:20,670 --> 00:13:22,250",
+                  "So we of course know that"
+               ],
+               [
+                  "00:13:22,250 --> 00:13:24,960",
+                  "zero-knowledge proofs for NP-complete languages"
+               ],
+               [
+                  "00:13:24,960 --> 00:13:27,180",
+                  "plays such a huge role in cryptography."
+               ],
+               [
+                  "00:13:27,180 --> 00:13:28,013",
+                  "I'm curious."
+               ],
+               [
+                  "00:13:28,013 --> 00:13:29,480",
+                  "What was your first experience with Np-completeness like?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:13:52,470 --> 00:13:53,530",
+                  "- When you first start to think about proofs"
+               ],
+               [
+                  "00:13:53,530 --> 00:13:56,157",
+                  "as an interactive game where we're talking to each other,"
+               ],
+               [
+                  "00:13:56,157 --> 00:13:58,210",
+                  "did that make zero-knowledge possible?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:13:59,043 --> 00:13:59,980",
+                  "- [Amit] Right. - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:14:03,190 --> 00:14:05,700",
+                  "- could be useful for proving something."
+               ],
+               [
+                  "00:14:05,700 --> 00:14:07,600",
+                  "Again, seems so counter-intuitive"
+               ],
+               [
+                  "00:14:07,600 --> 00:14:11,480",
+                  "if we think about this platonic ideal of a proof, right?"
+               ],
+               [
+                  "00:14:11,480 --> 00:14:15,430",
+                  "There's no randomness, there's no non-determinism"
+               ],
+               [
+                  "00:14:15,430 --> 00:14:16,267",
+                  "that's present there. - Yeah."
+               ],
+               [
+                  "00:14:16,267 --> 00:14:17,710",
+                  "And it has to do with, you know,"
+               ],
+               [
+                  "00:14:17,710 --> 00:14:20,280",
+                  "this whole idea of flipping a proof on its head."
+               ],
+               [
+                  "00:14:20,280 --> 00:14:22,020",
+                  "You know, in an old classical proof,"
+               ],
+               [
+                  "00:14:22,020 --> 00:14:25,200",
+                  "randomness is specifically against the goal"
+               ],
+               [
+                  "00:14:25,200 --> 00:14:26,370",
+                  "of what you're trying to do."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:14:30,880 --> 00:14:31,930",
+                  "- Indeed. - But once you"
+               ],
+               [
+                  "00:14:31,930 --> 00:14:32,980",
+                  "flip that on its head and you're"
+               ],
+               [
+                  "00:14:32,980 --> 00:14:34,500",
+                  "no longer trying to do that, suddenly"
+               ],
+               [
+                  "00:14:34,500 --> 00:14:37,710",
+                  "all of the bad properties of randomness become good."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:14:53,000 --> 00:14:56,920",
+                  "- In my experience, usually the hardest part is"
+               ],
+               [
+                  "00:14:56,920 --> 00:15:00,670",
+                  "figuring out exactly where the best place is to use it."
+               ],
+               [
+                  "00:15:00,670 --> 00:15:02,920",
+                  "I've written some papers in the past"
+               ],
+               [
+                  "00:15:02,920 --> 00:15:05,540",
+                  "that have used zero-knowledge in a more theoretical way."
+               ],
+               [
+                  "00:15:05,540 --> 00:15:08,460",
+                  "But when it comes to applications,"
+               ],
+               [
+                  "00:15:08,460 --> 00:15:11,660",
+                  "some of the most exciting applications that I've seen so far"
+               ],
+               [
+                  "00:15:11,660 --> 00:15:13,100",
+                  "have been in the blockchain space."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 19,
+            "Sentence": [
+               [
+                  "00:15:15,440 --> 00:15:17,033",
+                  "- In terms of efficiency,"
+               ],
+               [
+                  "00:15:17,920 --> 00:15:20,040",
+                  "one of the coolest things about zero-knowledge proofs"
+               ],
+               [
+                  "00:15:20,040 --> 00:15:21,530",
+                  "is that there's so many kinds."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 21,
+            "Sentence": [
+               [
+                  "00:15:30,500 --> 00:15:32,390",
+                  "- Can you take the prover's job"
+               ],
+               [
+                  "00:15:32,390 --> 00:15:35,240",
+                  "and split it up into lots of parallel computations?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 23,
+            "Sentence": [
+               [
+                  "00:15:37,290 --> 00:15:38,320",
+                  "- It's such a great question."
+               ],
+               [
+                  "00:15:38,320 --> 00:15:41,700",
+                  "And yeah, I think we still don't know the answer to that,"
+               ],
+               [
+                  "00:15:41,700 --> 00:15:42,533",
+                  "as a field."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 25,
+            "Sentence": [
+               [
+                  "00:15:52,770 --> 00:15:54,570",
+                  "- Right. - And seeing all of these"
+               ],
+               [
+                  "00:15:54,570 --> 00:15:56,850",
+                  "amazing systems that people have"
+               ],
+               [
+                  "00:15:56,850 --> 00:15:59,000",
+                  "thought of in the past 30 years,"
+               ],
+               [
+                  "00:15:59,000 --> 00:16:02,590",
+                  "start to actually get efficient enough to be actually made."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 27,
+            "Sentence": [
+               [
+                  "00:16:11,283 --> 00:16:12,720",
+                  "- Yeah. Absolutely."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 29,
+            "Sentence": [
+               [
+                  "00:16:29,490 --> 00:16:30,610",
+                  "- Yeah. - Right."
+               ],
+               [
+                  "00:16:30,610 --> 00:16:34,547",
+                  "So can we take that power that's there in the cryptography,"
+               ],
+               [
+                  "00:16:34,547 --> 00:16:36,800",
+                  "and use it to somehow help with the"
+               ],
+               [
+                  "00:16:36,800 --> 00:16:38,530",
+                  "tremendous level of mistrust - [Eli] Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 31,
+            "Sentence": [
+               [
+                  "00:16:42,980 --> 00:16:45,550",
+                  "- I think that's one of the reasons that I was so drawn"
+               ],
+               [
+                  "00:16:45,550 --> 00:16:47,500",
+                  "to multi-party computation in the first place."
+               ],
+               [
+                  "00:16:47,500 --> 00:16:51,750",
+                  "In my mind, one of the most important problems in the world"
+               ],
+               [
+                  "00:16:51,750 --> 00:16:54,460",
+                  "is the fact that so many people don't trust each other."
+               ],
+               [
+                  "00:16:54,460 --> 00:16:57,770",
+                  "And to be able to actually use math to create technology"
+               ],
+               [
+                  "00:16:57,770 --> 00:16:59,760",
+                  "that can allow people to work together"
+               ],
+               [
+                  "00:16:59,760 --> 00:17:01,540",
+                  "without having to trust each other,"
+               ],
+               [
+                  "00:17:01,540 --> 00:17:05,724",
+                  "is a really cool and awesome mission, I think."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:17:10,721 --> 00:17:12,620",
+                  "- Shang-Hua, it's so great to see you again."
+               ],
+               [
+                  "00:17:12,620 --> 00:17:16,653",
+                  "I think last time we met was in 2017 or something like that."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:17:22,680 --> 00:17:23,840",
+                  "- Right. Absolutely. [chuckles]"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:17:43,220 --> 00:17:44,694",
+                  "- Was about zero-knowledge. That's awesome."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:17:45,975 --> 00:17:47,920",
+                  "- It's such a almost hypnotic concept."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:18:04,880 --> 00:18:05,760",
+                  "- [Amit] Right - Right."
+               ],
+               [
+                  "00:18:05,760 --> 00:18:09,410",
+                  "So knowledge has been long debated, even in philosophy."
+               ],
+               [
+                  "00:18:09,410 --> 00:18:10,480",
+                  "What is knowledge? - Indeed."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:18:15,400 --> 00:18:16,600",
+                  "- Right. - want to somehow"
+               ],
+               [
+                  "00:18:16,600 --> 00:18:17,870",
+                  "capture this knowledge."
+               ],
+               [
+                  "00:18:17,870 --> 00:18:20,270",
+                  "It didn't say zero-information proof."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:18:29,290 --> 00:18:30,123",
+                  "- Absolutely."
+               ],
+               [
+                  "00:18:30,123 --> 00:18:31,270",
+                  "I don't think we still have a"
+               ],
+               [
+                  "00:18:31,270 --> 00:18:33,800",
+                  "completely satisfactory answer to that question."
+               ],
+               [
+                  "00:18:33,800 --> 00:18:36,490",
+                  "What was so, such a beautiful insight,"
+               ],
+               [
+                  "00:18:36,490 --> 00:18:38,570",
+                  "as I'm sure you know,"
+               ],
+               [
+                  "00:18:38,570 --> 00:18:41,310",
+                  "is that the idea of zero-knowledge"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:18:46,103 --> 00:18:48,250",
+                  "- If you can already predict the answer,"
+               ],
+               [
+                  "00:18:48,250 --> 00:18:51,250",
+                  "then you must not be gaining any knowledge"
+               ],
+               [
+                  "00:18:51,250 --> 00:18:52,590",
+                  "by that interaction."
+               ],
+               [
+                  "00:18:52,590 --> 00:18:57,000",
+                  "This insight of being able to predict the future accurately,"
+               ],
+               [
+                  "00:18:57,000 --> 00:19:00,890",
+                  "and that being an evidence of a lack of new knowledge,"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 18,
+            "Sentence": [
+               [
+                  "00:19:03,560 --> 00:19:05,360",
+                  "- Well there's not zero-information here."
+               ],
+               [
+                  "00:19:05,360 --> 00:19:07,860",
+                  "Fundamentally I, clearly from"
+               ],
+               [
+                  "00:19:07,860 --> 00:19:10,360",
+                  "computing perspective, security perspective,"
+               ],
+               [
+                  "00:19:10,360 --> 00:19:12,590",
+                  "is how much knowledge you're gaining, I guess."
+               ],
+               [
+                  "00:19:12,590 --> 00:19:14,600",
+                  "More than how much information you've gained."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 20,
+            "Sentence": [
+               [
+                  "00:19:17,439 --> 00:19:20,600",
+                  "- So that data then immediately imply, a knowledge."
+               ],
+               [
+                  "00:19:20,600 --> 00:19:22,150",
+                  "But people can't, sometimes."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 22,
+            "Sentence": [
+               [
+                  "00:19:32,900 --> 00:19:34,640",
+                  "- And yet, not have to actually"
+               ],
+               [
+                  "00:19:34,640 --> 00:19:36,910",
+                  "reveal the structure of the compound."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 24,
+            "Sentence": [
+               [
+                  "00:19:46,000 --> 00:19:46,833",
+                  "- Yes. - Yeah."
+               ],
+               [
+                  "00:19:46,833 --> 00:19:48,890",
+                  "This concept of zero-knowledge programs"
+               ],
+               [
+                  "00:19:48,890 --> 00:19:50,340",
+                  "would allow you to carry out"
+               ],
+               [
+                  "00:19:50,340 --> 00:19:52,510",
+                  "completely arbitrary computations"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 26,
+            "Sentence": [
+               [
+                  "00:20:02,190 --> 00:20:03,300",
+                  "- And then you can run it"
+               ],
+               [
+                  "00:20:03,300 --> 00:20:06,400",
+                  "and gain the benefit of that computation"
+               ],
+               [
+                  "00:20:06,400 --> 00:20:07,770",
+                  "without having to talk to me anymore."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 28,
+            "Sentence": [
+               [
+                  "00:20:10,490 --> 00:20:11,820",
+                  "- [Amit] The non-interactive nature."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 30,
+            "Sentence": [
+               [
+                  "00:20:14,780 --> 00:20:15,613",
+                  "- Indeed."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 32,
+            "Sentence": [
+               [
+                  "00:20:24,980 --> 00:20:27,390",
+                  "- As authentication, yes. - Authentication, right."
+               ],
+               [
+                  "00:20:27,390 --> 00:20:29,650",
+                  "Now clearly I think in block chain,"
+               ],
+               [
+                  "00:20:29,650 --> 00:20:31,730",
+                  "they also began to incorporate a more"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 34,
+            "Sentence": [
+               [
+                  "00:20:34,003 --> 00:20:36,430",
+                  "- We're definitely at this moment now,"
+               ],
+               [
+                  "00:20:36,430 --> 00:20:39,350",
+                  "where zero-knowledge is gonna be used more and more."
+               ],
+               [
+                  "00:20:39,350 --> 00:20:42,450",
+                  "There are so many conferences and meetings"
+               ],
+               [
+                  "00:20:42,450 --> 00:20:44,780",
+                  "that occur in the zero-knowledge space,"
+               ],
+               [
+                  "00:20:44,780 --> 00:20:46,415",
+                  "where you and I are not invited."
+               ],
+               [
+                  "00:20:46,415 --> 00:20:47,248",
+                  "[Shang-Hua laughs] Because it's for"
+               ],
+               [
+                  "00:20:47,248 --> 00:20:48,620",
+                  "the people who are developing."
+               ],
+               [
+                  "00:20:48,620 --> 00:20:50,340",
+                  "You know, the people who are programming,"
+               ],
+               [
+                  "00:20:50,340 --> 00:20:51,440",
+                  "not us mathematicians."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 36,
+            "Sentence": [
+               [
+                  "00:20:52,290 --> 00:20:53,550",
+                  "- And I think that's a sign."
+               ],
+               [
+                  "00:20:53,550 --> 00:20:56,725",
+                  "That's a sign that our baby has grown up and,"
+               ],
+               [
+                  "00:20:56,725 --> 00:20:57,558",
+                  "[Shang-Hua laughs] you know, it's time"
+               ],
+               [
+                  "00:20:57,558 --> 00:20:59,410",
+                  "for it to be developed."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 38,
+            "Sentence": [
+               [
+                  "00:21:14,130 --> 00:21:16,850",
+                  "- It's a great question. I wish I could see the future."
+               ],
+               [
+                  "00:21:16,850 --> 00:21:18,800",
+                  "I can't actually, but let me try."
+               ],
+               [
+                  "00:21:18,800 --> 00:21:21,010",
+                  "The part of that that I'm the most comfortable answering"
+               ],
+               [
+                  "00:21:21,010 --> 00:21:22,480",
+                  "is of course the mathematical side."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 40,
+            "Sentence": [
+               [
+                  "00:21:30,190 --> 00:21:31,324",
+                  "- Mm-hmm - You know,"
+               ],
+               [
+                  "00:21:31,324 --> 00:21:32,157",
+                  "even today we understand so little."
+               ],
+               [
+                  "00:21:32,157 --> 00:21:36,520",
+                  "And I think the most fundamental aspect of that"
+               ],
+               [
+                  "00:21:36,520 --> 00:21:38,410",
+                  "is understanding hardness."
+               ],
+               [
+                  "00:21:38,410 --> 00:21:40,840",
+                  "How do we get hard problems? - Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 42,
+            "Sentence": [
+               [
+                  "00:21:47,930 --> 00:21:49,520",
+                  "- And efficient zero-knowledge proofs, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 44,
+            "Sentence": [
+               [
+                  "00:21:53,120 --> 00:21:54,200",
+                  "- Indeed. Absolutely."
+               ],
+               [
+                  "00:21:54,200 --> 00:21:55,760",
+                  "You know, now that we have the"
+               ],
+               [
+                  "00:21:55,760 --> 00:21:57,800",
+                  "specter of quantum computing - [Shang-Hua] Yes, yes."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 46,
+            "Sentence": [
+               [
+                  "00:22:03,830 --> 00:22:04,720",
+                  "- It's a profound challenge."
+               ],
+               [
+                  "00:22:04,720 --> 00:22:07,600",
+                  "So can we find new sources of hardness"
+               ],
+               [
+                  "00:22:07,600 --> 00:22:09,562",
+                  "that are quantum-resistant? - [Shang-Hua] That's right."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 48,
+            "Sentence": [
+               [
+                  "00:22:16,220 --> 00:22:19,713",
+                  "- But I'm sure they will motivate beautiful mathematics."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 50,
+            "Sentence": [
+               [
+                  "00:22:25,930 --> 00:22:26,763",
+                  "- That's right. - And those demands"
+               ],
+               [
+                  "00:22:26,763 --> 00:22:28,620",
+                  "often sound impossible."
+               ],
+               [
+                  "00:22:28,620 --> 00:22:29,640",
+                  "And that's where we come in."
+               ],
+               [
+                  "00:22:29,640 --> 00:22:31,890",
+                  "It's our job to make the impossible possible."
+               ]
+            ]
+         }
+      ]
+   },
+   "2": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c?t=36",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:00:42,670 --> 00:00:43,503",
+                  "- I'd say math."
+               ],
+               [
+                  "00:00:43,503 --> 00:00:45,400",
+                  "Some of the small problems"
+               ],
+               [
+                  "00:00:45,400 --> 00:00:48,380",
+                  "can actually be really big and complicated."
+               ],
+               [
+                  "00:00:48,380 --> 00:00:50,210",
+                  "It's like a puzzle."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:01:16,980 --> 00:01:18,750",
+                  "- So what do you see in this photo?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:01:19,950 --> 00:01:23,090",
+                  "- Yeah. Hidden along all these penguins is a puffin."
+               ],
+               [
+                  "00:01:23,090 --> 00:01:25,890",
+                  "Do you wanna try to look for it? Do you see where it is?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:01:28,761 --> 00:01:31,100",
+                  "- I know where it is, but I don't wanna tell you."
+               ],
+               [
+                  "00:01:31,100 --> 00:01:32,660",
+                  "Do you believe me?"
+               ],
+               [
+                  "00:01:32,660 --> 00:01:34,330",
+                  "You're not sure to believe me. Right?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:01:35,590 --> 00:01:37,820",
+                  "- But what if I could prove to you"
+               ],
+               [
+                  "00:01:37,820 --> 00:01:39,420",
+                  "that I know where the puffin is"
+               ],
+               [
+                  "00:01:39,420 --> 00:01:41,640",
+                  "without revealing to you where it is?"
+               ],
+               [
+                  "00:01:41,640 --> 00:01:42,473",
+                  "Let me show you."
+               ],
+               [
+                  "00:01:45,730 --> 00:01:47,890",
+                  "I took that photo that we showed you."
+               ],
+               [
+                  "00:01:47,890 --> 00:01:50,690",
+                  "And I put it behind this poster here."
+               ],
+               [
+                  "00:01:50,690 --> 00:01:52,873",
+                  "Why don't you go take a look through that hole?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:02:19,889 --> 00:02:21,477",
+                  "- Why do you study zero-knowledge proof?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:02:34,920 --> 00:02:38,410",
+                  "- What if instead, we could somehow use"
+               ],
+               [
+                  "00:02:38,410 --> 00:02:40,870",
+                  "a zero-knowledge proof to log in."
+               ],
+               [
+                  "00:02:40,870 --> 00:02:43,270",
+                  "You would just be able to prove that,"
+               ],
+               [
+                  "00:02:43,270 --> 00:02:46,510",
+                  "hey, I'm Chelsea, without revealing anything to them."
+               ],
+               [
+                  "00:02:46,510 --> 00:02:49,710",
+                  "If you could do that, then it would be amazing, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:02:50,543 --> 00:02:53,440",
+                  "- Because then even if the hacker hacked into the computer,"
+               ],
+               [
+                  "00:02:53,440 --> 00:02:54,490",
+                  "he wouldn't learn anything."
+               ],
+               [
+                  "00:02:54,490 --> 00:02:56,740",
+                  "Because even the computer doesn't learn anything."
+               ],
+               [
+                  "00:02:56,740 --> 00:02:58,970",
+                  "So Chelsea, in your own words,"
+               ],
+               [
+                  "00:02:58,970 --> 00:03:00,870",
+                  "what is a zero-knowledge proof?"
+               ]
+            ]
+         }
+      ]
+   },
+   "3": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c?t=207",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:03:34,280 --> 00:03:36,760",
+                  "- I have not. No. - You have not. Right."
+               ],
+               [
+                  "00:03:36,760 --> 00:03:41,760",
+                  "It's a way for a prover to convince a verifier"
+               ],
+               [
+                  "00:03:41,760 --> 00:03:44,480",
+                  "that something is true without revealing"
+               ],
+               [
+                  "00:03:44,480 --> 00:03:47,520",
+                  "anything about why it's true, which sounds totally bizarre."
+               ],
+               [
+                  "00:03:47,520 --> 00:03:48,777",
+                  "Right? - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:04:23,445 --> 00:04:24,278",
+                  "- No."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:04:34,280 --> 00:04:38,100",
+                  "- So what's the exact purpose of a zero-knowledge proof?"
+               ],
+               [
+                  "00:04:38,100 --> 00:04:40,330",
+                  "Is it like proving something"
+               ],
+               [
+                  "00:04:40,330 --> 00:04:44,210",
+                  "but without giving enough information that could"
+               ],
+               [
+                  "00:04:44,210 --> 00:04:46,290",
+                  "endanger whatever it is that you're proving?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:04:59,640 --> 00:05:02,530",
+                  "- How does this relate to computer technology?"
+               ],
+               [
+                  "00:05:02,530 --> 00:05:04,220",
+                  "Like, do you type it into a computer"
+               ],
+               [
+                  "00:05:04,220 --> 00:05:05,070",
+                  "and somebody else receives it?"
+               ],
+               [
+                  "00:05:05,070 --> 00:05:07,330",
+                  "Or is it an in-person interaction?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:05:10,929 --> 00:05:11,762",
+                  "- Mm-hmm. - What would you guys do?"
+               ],
+               [
+                  "00:05:11,762 --> 00:05:13,560",
+                  "You'd probably first get together and like,"
+               ],
+               [
+                  "00:05:13,560 --> 00:05:15,260",
+                  "figure out some secret code, right?"
+               ],
+               [
+                  "00:05:15,260 --> 00:05:17,520",
+                  "And then like, write messages to each other in that code."
+               ],
+               [
+                  "00:05:17,520 --> 00:05:19,890",
+                  "But what if you've never met the person before?"
+               ],
+               [
+                  "00:05:19,890 --> 00:05:21,850",
+                  "What if you wanna exchange secret messages with me"
+               ],
+               [
+                  "00:05:21,850 --> 00:05:23,600",
+                  "and we've never met each other before?"
+               ],
+               [
+                  "00:05:23,600 --> 00:05:25,470",
+                  "How could we possibly do that?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:05:26,630 --> 00:05:27,880",
+                  "- It sounds impossible."
+               ],
+               [
+                  "00:05:27,880 --> 00:05:29,230",
+                  "Right? - It does."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:05:55,490 --> 00:05:58,680",
+                  "- It's like, if you have this really important secret"
+               ],
+               [
+                  "00:05:58,680 --> 00:06:00,650",
+                  "that you want somebody to know about,"
+               ],
+               [
+                  "00:06:00,650 --> 00:06:02,790",
+                  "but you don't want to tell them everything."
+               ],
+               [
+                  "00:06:02,790 --> 00:06:06,170",
+                  "You can use a zero-knowledge proof to"
+               ],
+               [
+                  "00:06:06,170 --> 00:06:09,384",
+                  "prove to them that secret, but not give away all of it."
+               ]
+            ]
+         }
+      ]
+   },
+   "4": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c?t=372",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:06:14,763 --> 00:06:18,610",
+                  "- I'm a first-year computer science student at USC Viterbi."
+               ],
+               [
+                  "00:06:18,610 --> 00:06:19,700",
+                  "I'm interested in all things like,"
+               ],
+               [
+                  "00:06:19,700 --> 00:06:22,800",
+                  "data and internet and blockchain and cryptocurrency."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:06:24,810 --> 00:06:25,780",
+                  "- Only in passing."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:06:46,260 --> 00:06:48,950",
+                  "- Will I, like, understand that it's true because like,"
+               ],
+               [
+                  "00:06:48,950 --> 00:06:51,690",
+                  "you know, the operations performed in the proof are like,"
+               ],
+               [
+                  "00:06:51,690 --> 00:06:53,120",
+                  "of a certain, like, you know,"
+               ],
+               [
+                  "00:06:53,120 --> 00:06:54,500",
+                  "they have like, certain attributes"
+               ],
+               [
+                  "00:06:54,500 --> 00:06:55,333",
+                  "that would make them true?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:07:15,420 --> 00:07:17,150",
+                  "- And the way we're gonna approach this"
+               ],
+               [
+                  "00:07:17,150 --> 00:07:19,920",
+                  "is through something called NP-completeness."
+               ],
+               [
+                  "00:07:19,920 --> 00:07:21,950",
+                  "What an NP-complete problem is,"
+               ],
+               [
+                  "00:07:21,950 --> 00:07:24,680",
+                  "it's a problem that's really hard to solve."
+               ],
+               [
+                  "00:07:24,680 --> 00:07:26,250",
+                  "But if you can solve it,"
+               ],
+               [
+                  "00:07:26,250 --> 00:07:28,830",
+                  "you can solve any problem"
+               ],
+               [
+                  "00:07:28,830 --> 00:07:30,443",
+                  "that's in the class NP."
+               ],
+               [
+                  "00:07:31,340 --> 00:07:34,330",
+                  "And that includes a vast number of problems."
+               ],
+               [
+                  "00:07:34,330 --> 00:07:36,000",
+                  "And what we're gonna do is we're gonna"
+               ],
+               [
+                  "00:07:36,000 --> 00:07:40,507",
+                  "use an NP-complete problem to actually prove"
+               ],
+               [
+                  "00:07:40,507 --> 00:07:42,800",
+                  "an incredible variety of statements"
+               ],
+               [
+                  "00:07:42,800 --> 00:07:44,680",
+                  "through a zero-knowledge proof."
+               ],
+               [
+                  "00:07:44,680 --> 00:07:46,940",
+                  "And the specific Np-complete problem"
+               ],
+               [
+                  "00:07:46,940 --> 00:07:48,060",
+                  "that we're gonna be looking at"
+               ],
+               [
+                  "00:07:48,060 --> 00:07:50,720",
+                  "is called map three-coloring."
+               ],
+               [
+                  "00:07:50,720 --> 00:07:54,130",
+                  "Okay, so here we have a map. Okay."
+               ],
+               [
+                  "00:07:54,130 --> 00:07:55,740",
+                  "And these are a bunch of countries."
+               ],
+               [
+                  "00:07:55,740 --> 00:07:58,240",
+                  "And we've arranged them so that"
+               ],
+               [
+                  "00:07:58,240 --> 00:08:02,540",
+                  "no countries that have the same color share a border."
+               ],
+               [
+                  "00:08:02,540 --> 00:08:07,150",
+                  "That's what makes a map like this validly colored."
+               ],
+               [
+                  "00:08:07,150 --> 00:08:09,700",
+                  "And now you might think, well, why should we care?"
+               ],
+               [
+                  "00:08:09,700 --> 00:08:13,970",
+                  "It turns out that whether or not a map can be"
+               ],
+               [
+                  "00:08:13,970 --> 00:08:16,020",
+                  "three-colored in this way"
+               ],
+               [
+                  "00:08:16,020 --> 00:08:18,700",
+                  "is an example of an NP-complete problem."
+               ],
+               [
+                  "00:08:18,700 --> 00:08:20,000",
+                  "And it turns out that, you know,"
+               ],
+               [
+                  "00:08:20,000 --> 00:08:22,010",
+                  "maybe what you really wanna do,"
+               ],
+               [
+                  "00:08:22,010 --> 00:08:24,300",
+                  "is you wanna give a zero-knowledge proof"
+               ],
+               [
+                  "00:08:24,300 --> 00:08:27,970",
+                  "that you have at least 0.3 Bitcoins, right?"
+               ],
+               [
+                  "00:08:27,970 --> 00:08:29,160",
+                  "That would be cool. - [chuckles] Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:08:49,400 --> 00:08:50,700",
+                  "- How would we turn something like this"
+               ],
+               [
+                  "00:08:50,700 --> 00:08:52,270",
+                  "into a zero-knowledge proof?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:09:08,600 --> 00:09:09,580",
+                  "- Can I get these two?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:09:10,903 --> 00:09:11,736",
+                  "- All right. Sounds good. Right?"
+               ],
+               [
+                  "00:09:11,736 --> 00:09:15,510",
+                  "Here we have green, right?"
+               ],
+               [
+                  "00:09:15,510 --> 00:09:19,630",
+                  "And over here, we have blue. Okay."
+               ],
+               [
+                  "00:09:19,630 --> 00:09:21,733",
+                  "And as you can see, they're two different colors."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:09:31,280 --> 00:09:32,690",
+                  "- Yeah. - Right?"
+               ],
+               [
+                  "00:09:32,690 --> 00:09:35,700",
+                  "So now, of course, one way to get more confidence"
+               ],
+               [
+                  "00:09:35,700 --> 00:09:37,050",
+                  "is to open up more of them for you,"
+               ],
+               [
+                  "00:09:37,050 --> 00:09:39,100",
+                  "but that would be revealing information to you."
+               ],
+               [
+                  "00:09:39,100 --> 00:09:40,400",
+                  "I don't wanna do that."
+               ],
+               [
+                  "00:09:40,400 --> 00:09:43,020",
+                  "So instead, I'm gonna ask you to please turn around."
+               ],
+               [
+                  "00:09:43,020 --> 00:09:45,460",
+                  "And now, let's change up these colors."
+               ],
+               [
+                  "00:09:45,460 --> 00:09:47,170",
+                  "Can you pick two countries at random"
+               ],
+               [
+                  "00:09:47,170 --> 00:09:49,480",
+                  "and we'll reveal two of the colors again."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 19,
+            "Sentence": [
+               [
+                  "00:09:51,210 --> 00:09:52,043",
+                  "- Nice."
+               ],
+               [
+                  "00:09:52,043 --> 00:09:53,330",
+                  "And that's smart of you to check with"
+               ],
+               [
+                  "00:09:53,330 --> 00:09:55,070",
+                  "the same one of the ones you already had."
+               ],
+               [
+                  "00:09:55,070 --> 00:09:56,040",
+                  "Right? - Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 21,
+            "Sentence": [
+               [
+                  "00:10:13,100 --> 00:10:14,420",
+                  "- Yeah, because of this one, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 23,
+            "Sentence": [
+               [
+                  "00:10:36,310 --> 00:10:37,160",
+                  "- Oh, okay. - Okay?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 25,
+            "Sentence": [
+               [
+                  "00:10:43,143 --> 00:10:45,661",
+                  "- It's just like, a probabilistic proof all."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 27,
+            "Sentence": [
+               [
+                  "00:10:48,100 --> 00:10:49,420",
+                  "- Yeah. - You would use encryption."
+               ],
+               [
+                  "00:10:49,420 --> 00:10:50,253",
+                  "Right."
+               ],
+               [
+                  "00:10:50,253 --> 00:10:52,250",
+                  "But it's really, this is the protocol."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 29,
+            "Sentence": [
+               [
+                  "00:11:01,960 --> 00:11:04,750",
+                  "- It's not about making something more efficient."
+               ],
+               [
+                  "00:11:04,750 --> 00:11:06,110",
+                  "It's about doing things that we just"
+               ],
+               [
+                  "00:11:06,110 --> 00:11:07,420",
+                  "didn't know how to do before."
+               ],
+               [
+                  "00:11:07,420 --> 00:11:10,340",
+                  "I can actually prove to you without revealing to you"
+               ],
+               [
+                  "00:11:10,340 --> 00:11:12,940",
+                  "any of my secrets that I use to behave honestly."
+               ],
+               [
+                  "00:11:12,940 --> 00:11:14,057",
+                  "Right?"
+               ],
+               [
+                  "00:11:14,057 --> 00:11:16,010",
+                  "I could prove to you that I"
+               ],
+               [
+                  "00:11:16,010 --> 00:11:18,940",
+                  "signed some encrypted document correctly."
+               ],
+               [
+                  "00:11:18,940 --> 00:11:19,773",
+                  "Right?"
+               ],
+               [
+                  "00:11:19,773 --> 00:11:22,310",
+                  "Without revealing to you what that secret document was."
+               ],
+               [
+                  "00:11:22,310 --> 00:11:24,080",
+                  "That ability to change the game."
+               ],
+               [
+                  "00:11:24,080 --> 00:11:26,290",
+                  "Like, really just change what we can do"
+               ],
+               [
+                  "00:11:26,290 --> 00:11:28,020",
+                  "is what zero-knowledge brings to the table."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 31,
+            "Sentence": [
+               [
+                  "00:11:32,454 --> 00:11:33,390",
+                  "- Right. - And it's implementations?"
+               ]
+            ]
+         }
+      ]
+   },
+   "5": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c?t=718",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:12:04,440 --> 00:12:07,390",
+                  "- My research is in cryptography."
+               ],
+               [
+                  "00:12:07,390 --> 00:12:10,750",
+                  "Specifically, I'm working on some various"
+               ],
+               [
+                  "00:12:10,750 --> 00:12:12,870",
+                  "multi-party computation protocols."
+               ],
+               [
+                  "00:12:12,870 --> 00:12:15,070",
+                  "The one I'm working on right now is"
+               ],
+               [
+                  "00:12:15,070 --> 00:12:17,890",
+                  "a system for computing aggregate statistics."
+               ],
+               [
+                  "00:12:17,890 --> 00:12:22,830",
+                  "So that service providers like, Google Chrome or Tesla,"
+               ],
+               [
+                  "00:12:22,830 --> 00:12:24,670",
+                  "can collect those statistics"
+               ],
+               [
+                  "00:12:24,670 --> 00:12:28,500",
+                  "without learning anything about individual user's data."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:12:29,360 --> 00:12:32,950",
+                  "- I, as a user, don't have to let Firefox know"
+               ],
+               [
+                  "00:12:32,950 --> 00:12:36,140",
+                  "that my favorite website is mylittlepony.com."
+               ],
+               [
+                  "00:12:36,140 --> 00:12:36,973",
+                  "[Amit laughs]"
+               ],
+               [
+                  "00:12:36,973 --> 00:12:38,960",
+                  "But they can know how many users"
+               ],
+               [
+                  "00:12:38,960 --> 00:12:41,150",
+                  "go to mylittlepony.com every day."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:12:43,660 --> 00:12:46,370",
+                  "- Obviously, zero-knowledge proofs are about"
+               ],
+               [
+                  "00:12:46,370 --> 00:12:48,730",
+                  "proving things to another person"
+               ],
+               [
+                  "00:12:48,730 --> 00:12:51,040",
+                  "without revealing the details of"
+               ],
+               [
+                  "00:12:51,040 --> 00:12:52,290",
+                  "what it is that you're proving."
+               ],
+               [
+                  "00:12:52,290 --> 00:12:54,610",
+                  "But, you know, in my mind, zero-knowledge"
+               ],
+               [
+                  "00:12:54,610 --> 00:12:56,620",
+                  "actually goes even further beyond that."
+               ],
+               [
+                  "00:12:56,620 --> 00:12:58,430",
+                  "It's like this overarching concept"
+               ],
+               [
+                  "00:12:58,430 --> 00:13:01,360",
+                  "that you can see a lot in multi-party computation,"
+               ],
+               [
+                  "00:13:01,360 --> 00:13:05,580",
+                  "where you wanna accomplish some sort of task"
+               ],
+               [
+                  "00:13:05,580 --> 00:13:07,930",
+                  "without revealing anything more than"
+               ],
+               [
+                  "00:13:07,930 --> 00:13:10,430",
+                  "exactly what you need to accomplish that task."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:13:29,480 --> 00:13:32,760",
+                  "- Yeah, so my first encounter with NP-completeness"
+               ],
+               [
+                  "00:13:32,760 --> 00:13:35,850",
+                  "was in my very first algorithms class"
+               ],
+               [
+                  "00:13:35,850 --> 00:13:37,490",
+                  "that I took as an undergraduate."
+               ],
+               [
+                  "00:13:37,490 --> 00:13:38,840",
+                  "So that was my first introduction."
+               ],
+               [
+                  "00:13:38,840 --> 00:13:42,420",
+                  "Is that an NP-complete language is this"
+               ],
+               [
+                  "00:13:42,420 --> 00:13:47,340",
+                  "amazing problem that not only tells you about itself,"
+               ],
+               [
+                  "00:13:47,340 --> 00:13:49,940",
+                  "but solving this problem can actually tell you about"
+               ],
+               [
+                  "00:13:49,940 --> 00:13:52,470",
+                  "an entire class of really interesting problems."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:13:58,210 --> 00:13:59,043",
+                  "- Absolutely."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:13:59,980 --> 00:14:03,190",
+                  "- And the idea that randomness - Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:14:26,370 --> 00:14:27,203",
+                  "- Right. - Because you're"
+               ],
+               [
+                  "00:14:27,203 --> 00:14:28,220",
+                  "trying to make everything obvious,"
+               ],
+               [
+                  "00:14:28,220 --> 00:14:30,880",
+                  "and you're trying to reveal the flow of information."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:14:37,710 --> 00:14:38,790",
+                  "- Exactly. Right."
+               ],
+               [
+                  "00:14:38,790 --> 00:14:41,120",
+                  "Because random is unpredictable and that's what we want."
+               ],
+               [
+                  "00:14:41,120 --> 00:14:42,178",
+                  "Right."
+               ],
+               [
+                  "00:14:42,178 --> 00:14:45,050",
+                  "We want that unpredictability around us to be utilized,"
+               ],
+               [
+                  "00:14:45,050 --> 00:14:47,690",
+                  "to actually hide the information that we wanna hide."
+               ],
+               [
+                  "00:14:47,690 --> 00:14:49,980",
+                  "How have you used your knowledge"
+               ],
+               [
+                  "00:14:49,980 --> 00:14:51,580",
+                  "in the projects that you've worked on?"
+               ],
+               [
+                  "00:14:51,580 --> 00:14:53,000",
+                  "What are the challenges that you find?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 18,
+            "Sentence": [
+               [
+                  "00:15:13,100 --> 00:15:13,933",
+                  "- So what are some of the"
+               ],
+               [
+                  "00:15:13,933 --> 00:15:15,440",
+                  "efficiency bottlenecks that you find?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 20,
+            "Sentence": [
+               [
+                  "00:15:21,530 --> 00:15:23,020",
+                  "- Right. - I like to call them flavors."
+               ],
+               [
+                  "00:15:23,020 --> 00:15:24,590",
+                  "I think that in general,"
+               ],
+               [
+                  "00:15:24,590 --> 00:15:27,480",
+                  "when you're using zero-knowledge proofs in application,"
+               ],
+               [
+                  "00:15:27,480 --> 00:15:30,500",
+                  "the main bottleneck tends to lie on the prover."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 22,
+            "Sentence": [
+               [
+                  "00:15:35,240 --> 00:15:37,290",
+                  "- Ooh. That's such a fun question."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 24,
+            "Sentence": [
+               [
+                  "00:15:42,533 --> 00:15:44,990",
+                  "- One of the coolest things I've seen over the past,"
+               ],
+               [
+                  "00:15:44,990 --> 00:15:46,450",
+                  "you know, three or four years,"
+               ],
+               [
+                  "00:15:46,450 --> 00:15:48,670",
+                  "when I've been working on this kind of stuff,"
+               ],
+               [
+                  "00:15:48,670 --> 00:15:52,770",
+                  "is the transition from theoretical to applied."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 26,
+            "Sentence": [
+               [
+                  "00:16:02,590 --> 00:16:03,423",
+                  "- No doubt."
+               ],
+               [
+                  "00:16:03,423 --> 00:16:04,740",
+                  "And especially with cloud computing,"
+               ],
+               [
+                  "00:16:04,740 --> 00:16:06,930",
+                  "exploiting the power of the cloud"
+               ],
+               [
+                  "00:16:06,930 --> 00:16:08,770",
+                  "to enable zero-knowledge proofs,"
+               ],
+               [
+                  "00:16:08,770 --> 00:16:10,450",
+                  "and to make use of zero-knowledge proofs,"
+               ],
+               [
+                  "00:16:10,450 --> 00:16:11,283",
+                  "would be amazing."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 28,
+            "Sentence": [
+               [
+                  "00:16:12,720 --> 00:16:14,650",
+                  "- And also in the blockchain space, for example,"
+               ],
+               [
+                  "00:16:14,650 --> 00:16:16,940",
+                  "if you wanna speed up the generation of proofs,"
+               ],
+               [
+                  "00:16:16,940 --> 00:16:18,740",
+                  "if that could be done in a distributed way,"
+               ],
+               [
+                  "00:16:18,740 --> 00:16:20,100",
+                  "then that would be great."
+               ],
+               [
+                  "00:16:20,100 --> 00:16:22,630",
+                  "One of the hopes that I have is that"
+               ],
+               [
+                  "00:16:22,630 --> 00:16:25,310",
+                  "the power of multi-party computation"
+               ],
+               [
+                  "00:16:25,310 --> 00:16:27,810",
+                  "is about bringing people together"
+               ],
+               [
+                  "00:16:27,810 --> 00:16:29,490",
+                  "who are mutually distrustful."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 30,
+            "Sentence": [
+               [
+                  "00:16:38,530 --> 00:16:40,590",
+                  "- that exists in society right now,"
+               ],
+               [
+                  "00:16:40,590 --> 00:16:42,980",
+                  "in helping to bring groups of people together?"
+               ]
+            ]
+         }
+      ]
+   },
+   "6": {
+      "youtube_link": "https://youtu.be/fOGdb1CTu5c?t=1026",
+      "wired_link": "https://www.wired.com/video/watch/5-levels-zero-knowledge-proof",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:17:16,653 --> 00:17:20,460",
+                  "- I think we Zoomed once during the pandemic,"
+               ],
+               [
+                  "00:17:20,460 --> 00:17:22,680",
+                  "but it's good to see you in person."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:17:23,840 --> 00:17:28,120",
+                  "- And actually, in '86 I was taking a crypto class"
+               ],
+               [
+                  "00:17:28,120 --> 00:17:31,170",
+                  "with Professor Leonard Edelman, the A of RSA."
+               ],
+               [
+                  "00:17:31,170 --> 00:17:34,160",
+                  "And he assigned me the paper by"
+               ],
+               [
+                  "00:17:34,160 --> 00:17:36,586",
+                  "Goldwasser, Micali, and Charlie Rackoff"
+               ],
+               [
+                  "00:17:36,586 --> 00:17:38,170",
+                  "on zero-knowledge proof."
+               ],
+               [
+                  "00:17:38,170 --> 00:17:41,720",
+                  "So that's indeed my first ever presentation,"
+               ],
+               [
+                  "00:17:41,720 --> 00:17:43,220",
+                  "ever, in this country."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:17:44,694 --> 00:17:45,975",
+                  "- [Shang-Hua] Was about zero-knowledge, yes."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:17:47,920 --> 00:17:51,810",
+                  "- It's also an interesting way"
+               ],
+               [
+                  "00:17:51,810 --> 00:17:55,957",
+                  "how mathematically to formulate those concepts, right."
+               ],
+               [
+                  "00:17:55,957 --> 00:17:58,150",
+                  "For example, we have data."
+               ],
+               [
+                  "00:17:58,150 --> 00:18:01,100",
+                  "Then eventually we started from data, like data mining,"
+               ],
+               [
+                  "00:18:01,100 --> 00:18:02,450",
+                  "you can get the information,"
+               ],
+               [
+                  "00:18:02,450 --> 00:18:04,880",
+                  "and then you have this word called knowledge."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:18:10,480 --> 00:18:13,000",
+                  "- But here is a very fascinating way"
+               ],
+               [
+                  "00:18:13,000 --> 00:18:15,400",
+                  "mathematicians or computer scientists"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:18:20,270 --> 00:18:21,980",
+                  "- [Amit] Right. - So what's your take"
+               ],
+               [
+                  "00:18:21,980 --> 00:18:25,260",
+                  "on why knowledge is, rather than information,"
+               ],
+               [
+                  "00:18:25,260 --> 00:18:26,430",
+                  "or zero-data proof."
+               ],
+               [
+                  "00:18:26,430 --> 00:18:27,620",
+                  "Clearly, there's data there."
+               ],
+               [
+                  "00:18:27,620 --> 00:18:29,290",
+                  "So can't be zero-data."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:18:41,310 --> 00:18:42,900",
+                  "- Mm-hmm. - being something"
+               ],
+               [
+                  "00:18:42,900 --> 00:18:45,000",
+                  "that you can already predict."
+               ],
+               [
+                  "00:18:45,000 --> 00:18:46,103",
+                  "Right. - Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:19:00,890 --> 00:19:01,723",
+                  "- [Shang-Hua] Mm-hmm. - was such a"
+               ],
+               [
+                  "00:19:01,723 --> 00:19:03,560",
+                  "beautiful insight, such an amazing insight."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 19,
+            "Sentence": [
+               [
+                  "00:19:14,600 --> 00:19:16,150",
+                  "- [Amit] Indeed. - And how much data you have."
+               ],
+               [
+                  "00:19:16,150 --> 00:19:17,439",
+                  "Right. - [Amit] Right."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 21,
+            "Sentence": [
+               [
+                  "00:19:22,150 --> 00:19:22,983",
+                  "- Right. Sometimes."
+               ],
+               [
+                  "00:19:22,983 --> 00:19:24,550",
+                  "I mean, for example, in medical research,"
+               ],
+               [
+                  "00:19:24,550 --> 00:19:26,750",
+                  "how amazing would it be, right,"
+               ],
+               [
+                  "00:19:26,750 --> 00:19:30,690",
+                  "to be able to have a drug, and be able to prove"
+               ],
+               [
+                  "00:19:30,690 --> 00:19:31,900",
+                  "that my drug works"
+               ],
+               [
+                  "00:19:31,900 --> 00:19:32,900",
+                  "in this model. - Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 23,
+            "Sentence": [
+               [
+                  "00:19:36,910 --> 00:19:40,010",
+                  "- What, currently, you're saying"
+               ],
+               [
+                  "00:19:40,010 --> 00:19:43,633",
+                  "it would be the next directions"
+               ],
+               [
+                  "00:19:43,633 --> 00:19:46,000",
+                  "in this space. - What's the next big things?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 25,
+            "Sentence": [
+               [
+                  "00:19:52,510 --> 00:19:53,970",
+                  "- Mm-hmm. - in a zero-knowledge way,"
+               ],
+               [
+                  "00:19:53,970 --> 00:19:55,740",
+                  "without any interaction, right."
+               ],
+               [
+                  "00:19:55,740 --> 00:19:57,760",
+                  "I can just take the program,"
+               ],
+               [
+                  "00:19:57,760 --> 00:19:59,300",
+                  "convert it to a zero-knowledge program,"
+               ],
+               [
+                  "00:19:59,300 --> 00:20:00,600",
+                  "or an obfuscated program,"
+               ],
+               [
+                  "00:20:00,600 --> 00:20:02,190",
+                  "and then just send it to you. - Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 27,
+            "Sentence": [
+               [
+                  "00:20:07,770 --> 00:20:08,603",
+                  "- That's right."
+               ],
+               [
+                  "00:20:08,603 --> 00:20:10,490",
+                  "There's a non-interactive nature."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 29,
+            "Sentence": [
+               [
+                  "00:20:11,820 --> 00:20:14,780",
+                  "- But there's verifiability in it."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 31,
+            "Sentence": [
+               [
+                  "00:20:15,613 --> 00:20:16,880",
+                  "- Sometimes when, for example,"
+               ],
+               [
+                  "00:20:16,880 --> 00:20:20,150",
+                  "when you have multi-protocol exchange"
+               ],
+               [
+                  "00:20:20,150 --> 00:20:22,420",
+                  "that, you know, just like a random number showed up,"
+               ],
+               [
+                  "00:20:22,420 --> 00:20:24,980",
+                  "you have to enter the random number."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 33,
+            "Sentence": [
+               [
+                  "00:20:31,730 --> 00:20:33,170",
+                  "- Indeed. - general knowledge of proof"
+               ],
+               [
+                  "00:20:33,170 --> 00:20:34,003",
+                  "in the ledger."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 35,
+            "Sentence": [
+               [
+                  "00:20:51,440 --> 00:20:52,290",
+                  "- [Shang-Hua] Yes, yes."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 37,
+            "Sentence": [
+               [
+                  "00:20:59,410 --> 00:21:03,460",
+                  "- I think, profoundly, the students often also ask me,"
+               ],
+               [
+                  "00:21:03,460 --> 00:21:05,640",
+                  "what are the future direction,"
+               ],
+               [
+                  "00:21:05,640 --> 00:21:09,200",
+                  "both in terms of crypto, zero-knowledge proof,"
+               ],
+               [
+                  "00:21:09,200 --> 00:21:14,130",
+                  "in the real world and how mathematical you see in computing."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 39,
+            "Sentence": [
+               [
+                  "00:21:22,480 --> 00:21:24,637",
+                  "- Mm-hmm. - I think that there is,"
+               ],
+               [
+                  "00:21:24,637 --> 00:21:26,390",
+                  "you know, we've done so much in cryptography"
+               ],
+               [
+                  "00:21:26,390 --> 00:21:28,350",
+                  "over the last few decades,"
+               ],
+               [
+                  "00:21:28,350 --> 00:21:30,190",
+                  "but we understand so little."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 41,
+            "Sentence": [
+               [
+                  "00:21:40,840 --> 00:21:43,640",
+                  "- How do we actually build mathematically hard problems"
+               ],
+               [
+                  "00:21:43,640 --> 00:21:46,810",
+                  "so that we can then use them to build efficient"
+               ],
+               [
+                  "00:21:46,810 --> 00:21:47,930",
+                  "zero-knowledge programs. - [Shang-Hua] Mm-hmm."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 43,
+            "Sentence": [
+               [
+                  "00:21:49,520 --> 00:21:51,890",
+                  "- I guess also, in quantum computing,"
+               ],
+               [
+                  "00:21:51,890 --> 00:21:53,120",
+                  "you need even harder problems."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 45,
+            "Sentence": [
+               [
+                  "00:21:57,800 --> 00:21:59,560",
+                  "- coming at us and we all know that"
+               ],
+               [
+                  "00:21:59,560 --> 00:22:01,850",
+                  "quantum computers can break a lot of"
+               ],
+               [
+                  "00:22:01,850 --> 00:22:03,830",
+                  "cryptographic systems. - Yes. A profound challenge."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 47,
+            "Sentence": [
+               [
+                  "00:22:09,562 --> 00:22:11,120",
+                  "- That even quantum computers can't break."
+               ],
+               [
+                  "00:22:11,120 --> 00:22:12,520",
+                  "And that's something I've been working on"
+               ],
+               [
+                  "00:22:12,520 --> 00:22:13,630",
+                  "for the last several years."
+               ],
+               [
+                  "00:22:13,630 --> 00:22:14,670",
+                  "But I'd be very excited to"
+               ],
+               [
+                  "00:22:14,670 --> 00:22:16,220",
+                  "see what happens in that space."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 49,
+            "Sentence": [
+               [
+                  "00:22:19,713 --> 00:22:20,690",
+                  "- Yes, that's right."
+               ],
+               [
+                  "00:22:20,690 --> 00:22:23,900",
+                  "You know, one of the great things about the real world"
+               ],
+               [
+                  "00:22:23,900 --> 00:22:25,930",
+                  "is that people in the real world have demands."
+               ]
+            ]
+         }
+      ]
+   }
+}

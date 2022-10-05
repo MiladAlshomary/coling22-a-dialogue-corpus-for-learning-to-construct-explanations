@@ -1,0 +1,1573 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "My name's Aric Prather and I'm a sleep scientist at UCSF.",
+          "I study the causes and consequences of insufficient sleep,",
+          "and I also carry out interventions to improve sleep",
+          "among people with insomnia.",
+          "Today, I've been challenged to explain the topic of sleep",
+          "at five different levels.",
+          "Everybody knows a little bit about",
+          "what is happening when they sleep,",
+          "but I think they'll be surprised",
+          "that there's a lot of science in there."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "2",
+        "Sentence": [
+          "Hey Christopher.",
+          "And how old are you?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "4",
+        "Sentence": [
+          "What grade is that?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "6",
+        "Sentence": [
+          "You think fifth?",
+          "What is your favorite subject?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "8",
+        "Sentence": [
+          "Well that's awesome,",
+          "because we're going to be talking about science today."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "10",
+        "Sentence": [
+          "And you know what we're going to be talking about?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "12",
+        "Sentence": [
+          "Sleep."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "14",
+        "Sentence": [
+          "Mine too, because I get to spend all day studying it.",
+          "Because you know what sleep does for you?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "16",
+        "Sentence": [
+          "[laughs] That's exactly right.",
+          "It kinda is like recharging your battery, right?",
+          "And sleep is so critical for so many parts",
+          "of our body and our mind, right?",
+          "It plays a really important way that we learn,",
+          "and it helps us kind of recover from the day before.",
+          "It affects our immune system and our metabolism,",
+          "all of these things that we need to kinda be healthy."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "18",
+        "Sentence": [
+          "So today, we're going to talk about some animals",
+          "and how they sleep.",
+          "So here's the first one.",
+          "What's that?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "20",
+        "Sentence": [
+          "Have you ever seen a giraffe in person?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "22",
+        "Sentence": [
+          "They're pretty cool, right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "24",
+        "Sentence": [
+          "And so what's really cool about this is that",
+          "giraffes need to sleep like everybody else,",
+          "and so the way that it does is it kind of slumps over",
+          "and it gets down on its legs",
+          "and it kind of becomes this ball,",
+          "but what's crazy about the whole thing",
+          "is they only sleep for like 30 minutes a day.",
+          "30 minutes!",
+          "Because it can't waste any more time,",
+          "because it can't be vulnerable for any longer.",
+          "It can get eaten by lions and that kind of thing.",
+          "It has kind of evolved in a way that it can still survive",
+          "and still get all the restoration it needs",
+          "under such a short period of time."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "26",
+        "Sentence": [
+          "So we think it works the same way,",
+          "but maybe just like more efficiently.",
+          "And so we're still really learning about how this works.",
+          "Sleep science itself is kind of a new field."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "28",
+        "Sentence": [
+          "And how did you feel?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "30",
+        "Sentence": [
+          "Really tired.",
+          "Do you think you were a little crankier than usual?",
+          "Yeah.",
+          "That's actually really interesting,",
+          "because what happens is",
+          "humans and everything needs to sleep eventually,",
+          "and so you can't stay up indefinitely, right?",
+          "What do you think happens if you don't sleep?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "32",
+        "Sentence": [
+          "Excellent.",
+          "So now I want to tell you about another animal",
+          "and how they sleep, okay?",
+          "So we have this one.",
+          "What's that?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "34",
+        "Sentence": [
+          "A hippopotamus.",
+          "They have a different challenge.",
+          "They sleep underwater."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "36",
+        "Sentence": [
+          "Right, right!",
+          "So how do they do it?",
+          "In the area that they live in,",
+          "they need to stay cool, right?",
+          "And so they spend a lot of time in the water,",
+          "and so then as a consequence,",
+          "they need to sleep in the water,",
+          "but how do they do it?",
+          "So it's really fascinating.",
+          "What they do is while they're sleeping,",
+          "they actually float back up to the surface and breathe",
+          "without waking up.",
+          "They're able to go about their whole sleep cycles",
+          "but still able to breathe,",
+          "because their body has adapted in a way",
+          "that they can still get the oxygen that they need.",
+          "It's a really amazing thing.",
+          "What do you think?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "38",
+        "Sentence": [
+          "Would it be cool to have that power?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "40",
+        "Sentence": [
+          "So now I want to talk about our last animal,",
+          "and I think this one is probably the most amazing of all.",
+          "Okay, so what's this?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "42",
+        "Sentence": [
+          "A dolphin!",
+          "Yes.",
+          "So dolphins, kind of like hippos,",
+          "have to sleep in the water, okay?",
+          "But because they're mammals, right, they need to breathe.",
+          "Dolphins breathe air.",
+          "They have to go up to the surface and breathe, right?",
+          "And for an animal like that,",
+          "it needs to figure out a way that it can sleep",
+          "but also still survive, right?",
+          "You know how dolphins sleep?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "44",
+        "Sentence": [
+          "One half of their brain at a time.",
+          "So half of their brain goes to sleep,",
+          "and the other half stays awake,",
+          "so that they can continue to breathe and swim,",
+          "and they do it in this four hours a time,",
+          "so like their right part of their brain sleeps,",
+          "they're able to go up to the surface and breathe.",
+          "Then their left part of their brain sleeps for four hours,",
+          "and it goes back and forth, back and forth,",
+          "so they can kind of maintain alertness,",
+          "still breathe, and survive.",
+          "Is that amazing or what?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "46",
+        "Sentence": [
+          "So what'd you learn today?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "48",
+        "Sentence": [
+          "What is important about sleeping?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Hey, I'm Aric."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "And how old are you, Dwayne?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "Okay, and where do you go to school?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "Excellent, and what's your favorite subject?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "That's a serious science."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "And good news, we're talking about science today."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "In fact, we're talking about sleep."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "And sleep science.",
+          "Do you sleep?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "You try, we all gotta try.",
+          "You've probably heard about sleep as this kind of,",
+          "you know, it's a biological process",
+          "that happens in your brain.",
+          "It's really important for your body,",
+          "but it's a lot more complex than that.",
+          "Sleep is made up of different parts.",
+          "You know, when you think about sleep,",
+          "what do you think about?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "But being off is not just being off.",
+          "There's lots of things that are happening.",
+          "We're gonna kind of talk",
+          "about those different pieces of sleep."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "So our sleep is made up of different types, okay?",
+          "The first one is called non-rapid eye movement sleep,",
+          "or non-REM, okay?",
+          "Or NREM.",
+          "And then the other one, which might not be a surprise,",
+          "is called REM.",
+          "Rapid eye movement sleep.",
+          "And those are the two main types of sleep that happen.",
+          "The way that we measure that as a sleep scientist",
+          "is that we'll actually bring people into the lab",
+          "where they can do this at home,",
+          "where we put electrodes on their scalp",
+          "while they're sleeping,",
+          "and that allows us to measure the brain activity",
+          "that's going on during the night."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "When we measure all of that, we're able to see",
+          "how much time someone's asleep,",
+          "and how many times they wake up and stuff during the night.",
+          "You know, we're also really interested",
+          "in kind of, the amount of non-REM sleep someone gets",
+          "and the amount of REM sleep that someone gets,",
+          "because each part of those types of sleep",
+          "do different things for the body.",
+          "And so it's important to get both of those.",
+          "And so within non-REM sleep,",
+          "there are three stages ranging from N-1 to N-2 to N-3.",
+          "So not particularly clever in our naming,",
+          "but that's how we know what stages they are.",
+          "And what they do is it moves",
+          "from lightest to deepest sleep, okay?",
+          "N-1, it's more kind of light, wakefulness sleep,",
+          "kind of in and out of sleeping.",
+          "Then you go into N-2,",
+          "which is where we spend 45 to 55 percent of our sleep.",
+          "And it's more this kind of light sleep,",
+          "but then we get into kind of the really restorative sleep,",
+          "and that's N-3.",
+          "And in N-3, when we look at someone's EEG wave,",
+          "we see these big slow waves,",
+          "and it's called slow wave sleep.",
+          "And so we spend about 20% of our sleep in slow wave sleep,",
+          "though it can vary on a day to day."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          "Okay?",
+          "When do you think you experience the most REM?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "27",
+        "Sentence": [
+          "You know, some of that is totally accurate,",
+          "that like when your brain's more engaged",
+          "by being on your phone or doing things that you really enjoy",
+          "or things that stress you out",
+          "or any of those types of things,",
+          "it's harder to get to sleep",
+          "and to kind of fall into that deeper levels of sleep.",
+          "Most of the REM sleep, this dreaming sleep,",
+          "happens in the second half of the night."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "29",
+        "Sentence": [
+          "Okay?",
+          "So we wake up a lot during the night,",
+          "and we just don't remember it.",
+          "And you'll go back down into deep sleep,",
+          "and then up again into REM,",
+          "you know, in kinda these cycles."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "31",
+        "Sentence": [
+          "Do you ever take naps?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "33",
+        "Sentence": [
+          "Okay.",
+          "How long are the naps that you take?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "35",
+        "Sentence": [
+          "One to six hours?",
+          "That's a long nap."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "37",
+        "Sentence": [
+          "Okay.",
+          "Usually we want to keep naps, like 20 to 30 minutes.",
+          "When people drop into deep sleep,",
+          "and then they're woken up out of a nap,",
+          "most people report that they feel way worse",
+          "than they did before they took the nap,",
+          "and that's because you've been in deep sleep,",
+          "and it's this term called sleep inertia.",
+          "So what are the stages of sleep?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "39",
+        "Sentence": [
+          "I want to know if you agree,",
+          "sleep is the coolest thing you've ever heard of."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So tell me, where are you in school?",
+          "What do you study?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "So pretty science-y."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "Excellent, because today for this level,",
+          "we're talking about sleep."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "How much sleep do you get, typically?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "10 hours?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "And so, how much do you think you need?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "It turns out, for people that are",
+          "between the ages of 18 and 65,",
+          "the agreed upon amount of sleep",
+          "that people should get is between seven and nine hours,",
+          "and it's really at least seven hours per night,",
+          "to maintain optimal health as an adult.",
+          "So at least seven hours.",
+          "When we look at across all of the data that is available",
+          "on like sleep and health,",
+          "and sleep and psychiatric illness and those types of things,",
+          "the largest risk is when people get five hours or less.",
+          "What do you think is responsible for driving",
+          "how much sleep you need, and things like that?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Right.",
+          "You can do part of this level,",
+          "and you can do the other part, clearly.",
+          "Got some expertise under your belt, and that's awesome,",
+          "because I think that everyone should know more about sleep.",
+          "And so the way that we think about what drives sleep",
+          "are two independent but related processes",
+          "and so they have kind of lame names.",
+          "Process S and process C,",
+          "and what you've kind of described is process C,",
+          "and that's the master clock, right?",
+          "And it helps regulate kind of the rhythms",
+          "like all over your body, all your cells,",
+          "and all those kind of things.",
+          "It drives the release of melatonin from the pineal gland,",
+          "and melatonin comes online under darkness,",
+          "so when the sun goes down, your brain knows",
+          "okay it's time to start getting ready for sleep,",
+          "and so you start releasing melatonin,",
+          "which really kind of sets the table for sleeping."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, no, that's a really great question,",
+          "and the same is true in places where",
+          "the sun never goes down during the summer,",
+          "and when it's dark all the time during the winter,",
+          "and it turns out light isn't the only thing",
+          "that kind of gates your circadian rhythm.",
+          "But I think the thing that's really important,",
+          "again there are two processes,",
+          "that the other one is the S process,",
+          "and that one's just kind of",
+          "a really important driver of sleep.",
+          "One name we call it is the homeostatic sleep drive.",
+          "Kind of the longer you're awake,",
+          "the sleepier you get.",
+          "You stay up, you get sleepy.",
+          "Time goes by, you get sleepier.",
+          "Time goes by, you get sleepier.",
+          "But it's actually kind of a fundamental principle",
+          "for how sleep is regulated,",
+          "and it's really kind of akin to like a balloon, okay?",
+          "So you wake up in the morning and your balloon is flat.",
+          "You've kind of like drained out all of the sleepiness.",
+          "But then as you kind of go throughout the day,",
+          "it kind of fills up, so you use your energy,",
+          "it gets filled up.",
+          "And then it gets filled up more",
+          "as you get towards nighttime, right?",
+          "And then when it's at this optimal amount",
+          "is when you kind of go to sleep",
+          "and let out all of the sleepiness again.",
+          "And this is really what underlies",
+          "why napping can also be bad for you.",
+          "So napping's not inherently bad,",
+          "but if you actually let out some of this air during the day,",
+          "it's going to take longer for the balloon",
+          "to get bigger, right, I see",
+          "to where you feel sleepy, right?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "20",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "21",
+        "Sentence": [
+          "What did you learn about sleep today?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Aric."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Thank you for joining us.",
+          "What do you do?",
+          "Where are you at in school?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Congratulations."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "So a lot of brain stuff."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Great."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "So that's good, because that's why you're here,",
+          "and so we're talking about sleep today,",
+          "and really about kind of what is the brain machinery",
+          "through which we go through consciousness",
+          "to unconsciousness and that transition."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "Okay.",
+          "The best way to think about this transition",
+          "is really called, it's a flip flop switch, okay?",
+          "So this term comes from engineering,",
+          "and the idea is that in sleep,",
+          "you basically have kind of this all of nothing experience.",
+          "Certainly people kind of drift off to sleep,",
+          "but then all of a sudden you're unconscious, right?",
+          "So it seems like it's this flip flop between",
+          "the arousal system and the sleep promoting system,",
+          "and it's certainly regulated,",
+          "and we'll get a little bit into that,",
+          "but they're certainly kind of made up",
+          "of two reciprocally inhibitory processes.",
+          "Okay, so we have the ascending reticular activating system.",
+          "It originates in the brain stem,",
+          "and there's a dorsal and a ventral arm to this,",
+          "and so the dorsal arm has neurons, cholinergic neurons,",
+          "that go up to the thalamus",
+          "and then it projections into the fore brain,",
+          "and then there's the ventral arm,",
+          "and this is comprised of a whole bunch",
+          "of different types of neurons,",
+          "so there are monominergic,",
+          "so there's kind of dopaminergic neurons",
+          "that come from the periaqueductal gray,",
+          "serotonergic ones from the dorsal raphae nuclei,",
+          "histaminergic neurons that come",
+          "from the tuberomammillary nucleus of the hippothalamus,",
+          "and then noradrenergic neurons",
+          "from the locus coeruleus,",
+          "and so all of those are kind of working in tandem",
+          "to kind of drive wake within the brain.",
+          "So if we just think about drugs that are available",
+          "inducing wakefulness, we can certainly,",
+          "kind of the dopaminergic ones jump out, right?",
+          "So we have amphetamines that kind of drive those signaling,",
+          "and then modafinil, which is a wake promoting drug",
+          "for people that have kind of excessive day-time sleepiness",
+          "that maintains alertness throughout the day."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "For the role that they play",
+          "with respect to the sleep-wake system",
+          "is really kind of amping up the wake system, right?",
+          "And so certainly that has like down stream consequences",
+          "for the sleep system, because now the flip flop switch",
+          "is kind of pushed in a much stronger direction,",
+          "and we have to kind of rely on what regulates sleep",
+          "to get it pushed back to sleep."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "16",
+        "Sentence": [
+          "And do we know much about why,",
+          "or which stages of the sleep cycle are affected?",
+          "You know, if you take amphetamines,",
+          "is it then when you go to sleep,",
+          "that you're not able to transition",
+          "through each of the sleep periods,",
+          "or is that less clear?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "You know, so I think",
+          "that's less clear.",
+          "In some ways, you know, getting back to this idea",
+          "of this wake-sleep system,",
+          "we have this sleep system that is kind of the counterpoint",
+          "to this wake arousal system, and so",
+          "the primary nucleus region",
+          "is the ventral lateral pre-optic nucleus,",
+          "also called VLPO, and that has particular neuron outputs",
+          "that release GABA and galanin,",
+          "which work in an inhibitory way",
+          "on kind of the wake promoting ones.",
+          "And so, it's kind of this delicate balance",
+          "of these two systems that are ongoing.",
+          "In your cognitive neuro-science training, right,",
+          "it sounds like it's pretty specific and focused",
+          "in a particular part of the brain, the cerebellum,",
+          "and one thing that I'm interested in",
+          "is you bring a participant into the study,",
+          "have you ensured that they got a good night's sleep?",
+          "Have you asked them about their sleep?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "You know, what we do in our studies,",
+          "is we actually track people, for say a week,",
+          "and they have to get in within this range of amount of sleep",
+          "and then it has to be both amount of sleep",
+          "and how stable it is.",
+          "That variability can kind of impact it",
+          "and certainly might have an impact on the machinery",
+          "that's happening in the brain."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "Yeah.",
+          "So what did you learn about sleep today?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "So now we have sleep on your brain.",
+          "That was all I wanted to hear."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "Good to see you again, Yue."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "Really glad that you could join us.",
+          "So we've been talking about sleep today,",
+          "various levels of complexity.",
+          "But now with you, I really want to talk about",
+          "what do we know about sleep and the aging brain.",
+          "Can you tell me a little bit about",
+          "some of the work that you've been doing in that area?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "So how strong is the link?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "So it's interesting, so I also saw",
+          "that there was also a recent meta-analysis",
+          "around sleep disturbances and dementia risk,",
+          "and in that study, they looked about 250,000 people",
+          "in this meta-analysis,",
+          "and they followed them around for 10 years,",
+          "and you know, when they pulled all the samples together,",
+          "they found there was a 1.2 fold increased risk",
+          "for developing all caused dementia,",
+          "so it sounds like both sleep apnea",
+          "and then maybe sleep disturbances more generally",
+          "are associated with increased risk for dementia.",
+          "When I think about that, I think about how",
+          "sleep lives in the brain,",
+          "these neurodegenerative diseases live in the brain,",
+          "and so what do we know about the causality of this?",
+          "Could it be that individuals",
+          "who have early onset of say, Alzheimer's,",
+          "have then poor sleep kind of as a consequence of that?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "So within dementia risk in particular,",
+          "Alzheimer's for instance,",
+          "there are kind of two clear features",
+          "that seem to be part of the pathology, right?",
+          "So there's beta-amyloid which accumulates in the brain,",
+          "and then there's kind of these tangles,",
+          "this tauopathies, right?",
+          "And so it sounds like sleep seems to be related",
+          "to the tauopathies.",
+          "What about kind of beta-amyloid?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "Okay, so there is this bio-directional piece,",
+          "but I think perhaps the most exciting thing",
+          "that happened in the sleep field,",
+          "at least in my view,",
+          "has been understanding the role of sleep",
+          "and its clearance of beta-amyloid in the brain.",
+          "This idea that sleep is kind of the dishwasher of the brain,",
+          "it seems like, that you know A betta accumulates",
+          "as we kind of use energy,",
+          "and you know it's kind of a waste product,",
+          "and the idea that if you don't clear it out,",
+          "that it's going to build up and accumulate."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "I'm excited about the future of sleep medicine.",
+          "I think there are incredible innovations that are happening",
+          "in the basic sciences, kind of really starting to understand",
+          "what are the clear biological processes",
+          "that underly some of these things",
+          "as they relate to disease risk,",
+          "and what is the true function of sleep,",
+          "kind of the why we sleep phenomenon, right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "So this was certainly a challenge today.",
+          "Everyone knew a little bit about sleep,",
+          "and I think that's great,",
+          "because sleep is incredibly important,",
+          "but there was also a lot of misinformation",
+          "around kind of how sleep works,",
+          "and people doing sleep behaviors",
+          "that may not be the most adaptive for them.",
+          "We're still uncovering new things every day",
+          "about how sleep works, but despite that,",
+          "all of us know that sleep is fundamental to our health,",
+          "and so I'm excited for sleep to kind of raise its profile",
+          "among other health behaviors",
+          "and get the investment and care that it needs."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU?t=24",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Nice to meet you, my name's Christopher."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "I'm ten."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "I think fifth."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "7",
+        "Sentence": [
+          "Math and science."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "9",
+        "Sentence": [
+          "Cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "11",
+        "Sentence": [
+          "What?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "13",
+        "Sentence": [
+          "Favorite part of the day."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "15",
+        "Sentence": [
+          "It rests your body, like an electric car."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "17",
+        "Sentence": [
+          "Whoa."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "19",
+        "Sentence": [
+          "A giraffe."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "21",
+        "Sentence": [
+          "Uh yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "23",
+        "Sentence": [
+          "Mhm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "25",
+        "Sentence": [
+          "And how does it like recharge, like humans?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "27",
+        "Sentence": [
+          "I had a sleepover on Saturday,",
+          "and I didn't sleep at all."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "29",
+        "Sentence": [
+          "Really tired."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "31",
+        "Sentence": [
+          "It affects what you can do in your daily life."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "33",
+        "Sentence": [
+          "A hippo."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "35",
+        "Sentence": [
+          "I could never do that, I would pass out."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "37",
+        "Sentence": [
+          "That's cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "39",
+        "Sentence": [
+          "Uh yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "41",
+        "Sentence": [
+          "Aww a dolphin."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "43",
+        "Sentence": [
+          "How?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "45",
+        "Sentence": [
+          "That's cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "47",
+        "Sentence": [
+          "I learned how other animals sleep."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "49",
+        "Sentence": [
+          "Sleep rests your body,",
+          "and you have to rest your body",
+          "in order to do your daily things in life."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU?t=278",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I'm Dwayne.",
+          "Nice to meet you, Aric."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm 16 years old."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "McClymonds High School in Oakland, California."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "AP Chemistry."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "It is."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Oh okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "I do, I try. [laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Resting, relaxing, really shutting down your brain,",
+          "taking some time off of a busy schedule and work day."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Okay.",
+          "Are you like able to tell how much sleep someone's getting",
+          "or what their sleep schedule is by REM?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Oh wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Well I've heard that you don't really go",
+          "into like a deeper sleep,",
+          "so I'm guessing like N-3,",
+          "or really any of the N's at all, really,",
+          "if you are on technology right before you sleep.",
+          "And also if there's too much light,",
+          "or if you're listening to music while you're asleep",
+          "or anything like that,",
+          "you're not experiencing deep sleep, right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Oh wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "I do."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Anywhere from between one to six hours."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "It is a long nap."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "So N-1 being like light sleep,",
+          "still a lot of brain activity going on.",
+          "I can imagine that happens right after you fall asleep.",
+          "Asleep.",
+          "And then N-2 being light, moderate activity in your brain,",
+          "still sleep, but still kind of consciously aware,",
+          "and N-3 being the deepest form of sleep."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "It really is.",
+          "[laughs]",
+          "Right now, it definitely is",
+          "the coolest thing I've ever heard of."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU?t=556",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I'm a fourth year Chemistry student at USF."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yes, pretty science-y."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Great."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "During the summer?",
+          "Like 10 hours."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "And during the school year, maybe five?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "I mean, I've read that six is ideal",
+          "for people in my age range."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "I mean, I know sleep is kind of regulated",
+          "by the thalamus and the suprachiasmatic nucleus",
+          "sending signals to the pineal gland",
+          "to which kind of secretes melatonin,",
+          "which tells us when it's time to go to sleep."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "I'm from Hoi, so we have very long days.",
+          "We have early sunrises, late sunsets.",
+          "Does that signify less sleep,",
+          "because we have a shorter amount of time",
+          "for melatonin to be released?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "I learned about the two processes,",
+          "process S and process C.",
+          "I learned about the circadian rhythm,",
+          "and it doesn't only rely on melatonin,",
+          "but it also relies on your eating",
+          "and a whole bunch of other factors",
+          "that affect your circadian rhythm."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU?t=788",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Mave."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "So I'm at UC Berkeley, I'm a psychology student",
+          "studying cognitive neuro-science",
+          "and I just started my third year."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Thank you."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "A lot of brain stuff."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I'm biased because I study one of the other",
+          "sub-critical parts of the brain, the cerebellum."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Great."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "In terms of the dopamine,",
+          "if you're taking amphetamines,",
+          "that's usually to promote, as you said, wakefulness,",
+          "but does that actually improve the quality of your sleep?",
+          "How reliable are those kinds of interventions?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Well in most studies, probably it is advised",
+          "for your participants before they come in",
+          "to get a good night's sleep,",
+          "so those would be recommendations that you would lay out,",
+          "you know, in communication with the participant,",
+          "before they come in."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "I often think that people, many people think",
+          "that they can get by on very little sleep",
+          "where the less than average amount of sleep,",
+          "from what I know from the research,",
+          "you know if you actually test those people",
+          "on different batteries of cognitive tasks,",
+          "you often find that their performance is slightly worse",
+          "than they had anticipated."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "I guess I learned a system that is,",
+          "you know, very heavily regulated and influenced",
+          "by some of these older conserved",
+          "sub-cortical systems in the brain,",
+          "and that there's, as you called it,",
+          "like a flip flop function between wakefulness and sleep",
+          "that's regulated by these specific dopaminergic,",
+          "neurogenergic, like neurotransmitters,",
+          "that manifest in different sub-cortical parts of the brain."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/OB61yG8WDyU?t=1119",
+    "wired_link": "https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes, good to see you."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "So I'm a epidemiologist,",
+          "so we do a lot of work",
+          "on the epidemiology of sleep",
+          "and development of neurodegenerative diseases",
+          "including both Alzheimer's and Parkinson's disease,",
+          "so ADMPD.",
+          "We mainly work on population studies.",
+          "We work on thousands and even millions of population,",
+          "and we use statistical modeling to find out",
+          "the association between different sleep disturbances",
+          "and also genetics related to sleep disturbances",
+          "and link that to their risk of developing ADMPD."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Our study has found really strong associations",
+          "looking at these populations, for example, with sleep apnea.",
+          "We've done one meta-analysis and it's showed that",
+          "those with sleep apnea, they have a ratio of 1.26,",
+          "which means that those who have sleep apnea",
+          "have 26% elevated risk of developing Alzheimer's",
+          "compared to those without sleep apnea."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah, so I think what's really fascinating",
+          "is all these bio-directional relationships",
+          "that's being identified in animal studies especially,",
+          "showing that sleep changes actually occur very early on",
+          "in the disease process, so it could be a prodromal stage",
+          "of Parkinson's, and also in transgenic model of AD,",
+          "they're already showing a lot of circadian abnormalities",
+          "in this mouse."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yes, in the transgenic mouse models of AD,",
+          "including those expressing",
+          "human mutant amyloid precursor protein,",
+          "APP type or both,",
+          "so that's kind of showing the sleep changes",
+          "in both of these pathologies."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So the thing I'm most excited about sleep research",
+          "is, I think, first of all,",
+          "this complexity of the daytime/nighttime sleep,",
+          "what sleep is really doing to our body and to our brain,",
+          "and then is really from the epidemiologic",
+          "or public health perspective,",
+          "how we can best use sleep as a tool for the detection",
+          "and prevention of neurodegeneration in the long-term."
+        ]
+      }
+    ]
+  }
+}

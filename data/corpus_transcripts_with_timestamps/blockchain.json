@@ -1,0 +1,2304 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:00,030 --> 00:00:02,280",
+                  "My name is Bettina Warburg."
+               ],
+               [
+                  "00:00:02,280 --> 00:00:03,540",
+                  "I'm a researcher of transformative technologies"
+               ],
+               [
+                  "00:00:03,540 --> 00:00:05,759",
+                  "and co-founder of Animal Ventures."
+               ],
+               [
+                  "00:00:05,759 --> 00:00:08,610",
+                  "Today, I've been challenged to explain"
+               ],
+               [
+                  "00:00:08,610 --> 00:00:10,920",
+                  "one concept at five levels of increasing complexity."
+               ],
+               [
+                  "00:00:10,920 --> 00:00:14,969",
+                  "My topic is blockchain technology."
+               ],
+               [
+                  "00:00:14,969 --> 00:00:17,130",
+                  "Blockchain is a new network, and it's going to help us"
+               ],
+               [
+                  "00:00:17,130 --> 00:00:19,529",
+                  "decentralize trade, allowing us to do a lot"
+               ],
+               [
+                  "00:00:19,529 --> 00:00:22,230",
+                  "of our transactions much more peer to peer directly"
+               ],
+               [
+                  "00:00:22,230 --> 00:00:24,300",
+                  "and lower our use of intermediaries"
+               ],
+               [
+                  "00:00:24,300 --> 00:00:27,240",
+                  "like companies or banks maybe."
+               ],
+               [
+                  "00:00:27,240 --> 00:00:30,179",
+                  "I think today everyone can leave understanding"
+               ],
+               [
+                  "00:00:30,179 --> 00:00:32,759",
+                  "something about blockchain at some level."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:32,759 --> 00:00:34,200",
+                  "Do you know what we're gonna talk about today?"
+               ],
+               [
+                  "00:00:34,200 --> 00:00:37,950",
+                  "It's called blockchain."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:00:41,070 --> 00:00:43,770",
+                  "That's a really good question."
+               ],
+               [
+                  "00:00:43,770 --> 00:00:45,149",
+                  "It's actually a way that we can trade."
+               ],
+               [
+                  "00:00:45,149 --> 00:00:48,450",
+                  "Do you know what trade is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:00:52,920 --> 00:00:55,110",
+                  "When you give up most of what you want?"
+               ],
+               [
+                  "00:00:55,110 --> 00:00:56,550",
+                  "Well, sometimes that definitely happens for sure."
+               ],
+               [
+                  "00:00:56,550 --> 00:00:58,469",
+                  "What if I told you that this is the kind of technology"
+               ],
+               [
+                  "00:00:58,469 --> 00:01:01,230",
+                  "that I work on that means you could trade"
+               ],
+               [
+                  "00:01:01,230 --> 00:01:04,229",
+                  "with any kid all over the world?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:01:06,810 --> 00:01:10,350",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:01:15,600 --> 00:01:17,100",
+                  "That's probably a good idea, maybe somebody else"
+               ],
+               [
+                  "00:01:17,100 --> 00:01:19,200",
+                  "likes it more than you do."
+               ],
+               [
+                  "00:01:19,200 --> 00:01:21,030",
+                  "So normally, when people trade, they have to go"
+               ],
+               [
+                  "00:01:21,030 --> 00:01:23,850",
+                  "to the store, or they have to know the person"
+               ],
+               [
+                  "00:01:23,850 --> 00:01:25,380",
+                  "so they can get what they asked for."
+               ],
+               [
+                  "00:01:25,380 --> 00:01:28,020",
+                  "With blockchain, you can make that exact same trade,"
+               ],
+               [
+                  "00:01:28,020 --> 00:01:30,540",
+                  "but you don't need the store, and you don't even"
+               ],
+               [
+                  "00:01:30,540 --> 00:01:32,820",
+                  "necessarily need to know the other person."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:01:39,690 --> 00:01:42,970",
+                  "Really."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:01:42,970 --> 00:01:45,040",
+                  "[Bettina] So Ian, do you know what blockchain is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:01:47,050 --> 00:01:49,030",
+                  "Have you ever traded or sold anything?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:01:51,580 --> 00:01:53,680",
+                  "That's amazing."
+               ],
+               [
+                  "00:01:53,680 --> 00:01:55,840",
+                  "What made you decide to trade on eBay?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:02:04,510 --> 00:02:07,090",
+                  "So what if I told you that blockchain technology"
+               ],
+               [
+                  "00:02:07,090 --> 00:02:10,000",
+                  "is basically a tool where you can do the exact same thing,"
+               ],
+               [
+                  "00:02:10,000 --> 00:02:12,670",
+                  "but it goes to you and I directly?"
+               ],
+               [
+                  "00:02:12,670 --> 00:02:15,040",
+                  "You wouldn't need an eBay or a brand in between."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:02:16,360 --> 00:02:18,850",
+                  "And there's a lot of those kinds of middlemen"
+               ],
+               [
+                  "00:02:18,850 --> 00:02:22,239",
+                  "in our society today, right?"
+               ],
+               [
+                  "00:02:22,239 --> 00:02:24,370",
+                  "We have a lot of banks."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:02:26,709 --> 00:02:30,610",
+                  "We have a lot of companies that sort of help us"
+               ],
+               [
+                  "00:02:30,610 --> 00:02:33,580",
+                  "make sure that our trades happen,"
+               ],
+               [
+                  "00:02:33,580 --> 00:02:34,900",
+                  "but if we could guarantee the same trade"
+               ],
+               [
+                  "00:02:34,900 --> 00:02:37,690",
+                  "using technology as sort of a technological trust,"
+               ],
+               [
+                  "00:02:37,690 --> 00:02:41,350",
+                  "then we wouldn't really need"
+               ],
+               [
+                  "00:02:41,350 --> 00:02:44,850",
+                  "all those middlemen in between."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"13",
+            "Sentence":[
+               [
+                  "00:02:47,830 --> 00:02:49,600",
+                  "It's basically a network of computers"
+               ],
+               [
+                  "00:02:49,600 --> 00:02:51,090",
+                  "that all have the same history of transactions."
+               ],
+               [
+                  "00:02:51,090 --> 00:02:54,730",
+                  "And so instead of sort of there being one company"
+               ],
+               [
+                  "00:02:54,730 --> 00:02:56,140",
+                  "with one database that holds all the information,"
+               ],
+               [
+                  "00:02:56,140 --> 00:02:57,910",
+                  "the same sort of list is held by all these different people."
+               ],
+               [
+                  "00:02:57,910 --> 00:03:01,150",
+                  "Like, you could have it on your computer."
+               ],
+               [
+                  "00:03:01,150 --> 00:03:03,280",
+                  "And then it gets validated by everyone,"
+               ],
+               [
+                  "00:03:03,280 --> 00:03:06,070",
+                  "and basically, that turns into the next part of the list."
+               ],
+               [
+                  "00:03:06,070 --> 00:03:07,750",
+                  "So it's sort of constantly updating itself."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"15",
+            "Sentence":[
+               [
+                  "00:03:10,870 --> 00:03:14,620",
+                  "So it use cryptography, and that helps it basically"
+               ],
+               [
+                  "00:03:14,620 --> 00:03:17,140",
+                  "encode all of the transactions."
+               ],
+               [
+                  "00:03:17,140 --> 00:03:19,060",
+                  "So you can't really see exactly what happened,"
+               ],
+               [
+                  "00:03:19,060 --> 00:03:20,890",
+                  "but you can know it happened because it's like a marker."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"17",
+            "Sentence":[
+               [
+                  "00:03:27,579 --> 00:03:28,959",
+                  "Yeah, exactly."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"19",
+            "Sentence":[
+               [
+                  "00:03:31,390 --> 00:03:34,299",
+                  "[Bettina] Exactly."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"21",
+            "Sentence":[
+               [
+                  "00:03:36,400 --> 00:03:38,110",
+                  "So it's kinda this like really big ledger"
+               ],
+               [
+                  "00:03:38,110 --> 00:03:41,290",
+                  "or accounting system for all sorts of things"
+               ],
+               [
+                  "00:03:41,290 --> 00:03:45,340",
+                  "that get traded, but instead of being owned"
+               ],
+               [
+                  "00:03:45,340 --> 00:03:47,470",
+                  "by one company, it's owned by everybody."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"23",
+            "Sentence":[
+               [
+                  "00:03:49,250 --> 00:03:52,280",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:03:52,280 --> 00:03:54,620",
+                  "We're gonna talk about blockchain technology."
+               ],
+               [
+                  "00:03:54,620 --> 00:03:57,530",
+                  "Have you heard of blockchain?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:04:01,700 --> 00:04:04,460",
+                  "When we were much smaller societies,"
+               ],
+               [
+                  "00:04:04,460 --> 00:04:07,940",
+                  "you and I could trade in our community pretty easily."
+               ],
+               [
+                  "00:04:07,940 --> 00:04:10,850",
+                  "As the distance in our trade grew,"
+               ],
+               [
+                  "00:04:10,850 --> 00:04:13,850",
+                  "we ended up inventing institutions, right?"
+               ],
+               [
+                  "00:04:13,850 --> 00:04:16,130",
+                  "If you Uber or you use Airbnb or you use Amazon even,"
+               ],
+               [
+                  "00:04:16,130 --> 00:04:19,130",
+                  "these are just digital marketplaces and platforms"
+               ],
+               [
+                  "00:04:19,130 --> 00:04:21,940",
+                  "that help us facilitate an exchange of value."
+               ],
+               [
+                  "00:04:21,940 --> 00:04:25,130",
+                  "But today, we actually have a technology"
+               ],
+               [
+                  "00:04:25,130 --> 00:04:27,740",
+                  "that allows us to trade one to one but at scale,"
+               ],
+               [
+                  "00:04:27,740 --> 00:04:29,240",
+                  "and it's called blockchain technology."
+               ],
+               [
+                  "00:04:29,240 --> 00:04:32,090",
+                  "There is some kind of interface for it."
+               ],
+               [
+                  "00:04:32,090 --> 00:04:35,000",
+                  "You could have an app, or you could use a computer"
+               ],
+               [
+                  "00:04:35,000 --> 00:04:37,370",
+                  "to do it, but instead of there being a company"
+               ],
+               [
+                  "00:04:37,370 --> 00:04:39,890",
+                  "in the middle that's helping you make that transaction,"
+               ],
+               [
+                  "00:04:39,890 --> 00:04:43,670",
+                  "it's a bunch of software code."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:04:46,460 --> 00:04:48,800",
+                  "And so it's being run by all of these different computers"
+               ],
+               [
+                  "00:04:48,800 --> 00:04:51,230",
+                  "that have like a node."
+               ],
+               [
+                  "00:04:51,230 --> 00:04:54,650",
+                  "So they're all running the same software"
+               ],
+               [
+                  "00:04:54,650 --> 00:04:57,470",
+                  "and guaranteeing your transactions as they happen."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:05:03,800 --> 00:05:05,480",
+                  "In some cases, yeah, it is."
+               ],
+               [
+                  "00:05:05,480 --> 00:05:07,550",
+                  "And a lot of people in the financial industry,"
+               ],
+               [
+                  "00:05:07,550 --> 00:05:10,640",
+                  "in particular, are looking at it from the banking side"
+               ],
+               [
+                  "00:05:10,640 --> 00:05:12,560",
+                  "of how do we use this technology to trade things"
+               ],
+               [
+                  "00:05:12,560 --> 00:05:17,240",
+                  "like Bitcoin or other tokens that are easier to use"
+               ],
+               [
+                  "00:05:17,240 --> 00:05:19,730",
+                  "instead of today's currency."
+               ],
+               [
+                  "00:05:19,730 --> 00:05:21,680",
+                  "A lot of people think about blockchain as Bitcoin"
+               ],
+               [
+                  "00:05:21,680 --> 00:05:24,860",
+                  "because it's sort of in the news a lot,"
+               ],
+               [
+                  "00:05:24,860 --> 00:05:26,570",
+                  "and it's this new cryptocurrency."
+               ],
+               [
+                  "00:05:26,570 --> 00:05:29,990",
+                  "And it's kind of exciting."
+               ],
+               [
+                  "00:05:29,990 --> 00:05:32,840",
+                  "But we're actually seeing a lot more use cases"
+               ],
+               [
+                  "00:05:32,840 --> 00:05:34,970",
+                  "for blockchain that aren't around the currency side."
+               ],
+               [
+                  "00:05:34,970 --> 00:05:37,130",
+                  "They're more around, how do you take any asset"
+               ],
+               [
+                  "00:05:37,130 --> 00:05:41,060",
+                  "and be able to trade that using this same technology."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:05:49,640 --> 00:05:53,540",
+                  "So today, a lot of people are working on how to create"
+               ],
+               [
+                  "00:05:53,540 --> 00:05:55,780",
+                  "identity structures that leverage blockchains."
+               ],
+               [
+                  "00:05:55,780 --> 00:05:58,090",
+                  "And one of the tools for doing that is being able"
+               ],
+               [
+                  "00:05:58,090 --> 00:06:01,180",
+                  "to cryptographically sign for a given attribute."
+               ],
+               [
+                  "00:06:01,180 --> 00:06:03,490",
+                  "So your government could sign that you have a US passport"
+               ],
+               [
+                  "00:06:03,490 --> 00:06:05,080",
+                  "or a university could sign that you are"
+               ],
+               [
+                  "00:06:05,080 --> 00:06:09,100",
+                  "a currently enrolled student."
+               ],
+               [
+                  "00:06:09,100 --> 00:06:12,220",
+                  "And you could then dole out that information"
+               ],
+               [
+                  "00:06:12,220 --> 00:06:15,400",
+                  "and control it yourself and be able to show people"
+               ],
+               [
+                  "00:06:15,400 --> 00:06:18,250",
+                  "those certifications on an as needed basis."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:06:18,250 --> 00:06:20,710",
+                  "So today, we're gonna talk about blockchain technology."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:06:23,310 --> 00:06:25,930",
+                  "[Bettina] Have you ever heard of blockchain?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:06:50,680 --> 00:06:52,360",
+                  "Yeah, that's exactly right."
+               ],
+               [
+                  "00:06:52,360 --> 00:06:54,880",
+                  "And you can append it."
+               ],
+               [
+                  "00:06:54,880 --> 00:06:57,580",
+                  "You can sort of add new information that's more current,"
+               ],
+               [
+                  "00:06:57,580 --> 00:06:59,860",
+                  "but you can't actually go erase anything."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:07:12,580 --> 00:07:14,560",
+                  "For sure."
+               ],
+               [
+                  "00:07:14,560 --> 00:07:16,450",
+                  "A lot of the assumptions won't hold true."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:07:18,430 --> 00:07:20,530",
+                  "Same with, who are the actors?"
+               ],
+               [
+                  "00:07:20,530 --> 00:07:23,140",
+                  "It's not just people anymore."
+               ],
+               [
+                  "00:07:23,140 --> 00:07:24,669",
+                  "It's machines."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:07:26,800 --> 00:07:28,750",
+                  "We're gonna have to create entire new concepts"
+               ],
+               [
+                  "00:07:28,750 --> 00:07:31,180",
+                  "of how they do trade and how they work with us, too."
+               ],
+               [
+                  "00:07:31,180 --> 00:07:33,520",
+                  "What kind of barriers or road blocks would you imagine"
+               ],
+               [
+                  "00:07:33,520 --> 00:07:35,800",
+                  "are gonna happen in the blockchain space?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"13",
+            "Sentence":[
+               [
+                  "00:07:45,640 --> 00:07:48,039",
+                  "Yeah."
+               ],
+               [
+                  "00:07:48,039 --> 00:07:53,140",
+                  "One of the problems that Bitcoin has faced"
+               ],
+               [
+                  "00:07:53,140 --> 00:07:56,860",
+                  "is Bitcoins getting stolen or lost."
+               ],
+               [
+                  "00:07:56,860 --> 00:07:59,350",
+                  "But a lot of that actually comes from people"
+               ],
+               [
+                  "00:07:59,350 --> 00:08:01,450",
+                  "trying to recentralize Bitcoin in different ways"
+               ],
+               [
+                  "00:08:01,450 --> 00:08:04,690",
+                  "making themselves actually a pretty easy target."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"15",
+            "Sentence":[
+               [
+                  "00:08:11,439 --> 00:08:13,990",
+                  "Yeah."
+               ],
+               [
+                  "00:08:13,990 --> 00:08:16,120",
+                  "To actually transition into the mainstream"
+               ],
+               [
+                  "00:08:16,120 --> 00:08:19,449",
+                  "and make it useful for average people to use,"
+               ],
+               [
+                  "00:08:19,449 --> 00:08:21,340",
+                  "we're going to need to make sure we have"
+               ],
+               [
+                  "00:08:21,340 --> 00:08:24,759",
+                  "a lot more education, a lot more standards"
+               ],
+               [
+                  "00:08:24,759 --> 00:08:27,069",
+                  "and probably work with a lot of enterprises"
+               ],
+               [
+                  "00:08:27,069 --> 00:08:29,469",
+                  "to create sort of a user experience around"
+               ],
+               [
+                  "00:08:29,469 --> 00:08:32,200",
+                  "this being a technology that is safe"
+               ],
+               [
+                  "00:08:32,200 --> 00:08:34,570",
+                  "and usable and understandable."
+               ],
+               [
+                  "00:08:34,570 --> 00:08:37,510",
+                  "What is the current state of blockchain"
+               ],
+               [
+                  "00:08:37,510 --> 00:08:40,208",
+                  "in your understanding?"
+               ],
+               [
+                  "00:08:40,208 --> 00:08:42,820",
+                  "What's gonna have to happen next?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"17",
+            "Sentence":[
+               [
+                  "00:08:57,850 --> 00:09:00,160",
+                  "Well, we have a lot of public blockchains."
+               ],
+               [
+                  "00:09:00,160 --> 00:09:02,440",
+                  "Like we have Bitcoin."
+               ],
+               [
+                  "00:09:02,440 --> 00:09:04,870",
+                  "We have the Ethereum network and XT,"
+               ],
+               [
+                  "00:09:04,870 --> 00:09:09,100",
+                  "but a lot of companies and consortiums"
+               ],
+               [
+                  "00:09:09,100 --> 00:09:10,839",
+                  "are getting together to build private blockchains,"
+               ],
+               [
+                  "00:09:10,839 --> 00:09:15,329",
+                  "so ones that are more closed off at first"
+               ],
+               [
+                  "00:09:15,329 --> 00:09:17,860",
+                  "and then may evolve into a public network"
+               ],
+               [
+                  "00:09:17,860 --> 00:09:21,220",
+                  "where people feel comfortable using it."
+               ],
+               [
+                  "00:09:21,220 --> 00:09:23,529",
+                  "And some are also proof of concept out in the real world,"
+               ],
+               [
+                  "00:09:23,529 --> 00:09:25,720",
+                  "projects in energy and in pharmaceuticals"
+               ],
+               [
+                  "00:09:25,720 --> 00:09:28,120",
+                  "and in retail and lots of different fields"
+               ],
+               [
+                  "00:09:28,120 --> 00:09:30,370",
+                  "are starting experiments."
+               ],
+               [
+                  "00:09:30,370 --> 00:09:33,040",
+                  "And we'll see in the next few years"
+               ],
+               [
+                  "00:09:33,040 --> 00:09:36,490",
+                  "how all of those interact and what we learn"
+               ],
+               [
+                  "00:09:36,490 --> 00:09:38,440",
+                  "about the best use cases for blockchain"
+               ],
+               [
+                  "00:09:38,440 --> 00:09:40,779",
+                  "and what it means for trade."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:09:40,779 --> 00:09:43,269",
+                  "So tell me your version of a technical"
+               ],
+               [
+                  "00:09:43,269 --> 00:09:45,850",
+                  "definition of blockchain."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:10:21,770 --> 00:10:24,650",
+                  "So it randomizes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:10:46,760 --> 00:10:49,880",
+                  "Do you see it as defining a new discipline of kinds,"
+               ],
+               [
+                  "00:10:49,880 --> 00:10:52,070",
+                  "or where are we gonna see blockchain emerge"
+               ],
+               [
+                  "00:10:52,070 --> 00:10:55,640",
+                  "in the real world first?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:11:05,810 --> 00:11:08,510",
+                  "Sure, and people are working on that already."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:12:00,860 --> 00:12:02,600",
+                  "A lot of people are seeing blockchain in the news"
+               ],
+               [
+                  "00:12:02,600 --> 00:12:04,459",
+                  "and maybe seeing a lot of sort of initial coin offerings"
+               ],
+               [
+                  "00:12:04,459 --> 00:12:06,260",
+                  "(laughs)"
+               ],
+               [
+                  "00:12:06,260 --> 00:12:08,390",
+                  "and sort of monetization opportunity around blockchain"
+               ],
+               [
+                  "00:12:08,390 --> 00:12:10,100",
+                  "and getting very excited about it."
+               ],
+               [
+                  "00:12:10,100 --> 00:12:11,750",
+                  "And some of that excitement is real and should be,"
+               ],
+               [
+                  "00:12:11,750 --> 00:12:13,010",
+                  "you know, encouraged, but some of it is also hype."
+               ],
+               [
+                  "00:12:13,010 --> 00:12:15,980",
+                  "How do you feel about the hype cycle"
+               ],
+               [
+                  "00:12:15,980 --> 00:12:18,529",
+                  "around blockchain today?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:13:15,030 --> 00:13:18,910",
+                  "And it also creates a problem, which is people"
+               ],
+               [
+                  "00:13:18,910 --> 00:13:20,320",
+                  "get a lot of excitement around it."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"13",
+            "Sentence":[
+               [
+                  "00:13:22,330 --> 00:13:24,400",
+                  "And then they're waiting for the world to change, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"15",
+            "Sentence":[
+               [
+                  "00:13:26,500 --> 00:13:28,330",
+                  "Where is this technology?"
+               ],
+               [
+                  "00:13:28,330 --> 00:13:30,490",
+                  "Why haven't I seen any change yet?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"17",
+            "Sentence":[
+               [
+                  "00:13:32,860 --> 00:13:35,050",
+                  "And it's because we've had a lot of PR,"
+               ],
+               [
+                  "00:13:35,050 --> 00:13:36,730",
+                  "a lot of proof of concept, but truthfully,"
+               ],
+               [
+                  "00:13:36,730 --> 00:13:37,810",
+                  "this is more like a science, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"19",
+            "Sentence":[
+               [
+                  "00:13:39,340 --> 00:13:40,900",
+                  "It will develop."
+               ],
+               [
+                  "00:13:40,900 --> 00:13:42,340",
+                  "It will take five years."
+               ],
+               [
+                  "00:13:42,340 --> 00:13:47,860",
+                  "It will take 10 years."
+               ],
+               [
+                  "00:13:47,860 --> 00:13:49,900",
+                  "That kind of time is necessary."
+               ],
+               [
+                  "00:13:49,900 --> 00:13:56,770",
+                  "One of the areas that brought me to supply chain research"
+               ],
+               [
+                  "00:13:56,770 --> 00:13:58,810",
+                  "is the fact that we're not just gonna see blockchain emerge."
+               ],
+               [
+                  "00:13:58,810 --> 00:14:00,910",
+                  "We're gonna see artificial intelligence"
+               ],
+               [
+                  "00:14:00,910 --> 00:14:03,220",
+                  "continue to evolve."
+               ],
+               [
+                  "00:14:03,220 --> 00:14:04,960",
+                  "We're gonna see connective devices"
+               ],
+               [
+                  "00:14:04,960 --> 00:14:07,810",
+                  "and this sort of growing internet of things"
+               ],
+               [
+                  "00:14:07,810 --> 00:14:10,120",
+                  "and machinery that can do a lot more"
+               ],
+               [
+                  "00:14:10,120 --> 00:14:12,130",
+                  "and have a wallet and transact on their own."
+               ],
+               [
+                  "00:14:12,130 --> 00:14:13,900",
+                  "And so I actually think a lot of where blockchain"
+               ],
+               [
+                  "00:14:13,900 --> 00:14:15,760",
+                  "and other technologies are headed"
+               ],
+               [
+                  "00:14:15,760 --> 00:14:17,650",
+                  "is this interesting synergy that will help us"
+               ],
+               [
+                  "00:14:17,650 --> 00:14:19,630",
+                  "elevate the kinds of institutions we've used in the past"
+               ],
+               [
+                  "00:14:19,630 --> 00:14:21,600",
+                  "and cobbled together to create"
+               ],
+               [
+                  "00:14:21,600 --> 00:14:24,250",
+                  "that identifiable, verifiable trust."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"21",
+            "Sentence":[
+               [
+                  "00:14:40,530 --> 00:14:43,770",
+                  "[Bettina] Right."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"23",
+            "Sentence":[
+               [
+                  "00:15:33,480 --> 00:15:34,980",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"25",
+            "Sentence":[
+               [
+                  "00:15:52,170 --> 00:15:54,210",
+                  "So a barrier being sort of a rigidity in structures"
+               ],
+               [
+                  "00:15:54,210 --> 00:15:57,090",
+                  "that maybe don't accommodate real-life scenarios very well."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"27",
+            "Sentence":[
+               [
+                  "00:16:12,180 --> 00:16:14,310",
+                  "The system we have today is also broken."
+               ],
+               [
+                  "00:16:14,310 --> 00:16:17,120",
+                  "(laughs)"
+               ],
+               [
+                  "00:16:17,120 --> 00:16:19,650",
+                  "Right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"29",
+            "Sentence":[
+               [
+                  "00:16:21,930 --> 00:16:22,920",
+                  "In that it's hard to compare it to some perfect future."
+               ],
+               [
+                  "00:16:22,920 --> 00:16:24,960",
+                  "Just like you compare autonomous vehicles to this very"
+               ],
+               [
+                  "00:16:24,960 --> 00:16:27,150",
+                  "high standard because machines are doing it."
+               ],
+               [
+                  "00:16:27,150 --> 00:16:28,890",
+                  "It should be perfect."
+               ],
+               [
+                  "00:16:28,890 --> 00:16:30,270",
+                  "There should be zero car deaths."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"31",
+            "Sentence":[
+               [
+                  "00:16:32,340 --> 00:16:34,260",
+                  "When you say, well, there's hundreds of thousands,"
+               ],
+               [
+                  "00:16:34,260 --> 00:16:35,690",
+                  "millions of car deaths on the road due to human error today."
+               ],
+               [
+                  "00:16:35,690 --> 00:16:38,010",
+                  "I think we're in a similar place."
+               ],
+               [
+                  "00:16:38,010 --> 00:16:39,720",
+                  "We're going to see problems with this technology,"
+               ],
+               [
+                  "00:16:39,720 --> 00:16:41,070",
+                  "and we are going to need to develop multiple kinds"
+               ],
+               [
+                  "00:16:41,070 --> 00:16:42,930",
+                  "of standards that also have some flexibility."
+               ],
+               [
+                  "00:16:42,930 --> 00:16:44,940",
+                  "But it's going to also be a version, a system,"
+               ],
+               [
+                  "00:16:44,940 --> 00:16:48,930",
+                  "that allows us to fix some of the things"
+               ],
+               [
+                  "00:16:48,930 --> 00:16:51,150",
+                  "that are broken today."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:16:51,150 --> 00:16:54,210",
+                  "Blockchain may sound complicated,"
+               ],
+               [
+                  "00:16:54,210 --> 00:16:56,520",
+                  "but at it's core, it's just another tool"
+               ],
+               [
+                  "00:16:56,520 --> 00:16:58,050",
+                  "for humans and eventually robots and other kinds"
+               ],
+               [
+                  "00:16:58,050 --> 00:16:59,550",
+                  "of identities to trade at scale"
+               ],
+               [
+                  "00:16:59,550 --> 00:17:01,860",
+                  "and make that trade more decentralized."
+               ],
+               [
+                  "00:17:01,860 --> 00:17:03,810",
+                  "And it's part of our future, so it's important"
+               ],
+               [
+                  "00:17:03,810 --> 00:17:06,150",
+                  "that people have these kinds of conversations"
+               ],
+               [
+                  "00:17:06,150 --> 00:17:08,640",
+                  "and start to learn about it."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0?t=37",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:00:37,950 --> 00:00:41,070",
+                  "What's blockchain?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:00:48,450 --> 00:00:50,760",
+                  "Mmm-hmm, it's when you take turns doing something."
+               ],
+               [
+                  "00:00:50,760 --> 00:00:52,920",
+                  "It's when you give up most of what you want, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:01:04,229 --> 00:01:06,810",
+                  "Really?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:01:10,350 --> 00:01:13,530",
+                  "If I could trade with any kid, I would trade,"
+               ],
+               [
+                  "00:01:13,530 --> 00:01:15,600",
+                  "well, I would trade something I don't like so much."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:01:32,820 --> 00:01:36,020",
+                  "Really?"
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0?t=98",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:01:45,040 --> 00:01:47,050",
+                  "No."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:01:49,030 --> 00:01:51,580",
+                  "Actually, I'm selling my computer on eBay right now."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:01:55,840 --> 00:01:58,090",
+                  "Well, I mean, I've heard of it,"
+               ],
+               [
+                  "00:01:58,090 --> 00:01:59,979",
+                  "and I trust it a lot because they have"
+               ],
+               [
+                  "00:01:59,979 --> 00:02:01,930",
+                  "all of their guarantees, so I know that I'm gonna"
+               ],
+               [
+                  "00:02:01,930 --> 00:02:04,510",
+                  "get money and the person's gonna get what they want."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:02:15,040 --> 00:02:16,360",
+                  "That's cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:02:24,370 --> 00:02:26,709",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:02:44,850 --> 00:02:47,830",
+                  "So how does it work?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"14",
+            "Sentence":[
+               [
+                  "00:03:07,750 --> 00:03:10,870",
+                  "So like, how do you make sure that it's secure?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"16",
+            "Sentence":[
+               [
+                  "00:03:20,890 --> 00:03:23,079",
+                  "So you could kind of like, I don't know,"
+               ],
+               [
+                  "00:03:23,079 --> 00:03:25,600",
+                  "say trade apples, but you would just"
+               ],
+               [
+                  "00:03:25,600 --> 00:03:27,579",
+                  "see like random letters for it?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"18",
+            "Sentence":[
+               [
+                  "00:03:28,959 --> 00:03:31,390",
+                  "So you wouldn't be able to track it, I guess?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"20",
+            "Sentence":[
+               [
+                  "00:03:34,299 --> 00:03:36,400",
+                  "That's cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"22",
+            "Sentence":[
+               [
+                  "00:03:47,470 --> 00:03:49,250",
+                  "That's cool."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0?t=224",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:03:57,530 --> 00:03:59,300",
+                  "I've heard of the words blockchain,"
+               ],
+               [
+                  "00:03:59,300 --> 00:04:01,700",
+                  "but I'm not sure I know what it is."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:04:43,670 --> 00:04:46,460",
+                  "Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:04:57,470 --> 00:05:00,169",
+                  "I mean, I would assume this technology"
+               ],
+               [
+                  "00:05:00,169 --> 00:05:03,800",
+                  "is taking away business or activity from these middlemen."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:05:41,060 --> 00:05:44,510",
+                  "Is there a mechanism for verifying that person A"
+               ],
+               [
+                  "00:05:44,510 --> 00:05:49,640",
+                  "is a legitimate seller or producer of the item?"
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0?t=388",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:06:20,710 --> 00:06:23,310",
+                  "Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:06:25,930 --> 00:06:27,910",
+                  "I have."
+               ],
+               [
+                  "00:06:27,910 --> 00:06:31,180",
+                  "Whenever we have a transaction, and let's say"
+               ],
+               [
+                  "00:06:31,180 --> 00:06:33,370",
+                  "I buy something from you, this information gets logged."
+               ],
+               [
+                  "00:06:33,370 --> 00:06:35,620",
+                  "And it gets verified by a third person or third party."
+               ],
+               [
+                  "00:06:35,620 --> 00:06:38,050",
+                  "And then if like all this information verified"
+               ],
+               [
+                  "00:06:38,050 --> 00:06:39,790",
+                  "and it all matches, right, the transaction goes through"
+               ],
+               [
+                  "00:06:39,790 --> 00:06:42,100",
+                  "without any intermediary basically, right?"
+               ],
+               [
+                  "00:06:42,100 --> 00:06:45,460",
+                  "It gets stored, and when you make further transactions,"
+               ],
+               [
+                  "00:06:45,460 --> 00:06:48,460",
+                  "this information is ready, embedded."
+               ],
+               [
+                  "00:06:48,460 --> 00:06:50,680",
+                  "It's in the ledger."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:06:59,860 --> 00:07:02,140",
+                  "Absolutely."
+               ],
+               [
+                  "00:07:02,140 --> 00:07:04,030",
+                  "The way the technology's changing,"
+               ],
+               [
+                  "00:07:04,030 --> 00:07:05,680",
+                  "nothing's gonna be like it used to be."
+               ],
+               [
+                  "00:07:05,680 --> 00:07:07,750",
+                  "And there's no like firm, and then the buyer"
+               ],
+               [
+                  "00:07:07,750 --> 00:07:09,910",
+                  "and the seller, it basically, we'll have"
+               ],
+               [
+                  "00:07:09,910 --> 00:07:12,580",
+                  "to rewrite a lot of rules in economics as well."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:07:16,450 --> 00:07:18,430",
+                  "Absolutely."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:07:24,669 --> 00:07:26,800",
+                  "[Valentinas] Absolutely."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:07:35,800 --> 00:07:38,140",
+                  "So at least when we talk about Bitcoin,"
+               ],
+               [
+                  "00:07:38,140 --> 00:07:40,960",
+                  "there are some trust issues and some hacks."
+               ],
+               [
+                  "00:07:40,960 --> 00:07:43,300",
+                  "So there's obviously a need to work on trust"
+               ],
+               [
+                  "00:07:43,300 --> 00:07:45,640",
+                  "and feeling that it's a safe technology."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"14",
+            "Sentence":[
+               [
+                  "00:08:04,690 --> 00:08:07,120",
+                  "Absolutely, so education will be a big part"
+               ],
+               [
+                  "00:08:07,120 --> 00:08:09,610",
+                  "before we actually can use the technology in a wide sense."
+               ],
+               [
+                  "00:08:09,610 --> 00:08:11,439",
+                  "Right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"16",
+            "Sentence":[
+               [
+                  "00:08:42,820 --> 00:08:44,078",
+                  "The current state is in the research state,"
+               ],
+               [
+                  "00:08:44,078 --> 00:08:46,750",
+                  "and it's being developed to be applied in many, many areas."
+               ],
+               [
+                  "00:08:46,750 --> 00:08:49,300",
+                  "It must be used almost everywhere"
+               ],
+               [
+                  "00:08:49,300 --> 00:08:53,050",
+                  "to where we won't even imagine how we lived without it."
+               ],
+               [
+                  "00:08:53,050 --> 00:08:55,720",
+                  "But I'm not sure where it's going to go."
+               ],
+               [
+                  "00:08:55,720 --> 00:08:57,850",
+                  "I mean, no one really knows, right."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/hYip_Vuv8J0?t=588",
+      "wired_link":"https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:09:45,850 --> 00:09:48,310",
+                  "A technical definition of blockchain"
+               ],
+               [
+                  "00:09:48,310 --> 00:09:51,610",
+                  "is that it is a persistent, transparent,"
+               ],
+               [
+                  "00:09:51,610 --> 00:09:53,430",
+                  "public, append-only ledger."
+               ],
+               [
+                  "00:09:53,430 --> 00:09:55,570",
+                  "So it is a system that you can add data to"
+               ],
+               [
+                  "00:09:55,570 --> 00:09:58,870",
+                  "and not change previous data within it."
+               ],
+               [
+                  "00:09:58,870 --> 00:10:02,110",
+                  "It does this through a mechanism for creating consensus"
+               ],
+               [
+                  "00:10:02,110 --> 00:10:05,470",
+                  "between scattered, or distributed, parties"
+               ],
+               [
+                  "00:10:05,470 --> 00:10:08,680",
+                  "that do not need to trust each other"
+               ],
+               [
+                  "00:10:08,680 --> 00:10:11,620",
+                  "but just need to trust the mechanism"
+               ],
+               [
+                  "00:10:11,620 --> 00:10:14,709",
+                  "by which their consensus is arrived at."
+               ],
+               [
+                  "00:10:14,709 --> 00:10:17,230",
+                  "In the case of blockchain, it relies on some form"
+               ],
+               [
+                  "00:10:17,230 --> 00:10:18,850",
+                  "of challenge such that no one actor on the network"
+               ],
+               [
+                  "00:10:18,850 --> 00:10:20,620",
+                  "is able to solve this challenge consistently"
+               ],
+               [
+                  "00:10:20,620 --> 00:10:21,770",
+                  "more than everyone else on the network."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:10:24,650 --> 00:10:28,340",
+                  "Yes, it randomizes the process and, in theory,"
+               ],
+               [
+                  "00:10:28,340 --> 00:10:31,040",
+                  "ensures that no one can force the blockchain to accept"
+               ],
+               [
+                  "00:10:31,040 --> 00:10:34,160",
+                  "a particular entry onto the ledger that others disagree"
+               ],
+               [
+                  "00:10:34,160 --> 00:10:37,400",
+                  "with, one that relies on a mechanism"
+               ],
+               [
+                  "00:10:37,400 --> 00:10:39,200",
+                  "for a peer to peer network that can maintain updates"
+               ],
+               [
+                  "00:10:39,200 --> 00:10:42,680",
+                  "to the ledger and then verify those updates"
+               ],
+               [
+                  "00:10:42,680 --> 00:10:45,020",
+                  "in such a way that it is impossible to defraud"
+               ],
+               [
+                  "00:10:45,020 --> 00:10:46,760",
+                  "and impossible to alter after the fact."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:10:55,640 --> 00:10:57,770",
+                  "I mean, just like an example, one thing that I think"
+               ],
+               [
+                  "00:10:57,770 --> 00:10:59,420",
+                  "about a lot in terms of possible blockchain"
+               ],
+               [
+                  "00:10:59,420 --> 00:11:01,580",
+                  "applications is electricity, right."
+               ],
+               [
+                  "00:11:01,580 --> 00:11:03,710",
+                  "The next generation of distributed smart grid"
+               ],
+               [
+                  "00:11:03,710 --> 00:11:05,810",
+                  "technology effectively--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:11:08,510 --> 00:11:10,940",
+                  "Yeah, yeah, exactly."
+               ],
+               [
+                  "00:11:10,940 --> 00:11:12,950",
+                  "And it's this very fruitful area of research,"
+               ],
+               [
+                  "00:11:12,950 --> 00:11:14,720",
+                  "and you can find yourself looking like 20 years out, right,"
+               ],
+               [
+                  "00:11:14,720 --> 00:11:17,180",
+                  "where you have an enormous number of electric cars."
+               ],
+               [
+                  "00:11:17,180 --> 00:11:19,580",
+                  "You have all of these batteries."
+               ],
+               [
+                  "00:11:19,580 --> 00:11:21,890",
+                  "That's essentially a distributed"
+               ],
+               [
+                  "00:11:21,890 --> 00:11:23,720",
+                  "peak load power grid, right."
+               ],
+               [
+                  "00:11:23,720 --> 00:11:25,070",
+                  "Like, the cars are getting plugged in"
+               ],
+               [
+                  "00:11:25,070 --> 00:11:25,970",
+                  "and unplugged at different times."
+               ],
+               [
+                  "00:11:25,970 --> 00:11:28,070",
+                  "If you have a mechanism that's able to automatically"
+               ],
+               [
+                  "00:11:28,070 --> 00:11:30,440",
+                  "and autonomously be distributing power"
+               ],
+               [
+                  "00:11:30,440 --> 00:11:32,810",
+                  "based on batteries that are scattered throughout"
+               ],
+               [
+                  "00:11:32,810 --> 00:11:36,250",
+                  "the grid that are being used for other purposes."
+               ],
+               [
+                  "00:11:36,250 --> 00:11:39,350",
+                  "Their owners don't even necessarily need to be aware."
+               ],
+               [
+                  "00:11:39,350 --> 00:11:40,850",
+                  "I mean, to have something that looks like a much more"
+               ],
+               [
+                  "00:11:40,850 --> 00:11:42,620",
+                  "viable society that still has a lot of electricity needs"
+               ],
+               [
+                  "00:11:42,620 --> 00:11:44,530",
+                  "but is able to base that much more on renewables,"
+               ],
+               [
+                  "00:11:44,530 --> 00:11:47,780",
+                  "is able to make up the difference during peak load periods"
+               ],
+               [
+                  "00:11:47,780 --> 00:11:50,120",
+                  "or during differences in weather, that is able to have"
+               ],
+               [
+                  "00:11:50,120 --> 00:11:51,710",
+                  "power much closer to where it is needed"
+               ],
+               [
+                  "00:11:51,710 --> 00:11:53,690",
+                  "rather than having to be distributed over great distances."
+               ],
+               [
+                  "00:11:53,690 --> 00:11:55,100",
+                  "It's like, that's something that would be"
+               ],
+               [
+                  "00:11:55,100 --> 00:11:56,720",
+                  "an enormously hard problem to solve."
+               ],
+               [
+                  "00:11:56,720 --> 00:11:58,540",
+                  "And it's not that the blockchain makes it easy,"
+               ],
+               [
+                  "00:11:58,540 --> 00:12:00,860",
+                  "but it makes it possible."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:12:18,529 --> 00:12:19,910",
+                  "I'm glad you mentioned initial coin offerings"
+               ],
+               [
+                  "00:12:19,910 --> 00:12:21,680",
+                  "because for me, those really exemplify"
+               ],
+               [
+                  "00:12:21,680 --> 00:12:24,170",
+                  "the sort of problem that we're having at this exact moment."
+               ],
+               [
+                  "00:12:24,170 --> 00:12:26,570",
+                  "They are an idea with enormous potential"
+               ],
+               [
+                  "00:12:26,570 --> 00:12:28,780",
+                  "significance down the road."
+               ],
+               [
+                  "00:12:28,780 --> 00:12:31,450",
+                  "However, the promise of the initial coin offering"
+               ],
+               [
+                  "00:12:31,450 --> 00:12:33,520",
+                  "has been kind of hijacked into this string"
+               ],
+               [
+                  "00:12:33,520 --> 00:12:36,430",
+                  "of like basically pump and dump scams"
+               ],
+               [
+                  "00:12:36,430 --> 00:12:38,200",
+                  "or sort of desperate gold rush schemes."
+               ],
+               [
+                  "00:12:38,200 --> 00:12:40,030",
+                  "The faster that we can shift from this fantasy"
+               ],
+               [
+                  "00:12:40,030 --> 00:12:42,160",
+                  "that it is going to make you rich in a sort of,"
+               ],
+               [
+                  "00:12:42,160 --> 00:12:43,600",
+                  "you know, 1920s tulip bubble kind of way,"
+               ],
+               [
+                  "00:12:43,600 --> 00:12:46,090",
+                  "is the sooner that we can get into people,"
+               ],
+               [
+                  "00:12:46,090 --> 00:12:48,520",
+                  "honestly, and I mean this like with all the hope"
+               ],
+               [
+                  "00:12:48,520 --> 00:12:50,650",
+                  "in the world, people being disappointed in blockchain."
+               ],
+               [
+                  "00:12:50,650 --> 00:12:53,080",
+                  "It's like, oh, I didn't get rich."
+               ],
+               [
+                  "00:12:53,080 --> 00:12:54,550",
+                  "It's just being used now to make it easier"
+               ],
+               [
+                  "00:12:54,550 --> 00:12:56,890",
+                  "to transact goods and services safely across borders."
+               ],
+               [
+                  "00:12:56,890 --> 00:12:58,690",
+                  "This isn't exciting at all."
+               ],
+               [
+                  "00:12:58,690 --> 00:13:00,670",
+                  "And then we'll see that become part"
+               ],
+               [
+                  "00:13:00,670 --> 00:13:02,830",
+                  "of the everyday infrastructure of the world"
+               ],
+               [
+                  "00:13:02,830 --> 00:13:06,190",
+                  "in a way that I think will be very significant."
+               ],
+               [
+                  "00:13:06,190 --> 00:13:09,070",
+                  "But I think it is now, almost every aspect of it"
+               ],
+               [
+                  "00:13:09,070 --> 00:13:11,440",
+                  "that's connected with the concept of money"
+               ],
+               [
+                  "00:13:11,440 --> 00:13:15,030",
+                  "is wildly over-hyped, and--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:13:20,320 --> 00:13:22,330",
+                  "[Finn] Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"14",
+            "Sentence":[
+               [
+                  "00:13:24,400 --> 00:13:26,500",
+                  "[Finn] Yeah, yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"16",
+            "Sentence":[
+               [
+                  "00:13:30,490 --> 00:13:32,860",
+                  "(laughs) Yes, yes, yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"18",
+            "Sentence":[
+               [
+                  "00:13:37,810 --> 00:13:39,340",
+                  "Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"20",
+            "Sentence":[
+               [
+                  "00:14:24,250 --> 00:14:26,260",
+                  "Yes, and one of the most interesting ideas to me"
+               ],
+               [
+                  "00:14:26,260 --> 00:14:29,380",
+                  "that came out of the currency side of the blockchain"
+               ],
+               [
+                  "00:14:29,380 --> 00:14:31,510",
+                  "project was the notion around like coloring coins, right,"
+               ],
+               [
+                  "00:14:31,510 --> 00:14:33,880",
+                  "assign properties to a particular coin,"
+               ],
+               [
+                  "00:14:33,880 --> 00:14:36,370",
+                  "and in particular to assign those properties in ways"
+               ],
+               [
+                  "00:14:36,370 --> 00:14:38,260",
+                  "that would allow you to do things like bring"
+               ],
+               [
+                  "00:14:38,260 --> 00:14:40,530",
+                  "in the graph of previous transactions."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"22",
+            "Sentence":[
+               [
+                  "00:14:43,770 --> 00:14:46,200",
+                  "You know, there's sort of an obvious application for this,"
+               ],
+               [
+                  "00:14:46,200 --> 00:14:48,150",
+                  "which is something that would look a little bit like"
+               ],
+               [
+                  "00:14:48,150 --> 00:14:49,710",
+                  "an extreme version of like a boycott divestment"
+               ],
+               [
+                  "00:14:49,710 --> 00:14:52,350",
+                  "and sanctions kind of approach, right,"
+               ],
+               [
+                  "00:14:52,350 --> 00:14:55,380",
+                  "a model where it's sort of a like I will not touch money."
+               ],
+               [
+                  "00:14:55,380 --> 00:14:57,030",
+                  "My wallet will automatically not touch money"
+               ],
+               [
+                  "00:14:57,030 --> 00:14:58,170",
+                  "that has been exchanged with the following"
+               ],
+               [
+                  "00:14:58,170 --> 00:15:00,120",
+                  "as a sort of very extreme way of cutting those things out."
+               ],
+               [
+                  "00:15:00,120 --> 00:15:02,490",
+                  "But there's also ways in which, I think, that could be"
+               ],
+               [
+                  "00:15:02,490 --> 00:15:04,140",
+                  "applied to clearing out the entire logistics process"
+               ],
+               [
+                  "00:15:04,140 --> 00:15:05,070",
+                  "of many kinds of bad actors."
+               ],
+               [
+                  "00:15:05,070 --> 00:15:06,660",
+                  "Trying to make a supply chain better, in some ways,"
+               ],
+               [
+                  "00:15:06,660 --> 00:15:08,730",
+                  "relies a lot on whose version of better that is"
+               ],
+               [
+                  "00:15:08,730 --> 00:15:10,140",
+                  "and exactly kind of what gets qualified"
+               ],
+               [
+                  "00:15:10,140 --> 00:15:12,150",
+                  "but also how that is quantified within say"
+               ],
+               [
+                  "00:15:12,150 --> 00:15:13,680",
+                  "some kind of like smart contract system."
+               ],
+               [
+                  "00:15:13,680 --> 00:15:15,060",
+                  "There's multiple ways that I can see this backfiring."
+               ],
+               [
+                  "00:15:15,060 --> 00:15:17,580",
+                  "One is the ways in which that is implemented,"
+               ],
+               [
+                  "00:15:17,580 --> 00:15:19,050",
+                  "for example, leaving certain kinds"
+               ],
+               [
+                  "00:15:19,050 --> 00:15:21,480",
+                  "of bad behavior untouched or unanalyzed."
+               ],
+               [
+                  "00:15:21,480 --> 00:15:24,500",
+                  "Or one that feels even more dire to me in some ways"
+               ],
+               [
+                  "00:15:24,500 --> 00:15:27,000",
+                  "is creating an extremely inflexible, like 'cause human"
+               ],
+               [
+                  "00:15:27,000 --> 00:15:28,860",
+                  "contracts, legal contracts, are actually very flexible."
+               ],
+               [
+                  "00:15:28,860 --> 00:15:31,500",
+                  "There's a lot of kind of room"
+               ],
+               [
+                  "00:15:31,500 --> 00:15:33,480",
+                  "to renegotiate. There's lots of conditions."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"24",
+            "Sentence":[
+               [
+                  "00:15:34,980 --> 00:15:39,030",
+                  "But we already have real world versions"
+               ],
+               [
+                  "00:15:39,030 --> 00:15:40,800",
+                  "of some of these nightmare scenarios"
+               ],
+               [
+                  "00:15:40,800 --> 00:15:42,390",
+                  "where like your kid has a medical emergency"
+               ],
+               [
+                  "00:15:42,390 --> 00:15:44,490",
+                  "and you can't unlock your car because you're two days"
+               ],
+               [
+                  "00:15:44,490 --> 00:15:47,280",
+                  "behind on payments for it, and so the car system"
+               ],
+               [
+                  "00:15:47,280 --> 00:15:49,530",
+                  "will no longer respond to the app mechanism"
+               ],
+               [
+                  "00:15:49,530 --> 00:15:52,170",
+                  "that you're supposed to be able to use to drive it."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"26",
+            "Sentence":[
+               [
+                  "00:15:57,090 --> 00:15:58,920",
+                  "As you and I have been talking, one of the things"
+               ],
+               [
+                  "00:15:58,920 --> 00:16:00,480",
+                  "that keeps coming up is that we tend to hold novel"
+               ],
+               [
+                  "00:16:00,480 --> 00:16:01,560",
+                  "technologies to an unrealistically high standard"
+               ],
+               [
+                  "00:16:01,560 --> 00:16:05,120",
+                  "in terms of what they are supposed to deliver"
+               ],
+               [
+                  "00:16:05,120 --> 00:16:07,530",
+                  "rather than comparing them to actually existing systems"
+               ],
+               [
+                  "00:16:07,530 --> 00:16:09,000",
+                  "where we can begin to see the possibility"
+               ],
+               [
+                  "00:16:09,000 --> 00:16:10,470",
+                  "that even like a slight incremental improvement"
+               ],
+               [
+                  "00:16:10,470 --> 00:16:12,180",
+                  "would still be an enormous gain."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"28",
+            "Sentence":[
+               [
+                  "00:16:19,650 --> 00:16:21,930",
+                  "Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"30",
+            "Sentence":[
+               [
+                  "00:16:30,270 --> 00:16:32,340",
+                  "(laughs) Yeah."
+               ]
+            ]
+         }
+      ]
+   }
+}

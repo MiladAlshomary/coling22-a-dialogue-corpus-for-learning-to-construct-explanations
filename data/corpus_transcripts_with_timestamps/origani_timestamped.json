@@ -1,0 +1,3472 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:00,093 --> 00:00:01,670",
+                  "- Hi, I'm Robert J. Lang."
+               ],
+               [
+                  "00:00:01,670 --> 00:00:03,820",
+                  "I'm a physicist and origami artist"
+               ],
+               [
+                  "00:00:03,820 --> 00:00:06,630",
+                  "and today I've been"
+               ],
+               [
+                  "00:00:03,820 --> 00:00:06,630",
+                  "challenged to explain origami"
+               ],
+               [
+                  "00:00:06,630 --> 00:00:07,680",
+                  "in five levels."
+               ],
+               [
+                  "00:00:07,680 --> 00:00:08,900",
+                  "If you know a little origami"
+               ],
+               [
+                  "00:00:08,900 --> 00:00:11,740",
+                  "you might think it's nothing"
+               ],
+               [
+                  "00:00:08,900 --> 00:00:11,740",
+                  "more than simple toys,"
+               ],
+               [
+                  "00:00:11,740 --> 00:00:13,570",
+                  "like cranes or cootie catchers,"
+               ],
+               [
+                  "00:00:13,570 --> 00:00:15,920",
+                  "but origami is much more than that."
+               ],
+               [
+                  "00:00:15,920 --> 00:00:19,563",
+                  "Out of the vast cloud"
+               ],
+               [
+                  "00:00:15,920 --> 00:00:19,563",
+                  "of origami possibilities"
+               ],
+               [
+                  "00:00:19,563 --> 00:00:21,546",
+                  "I've chosen five different levels"
+               ],
+               [
+                  "00:00:21,546 --> 00:00:23,895",
+                  "that illustrate the diversity of this art."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:28,280 --> 00:00:30,410",
+                  "Do you know what origami is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:00:36,000 --> 00:00:37,690",
+                  "- Yes, in fact it is."
+               ],
+               [
+                  "00:00:37,690 --> 00:00:40,200",
+                  "Have you ever done any origami before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:00:41,220 --> 00:00:42,430",
+                  "- [Robert] Would you"
+               ],
+               [
+                  "00:00:41,220 --> 00:00:42,430",
+                  "like to give it a try?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:00:42,430 --> 00:00:44,540",
+                  "- Okay, so we'll do some,"
+               ],
+               [
+                  "00:00:44,540 --> 00:00:46,640",
+                  "but I want to tell you a"
+               ],
+               [
+                  "00:00:44,540 --> 00:00:46,640",
+                  "little bit about origami."
+               ],
+               [
+                  "00:00:46,640 --> 00:00:50,330",
+                  "Most origami follows two,"
+               ],
+               [
+                  "00:00:46,640 --> 00:00:50,330",
+                  "I'll call them customs,"
+               ],
+               [
+                  "00:00:50,330 --> 00:00:51,650",
+                  "almost like rules."
+               ],
+               [
+                  "00:00:51,650 --> 00:00:53,689",
+                  "It's usually from a square"
+               ],
+               [
+                  "00:00:53,689 --> 00:00:57,830",
+                  "and the other is it's"
+               ],
+               [
+                  "00:00:53,689 --> 00:00:57,830",
+                  "usually folded with no cuts."
+               ],
+               [
+                  "00:00:57,830 --> 00:01:01,300",
+                  "So these guys are folded"
+               ],
+               [
+                  "00:00:57,830 --> 00:01:01,300",
+                  "from an uncut square."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:01:02,133 --> 00:01:03,090",
+                  "- So you ready?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:01:03,090 --> 00:01:04,160",
+                  "- Okay."
+               ],
+               [
+                  "00:01:04,160 --> 00:01:06,040",
+                  "We're going to start with a model"
+               ],
+               [
+                  "00:01:06,040 --> 00:01:08,621",
+                  "that every Japanese person"
+               ],
+               [
+                  "00:01:06,040 --> 00:01:08,621",
+                  "learns in kindergarten,"
+               ],
+               [
+                  "00:01:08,621 --> 00:01:11,480",
+                  "it's called a crane,"
+               ],
+               [
+                  "00:01:08,621 --> 00:01:11,480",
+                  "traditional origami design,"
+               ],
+               [
+                  "00:01:11,480 --> 00:01:13,090",
+                  "it's over 400 years old."
+               ],
+               [
+                  "00:01:13,090 --> 00:01:14,810",
+                  "So, people have been doing"
+               ],
+               [
+                  "00:01:13,090 --> 00:01:14,810",
+                  "what we're about to do"
+               ],
+               [
+                  "00:01:14,810 --> 00:01:16,830",
+                  "for 400 years."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:01:16,830 --> 00:01:20,830",
+                  "- Let's fold it in half from"
+               ],
+               [
+                  "00:01:16,830 --> 00:01:20,830",
+                  "corner to corner, unfold it"
+               ],
+               [
+                  "00:01:21,810 --> 00:01:24,210",
+                  "and then we'll fold it in"
+               ],
+               [
+                  "00:01:21,810 --> 00:01:24,210",
+                  "half the other direction,"
+               ],
+               [
+                  "00:01:24,210 --> 00:01:27,200",
+                  "also corner to corner but"
+               ],
+               [
+                  "00:01:24,210 --> 00:01:27,200",
+                  "we're going to lift it up"
+               ],
+               [
+                  "00:01:27,200 --> 00:01:29,982",
+                  "and we're going to hold"
+               ],
+               [
+                  "00:01:27,200 --> 00:01:29,982",
+                  "the fold with both hands."
+               ],
+               [
+                  "00:01:29,982 --> 00:01:32,020",
+                  "We're going to bring"
+               ],
+               [
+                  "00:01:29,982 --> 00:01:32,020",
+                  "these corners together,"
+               ],
+               [
+                  "00:01:32,020 --> 00:01:33,920",
+                  "making a little pocket and then,"
+               ],
+               [
+                  "00:01:33,920 --> 00:01:36,260",
+                  "this is the trickiest"
+               ],
+               [
+                  "00:01:33,920 --> 00:01:36,260",
+                  "part of this whole design,"
+               ],
+               [
+                  "00:01:36,260 --> 00:01:39,210",
+                  "so you're going to put your"
+               ],
+               [
+                  "00:01:36,260 --> 00:01:39,210",
+                  "finger underneath the top layer"
+               ],
+               [
+                  "00:01:39,210 --> 00:01:40,980",
+                  "and we're going to try to make that layer"
+               ],
+               [
+                  "00:01:40,980 --> 00:01:43,140",
+                  "fold right along the edge."
+               ],
+               [
+                  "00:01:43,140 --> 00:01:45,100",
+                  "Now you see how the sides"
+               ],
+               [
+                  "00:01:43,140 --> 00:01:45,100",
+                  "kind of want to come in"
+               ],
+               [
+                  "00:01:45,100 --> 00:01:47,000",
+                  "as you're doing that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:01:47,000 --> 00:01:48,550",
+                  "- It's called a petal fold,"
+               ],
+               [
+                  "00:01:48,550 --> 00:01:50,407",
+                  "it's a part of a lot of origami designs"
+               ],
+               [
+                  "00:01:50,407 --> 00:01:52,380",
+                  "and it's key to the crane."
+               ],
+               [
+                  "00:01:52,380 --> 00:01:54,790",
+                  "Now we're ready for the magic."
+               ],
+               [
+                  "00:01:54,790 --> 00:01:57,000",
+                  "We're going to hold it in"
+               ],
+               [
+                  "00:01:54,790 --> 00:01:57,000",
+                  "between thumb and forefinger,"
+               ],
+               [
+                  "00:01:57,000 --> 00:01:58,320",
+                  "reach inside,"
+               ],
+               [
+                  "00:01:58,320 --> 00:02:00,630",
+                  "grab the skinny point that's"
+               ],
+               [
+                  "00:01:58,320 --> 00:02:00,630",
+                  "between the two layers,"
+               ],
+               [
+                  "00:02:00,630 --> 00:02:01,650",
+                  "which are the wings,"
+               ],
+               [
+                  "00:02:01,650 --> 00:02:05,620",
+                  "and I'm going to slide it out"
+               ],
+               [
+                  "00:02:01,650 --> 00:02:05,620",
+                  "so it pokes out at an angle."
+               ],
+               [
+                  "00:02:05,620 --> 00:02:08,479",
+                  "We'll take the two wings, we"
+               ],
+               [
+                  "00:02:05,620 --> 00:02:08,479",
+                  "spread them out to the side"
+               ],
+               [
+                  "00:02:08,479 --> 00:02:11,310",
+                  "and you have made your"
+               ],
+               [
+                  "00:02:08,479 --> 00:02:11,310",
+                  "first origami crane."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:02:12,380 --> 00:02:15,020",
+                  "- Now, this is a"
+               ],
+               [
+                  "00:02:12,380 --> 00:02:15,020",
+                  "traditional Japanese design"
+               ],
+               [
+                  "00:02:15,020 --> 00:02:20,020",
+                  "but there are origami designs"
+               ],
+               [
+                  "00:02:15,020 --> 00:02:20,020",
+                  "that have been around so long"
+               ],
+               [
+                  "00:02:20,314 --> 00:02:23,180",
+                  "we're not entirely sure"
+               ],
+               [
+                  "00:02:20,314 --> 00:02:23,180",
+                  "where they originated."
+               ],
+               [
+                  "00:02:23,180 --> 00:02:25,199",
+                  "We're going to learn how"
+               ],
+               [
+                  "00:02:23,180 --> 00:02:25,199",
+                  "to fold a cootie catcher."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:02:26,032 --> 00:02:26,880",
+                  "- So we'll start with the white side up"
+               ],
+               [
+                  "00:02:26,880 --> 00:02:30,134",
+                  "and we're going to fold it in"
+               ],
+               [
+                  "00:02:26,880 --> 00:02:30,134",
+                  "half from corner to corner,"
+               ],
+               [
+                  "00:02:30,134 --> 00:02:33,910",
+                  "in one fold and now we're"
+               ],
+               [
+                  "00:02:30,134 --> 00:02:33,910",
+                  "going to fold all four corners"
+               ],
+               [
+                  "00:02:33,910 --> 00:02:35,763",
+                  "to the crossing point in the center."
+               ],
+               [
+                  "00:02:36,630 --> 00:02:39,440",
+                  "We'll fold it in half like a book."
+               ],
+               [
+                  "00:02:39,440 --> 00:02:41,803",
+                  "On the folded side we'll take"
+               ],
+               [
+                  "00:02:39,440 --> 00:02:41,803",
+                  "one of the folded corners"
+               ],
+               [
+                  "00:02:41,803 --> 00:02:44,470",
+                  "and I'm going to fold it"
+               ],
+               [
+                  "00:02:41,803 --> 00:02:44,470",
+                  "up through all layers."
+               ],
+               [
+                  "00:02:44,470 --> 00:02:45,800",
+                  "There's a pocket in the middle."
+               ],
+               [
+                  "00:02:45,800 --> 00:02:47,110",
+                  "We're going to spread the pocket"
+               ],
+               [
+                  "00:02:47,110 --> 00:02:49,260",
+                  "and bring all four corners together."
+               ],
+               [
+                  "00:02:49,260 --> 00:02:51,440",
+                  "Where you have original"
+               ],
+               [
+                  "00:02:49,260 --> 00:02:51,440",
+                  "corners of the square,"
+               ],
+               [
+                  "00:02:51,440 --> 00:02:53,520",
+                  "we're gonna just pop those out."
+               ],
+               [
+                  "00:02:53,520 --> 00:02:55,590",
+                  "This is one of the most"
+               ],
+               [
+                  "00:02:53,520 --> 00:02:55,590",
+                  "satisfying moments,"
+               ],
+               [
+                  "00:02:55,590 --> 00:02:56,930",
+                  "I think-"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:02:56,930 --> 00:02:58,630",
+                  "- because it suddenly changes shape."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:03:01,505 --> 00:03:02,338",
+                  "- Yeah,"
+               ],
+               [
+                  "00:03:02,338 --> 00:03:04,500",
+                  "but there's something else"
+               ],
+               [
+                  "00:03:02,338 --> 00:03:04,500",
+                  "we can do with this model."
+               ],
+               [
+                  "00:03:04,500 --> 00:03:06,680",
+                  "If we set it down and push on the middle"
+               ],
+               [
+                  "00:03:07,700 --> 00:03:09,110",
+                  "then pop it inside out"
+               ],
+               [
+                  "00:03:10,060 --> 00:03:13,570",
+                  "so that three flaps come"
+               ],
+               [
+                  "00:03:10,060 --> 00:03:13,570",
+                  "up and one stays down"
+               ],
+               [
+                  "00:03:13,570 --> 00:03:15,630",
+                  "and then it's called talking crow"
+               ],
+               [
+                  "00:03:15,630 --> 00:03:17,690",
+                  "because here's a little"
+               ],
+               [
+                  "00:03:15,630 --> 00:03:17,690",
+                  "crow's beak and mouth."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:03:18,523 --> 00:03:21,260",
+                  "- There's thousands of"
+               ],
+               [
+                  "00:03:18,523 --> 00:03:21,260",
+                  "other origami designs"
+               ],
+               [
+                  "00:03:21,260 --> 00:03:23,910",
+                  "but these are some of"
+               ],
+               [
+                  "00:03:21,260 --> 00:03:23,910",
+                  "the first people learn"
+               ],
+               [
+                  "00:03:23,910 --> 00:03:25,160",
+                  "and this was, in fact,"
+               ],
+               [
+                  "00:03:25,160 --> 00:03:27,777",
+                  "one of the first origami designs I learned"
+               ],
+               [
+                  "00:03:27,777 --> 00:03:30,698",
+                  "some 50 years ago."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":27,
+            "Sentence":[
+               [
+                  "00:03:30,698 --> 00:03:32,133",
+                  "- So, what do you think of that?"
+               ],
+               [
+                  "00:03:32,133 --> 00:03:34,140",
+                  "What do you think of origami?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":29,
+            "Sentence":[
+               [
+                  "00:03:46,530 --> 00:03:47,363",
+                  "- Thanks for coming."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:03:53,600 --> 00:03:57,490",
+                  "- A lot of origami is"
+               ],
+               [
+                  "00:03:53,600 --> 00:03:57,490",
+                  "animals, birds and things."
+               ],
+               [
+                  "00:03:57,490 --> 00:04:00,897",
+                  "There's also a branch of origami that is,"
+               ],
+               [
+                  "00:04:00,897 --> 00:04:05,720",
+                  "it's more abstract or"
+               ],
+               [
+                  "00:04:00,897 --> 00:04:05,720",
+                  "geometric, called tessellations."
+               ],
+               [
+                  "00:04:05,720 --> 00:04:08,460",
+                  "Tessellations, like most origami,"
+               ],
+               [
+                  "00:04:08,460 --> 00:04:10,710",
+                  "are folded from a single sheet of paper"
+               ],
+               [
+                  "00:04:10,710 --> 00:04:12,230",
+                  "but they make patterns,"
+               ],
+               [
+                  "00:04:12,230 --> 00:04:14,790",
+                  "whether it's woven patterns like that,"
+               ],
+               [
+                  "00:04:14,790 --> 00:04:16,630",
+                  "or woven patterns like this."
+               ],
+               [
+                  "00:04:16,630 --> 00:04:18,329",
+                  "If you hold them up to the light"
+               ],
+               [
+                  "00:04:18,329 --> 00:04:20,139",
+                  "you can see patterns."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:04:20,140 --> 00:04:21,750",
+                  "- The thing that makes them cool"
+               ],
+               [
+                  "00:04:21,750 --> 00:04:23,000",
+                  "is they're sort of like tilings,"
+               ],
+               [
+                  "00:04:23,000 --> 00:04:24,750",
+                  "it looks like you could put this together"
+               ],
+               [
+                  "00:04:24,750 --> 00:04:27,960",
+                  "by cutting little pieces of"
+               ],
+               [
+                  "00:04:24,750 --> 00:04:27,960",
+                  "paper and sliding them together,"
+               ],
+               [
+                  "00:04:27,960 --> 00:04:29,440",
+                  "but they're still one sheet."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:04:30,510 --> 00:04:32,840",
+                  "- There's no cuts in these just folding."
+               ],
+               [
+                  "00:04:32,840 --> 00:04:37,240",
+                  "We can build these up from"
+               ],
+               [
+                  "00:04:32,840 --> 00:04:37,240",
+                  "smaller building blocks of folds,"
+               ],
+               [
+                  "00:04:37,240 --> 00:04:39,880",
+                  "learn how to fold little"
+               ],
+               [
+                  "00:04:37,240 --> 00:04:39,880",
+                  "pieces and put them together"
+               ],
+               [
+                  "00:04:39,880 --> 00:04:42,606",
+                  "in the same way that a tiling like this"
+               ],
+               [
+                  "00:04:42,606 --> 00:04:45,420",
+                  "looks like it's built up of little pieces."
+               ],
+               [
+                  "00:04:45,420 --> 00:04:48,030",
+                  "Can you make a fold that starts at the dot"
+               ],
+               [
+                  "00:04:48,030 --> 00:04:50,110",
+                  "that doesn't run all the"
+               ],
+               [
+                  "00:04:48,030 --> 00:04:50,110",
+                  "way across the paper?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:04:50,110 --> 00:04:54,580",
+                  "- Mm-hmm."
+               ],
+               [
+                  "00:04:54,580 --> 00:04:58,447",
+                  "Each of these folds is"
+               ],
+               [
+                  "00:04:54,580 --> 00:04:58,447",
+                  "peaked like a mountain"
+               ],
+               [
+                  "00:04:58,447 --> 00:05:00,519",
+                  "and we call these mountain folds"
+               ],
+               [
+                  "00:05:00,519 --> 00:05:03,456",
+                  "but if I made it the other"
+               ],
+               [
+                  "00:05:00,519 --> 00:05:03,456",
+                  "way, then it's shaped this way"
+               ],
+               [
+                  "00:05:03,456 --> 00:05:05,480",
+                  "and we call it a valley fold."
+               ],
+               [
+                  "00:05:05,480 --> 00:05:08,530",
+                  "In all of origami there's"
+               ],
+               [
+                  "00:05:05,480 --> 00:05:08,530",
+                  "just mountains and valleys."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:05:10,470 --> 00:05:12,568",
+                  "- So they're all"
+               ],
+               [
+                  "00:05:10,470 --> 00:05:12,568",
+                  "reversible and it turns out"
+               ],
+               [
+                  "00:05:12,568 --> 00:05:17,310",
+                  "that in every origami"
+               ],
+               [
+                  "00:05:12,568 --> 00:05:17,310",
+                  "shape that folds flat,"
+               ],
+               [
+                  "00:05:17,310 --> 00:05:19,980",
+                  "it's going to be either"
+               ],
+               [
+                  "00:05:17,310 --> 00:05:19,980",
+                  "three mountains and a valley"
+               ],
+               [
+                  "00:05:19,980 --> 00:05:22,450",
+                  "or, if we're looking at the backside,"
+               ],
+               [
+                  "00:05:22,450 --> 00:05:24,430",
+                  "three valleys and a mountain,"
+               ],
+               [
+                  "00:05:24,430 --> 00:05:25,920",
+                  "they always differ by two."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:05:25,920 --> 00:05:28,450",
+                  "- That's a rule of all flat origami"
+               ],
+               [
+                  "00:05:28,450 --> 00:05:30,680",
+                  "no matter how many folds"
+               ],
+               [
+                  "00:05:28,450 --> 00:05:30,680",
+                  "come together at a point"
+               ],
+               [
+                  "00:05:30,680 --> 00:05:34,120",
+                  "and I'm going to show you a"
+               ],
+               [
+                  "00:05:30,680 --> 00:05:34,120",
+                  "building block of tessellations,"
+               ],
+               [
+                  "00:05:34,120 --> 00:05:35,302",
+                  "it's called a twist"
+               ],
+               [
+                  "00:05:35,302 --> 00:05:39,462",
+                  "because that center"
+               ],
+               [
+                  "00:05:35,302 --> 00:05:39,462",
+                  "square, as I unfold it,"
+               ],
+               [
+                  "00:05:39,462 --> 00:05:41,960",
+                  "it twists, it rotates."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:05:41,960 --> 00:05:46,350",
+                  "- If I had another twist"
+               ],
+               [
+                  "00:05:41,960 --> 00:05:46,350",
+                  "in the same sheet of paper"
+               ],
+               [
+                  "00:05:46,350 --> 00:05:48,017",
+                  "I could make these"
+               ],
+               [
+                  "00:05:46,350 --> 00:05:48,017",
+                  "folds connect with that,"
+               ],
+               [
+                  "00:05:48,017 --> 00:05:49,440",
+                  "and these folds connect with that."
+               ],
+               [
+                  "00:05:49,440 --> 00:05:52,010",
+                  "And if I had another one up"
+               ],
+               [
+                  "00:05:49,440 --> 00:05:52,010",
+                  "here, I could make all three."
+               ],
+               [
+                  "00:05:52,010 --> 00:05:54,530",
+                  "And if I had a square array"
+               ],
+               [
+                  "00:05:52,010 --> 00:05:54,530",
+                  "and all the folds lined up"
+               ],
+               [
+                  "00:05:54,530 --> 00:05:57,167",
+                  "I could make bigger and"
+               ],
+               [
+                  "00:05:54,530 --> 00:05:57,167",
+                  "bigger arrays, like these,"
+               ],
+               [
+                  "00:05:57,167 --> 00:06:00,310",
+                  "because these are just very large twists."
+               ],
+               [
+                  "00:06:00,310 --> 00:06:03,270",
+                  "In this case it's an octagon"
+               ],
+               [
+                  "00:06:00,310 --> 00:06:03,270",
+                  "rather than a square,"
+               ],
+               [
+                  "00:06:03,270 --> 00:06:05,450",
+                  "but they're arranged in rows and columns."
+               ],
+               [
+                  "00:06:05,450 --> 00:06:07,113",
+                  "And let's just try going along."
+               ],
+               [
+                  "00:06:11,460 --> 00:06:14,240",
+                  "All right, there is our tessellation"
+               ],
+               [
+                  "00:06:14,240 --> 00:06:16,570",
+                  "with squares and hexagons."
+               ],
+               [
+                  "00:06:16,570 --> 00:06:19,000",
+                  "So you have now designed and folded"
+               ],
+               [
+                  "00:06:19,000 --> 00:06:20,990",
+                  "your first origami tessellation"
+               ],
+               [
+                  "00:06:20,990 --> 00:06:24,600",
+                  "and perhaps you can see"
+               ],
+               [
+                  "00:06:20,990 --> 00:06:24,600",
+                  "how just using this idea"
+               ],
+               [
+                  "00:06:24,600 --> 00:06:27,820",
+                  "of building up tiles and"
+               ],
+               [
+                  "00:06:24,600 --> 00:06:27,820",
+                  "small building blocks"
+               ],
+               [
+                  "00:06:27,820 --> 00:06:32,153",
+                  "you could make tessellations"
+               ],
+               [
+                  "00:06:27,820 --> 00:06:32,153",
+                  "as big and complex as you want."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:06:32,153 --> 00:06:33,650",
+                  "- Yeah,"
+               ],
+               [
+                  "00:06:33,650 --> 00:06:37,309",
+                  "so what do you think now of"
+               ],
+               [
+                  "00:06:33,650 --> 00:06:37,309",
+                  "origami and tessellations?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:06:55,470 --> 00:06:57,057",
+                  "- That is a great definition."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:07:00,560 --> 00:07:04,590",
+                  "- So here's a dragon fly and"
+               ],
+               [
+                  "00:07:00,560 --> 00:07:04,590",
+                  "he's got six legs, four wings."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:07:04,590 --> 00:07:05,590",
+                  "- Here's a spider"
+               ],
+               [
+                  "00:07:05,590 --> 00:07:07,590",
+                  "with eight legs, ants with legs"
+               ],
+               [
+                  "00:07:07,590 --> 00:07:09,640",
+                  "and these, just like the crane,"
+               ],
+               [
+                  "00:07:09,640 --> 00:07:11,620",
+                  "are folded from a single uncut square."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:07:12,470 --> 00:07:13,460",
+                  "- To figure out how to do that"
+               ],
+               [
+                  "00:07:13,460 --> 00:07:17,810",
+                  "we need to learn a little"
+               ],
+               [
+                  "00:07:13,460 --> 00:07:17,810",
+                  "bit about what makes a point."
+               ],
+               [
+                  "00:07:17,810 --> 00:07:19,220",
+                  "So, let's come back to the crane."
+               ],
+               [
+                  "00:07:19,220 --> 00:07:20,053",
+                  "You can probably tell"
+               ],
+               [
+                  "00:07:20,053 --> 00:07:22,920",
+                  "that the corners of the"
+               ],
+               [
+                  "00:07:20,053 --> 00:07:22,920",
+                  "square ended up as points,"
+               ],
+               [
+                  "00:07:22,920 --> 00:07:23,753",
+                  "right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:07:23,753 --> 00:07:25,950",
+                  "- That's a corner, four corners"
+               ],
+               [
+                  "00:07:23,753 --> 00:07:25,950",
+                  "of the square, four points."
+               ],
+               [
+                  "00:07:25,950 --> 00:07:29,990",
+                  "How would you make one point"
+               ],
+               [
+                  "00:07:25,950 --> 00:07:29,990",
+                  "out of this sheet of paper?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:07:31,670 --> 00:07:33,380",
+                  "- Yeah, exactly."
+               ],
+               [
+                  "00:07:33,380 --> 00:07:35,700",
+                  "Actually you've discovered"
+               ],
+               [
+                  "00:07:33,380 --> 00:07:35,700",
+                  "something pretty neat"
+               ],
+               [
+                  "00:07:35,700 --> 00:07:39,560",
+                  "because you made your"
+               ],
+               [
+                  "00:07:35,700 --> 00:07:39,560",
+                  "point not from a corner"
+               ],
+               [
+                  "00:07:39,560 --> 00:07:42,350",
+                  "so you've already discovered"
+               ],
+               [
+                  "00:07:39,560 --> 00:07:42,350",
+                  "one of the key insights."
+               ],
+               [
+                  "00:07:42,350 --> 00:07:45,370",
+                  "Any flap, any point, leg of the ant,"
+               ],
+               [
+                  "00:07:45,370 --> 00:07:48,520",
+                  "takes up a circular region of paper."
+               ],
+               [
+                  "00:07:48,520 --> 00:07:50,280",
+                  "Here's our boundary."
+               ],
+               [
+                  "00:07:50,280 --> 00:07:54,350",
+                  "To make your point from an"
+               ],
+               [
+                  "00:07:50,280 --> 00:07:54,350",
+                  "edge you use that much paper"
+               ],
+               [
+                  "00:07:54,350 --> 00:07:57,808",
+                  "and the shape, it's almost a circle."
+               ],
+               [
+                  "00:07:57,808 --> 00:07:59,260",
+                  "If we take the crane"
+               ],
+               [
+                  "00:07:59,260 --> 00:08:04,113",
+                  "we'll see if the circles are"
+               ],
+               [
+                  "00:07:59,260 --> 00:08:04,113",
+                  "visible in the crane pattern."
+               ],
+               [
+                  "00:08:05,000 --> 00:08:09,438",
+                  "Here's the crane pattern, and"
+               ],
+               [
+                  "00:08:05,000 --> 00:08:09,438",
+                  "here's a boundary of the wing,"
+               ],
+               [
+                  "00:08:09,438 --> 00:08:11,540",
+                  "and here's the other wing."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:08:11,540 --> 00:08:13,626",
+                  "- The crane has four circles"
+               ],
+               [
+                  "00:08:13,626 --> 00:08:16,360",
+                  "but, actually, there's a"
+               ],
+               [
+                  "00:08:13,626 --> 00:08:16,360",
+                  "little bit of a surprise"
+               ],
+               [
+                  "00:08:16,360 --> 00:08:18,530",
+                  "because what about this?"
+               ],
+               [
+                  "00:08:18,530 --> 00:08:22,130",
+                  "There's a fifth circle,"
+               ],
+               [
+                  "00:08:18,530 --> 00:08:22,130",
+                  "which is like that,"
+               ],
+               [
+                  "00:08:22,130 --> 00:08:25,670",
+                  "but does the crane have"
+               ],
+               [
+                  "00:08:22,130 --> 00:08:25,670",
+                  "a fifth flap in it?"
+               ],
+               [
+                  "00:08:25,670 --> 00:08:30,670",
+                  "Let's refold it and put the wings up."
+               ],
+               [
+                  "00:08:31,130 --> 00:08:33,539",
+                  "Well, yes, there is, there's another point"
+               ],
+               [
+                  "00:08:33,539 --> 00:08:35,679",
+                  "and that point is the"
+               ],
+               [
+                  "00:08:33,539 --> 00:08:35,679",
+                  "fifth circle of our crane."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:08:35,679 --> 00:08:37,749",
+                  "- And to do that"
+               ],
+               [
+                  "00:08:37,750 --> 00:08:40,770",
+                  "we use a new technique"
+               ],
+               [
+                  "00:08:37,750 --> 00:08:40,770",
+                  "called circle packing"
+               ],
+               [
+                  "00:08:40,770 --> 00:08:43,740",
+                  "in which all of the long"
+               ],
+               [
+                  "00:08:40,770 --> 00:08:43,740",
+                  "features of the design"
+               ],
+               [
+                  "00:08:43,740 --> 00:08:45,540",
+                  "are represented by circles."
+               ],
+               [
+                  "00:08:45,540 --> 00:08:48,734",
+                  "So, each leg becomes a circle,"
+               ],
+               [
+                  "00:08:45,540 --> 00:08:48,734",
+                  "each wing becomes a circle"
+               ],
+               [
+                  "00:08:48,734 --> 00:08:50,920",
+                  "and things that can be big and thick,"
+               ],
+               [
+                  "00:08:50,920 --> 00:08:54,290",
+                  "like the head or the abdomen,"
+               ],
+               [
+                  "00:08:50,920 --> 00:08:54,290",
+                  "can be points in the middle."
+               ],
+               [
+                  "00:08:54,290 --> 00:08:58,090",
+                  "Now we have the basic idea"
+               ],
+               [
+                  "00:08:54,290 --> 00:08:58,090",
+                  "of how to design the pattern,"
+               ],
+               [
+                  "00:08:58,090 --> 00:08:59,740",
+                  "we just count the number of legs we want."
+               ],
+               [
+                  "00:08:59,740 --> 00:09:02,900",
+                  "We want a spider, if it's"
+               ],
+               [
+                  "00:08:59,740 --> 00:09:02,900",
+                  "got let's say eight legs,"
+               ],
+               [
+                  "00:09:02,900 --> 00:09:05,097",
+                  "it's also got an abdomen,"
+               ],
+               [
+                  "00:09:02,900 --> 00:09:05,097",
+                  "that's another point,"
+               ],
+               [
+                  "00:09:05,097 --> 00:09:07,814",
+                  "and it's got a head, so"
+               ],
+               [
+                  "00:09:05,097 --> 00:09:07,814",
+                  "maybe that's 10 points."
+               ],
+               [
+                  "00:09:07,814 --> 00:09:10,310",
+                  "If we find an arrangement of 10 circles"
+               ],
+               [
+                  "00:09:10,310 --> 00:09:13,660",
+                  "we should be able to fold"
+               ],
+               [
+                  "00:09:10,310 --> 00:09:13,660",
+                  "that into the spider."
+               ],
+               [
+                  "00:09:13,660 --> 00:09:17,150",
+                  "So in this book, Origami"
+               ],
+               [
+                  "00:09:13,660 --> 00:09:17,150",
+                  "Insects II, it's one of my books"
+               ],
+               [
+                  "00:09:17,150 --> 00:09:20,672",
+                  "and has some patterns,"
+               ],
+               [
+                  "00:09:17,150 --> 00:09:20,672",
+                  "and this is one of them"
+               ],
+               [
+                  "00:09:20,672 --> 00:09:23,960",
+                  "for a flying ladybug and, in fact,"
+               ],
+               [
+                  "00:09:23,960 --> 00:09:27,520",
+                  "it is exactly this flying ladybug."
+               ],
+               [
+                  "00:09:27,520 --> 00:09:29,450",
+                  "We've got the crease"
+               ],
+               [
+                  "00:09:27,520 --> 00:09:29,450",
+                  "pattern here in the circles"
+               ],
+               [
+                  "00:09:29,450 --> 00:09:32,010",
+                  "and you might now be able to see"
+               ],
+               [
+                  "00:09:32,010 --> 00:09:35,470",
+                  "which circles end up as which parts,"
+               ],
+               [
+                  "00:09:35,470 --> 00:09:38,410",
+                  "knowing that the largest"
+               ],
+               [
+                  "00:09:35,470 --> 00:09:38,410",
+                  "features like the wings"
+               ],
+               [
+                  "00:09:38,410 --> 00:09:40,020",
+                  "are going to be the largest circles,"
+               ],
+               [
+                  "00:09:40,020 --> 00:09:41,970",
+                  "smaller points will be smaller circles."
+               ],
+               [
+                  "00:09:41,970 --> 00:09:44,490",
+                  "So any thoughts which might be?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:09:48,990 --> 00:09:51,250",
+                  "- Yeah, that's right."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:09:55,260 --> 00:09:57,210",
+                  "- Mm-hmm, exactly."
+               ],
+               [
+                  "00:09:57,210 --> 00:09:59,220",
+                  "And then the wings?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:10:04,200 --> 00:10:07,940",
+                  "- You've got it, so you are"
+               ],
+               [
+                  "00:10:04,200 --> 00:10:07,940",
+                  "ready to design origami."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:10:10,090 --> 00:10:11,997",
+                  "- Origami artists all around the world"
+               ],
+               [
+                  "00:10:11,997 --> 00:10:16,660",
+                  "now use ideas like this to"
+               ],
+               [
+                  "00:10:11,997 --> 00:10:16,660",
+                  "design, not just insects,"
+               ],
+               [
+                  "00:10:16,660 --> 00:10:20,155",
+                  "but animals, and birds,"
+               ],
+               [
+                  "00:10:16,660 --> 00:10:20,155",
+                  "and all sorts of things"
+               ],
+               [
+                  "00:10:20,155 --> 00:10:25,155",
+                  "that are, I think, unbelievably"
+               ],
+               [
+                  "00:10:20,155 --> 00:10:25,155",
+                  "complex and realistic"
+               ],
+               [
+                  "00:10:25,320 --> 00:10:27,740",
+                  "but most importantly, beautiful."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:10:43,160 --> 00:10:44,430",
+                  "- That's so cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:10:49,090 --> 00:10:51,090",
+                  "- Whenever there's a part of a spacecraft"
+               ],
+               [
+                  "00:10:51,090 --> 00:10:53,650",
+                  "that is shaped somewhat like paper,"
+               ],
+               [
+                  "00:10:53,650 --> 00:10:55,060",
+                  "meaning it's big and flat,"
+               ],
+               [
+                  "00:10:55,060 --> 00:10:58,100",
+                  "we can use folding mechanisms from origami"
+               ],
+               [
+                  "00:10:58,100 --> 00:10:59,120",
+                  "to make it smaller."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:10:59,120 --> 00:11:01,400",
+                  "- Telescopes, solar arrays,"
+               ],
+               [
+                  "00:11:01,400 --> 00:11:03,890",
+                  "they need to be packed"
+               ],
+               [
+                  "00:11:01,400 --> 00:11:03,890",
+                  "into a rocket, go up,"
+               ],
+               [
+                  "00:11:03,890 --> 00:11:07,035",
+                  "but then expand in a very"
+               ],
+               [
+                  "00:11:03,890 --> 00:11:07,035",
+                  "controlled, deterministic way"
+               ],
+               [
+                  "00:11:07,035 --> 00:11:08,690",
+                  "when they get up into space."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:11:08,690 --> 00:11:11,059",
+                  "- These are the building blocks"
+               ],
+               [
+                  "00:11:11,059 --> 00:11:14,660",
+                  "of many, many origami deployable shapes,"
+               ],
+               [
+                  "00:11:14,660 --> 00:11:16,550",
+                  "it's called a degree-4 vertex."
+               ],
+               [
+                  "00:11:16,550 --> 00:11:17,800",
+                  "It's the number of lines."
+               ],
+               [
+                  "00:11:17,800 --> 00:11:21,180",
+                  "So in this case, we use"
+               ],
+               [
+                  "00:11:17,800 --> 00:11:21,180",
+                  "solid lines for mountain,"
+               ],
+               [
+                  "00:11:21,180 --> 00:11:23,170",
+                  "we use dash lines for valley."
+               ],
+               [
+                  "00:11:23,170 --> 00:11:25,870",
+                  "We're going to fold it and"
+               ],
+               [
+                  "00:11:23,170 --> 00:11:25,870",
+                  "use these two to illustrate"
+               ],
+               [
+                  "00:11:25,870 --> 00:11:29,270",
+                  "some important properties"
+               ],
+               [
+                  "00:11:25,870 --> 00:11:29,270",
+                  "of origami mechanisms."
+               ],
+               [
+                  "00:11:29,270 --> 00:11:31,840",
+                  "It's important in the study of mechanisms"
+               ],
+               [
+                  "00:11:31,840 --> 00:11:33,690",
+                  "to take into account the rigidity."
+               ],
+               [
+                  "00:11:33,690 --> 00:11:36,924",
+                  "So what we're going to do"
+               ],
+               [
+                  "00:11:33,690 --> 00:11:36,924",
+                  "to help simulate rigidity"
+               ],
+               [
+                  "00:11:36,924 --> 00:11:39,290",
+                  "is to take these rectangles"
+               ],
+               [
+                  "00:11:39,290 --> 00:11:42,920",
+                  "and we're going to fold them over and over"
+               ],
+               [
+                  "00:11:42,920 --> 00:11:45,630",
+                  "so that they just become stiff and rigid."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:11:46,463 --> 00:11:47,760",
+                  "- So this is what's called"
+               ],
+               [
+                  "00:11:47,760 --> 00:11:50,230",
+                  "a single degree of freedom mechanism."
+               ],
+               [
+                  "00:11:50,230 --> 00:11:53,017",
+                  "You have one degree of freedom,"
+               ],
+               [
+                  "00:11:50,230 --> 00:11:53,017",
+                  "I can choose this fold,"
+               ],
+               [
+                  "00:11:53,017 --> 00:11:55,246",
+                  "and then if these are perfectly rigid"
+               ],
+               [
+                  "00:11:55,246 --> 00:11:58,220",
+                  "every other fold angle"
+               ],
+               [
+                  "00:11:55,246 --> 00:11:58,220",
+                  "is fully determined."
+               ],
+               [
+                  "00:11:58,220 --> 00:11:59,810",
+                  "One of the key behaviors here"
+               ],
+               [
+                  "00:11:59,810 --> 00:12:02,360",
+                  "is that with the smaller angles up here,"
+               ],
+               [
+                  "00:12:02,360 --> 00:12:04,590",
+                  "the two folds that are the same parity"
+               ],
+               [
+                  "00:12:04,590 --> 00:12:06,710",
+                  "and the folds that are of opposite parity"
+               ],
+               [
+                  "00:12:06,710 --> 00:12:09,120",
+                  "move at about the same rate"
+               ],
+               [
+                  "00:12:09,120 --> 00:12:12,710",
+                  "but with this, as we're"
+               ],
+               [
+                  "00:12:09,120 --> 00:12:12,710",
+                  "getting closer to 90 degrees,"
+               ],
+               [
+                  "00:12:12,710 --> 00:12:15,760",
+                  "we find they move at very different rates"
+               ],
+               [
+                  "00:12:15,760 --> 00:12:18,900",
+                  "and then at the end of the"
+               ],
+               [
+                  "00:12:15,760 --> 00:12:18,900",
+                  "motion, the opposite happens."
+               ],
+               [
+                  "00:12:18,900 --> 00:12:20,410",
+                  "This one is almost folded"
+               ],
+               [
+                  "00:12:20,410 --> 00:12:22,873",
+                  "but this one goes through"
+               ],
+               [
+                  "00:12:20,410 --> 00:12:22,873",
+                  "a much larger motion so"
+               ],
+               [
+                  "00:12:22,873 --> 00:12:24,970",
+                  "the relative speeds differ."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:12:24,970 --> 00:12:27,880",
+                  "- So when we start sticking"
+               ],
+               [
+                  "00:12:24,970 --> 00:12:27,880",
+                  "together vertices like this,"
+               ],
+               [
+                  "00:12:27,880 --> 00:12:30,046",
+                  "if they're individually"
+               ],
+               [
+                  "00:12:27,880 --> 00:12:30,046",
+                  "single degree of freedom"
+               ],
+               [
+                  "00:12:30,046 --> 00:12:34,143",
+                  "then we can make very large"
+               ],
+               [
+                  "00:12:30,046 --> 00:12:34,143",
+                  "mechanisms that open and close"
+               ],
+               [
+                  "00:12:34,143 --> 00:12:36,310",
+                  "but with just one degree of freedom."
+               ],
+               [
+                  "00:12:36,310 --> 00:12:39,340",
+                  "So, these are examples of a"
+               ],
+               [
+                  "00:12:36,310 --> 00:12:39,340",
+                  "pattern called the Miura-Ori."
+               ],
+               [
+                  "00:12:39,340 --> 00:12:40,780",
+                  "When you stretch them out"
+               ],
+               [
+                  "00:12:40,780 --> 00:12:42,470",
+                  "they're pretty big."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:12:42,470 --> 00:12:46,940",
+                  "- And they fold flat and a"
+               ],
+               [
+                  "00:12:42,470 --> 00:12:46,940",
+                  "pattern almost exactly like this"
+               ],
+               [
+                  "00:12:46,940 --> 00:12:49,710",
+                  "was used for a solar array"
+               ],
+               [
+                  "00:12:46,940 --> 00:12:49,710",
+                  "for a Japanese mission"
+               ],
+               [
+                  "00:12:49,710 --> 00:12:51,210",
+                  "that flew in 1995."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:12:59,110 --> 00:13:01,550",
+                  "- Yeah, so typically the mechanism"
+               ],
+               [
+                  "00:13:01,550 --> 00:13:03,540",
+                  "will run from corner to corner,"
+               ],
+               [
+                  "00:13:03,540 --> 00:13:05,424",
+                  "to diagonally to opposite corners"
+               ],
+               [
+                  "00:13:05,424 --> 00:13:09,780",
+                  "because then you can"
+               ],
+               [
+                  "00:13:05,424 --> 00:13:09,780",
+                  "stretch it out that way."
+               ],
+               [
+                  "00:13:09,780 --> 00:13:11,697",
+                  "Notice some differences"
+               ],
+               [
+                  "00:13:09,780 --> 00:13:11,697",
+                  "between the one you have"
+               ],
+               [
+                  "00:13:11,697 --> 00:13:12,884",
+                  "and the one I have"
+               ],
+               [
+                  "00:13:12,884 --> 00:13:17,194",
+                  "in how this one sort of"
+               ],
+               [
+                  "00:13:12,884 --> 00:13:17,194",
+                  "opens out almost evenly"
+               ],
+               [
+                  "00:13:17,194 --> 00:13:20,790",
+                  "but this one opens out more"
+               ],
+               [
+                  "00:13:17,194 --> 00:13:20,790",
+                  "one way and then the other."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:13:25,100 --> 00:13:26,970",
+                  "- Infinitesimally small."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:13:26,970 --> 00:13:27,940",
+                  "- So, sadly,"
+               ],
+               [
+                  "00:13:27,940 --> 00:13:30,320",
+                  "the only way to get them"
+               ],
+               [
+                  "00:13:27,940 --> 00:13:30,320",
+                  "at exactly the same rate"
+               ],
+               [
+                  "00:13:30,320 --> 00:13:32,524",
+                  "is when these are microscopic slivers"
+               ],
+               [
+                  "00:13:32,524 --> 00:13:34,440",
+                  "and then that's not useful."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:13:34,440 --> 00:13:36,293",
+                  "- And it's exactly the difference"
+               ],
+               [
+                  "00:13:36,293 --> 00:13:39,260",
+                  "between the motions of these two vertices."
+               ],
+               [
+                  "00:13:39,260 --> 00:13:42,300",
+                  "So these angles are closer to right angles"
+               ],
+               [
+                  "00:13:42,300 --> 00:13:44,530",
+                  "and the closer you get to a right angle"
+               ],
+               [
+                  "00:13:44,530 --> 00:13:46,490",
+                  "the more asymmetry there is"
+               ],
+               [
+                  "00:13:46,490 --> 00:13:48,450",
+                  "between the two directions of motion."
+               ],
+               [
+                  "00:13:48,450 --> 00:13:51,330",
+                  "And then the other difference"
+               ],
+               [
+                  "00:13:48,450 --> 00:13:51,330",
+                  "is how efficiently they pack,"
+               ],
+               [
+                  "00:13:51,330 --> 00:13:53,896",
+                  "so these started at about the same size"
+               ],
+               [
+                  "00:13:53,896 --> 00:13:55,253",
+                  "but when they're flat"
+               ],
+               [
+                  "00:13:55,253 --> 00:13:58,660",
+                  "notice that yours is much more compact."
+               ],
+               [
+                  "00:13:58,660 --> 00:14:00,470",
+                  "So if I were you making a solar array,"
+               ],
+               [
+                  "00:14:00,470 --> 00:14:02,090",
+                  "I'd say, oh, I want that one."
+               ],
+               [
+                  "00:14:02,090 --> 00:14:05,690",
+                  "But if I say, well, I want"
+               ],
+               [
+                  "00:14:02,090 --> 00:14:05,690",
+                  "them to open at the same rate,"
+               ],
+               [
+                  "00:14:05,690 --> 00:14:07,380",
+                  "then I want this one."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:14:08,590 --> 00:14:11,300",
+                  "- There's an engineering trade-off"
+               ],
+               [
+                  "00:14:08,590 --> 00:14:11,300",
+                  "to get them both to work."
+               ],
+               [
+                  "00:14:11,300 --> 00:14:12,240",
+                  "And there's another place"
+               ],
+               [
+                  "00:14:12,240 --> 00:14:14,115",
+                  "that shows up in deployable structures"
+               ],
+               [
+                  "00:14:14,115 --> 00:14:16,000",
+                  "in a very cool structure."
+               ],
+               [
+                  "00:14:16,000 --> 00:14:19,610",
+                  "This is a folded tube, it"
+               ],
+               [
+                  "00:14:16,000 --> 00:14:19,610",
+                  "sort of pops out like this"
+               ],
+               [
+                  "00:14:19,610 --> 00:14:22,443",
+                  "but it has this neat property"
+               ],
+               [
+                  "00:14:19,610 --> 00:14:22,443",
+                  "that if you twist it quickly,"
+               ],
+               [
+                  "00:14:22,443 --> 00:14:24,520",
+                  "it changes color."
+               ],
+               [
+                  "00:14:24,520 --> 00:14:26,912",
+                  "There's a Mars Rover application"
+               ],
+               [
+                  "00:14:26,912 --> 00:14:30,410",
+                  "where they need a sleeve"
+               ],
+               [
+                  "00:14:26,912 --> 00:14:30,410",
+                  "that protects a drill"
+               ],
+               [
+                  "00:14:30,410 --> 00:14:33,740",
+                  "and as the drill goes down,"
+               ],
+               [
+                  "00:14:30,410 --> 00:14:33,740",
+                  "the sleeve is going to collapse"
+               ],
+               [
+                  "00:14:33,740 --> 00:14:36,384",
+                  "and they're using a pattern"
+               ],
+               [
+                  "00:14:33,740 --> 00:14:36,384",
+                  "very much like this."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:14:37,660 --> 00:14:40,960",
+                  "- There are many open"
+               ],
+               [
+                  "00:14:37,660 --> 00:14:40,960",
+                  "mathematical questions"
+               ],
+               [
+                  "00:14:40,960 --> 00:14:44,420",
+                  "and so room for"
+               ],
+               [
+                  "00:14:40,960 --> 00:14:44,420",
+                  "mathematicians, like yourself,"
+               ],
+               [
+                  "00:14:44,420 --> 00:14:48,710",
+                  "to have a big impact on the"
+               ],
+               [
+                  "00:14:44,420 --> 00:14:48,710",
+                  "world of origami and mechanisms."
+               ],
+               [
+                  "00:14:48,710 --> 00:14:50,840",
+                  "And even though those studies"
+               ],
+               [
+                  "00:14:50,840 --> 00:14:52,670",
+                  "are mathematically interesting,"
+               ],
+               [
+                  "00:14:52,670 --> 00:14:57,030",
+                  "they're going to also have"
+               ],
+               [
+                  "00:14:52,670 --> 00:14:57,030",
+                  "real-world applications in space,"
+               ],
+               [
+                  "00:14:57,030 --> 00:15:00,330",
+                  "solar arrays, drills,"
+               ],
+               [
+                  "00:14:57,030 --> 00:15:00,330",
+                  "telescopes, and more."
+               ],
+               [
+                  "00:15:00,330 --> 00:15:02,520",
+                  "Any questions or thoughts about this?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:15:32,230 --> 00:15:33,570",
+                  "- The first thing I want to show you"
+               ],
+               [
+                  "00:15:33,570 --> 00:15:35,770",
+                  "is origami in the real world."
+               ],
+               [
+                  "00:15:35,770 --> 00:15:37,280",
+                  "This is the origami lamp."
+               ],
+               [
+                  "00:15:37,280 --> 00:15:42,280",
+                  "It comes shipped flat but it"
+               ],
+               [
+                  "00:15:37,280 --> 00:15:42,280",
+                  "folds, clip holds it together."
+               ],
+               [
+                  "00:15:43,210 --> 00:15:45,860",
+                  "The lamp has LEDs on the inside"
+               ],
+               [
+                  "00:15:45,860 --> 00:15:48,580",
+                  "so when we power it up we get"
+               ],
+               [
+                  "00:15:45,860 --> 00:15:48,580",
+                  "light, we have a lampshade"
+               ],
+               [
+                  "00:15:48,580 --> 00:15:49,790",
+                  "and we get the base."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:15:53,370 --> 00:15:55,960",
+                  "- Origami applications have in common,"
+               ],
+               [
+                  "00:15:55,960 --> 00:15:59,030",
+                  "is that at some stage the thing is flat"
+               ],
+               [
+                  "00:15:59,030 --> 00:16:03,141",
+                  "and so whenever you need to"
+               ],
+               [
+                  "00:15:59,030 --> 00:16:03,141",
+                  "either start from a flat state"
+               ],
+               [
+                  "00:16:03,141 --> 00:16:05,935",
+                  "and then take it to a 3D state,"
+               ],
+               [
+                  "00:16:05,935 --> 00:16:09,840",
+                  "or conversely, for deployables like space,"
+               ],
+               [
+                  "00:16:09,840 --> 00:16:13,340",
+                  "you want to have it in a"
+               ],
+               [
+                  "00:16:09,840 --> 00:16:13,340",
+                  "fully folded flat state"
+               ],
+               [
+                  "00:16:13,340 --> 00:16:15,390",
+                  "but then take it to a 3D state,"
+               ],
+               [
+                  "00:16:15,390 --> 00:16:17,670",
+                  "or possibly an unfolded flat state."
+               ],
+               [
+                  "00:16:17,670 --> 00:16:19,730",
+                  "Whenever a flat state is involved,"
+               ],
+               [
+                  "00:16:19,730 --> 00:16:22,750",
+                  "origami is a really effective way"
+               ],
+               [
+                  "00:16:22,750 --> 00:16:25,030",
+                  "of making the transition"
+               ],
+               [
+                  "00:16:22,750 --> 00:16:25,030",
+                  "between those states."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:17:00,630 --> 00:17:03,140",
+                  "- This is another real-world application"
+               ],
+               [
+                  "00:17:03,140 --> 00:17:05,069",
+                  "but this particular implementation"
+               ],
+               [
+                  "00:17:05,069 --> 00:17:07,289",
+                  "is used to make a wheel for a Rover."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:17:14,410 --> 00:17:15,794",
+                  "- New problems arise"
+               ],
+               [
+                  "00:17:15,794 --> 00:17:19,990",
+                  "when we try to make origami"
+               ],
+               [
+                  "00:17:15,794 --> 00:17:19,990",
+                  "out of things other than paper,"
+               ],
+               [
+                  "00:17:19,990 --> 00:17:22,460",
+                  "but also new opportunities."
+               ],
+               [
+                  "00:17:22,460 --> 00:17:23,859",
+                  "An example here"
+               ],
+               [
+                  "00:17:23,859 --> 00:17:26,979",
+                  "which is a kind of a"
+               ],
+               [
+                  "00:17:23,859 --> 00:17:26,979",
+                  "variant of the Miura-Ori."
+               ],
+               [
+                  "00:17:26,980 --> 00:17:28,730",
+                  "It's got a three-dimensional structure."
+               ],
+               [
+                  "00:17:28,730 --> 00:17:31,050",
+                  "If I stretch it one way,"
+               ],
+               [
+                  "00:17:28,730 --> 00:17:31,050",
+                  "it expands the other"
+               ],
+               [
+                  "00:17:31,050 --> 00:17:34,774",
+                  "but because it has these"
+               ],
+               [
+                  "00:17:31,050 --> 00:17:34,774",
+                  "S-bends in the pattern,"
+               ],
+               [
+                  "00:17:34,774 --> 00:17:38,490",
+                  "if you squeeze it, it"
+               ],
+               [
+                  "00:17:34,774 --> 00:17:38,490",
+                  "doesn't go all the way flat."
+               ],
+               [
+                  "00:17:38,490 --> 00:17:42,610",
+                  "This is a epoxy impregnated aramid fiber"
+               ],
+               [
+                  "00:17:42,610 --> 00:17:45,103",
+                  "and so if I put this fold pattern into it"
+               ],
+               [
+                  "00:17:45,103 --> 00:17:46,907",
+                  "and then compress it"
+               ],
+               [
+                  "00:17:46,907 --> 00:17:50,263",
+                  "and then put a skin on the top and bottom,"
+               ],
+               [
+                  "00:17:50,263 --> 00:17:54,810",
+                  "this becomes incredibly"
+               ],
+               [
+                  "00:17:50,263 --> 00:17:54,810",
+                  "lightweight but incredibly strong."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:17:55,643 --> 00:17:56,660",
+                  "- Another origami challenge"
+               ],
+               [
+                  "00:17:56,660 --> 00:17:59,112",
+                  "that comes up with these patterns"
+               ],
+               [
+                  "00:17:59,112 --> 00:18:02,250",
+                  "is if we're going to make an"
+               ],
+               [
+                  "00:17:59,112 --> 00:18:02,250",
+                  "aircraft out of this thing"
+               ],
+               [
+                  "00:18:02,250 --> 00:18:06,340",
+                  "we're going to need hundreds"
+               ],
+               [
+                  "00:18:02,250 --> 00:18:06,340",
+                  "of yards of folded origami."
+               ],
+               [
+                  "00:18:06,340 --> 00:18:07,650",
+                  "We're not going to do it by hand"
+               ],
+               [
+                  "00:18:07,650 --> 00:18:12,054",
+                  "and this might be the new"
+               ],
+               [
+                  "00:18:07,650 --> 00:18:12,054",
+                  "frontier in origami engineering,"
+               ],
+               [
+                  "00:18:12,054 --> 00:18:14,718",
+                  "which is the design of machines"
+               ],
+               [
+                  "00:18:14,718 --> 00:18:18,380",
+                  "that can fold patterns"
+               ],
+               [
+                  "00:18:14,718 --> 00:18:18,380",
+                  "that have applications."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:18:24,706 --> 00:18:26,450",
+                  "- Yeah, so what goes in as sheet"
+               ],
+               [
+                  "00:18:26,450 --> 00:18:29,277",
+                  "and what comes out is this,"
+               ],
+               [
+                  "00:18:26,450 --> 00:18:29,277",
+                  "or something this wide."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:18:37,650 --> 00:18:40,200",
+                  "- It's something we've"
+               ],
+               [
+                  "00:18:37,650 --> 00:18:40,200",
+                  "talked about a little bit"
+               ],
+               [
+                  "00:18:40,200 --> 00:18:42,888",
+                  "that with all the richness of behavior"
+               ],
+               [
+                  "00:18:42,888 --> 00:18:47,080",
+                  "of origami from a flat sheet,"
+               ],
+               [
+                  "00:18:47,080 --> 00:18:50,490",
+                  "it seems like there ought"
+               ],
+               [
+                  "00:18:47,080 --> 00:18:50,490",
+                  "to be an equally rich world"
+               ],
+               [
+                  "00:18:50,490 --> 00:18:53,010",
+                  "of things that don't start flat"
+               ],
+               [
+                  "00:18:53,010 --> 00:18:54,970",
+                  "but are still made from"
+               ],
+               [
+                  "00:18:53,010 --> 00:18:54,970",
+                  "flat sheets of paper."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:18:54,970 --> 00:18:57,990",
+                  "- Bi-stable properties"
+               ],
+               [
+                  "00:18:57,990 --> 00:19:02,270",
+                  "and you can combine them together"
+               ],
+               [
+                  "00:18:57,990 --> 00:19:02,270",
+                  "with copies of themselves"
+               ],
+               [
+                  "00:19:02,270 --> 00:19:03,910",
+                  "to make cellular structures."
+               ],
+               [
+                  "00:19:03,910 --> 00:19:07,290",
+                  "They're astonishingly stiff and"
+               ],
+               [
+                  "00:19:03,910 --> 00:19:07,290",
+                  "rigid, useful for mechanics."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA?t=23",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:00:30,410 --> 00:00:32,820",
+                  "- Is that where you fold paper"
+               ],
+               [
+                  "00:00:32,820 --> 00:00:36,000",
+                  "to make different animals, like those?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:00:40,200 --> 00:00:41,220",
+                  "- Nope."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:00:42,430 --> 00:00:44,540",
+                  "- Sure."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:01:01,300 --> 00:01:02,133",
+                  "- That's awesome."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:01:03,090 --> 00:01:04,160",
+                  "- Yep."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:01:14,810 --> 00:01:16,830",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:01:45,100 --> 00:01:47,000",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:02:11,310 --> 00:02:12,380",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:02:25,199 --> 00:02:26,032",
+                  "- Okay, good."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:02:55,590 --> 00:02:56,930",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:02:58,630 --> 00:03:01,505",
+                  "- I have seen these before,"
+               ],
+               [
+                  "00:02:58,630 --> 00:03:01,505",
+                  "my friends use these."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:03:17,690 --> 00:03:18,523",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:03:27,777 --> 00:03:30,698",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":28,
+            "Sentence":[
+               [
+                  "00:03:34,140 --> 00:03:37,580",
+                  "- I think that the people"
+               ],
+               [
+                  "00:03:34,140 --> 00:03:37,580",
+                  "that make them are talented."
+               ],
+               [
+                  "00:03:37,580 --> 00:03:38,620",
+                  "It's hard."
+               ],
+               [
+                  "00:03:38,620 --> 00:03:40,730",
+                  "Seeing the stuff that we've made here,"
+               ],
+               [
+                  "00:03:40,730 --> 00:03:44,240",
+                  "I'd bet that they could do rocket ships."
+               ],
+               [
+                  "00:03:44,240 --> 00:03:46,530",
+                  "Just so much that you can do with them."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":30,
+            "Sentence":[
+               [
+                  "00:03:47,363 --> 00:03:48,880",
+                  "- Thanks for having me."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA?t=230",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:04:18,329 --> 00:04:20,139",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:04:29,440 --> 00:04:30,510",
+                  "- They weren't cut?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:04:50,110 --> 00:04:54,580",
+                  "- How about like that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:05:08,530 --> 00:05:10,470",
+                  "- So all the folds are reversible?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:05:24,430 --> 00:05:25,920",
+                  "- Oh."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:05:39,462 --> 00:05:41,960",
+                  "- Twists?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:06:32,153 --> 00:06:33,650",
+                  "- That was cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:06:37,309 --> 00:06:39,310",
+                  "- Origami, I think,"
+               ],
+               [
+                  "00:06:39,310 --> 00:06:43,830",
+                  "is the folding of paper to"
+               ],
+               [
+                  "00:06:39,310 --> 00:06:43,830",
+                  "make anything in general,"
+               ],
+               [
+                  "00:06:43,830 --> 00:06:48,280",
+                  "from 3D things to flat things"
+               ],
+               [
+                  "00:06:48,280 --> 00:06:52,020",
+                  "and I think origami is"
+               ],
+               [
+                  "00:06:48,280 --> 00:06:52,020",
+                  "about turning simple things"
+               ],
+               [
+                  "00:06:52,020 --> 00:06:55,470",
+                  "into complex things and"
+               ],
+               [
+                  "00:06:52,020 --> 00:06:55,470",
+                  "it's all about patterns."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA?t=417",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:07:04,590 --> 00:07:05,590",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:07:11,620 --> 00:07:12,470",
+                  "- What?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:07:22,920 --> 00:07:23,753",
+                  "- Yes."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:07:29,990 --> 00:07:31,670",
+                  "- I'm thinking of, like, a paper airplane."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:08:09,438 --> 00:08:11,540",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:08:35,679 --> 00:08:37,749",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:09:44,490 --> 00:09:46,420",
+                  "- Well, the legs and the antenna"
+               ],
+               [
+                  "00:09:46,420 --> 00:09:48,990",
+                  "would probably have to"
+               ],
+               [
+                  "00:09:46,420 --> 00:09:48,990",
+                  "be these smaller ones,"
+               ],
+               [
+                  "00:09:48,990 --> 00:09:51,250",
+                  "in the middle."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:09:51,250 --> 00:09:53,090",
+                  "- [College Student] Oh,"
+               ],
+               [
+                  "00:09:51,250 --> 00:09:53,090",
+                  "this looks like the back"
+               ],
+               [
+                  "00:09:53,090 --> 00:09:55,260",
+                  "'cause there's a bunch of"
+               ],
+               [
+                  "00:09:53,090 --> 00:09:55,260",
+                  "circles all the way down,"
+               ],
+               [
+                  "00:09:55,260 --> 00:09:57,210",
+                  "like here."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:09:59,220 --> 00:10:01,550",
+                  "- You've got four big wings"
+               ],
+               [
+                  "00:10:01,550 --> 00:10:03,260",
+                  "which you could see on the ends there"
+               ],
+               [
+                  "00:10:03,260 --> 00:10:04,200",
+                  "and then, I guess, the head."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:10:07,940 --> 00:10:08,773",
+                  "- Awesome."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:10:27,740 --> 00:10:29,131",
+                  "- Wow, that's so impressive."
+               ],
+               [
+                  "00:10:29,131 --> 00:10:30,593",
+                  "I think I learned how to make"
+               ],
+               [
+                  "00:10:29,131 --> 00:10:30,593",
+                  "one of these paper cranes"
+               ],
+               [
+                  "00:10:30,593 --> 00:10:33,590",
+                  "when I was in third grade but"
+               ],
+               [
+                  "00:10:30,593 --> 00:10:33,590",
+                  "I guess I never unfolded it"
+               ],
+               [
+                  "00:10:33,590 --> 00:10:35,360",
+                  "to actually see where it was coming from."
+               ],
+               [
+                  "00:10:35,360 --> 00:10:37,570",
+                  "And so now that it's all"
+               ],
+               [
+                  "00:10:35,360 --> 00:10:37,570",
+                  "broken up into circles"
+               ],
+               [
+                  "00:10:37,570 --> 00:10:40,820",
+                  "it makes these super"
+               ],
+               [
+                  "00:10:37,570 --> 00:10:40,820",
+                  "complicated insects and animals"
+               ],
+               [
+                  "00:10:40,820 --> 00:10:43,160",
+                  "and everything seem so much"
+               ],
+               [
+                  "00:10:40,820 --> 00:10:43,160",
+                  "simpler, so that's so cool."
+               ],
+               [
+                  "00:10:43,160 --> 00:10:44,430",
+                  "I'm pretty excited about it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:10:44,430 --> 00:10:46,185",
+                  "- Thank you so much for"
+               ],
+               [
+                  "00:10:44,430 --> 00:10:46,185",
+                  "telling me about this."
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA?t=647",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:10:59,120 --> 00:11:01,400",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:11:07,035 --> 00:11:08,690",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:11:45,630 --> 00:11:46,463",
+                  "- [Grad Student] Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:12:22,873 --> 00:12:24,970",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:12:40,780 --> 00:12:42,470",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:12:51,210 --> 00:12:54,220",
+                  "- So then you like fly it up compactly"
+               ],
+               [
+                  "00:12:54,220 --> 00:12:55,340",
+                  "and then once you get up there,"
+               ],
+               [
+                  "00:12:55,340 --> 00:12:57,560",
+                  "there's like some sort of"
+               ],
+               [
+                  "00:12:55,340 --> 00:12:57,560",
+                  "like motorized mechanism,"
+               ],
+               [
+                  "00:12:57,560 --> 00:12:59,110",
+                  "but you only need it on one fold."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:13:20,790 --> 00:13:21,623",
+                  "- Yeah."
+               ],
+               [
+                  "00:13:21,623 --> 00:13:23,210",
+                  "What sort of angle would you want"
+               ],
+               [
+                  "00:13:23,210 --> 00:13:25,100",
+                  "so that they open up the same rate?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:13:25,100 --> 00:13:26,970",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:13:32,524 --> 00:13:34,440",
+                  "- For sure, right, right."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:14:07,380 --> 00:14:08,590",
+                  "- So, it's kind of a trade-off?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:14:36,384 --> 00:14:37,660",
+                  "- Interesting."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:15:02,520 --> 00:15:04,480",
+                  "- If you want to send something to space"
+               ],
+               [
+                  "00:15:04,480 --> 00:15:06,750",
+                  "it probably makes sense"
+               ],
+               [
+                  "00:15:04,480 --> 00:15:06,750",
+                  "to do it compactly,"
+               ],
+               [
+                  "00:15:06,750 --> 00:15:08,820",
+                  "so if you have something"
+               ],
+               [
+                  "00:15:06,750 --> 00:15:08,820",
+                  "that you can fold up"
+               ],
+               [
+                  "00:15:08,820 --> 00:15:12,040",
+                  "and then unfold, just one of the folds,"
+               ],
+               [
+                  "00:15:12,040 --> 00:15:14,100",
+                  "that's going to be"
+               ],
+               [
+                  "00:15:12,040 --> 00:15:14,100",
+                  "probably the easiest way"
+               ],
+               [
+                  "00:15:14,100 --> 00:15:15,690",
+                  "to get something up there"
+               ],
+               [
+                  "00:15:15,690 --> 00:15:17,478",
+                  "and expand it to what it needs to be."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/boaqgdcMjmA?t=918",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-origami",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:15:23,400 --> 00:15:26,210",
+                  "- I'm Tom Hull, I'm a math"
+               ],
+               [
+                  "00:15:23,400 --> 00:15:26,210",
+                  "professor, a mathematician."
+               ],
+               [
+                  "00:15:26,210 --> 00:15:28,940",
+                  "I've been doing origami"
+               ],
+               [
+                  "00:15:26,210 --> 00:15:28,940",
+                  "since I was eight years old"
+               ],
+               [
+                  "00:15:28,940 --> 00:15:30,870",
+                  "and studying the mathematics of origami"
+               ],
+               [
+                  "00:15:30,870 --> 00:15:32,230",
+                  "ever since grad school, at least."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:15:49,790 --> 00:15:51,300",
+                  "- Why does origami lend itself"
+               ],
+               [
+                  "00:15:51,300 --> 00:15:53,370",
+                  "to, say, this type of application?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:16:25,030 --> 00:16:28,540",
+                  "- Another aspect of origami"
+               ],
+               [
+                  "00:16:25,030 --> 00:16:28,540",
+                  "and origami mechanisms"
+               ],
+               [
+                  "00:16:28,540 --> 00:16:31,870",
+                  "that has leant itself"
+               ],
+               [
+                  "00:16:28,540 --> 00:16:31,870",
+                  "to many different uses"
+               ],
+               [
+                  "00:16:31,870 --> 00:16:33,570",
+                  "is the fact that it's scalable."
+               ],
+               [
+                  "00:16:33,570 --> 00:16:36,040",
+                  "When you have an origami crease pattern"
+               ],
+               [
+                  "00:16:36,040 --> 00:16:39,740",
+                  "like the Miura-Ori used"
+               ],
+               [
+                  "00:16:36,040 --> 00:16:39,740",
+                  "in solar panel deployment,"
+               ],
+               [
+                  "00:16:39,740 --> 00:16:41,400",
+                  "the type of motion that"
+               ],
+               [
+                  "00:16:39,740 --> 00:16:41,400",
+                  "you see happening here"
+               ],
+               [
+                  "00:16:41,400 --> 00:16:43,190",
+                  "will happen whether this"
+               ],
+               [
+                  "00:16:41,400 --> 00:16:43,190",
+                  "is on a piece of paper"
+               ],
+               [
+                  "00:16:43,190 --> 00:16:46,230",
+                  "that's small like this,"
+               ],
+               [
+                  "00:16:43,190 --> 00:16:46,230",
+                  "or on a larger scale,"
+               ],
+               [
+                  "00:16:46,230 --> 00:16:48,580",
+                  "or even on a smaller, smaller,"
+               ],
+               [
+                  "00:16:46,230 --> 00:16:48,580",
+                  "smaller, smaller scale."
+               ],
+               [
+                  "00:16:48,580 --> 00:16:50,930",
+                  "Engineers, in particular"
+               ],
+               [
+                  "00:16:48,580 --> 00:16:50,930",
+                  "robotics engineers,"
+               ],
+               [
+                  "00:16:50,930 --> 00:16:52,020",
+                  "are turning to origami"
+               ],
+               [
+                  "00:16:52,020 --> 00:16:55,860",
+                  "toward designing mechanisms"
+               ],
+               [
+                  "00:16:52,020 --> 00:16:55,860",
+                  "that will either be really big"
+               ],
+               [
+                  "00:16:55,860 --> 00:16:57,130",
+                  "or really, really small."
+               ],
+               [
+                  "00:16:57,130 --> 00:16:59,040",
+                  "This looks like the most promising way"
+               ],
+               [
+                  "00:16:59,040 --> 00:17:00,630",
+                  "of getting nano robotics to work."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:17:07,290 --> 00:17:08,980",
+                  "- Cool, so this is something"
+               ],
+               [
+                  "00:17:08,980 --> 00:17:11,589",
+                  "that can actually get really, really tiny"
+               ],
+               [
+                  "00:17:11,589 --> 00:17:14,409",
+                  "but then get big and fat and roll."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:17:54,810 --> 00:17:55,643",
+                  "- Yeah!"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:18:18,380 --> 00:18:19,520",
+                  "- So you're talking about a machine"
+               ],
+               [
+                  "00:18:19,520 --> 00:18:22,360",
+                  "that is actually folding it into this,"
+               ],
+               [
+                  "00:18:22,360 --> 00:18:24,706",
+                  "not just making the creases"
+               ],
+               [
+                  "00:18:22,360 --> 00:18:24,706",
+                  "but actually folding it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:18:29,277 --> 00:18:30,810",
+                  "- That's cool, yeah."
+               ],
+               [
+                  "00:18:30,810 --> 00:18:34,460",
+                  "What do you see as kind of"
+               ],
+               [
+                  "00:18:30,810 --> 00:18:34,460",
+                  "like the next big breakthrough?"
+               ],
+               [
+                  "00:18:34,460 --> 00:18:35,800",
+                  "Is there anything out there on the horizon"
+               ],
+               [
+                  "00:18:35,800 --> 00:18:37,650",
+                  "that you're just like, oh"
+               ],
+               [
+                  "00:18:35,800 --> 00:18:37,650",
+                  "wow, this is really exciting?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:18:54,970 --> 00:18:57,990",
+                  "- So like a cone?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:19:07,290 --> 00:19:09,120",
+                  "- The thing that I think"
+               ],
+               [
+                  "00:19:07,290 --> 00:19:09,120",
+                  "I'm the most excited about"
+               ],
+               [
+                  "00:19:09,120 --> 00:19:11,100",
+                  "comes from math mainly."
+               ],
+               [
+                  "00:19:11,100 --> 00:19:12,310",
+                  "When I look at origami,"
+               ],
+               [
+                  "00:19:12,310 --> 00:19:13,630",
+                  "when I look at all these applications"
+               ],
+               [
+                  "00:19:13,630 --> 00:19:17,150",
+                  "or just all these different"
+               ],
+               [
+                  "00:19:13,630 --> 00:19:17,150",
+                  "origami folds, I see structure."
+               ],
+               [
+                  "00:19:17,150 --> 00:19:19,050",
+                  "Math is really about patterns."
+               ],
+               [
+                  "00:19:19,050 --> 00:19:21,310",
+                  "The patterns that we see in origami"
+               ],
+               [
+                  "00:19:21,310 --> 00:19:24,660",
+                  "are reflecting some kind"
+               ],
+               [
+                  "00:19:21,310 --> 00:19:24,660",
+                  "of mathematical structure"
+               ],
+               [
+                  "00:19:24,660 --> 00:19:28,070",
+                  "and we don't quite know yet"
+               ],
+               [
+                  "00:19:24,660 --> 00:19:28,070",
+                  "what all of that structure is"
+               ],
+               [
+                  "00:19:28,070 --> 00:19:30,260",
+                  "and if we can tie a mathematical structure"
+               ],
+               [
+                  "00:19:30,260 --> 00:19:31,620",
+                  "that's already well-studied"
+               ],
+               [
+                  "00:19:31,620 --> 00:19:33,630",
+                  "to something we see happening in origami,"
+               ],
+               [
+                  "00:19:33,630 --> 00:19:36,070",
+                  "then we can use the math tools right away"
+               ],
+               [
+                  "00:19:36,070 --> 00:19:37,480",
+                  "to help solve the engineering problems"
+               ],
+               [
+                  "00:19:37,480 --> 00:19:38,630",
+                  "and the origami problems."
+               ],
+               [
+                  "00:19:38,630 --> 00:19:40,910",
+                  "And the fact that there's"
+               ],
+               [
+                  "00:19:38,630 --> 00:19:40,910",
+                  "so many applications to this"
+               ],
+               [
+                  "00:19:40,910 --> 00:19:43,540",
+                  "is really making people excited"
+               ],
+               [
+                  "00:19:40,910 --> 00:19:43,540",
+                  "who are working in the area."
+               ],
+               [
+                  "00:19:43,540 --> 00:19:45,120",
+                  "I'm really excited to see"
+               ],
+               [
+                  "00:19:43,540 --> 00:19:45,120",
+                  "what happens with that"
+               ],
+               [
+                  "00:19:45,120 --> 00:19:46,703",
+                  "in the next five years or so."
+               ]
+            ]
+         }
+      ]
+   }
+}

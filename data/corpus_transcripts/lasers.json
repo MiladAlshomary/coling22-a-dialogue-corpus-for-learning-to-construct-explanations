@@ -1,0 +1,1571 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "I'm Donna Strickland.",
+          "I'm a professor at the University of Waterloo.",
+          "I study lasers and, in particular,",
+          "I like really high intensity lasers.",
+          "So a laser is a way to get light to actually just",
+          "be a single color, going in a single direction",
+          "all of the waves peaking at the same time",
+          "so that the intensity can get very high.",
+          "Today I've been challenged to explain lasers",
+          "and high intensity lasers at five different levels.",
+          "From a child, to a teenager, to a college student,",
+          "to a graduate student and finally to a colleague of mine."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "So I was told that maybe science is",
+          "one of your favorite subjects at school.",
+          "Is that right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Have you actually studied light yet?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Okay what have you learned so far about light?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Oh really?",
+          "Oh excellent.",
+          "Well I'm somebody who studies lasers.",
+          "So what do you think about lasers?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "You haven't got to play with lasers.",
+          "So I brought one.",
+          "It's my friend's cat toy.",
+          "Do you ever use a laser as a cat toy?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "Well one of the fun things people do with lasers,",
+          "the cat will try to grab that dot.",
+          "I'm sure what you have at home is a flashlight.",
+          "I brought a cute little one.",
+          "So the question is, do you see any difference",
+          "between what a flashlight does and what a laser does?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "That's true, that laser's just a dot.",
+          "And so the other thing to notice though is that,",
+          "like if I shine it in your eyes and I'm sorry if I do!",
+          "But it seems awfully bright doesn't it?",
+          "And yet when, you know, you shine this down",
+          "and you put the laser, which one do you see easier?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "The laser.",
+          "So which one do you think's more powerful?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "[Donna] And yet it's not.",
+          "Isn't that amazing?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "One of the things that lasers are great for",
+          "is that because it's a directed beam,",
+          "we can actually put that light where we want the light to go",
+          "and sometimes you maybe just want to see",
+          "something around the corner and you can't see it.",
+          "But with a laser, you can actually",
+          "and this is a smoky one so you can actually watch it go.",
+          "You see it actually bending the corner?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "And that's because the light will go through this glass",
+          "and, when it hits that corner, it has to bend.",
+          "And we actually send laser beams down glass fibers,",
+          "the size of your hair."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "So this obviously is much bigger than our hair.",
+          "Right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "So this is just a demonstration.",
+          "If you have a laser like this, it actually",
+          "bends and comes out, I'm gonna point it to you",
+          "and you'll see it coming out the other end.",
+          "It hits these walls, it has to go around",
+          "and come out the other side.",
+          "You wanna play?",
+          "So is this the first time you've seen a laser",
+          "or have you gotten to play with lasers somewhere else?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "You don't have a cat.",
+          "So you don't need a cat toy no.",
+          "Have you ever gone to a grocery store",
+          "and just scanned your objects over?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "Have you ever seen that maybe there's",
+          "a little bit of a red light when you do that?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "31",
+        "Sentence": [
+          "That's a laser.",
+          "We cut steel with them now.",
+          "We actually do surgery with lasers.",
+          "You know when some people have either scars",
+          "or birth marks that they don't want to see?",
+          "We can actually remove those with lasers now.",
+          "Never seen a laser light show?",
+          "When they light up the sky with",
+          "lasers, it's almost like fireworks."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "33",
+        "Sentence": [
+          "Oh you got to see a shooting star?",
+          "Well that's cool, that's nature giving you the show there.",
+          "So what do you think about lasers?",
+          "You think they're fun?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "35",
+        "Sentence": [
+          "The green one.",
+          "And the next time you go to a grocery",
+          "store, take a peek at the red."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "37",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Today we're here to talk about lasers.",
+          "So what do you think about lasers?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "Do you know anything about lasers?",
+          "What makes a laser special kind of light."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "Do you even know maybe how to make a laser",
+          "that it would be strong enough to cut steel?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "Okay. [laughing]",
+          "So one of the things about lasers is,",
+          "if you've ever seen a laser beam,",
+          "you know it's very directed."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "What is a laser made out of?",
+          "Well really it's sort of the same thing as a light bulb.",
+          "Right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "So yeah it's a light bulb and there's a couple of mirrors.",
+          "Now the light bulb has to be a little bit special.",
+          "It has to be a type of material that can",
+          "store the energy in an excited state right?",
+          "It has to stay up there really energetic",
+          "and sit there for a while so that",
+          "when the light comes along,",
+          "it takes that energy and becomes stronger light",
+          "and then the mirror sends it back",
+          "and it does it again and again and again",
+          "and between these two mirrors, it makes",
+          "the light come out in a nice beam.",
+          "In a laser, it comes out as a single color.",
+          "They all come out with their waves at the same time.",
+          "Every wave peaks at the same time",
+          "which then makes it a giant wave",
+          "and it's this giant wave that",
+          "has a tremendous amount of power.",
+          "So it can do something like cutting steel.",
+          "But when you cut steel, or if you were cutting this floor,",
+          "it's gray, it actually will absorb the light.",
+          "That's why the light, you don't see it because the",
+          "light isn't bouncing back or through it.",
+          "So I like to use demos to explain how my laser works.",
+          "So I've brought basically a hammer and a nail.",
+          "I'm sure you've probably hammered a nail",
+          "before into a piece of wood but the question is,",
+          "if you asked yourself why it is we hit the big end",
+          "and it's the tiny end that we put on the piece of wood.",
+          "We could never pick up a hammer and hit the sharp end",
+          "and hope this would go in to the piece of wood."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "That's right.",
+          "All the force that we apply here, goes all the way through",
+          "but then it can only basically come out",
+          "when it contacts the wood in that one tiny spot.",
+          "And so sometimes it's the force that you push something with",
+          "but sometimes it is that force per unit area.",
+          "But sometimes it's not even the force per unit area",
+          "'cos, you know, push down as hard as you can on that",
+          "and see if we can get it pushed in.",
+          "See it doesn't really work does it?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "Well it depends.",
+          "So if you're cutting steel,",
+          "you need to have the nail.",
+          "You need to have it concentrated all of the light,",
+          "not going in all directions but you",
+          "need it into as small a point as possible.",
+          "And for that we use a lens.",
+          "For a lens, the light's coming down as a column,",
+          "you put in a lens, it all focuses it down in the same way",
+          "as the nail and then it starts cutting that steel.",
+          "Okay so that force per unit area--"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "Exactly.",
+          "You know sometimes you want to have all of your energy",
+          "not just in a small area but in the small volume",
+          "and so one of the other dimensions is time or length.",
+          "But with light, time and length are the same thing",
+          "because light always travels at the speed of light."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "But if you send a one second long light pulse",
+          "out into the skies there, the beginning of the pulse",
+          "is actually two thirds of the way to the moon.",
+          "It's 300,000 kilometers long.",
+          "So now, if you talk about light being",
+          "concentrated, that doesn't seem very concentrated.",
+          "The type of lasers I play with in my lab",
+          "will be no thicker than this piece of paper.",
+          "So we take that energy that might be",
+          "in three hundred thousand kilometers and we",
+          "squeeze it all the way down into just this",
+          "piece of paper and actually the beams",
+          "are more the size of this piece of paper",
+          "and so, in my lab, pieces of paper like this",
+          "would be flying through the sky but we can't see them.",
+          "'Cos they don't come in our eyes, they fly by us",
+          "and they're infra red."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "Exactly.",
+          "And so now, if we have light like",
+          "that that we wanna machine with.",
+          "I bring this funnel and so, if we had a lens here",
+          "and the light was coming down--"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "Into a spot.",
+          "So here would be my light coming from my laser",
+          "and it would just be coming down, down, down, down, down.",
+          "Hit a lens and it would have to focus down.",
+          "But now, all the light started out with this big of a spread",
+          "so concentrated this much.",
+          "Eventually it would be here, more concentrated.",
+          "But by the end, right at the focal spot,",
+          "that's when I get all of my light, all of the energy has",
+          "been squeezed down into fitting inside this piece of paper",
+          "and that's why I say that I built a laser hammer.",
+          "Because when this hits a piece of glass,",
+          "it just smacks hose electrons right off the atoms",
+          "and there's nothing else for them",
+          "to do, they have to fly away.",
+          "So can you tell me what you learned",
+          "and maybe about the focusing of the light?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          "So do you think that lasers are fun enough",
+          "to talk with your friends about or?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "[Donna] So you're a college student?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "[Donna] And what's your major?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "Excellent.",
+          "I got an engineering physics degree.",
+          "There you go, something in common.",
+          "We're here today talking about lasers.",
+          "So have you have had much exposure to lasers yet at school?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "Okay.",
+          "As opposed to the experimental side and seeing things?",
+          "Okay so I'm much more, I like to see the things happening.",
+          "So then the question is, what's so special",
+          "about making a light that's intense enough",
+          "to actually possibly blow things up?",
+          "Certainly we can blow atoms up with the laser hammer",
+          "and when the laser light comes in",
+          "and just smacks the electrons right off the atom.",
+          "And so the question really is how do you make that?",
+          "Back in the 70s and into the 80s, I know that was",
+          "a long time ago for you, we had big energy lasers",
+          "and we had short pulse lasers, we",
+          "couldn't have big energy, short pulse lasers",
+          "and actually it was my supervisor and I",
+          "that figured the way around that and we got",
+          "something called chirped pulse amplification.",
+          "Have you heard of chirped pulse amplification by any chance?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "Well I brought a little bit of a prop",
+          "to explain how chirped pulse amplification works.",
+          "Our short pulses are made of different colors.",
+          "So I've got a colored slinky here.",
+          "We probably could've called it stretched pulse amplification",
+          "but that's kind of boring so we used the word chirped.",
+          "The word chirped comes around because birds chirp.",
+          "When the birds are singing, the notes are actually",
+          "changing audio frequency with time and that's a chirp.",
+          "The point is is that when all the light is",
+          "squeezed together like this, it's a short pulse.",
+          "And that's when it's a hammer because all",
+          "of the light is now concentrated and you can imagine if this",
+          "was coming along and also using a lens to focus it small,",
+          "then all of that light at the focal spot, concentrate.",
+          "And so that was the laser hammer.",
+          "So we can't have that in the laser.",
+          "So the question is what could we do?",
+          "The fact that it's different colors",
+          "and different colors because of dispersion,",
+          "travel different speeds inside material.",
+          "So we used a long fiber, 1.4 kilometers of fiber",
+          "but, in fiber, the red colors really haven't got",
+          "that much in common with the glass atoms and so they",
+          "spend very little time interacting and they travel fast.",
+          "The red is going to start traveling faster than the green,",
+          "faster than the blue and, as you travel down the fiber,",
+          "next thing you know, you have a long pulse",
+          "and it's chirped from red at the",
+          "beginning to blue at the back.",
+          "And so the frequencies go hoo!",
+          "Like this okay?",
+          "So this is a chirped pulse and now it's a long pulse.",
+          "And so, first this is what we did, we chirped it,",
+          "we stretched it, then we can safely amplify it",
+          "because it's not all concentrated",
+          "and, after we amplify it, then we use something called",
+          "a compressor and we put all of the colors back together",
+          "and it was back being a short pulse but a high energy pulse.",
+          "And then we really had what I like to call a laser hammer.",
+          "When this laser pulse goes inside,",
+          "it smacks those electrons right off the atom."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "Well a lot of lasers and when lasers",
+          "first came along, they were only single color.",
+          "Your cat toy, would only be a single color,",
+          "probably a red one and so that's just one color.",
+          "And one color means that it has to",
+          "really be there for the whole time.",
+          "One color is one wave length of light",
+          "and so it's just one wave that goes on and on and on.",
+          "If you want a short pulse, you",
+          "actually have to have all the colors.",
+          "And if you can imagine that one point in time,",
+          "and I like to say it's like a conductor of an orchestra.",
+          "When you're listening to an orchestra warm up, they",
+          "sound terrible, they're all playing their own notes.",
+          "But when the conductor conducts them, they all play",
+          "different notes but, together, it's beautiful music.",
+          "So we have something in the laser called a mode locker",
+          "and it's like the conductor and it says go now.",
+          "And all the colors will start together but",
+          "some colors are long wave length and others are shorter.",
+          "So next thing you know, you have peaks",
+          "meeting valleys and they cancel each other.",
+          "And the more colors you can bring in, the faster",
+          "that happens and the shorter the pulse you can make."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "The necklace is something that",
+          "was designed for my Nobel prize.",
+          "It's sold at the Nobel museum and it is a chirped pulse.",
+          "So we've been talking a lot about lasers and applications,",
+          "what have you learned about chirped pulses?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "[Donna] So I understand you're in grad school.",
+          "Where?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "And what are you studying?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "And what kind of laser do you use?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "Do you know a lot about lasers?",
+          "Or just about the laser that you use."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Okay.",
+          "So this is about high intensity lasers.",
+          "Not only how do you make them,",
+          "but what was really stopping them being made",
+          "in both cases is non linear optics.",
+          "We wanna do something that requires",
+          "a huge photon density application,",
+          "and so that's how come we came up with",
+          "chirped pulse amplification,",
+          "so that we could stretch the pulse,",
+          "safely amplify it, then compress it at the end,",
+          "and then we're ready to do whatever we want at the end.",
+          "So what do you think the main difference is",
+          "between the continuous wave laser that you have",
+          "that runs at 10 watts and a chirped pulse amplifier?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "And so we get the power with a lot less energy",
+          "'cause its power is energy per unit time.",
+          "So we aren't depositing much energy in comparison.",
+          "Can I just ask, 'cause you are using",
+          "the thermal process of it heating up,",
+          "but have you ever had the opportunity",
+          "to use laser tweezers?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "And twirl the motors or not twirl the motors?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "You haven't?",
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "So chirped pulse amplification took us sort of from,",
+          "we were at 10 to the 12, but when I was working",
+          "the 10 to the 12 sort of sat on a football sized field.",
+          "It was a kilojoule laser with a nanosecond pulse.",
+          "And we brought it down to something we call",
+          "tabletop terawatt.",
+          "So it was the same terawatt but now it was one joule",
+          "and one picosecond, so it could fit on a basic optical bench",
+          "like you would have in your lab.",
+          "We were able to take that up to,",
+          "I think the record is right around",
+          "somewhere between 10 to the 22",
+          "and 10 to the 23 watts per square centimeter.",
+          "So then in going forward, one of the holy grails",
+          "is can we reach 10 to the 29 watts per square centimeter?",
+          "So we still have six orders.",
+          "So we've gone from 10 to the 12 to 10 to the 23.",
+          "So we've done 11 orders,",
+          "so you think six isn't so much harder.",
+          "I have to tell you, over time, it's rolling over.",
+          "We need another Nobel Prize winning idea.",
+          "But if we get out there, that's where,",
+          "if you focus the intensity,",
+          "the energy in that volume is enough to break the vacuum."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "Yes.",
+          "And maybe what, do pump-probe spectroscopy",
+          "and watch the cell?",
+          "Or to ionize it?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "I don't know if people are working on that",
+          "because I'm not so much in the medical field,",
+          "but I should look into that and see if that's a possibility.",
+          "So after hearing about high intensity lasers,",
+          "can you think about next time you go back to the lab",
+          "and you're wondering how to do something in the lab",
+          "with lasers, can you see how short pulses might help you?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "That's true.",
+          "Thank you very much."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "2",
+        "Sentence": [
+          "Good to see you Mike, nice to have you here with me.",
+          "So we go way back.",
+          "1991, the year I got married,",
+          "I moved across the country, left my husband in New Jersey,",
+          "to work with you in Livermore."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "4",
+        "Sentence": [
+          "And stay there."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "You could not convince me to stay, no."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "And I've been talking sort of,",
+          "started with sort of what is a laser",
+          "through linear optics, non linear optics,",
+          "high intensity laser physics, and saying that you know,",
+          "we're trying to get to that Schwinger limit",
+          "of 10 to the 29 watts per square centimeter.",
+          "We're about somewhere just shy of 10 to the 23",
+          "I think at this point.",
+          "But even if we get to 100 petawatts",
+          "and focus that down to a wavelength,",
+          "we're not at 10 to the 29.",
+          "So you're hoping to build the biggest laser."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "At Rochester.",
+          "But we're still not gonna get to the Schwinger limit,",
+          "isn't that right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "That's right, if you can do that, go for it."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "Okay, but that's kind of cheating.",
+          "That's not getting to 10 to the 29.",
+          "If you could do it with 100% efficiency",
+          "that's all we need."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "That's the Nobel Prize winning idea though",
+          "if we can come up with it."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "We have to get into entertainment.",
+          "When is the high intensity laser gonna",
+          "get into entertainment so then there's real money?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          "I don't like science fiction."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          "So we can either cheat by doing laser accelerating",
+          "and going into that rest frame."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          "And that's, like you said, we're stuck a little bit,",
+          "we're not up to that kind of acceleration,",
+          "so that would be a Nobel Prize winning possible idea."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "29",
+        "Sentence": [
+          "Or we need, going around and giving my talks now,",
+          "I show how we're plateauing.",
+          "I showed how there was a plateau, CPA raises it up,",
+          "but we're sort of starting to plateau again",
+          "and we need another Nobel Prize winning idea.",
+          "And so do you think it's on the horizon?",
+          "Do you see anything out there that really says,",
+          "oh yeah that's a good way to go?",
+          "'Cos we're gonna have to get out to the x-rays right?",
+          "We can't stay in the visual."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "33",
+        "Sentence": [
+          "And right across the beam.",
+          "Don't you think that's gonna be the challenge?",
+          "'Cos it's not like our beams are",
+          "as perfect as we like to think they are."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "35",
+        "Sentence": [
+          "Okay so there's a lot of us working around",
+          "the world on these high intensity lasers and so,",
+          "what do you think the real fun is?",
+          "What do you see the real excitement being?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "37",
+        "Sentence": [
+          "So it is amazing, the parallels.",
+          "And optics is used everywhere.",
+          "We're gonna possibly take over from CERN,",
+          "we'll just do high energy physics with lasers,",
+          "we're looking at gravity waves with lasers,",
+          "we wanna do black holes with lasers,",
+          "we wanna machine with lasers,",
+          "we wanna do medicine with lasers.",
+          "It's everywhere.",
+          "And now, with the Nobel prize, people are hearing",
+          "more about it so they know lasers are everywhere."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "39",
+        "Sentence": [
+          "There you go."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "41",
+        "Sentence": [
+          "Okay.",
+          "And only one Canadian.",
+          "There you go!",
+          "[laughing]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Today was fun, I got to explain the work I do at all levels.",
+          "It's always fun for me to talk to elementary school",
+          "students because they bring such enthusiasm.",
+          "With a student who's already started to learn optics,",
+          "to a graduate student and finally my own colleague",
+          "where we can really get into a huge conversation",
+          "about what's the future of this field.",
+          "Electronics was the technology for the 20th century",
+          "and it brought us the transistor.",
+          "Electrons don't move nearly as fast as light and so,",
+          "trust me photonics will take us",
+          "where we wanna go in this century."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ?t=30",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "So we learned how to actually light up a light bulb."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "I don't know--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Flashlight is a bigger shine and the laser is just a dot."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "[Harmoni] The laser."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "The laser."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "I don't have a cat or--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Well I saw a shooting star before."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Yes they're very cool.",
+          "I like the one where you did the green one."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "Okay."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ?t=212",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I think they're pretty cool.",
+          "They show up in a lot of my favorite books and movies.",
+          "Like Star Wars or just a bunch of",
+          "different sci-fi movies and books."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "All I really know is from sci-fi books and movies",
+          "and like the factory cutting lasers",
+          "that they use to cut steel and stuff."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Like what are they made out of?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "So it's a beam?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Because it needs to be centered so",
+          "it can more easily just go in."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So the laser needs ultimately many things.",
+          "It needs to be centered, it needs time to actually",
+          "penetrate and then it needs--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "So it's kind of like a magnifying glass?",
+          "Like it magnifies the light down to a point?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Exactly."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "There'd be like little concentrated beams of light",
+          "just flying everywhere?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "It funnels into--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Well what I learned, lasers they aren't like particles.",
+          "They're more like a super concentrated beam of light",
+          "that can be any color.",
+          "They get really concentrated and that's what makes them",
+          "lasers and that's why they cut things and break things",
+          "because they just move the electrons out of the way."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Of course I'm gonna have to share",
+          "something about my experience.",
+          "Learning about lasers with an expert like you."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ?t=549",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm an engineering physics major with a minor in math.",
+          "I'm in the three, two program for biomedical engineering."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Not yet.",
+          "I'm really hoping that we will.",
+          "I think it's super interesting just the field",
+          "in general because I really do enjoy examining",
+          "all the calculations and being able to do",
+          "a little bit more of the math side of physics."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Vaguely."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "So the laser hammer that you were describing with",
+          "other types of lasers and the one in",
+          "the chirped is it still the same premise?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "What's the pendant?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "I learned that it all stretches, which is super cool,",
+          "because red moves the fastest",
+          "and so it kinda tugs around blue.",
+          "It really threw me off just how fast.",
+          "It's hard to imagine things happening that fast.",
+          "And I also learned how many of the things",
+          "that I know are lasers.",
+          "Like how many of the things that I've been looking for,",
+          "like, the answers to, it is in lasers."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ?t=851",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "At NYU."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm studying soft matter physics,",
+          "which involves the physics of squishy stuff.",
+          "We make microswimmers in the laboratory",
+          "and we drive them with a laser."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "We use a 10 watt laser, it's a fiber laser."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Not a lot, just a little bit."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I feel like the continuous laser",
+          "delivers power at a continuous rate,",
+          "whereas you want all that power to be delivered",
+          "in a really, really short time with your amplification."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I have, yeah.",
+          "We use optical tweezers to trap particles in solution."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "No, I haven't worked with that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "So I was always curious, how much further,",
+          "like what higher power can we go now?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "We could probably use this to drive chemical reactions",
+          "at a very, very specific spot.",
+          "Like if we want to target just a single cell in the body."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "I mean I was thinking more on the lines of if we want to,",
+          "let's say destroy one cell,",
+          "like a tumor cell or something like that.",
+          "So that the neighboring areas are not affected",
+          "but just the cell burns."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "I think short pulses might help in my experiment",
+          "in the sense that if I drive my swimmers",
+          "with a continuous wave as opposed to a pulsed wave,",
+          "maybe a continuous wave would heat up the sample too much",
+          "and a pulse laser would deliver power",
+          "exactly where I need it so that I could",
+          "run my experiment longer."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Thank you, Donna.",
+          "It was really nice to meet you."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/3eTogq7rknQ?t=1078",
+    "wired_link": "https://www.wired.com/video/watch/professor-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hello Donna, good to see you."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "3",
+        "Sentence": [
+          "I remember very much and how hard it was",
+          "to convince you to travel across the country",
+          "and work at the lab."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "5",
+        "Sentence": [
+          "And stay there.",
+          "[laughing]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I couldn't convince you to stay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "But you were there long enough to make a big impression",
+          "and get some good work done."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So just a little bit of back history again.",
+          "After you demonstrated CPA, I was intrigued by",
+          "how powerful could we make lasers?",
+          "And then how lasers are wonderful",
+          "because they allow you to take energy",
+          "and compress it in space and time.",
+          "So having high P power is something,",
+          "it's been a motivator for me for a long time.",
+          "And so we at the university are making proposals",
+          "to build two 25 petawatt lasers, maybe 30 petawatt lasers.",
+          "We'll use them to be able to get combined power",
+          "of over 10 to the 24 watts per square center.",
+          "Still far from the Schwinger limit.",
+          "But we have a trick.",
+          "We're going to use one of these petawatt lasers",
+          "to make an electron beam.",
+          "And this electron beam will be relativistic.",
+          "We actually think we could make electron beam,",
+          "maybe even 100s of GeV up to TeV,",
+          "which would be another Nobel Prize if we did that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "And then we will shine that laser onto that electron beam,",
+          "and the electron's rest frame, we beat the Schwinger limit."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "That's why I wanna cheat."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Because again, if we're able to do this,",
+          "with ways I can see today.",
+          "Right?",
+          "I can see us doing it today,",
+          "by just exploiting what we already know",
+          "and taking it to a limit,",
+          "then that would be a real motivator, I think,",
+          "to be able to even take these techniques further.",
+          "Cheating's not the right exact word",
+          "as taking advantage of relativity.",
+          "Take advantage of all physics not just optical physics.",
+          "So that's why we wanna do it this way."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yes, yes, well we have Star Trek,",
+          "we had the photon torpedoes.",
+          "I always thought they actually knew what you were doing,",
+          "there's a photon torpedo.",
+          "Have you ever seen that in--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "[Michael] Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Oh no, Star Trek had photon torpedoes",
+          "and they showed bursts of light about this long.",
+          "It was a CPA, it was a few nanosecond pulse.",
+          "Didn't say how much energy it carried,",
+          "and you could see it.",
+          "I don't know what it was gathering off of",
+          "but you could see it, so it was a great thing."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Absolutely."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "So actually there's a potential ways",
+          "of doing it with optical or near optical radiation.",
+          "And there's been a lot of work done in the defense",
+          "department and so on, how do I combine laser beams together?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "And make them act as one coherent source.",
+          "So one of the things that we'll be doing",
+          "with our two petawatts, we're going to see",
+          "if we can actually combine them into a 50.",
+          "If you can do that, you can begin",
+          "to imagine doing this with many lasers.",
+          "Many petawatt lasers of the scale we're talking about.",
+          "So one could possibly see an exawatt from that.",
+          "People have been able to combine 10s of lasers together",
+          "for a coherent source so you have to be able",
+          "to phase lock them, you have to be able to make",
+          "their phases be exactly connected",
+          "and related and be able, as they propagate through all",
+          "the different optical components, whatever it may be--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "So that's right so you have to have the aperture size,",
+          "you have to have them phase",
+          "locked across the entire aperture.",
+          "Which will be a great challenge",
+          "and people have done it, again, with small lasers.",
+          "The lasers we'll be trying to do is about a 40cm aperture.",
+          "So we'll begin to start looking at this.",
+          "And actually wavelength control and then be able",
+          "to adaptive optics other ways which",
+          "you can control the uniformity of the phase",
+          "is something that's been developed in lots of ways now.",
+          "For defense applications, for science applications.",
+          "So we will do our best to",
+          "make use of all these technologies.",
+          "Lasers I think have progressed so much.",
+          "Just like the semi conductor did, 'cos there's such a market",
+          "for it, there were so many different applications for that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "I remember when",
+          "laser was first demonstrated 1960,",
+          "what could we do with this?",
+          "We already got light.",
+          "Now we can't live without lasers.",
+          "My cell phone, that is in my",
+          "pocket, has billions of transistors.",
+          "How is that made?",
+          "With lasers.",
+          "All of the greatest circuitry is done with lasers.",
+          "Actually now it's using x-rays,",
+          "made from laser heated matter.",
+          "That came out of the laser fusion program."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "[Michael] I couldn't agree with you more",
+          "and you winning the Nobel prize has",
+          "been an inspiration to lots of people.",
+          "Only three women have won the Nobel prize in physics",
+          "and only one educated in the United States.",
+          "You."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "And I use that every place."
+        ]
+      }
+    ]
+  }
+}

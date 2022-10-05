@@ -1,0 +1,92 @@
+--- 
+TaskA: 
+  config_name: bert-base-uncased
+  dropout_prob: 0.3
+  file_names: 
+    - train_topic_act.tsv
+    - validate_topic_act.tsv
+    - test_topic_act.tsv
+  label_map_or_file: 
+    - (T01) It is the main topic
+    - (T02) A subtopic
+    - (T03) A related topic
+    - (T04) Other - No topic was introduced
+  loss_type: CrossEntropyLoss
+  metrics: 
+    - classification_accuracy
+    - classification_f1_score
+  model_type: BERT
+  task_type: SingleSenClassification
+  class_weights:
+    - 0.9
+    - 4.4
+    - 1.49
+    - 0.5
+TaskB: 
+  config_name: bert-base-uncased
+  file_names: 
+    - train_dlg_act.tsv
+    - validate_dlg_act.tsv
+    - test_dlg_act.tsv
+  label_map_or_file: 
+    - (D01) To ask a check question
+    - (D02) To ask what/how question
+    - (D03) To ask other kind of questions
+    - (D04) To answer a question by confirming
+    - (D05) To answer a question by disconfirming
+    - (D06) To answer - Other
+    - (D07) To provide agreement statement
+    - (D08) To provide disagreement statement
+    - (D09) To provide informing statement
+    - (D10) Other
+  loss_type: CrossEntropyLoss
+  class_weights:
+    - 0.63
+    - 1.35
+    - 11.92
+    - 2.87
+    - 6.46
+    - 6.2
+    - 0.58
+    - 12.92
+    - 0.22
+    - 1.53
+  metrics: 
+    - classification_accuracy
+    - classification_f1_score
+  model_type: BERT
+  task_type: SingleSenClassification
+TaskC: 
+  config_name: bert-base-uncased
+  file_names: 
+    - train_exp_act.tsv
+    - validate_exp_act.tsv
+    - test_exp_act.tsv
+  label_map_or_file: 
+    - (E01) Testing understanding
+    - (E02) Testing prior knowledge
+    - (E03) Provide an explanation
+    - (E04) Ask for an explanation
+    - (E05) Signaling understanding
+    - (E06) Signaling non-understanding
+    - (E07) Providing Feedback
+    - (E08) Providing Assessment
+    - (E09) Introducing Extraneous Information
+    - (E10) Other
+  class_weights:
+    - 2.77
+    - 1.38
+    - 0.23
+    - 1.09
+    - 1.1
+    - 9.12
+    - 0.54
+    - 14.09
+    - 3.23
+    - 2.63
+  loss_type: CrossEntropyLoss
+  metrics: 
+    - classification_accuracy
+    - classification_f1_score
+  model_type: BERT
+  task_type: SingleSenClassification

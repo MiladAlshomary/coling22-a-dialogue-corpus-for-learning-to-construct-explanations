@@ -1,0 +1,2150 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Janna Levin, I'm an astrophysicist,",
+          "and I've been asked to explain gravity",
+          "in five levels of increasing complexity.",
+          "Gravity seems so familiar and so everyday,",
+          "and yet it's this incredibly esoteric abstract subject",
+          "that has shaped the way we view the universe",
+          "on the larger scales,",
+          "has given us the strangest phenomena in the universe",
+          "like black holes",
+          "that has changed the way we look at the entirety of physics.",
+          "It's really been a revolution because of gravity."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Are you interested in science?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Yes, you are?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Do you know what gravity is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "That's pretty good.",
+          "So gravity wants to attract us to the Earth,",
+          "and the Earth to us.",
+          "But the Earth is so much bigger",
+          "that even though we're actually pulling the Earth",
+          "a little bit to us, you don't notice it so much.",
+          "You know, the Moon pulls on the Earth a little bit."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "[Janna] Exactly, the Moon is such a big body",
+          "compared to anything else very nearby",
+          "that it has the larger effect,",
+          "pulling the water of the Earth.",
+          "But more than the Moon, think about the Sun",
+          "pulling on the Earth.",
+          "We orbit the whole Sun,",
+          "just the way the Earth pulls on the Moon",
+          "and causes the Moon to orbit us.",
+          "All of those things are acting on you and me right now."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "That's such a good question.",
+          "No, we actually couldn't.",
+          "In the Moon, gravity is weaker,",
+          "you can almost float between footsteps",
+          "if you look at the astronauts on the Moon.",
+          "On the Earth, it's harder, 'cause it's bigger.",
+          "If you go to a bigger, heavier planet,",
+          "it gets harder and harder.",
+          "But there are stars that have died",
+          "that are so dense that there's no way",
+          "we could lift our arms,",
+          "no way we could step or walk.",
+          "The gravity is just way too strong.",
+          "Do you know how tall you are?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "Maybe four three.",
+          "People think that while you're sleeping,",
+          "your body has a chance to stretch out",
+          "and gravity isn't crunching you together,",
+          "but when you're standing or walking or sitting,",
+          "the gravity contracts your spine ever so slightly,",
+          "so that in the morning you might be a little bit taller",
+          "than in the evening.",
+          "See if it works for you.",
+          "[Woman] Wow."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "They say that astronauts in space,",
+          "definitely their spine elongates.",
+          "There were two twin astronauts,",
+          "one who stayed here on Earth",
+          "and the other who went to the International Space Station.",
+          "He was there for a long time, and when he came back,",
+          "he was actually taller than his twin brother."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, and that was because gravity",
+          "wasn't compressing him all the time",
+          "and he was floating freely",
+          "in the International Space Station",
+          "and his spine just kind of elongated.",
+          "After a while here on Earth though he'll readjust,",
+          "he'll go back to the same size.",
+          "Have you ever heard of how gravity was discovered?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "Isaac Newton would ponder,",
+          "how does the Earth cause things to fall?",
+          "There's a famous story that Isaac Newton",
+          "was sitting under a tree",
+          "and the apple fell from the tree and hit him on the head",
+          "and he had an epiphany and understood this law,",
+          "this mathematical law for how that works.",
+          "I don't actually think that's a true story, though."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "But it's a good story.",
+          "So Isaac Newton realized that even if you're heavier,",
+          "you will fall at the same rate as something much lighter,",
+          "that that's the same.",
+          "Once you hit the ground, if you're heavier,",
+          "you'll hit the ground with much greater force,",
+          "but you will hit the ground at the same time."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "Yep, so like a penny from the Empire State Building",
+          "will fall at the same rate as a bowling ball."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "Yeah, amazing.",
+          "Wanna try it?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "A light object, see how light that is."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "31",
+        "Sentence": [
+          "Very light?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "33",
+        "Sentence": [
+          "And a heavy object."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "35",
+        "Sentence": [
+          "They look the same, but this is much heavier, right?",
+          "Okay, so try it, just try holding your arms up front,",
+          "a little higher maybe, give them a chance to drop,",
+          "and then drop them.",
+          "[balls thud] [Janna laughs]",
+          "Did they fall at the same time?",
+          "Did they hit at the same time?",
+          "So, Isaac Newton, he was also the one who realized",
+          "that that's the same force that keeps the Moon",
+          "in orbit around the Earth",
+          "and the Earth in orbit around the Sun,",
+          "and that's a huge leap.",
+          "Here he is, looking at just things around him,",
+          "and then looks at the stars",
+          "and has this really big realization,",
+          "that that's actually the same force.",
+          "So, what have you learned today talking about gravity?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "37",
+        "Sentence": [
+          "Newton."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "39",
+        "Sentence": [
+          "That's beautiful, I'm impressed."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "So, Maria, you're in high school?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "[Janna] And are you studying any sciences in high school?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "Do you think of yourself as curious about science?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "What interests you?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "What's your impression of what gravity is?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "So you're saying gravity pulls things down,",
+          "yet we've launched things into space.",
+          "Do you ever wonder how we do that?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "Well, that's true, we do use slingshot technology",
+          "once things are out in the solar system.",
+          "So, for instance, we use Jupiter and other planets",
+          "so that when some of the spacecraft gets close,",
+          "it'll slingshot around and it'll cause it to speed up.",
+          "But mostly, around the Earth, gravity pulls things down,",
+          "so when we want to send a rocket into space,",
+          "when we wanna go to the Moon,",
+          "when we wanna send supplies",
+          "to the International Space Station,",
+          "the trick is to get something moving fast enough",
+          "that it escapes the gravitational pull of the Earth.",
+          "Have you heard the expression what goes up must come down?",
+          "It's actually not true.",
+          "If you throw it fast enough,",
+          "you can actually get something",
+          "that doesn't come back down again,",
+          "and that's basically how rocket launches work.",
+          "You have to get the rocket for the Earth",
+          "to go more than 11 kilometers a second.",
+          "Think of how fast it is.",
+          "Just one breath and it's gone 11 kilometers.",
+          "If you get it to go that fast,",
+          "it's not gonna come back down again.",
+          "So you know the International Space Station",
+          "which is orbiting the Earth?",
+          "That's going around the Earth at 17,000 miles an hour.",
+          "It has no engines anymore, the engines are turned off.",
+          "So it's just there falling forever.",
+          "So once it's out there, it's not coming back down",
+          "as long as it's cruising like that."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "In a weird way, that is gravity pulling it.",
+          "So have you ever had a yo-yo",
+          "where you swing it around like this?",
+          "The string is pulling it in at all times,",
+          "but you've also given it this angular momentum.",
+          "And as long as you give it the angular momentum,",
+          "pulling it in actually keeps it in orbit.",
+          "And so the Earth is pulling it in at all times,",
+          "so that's why it doesn't just travel off in a straight line.",
+          "It keeps coming back around.",
+          "So it's funny, people think",
+          "that the International Space Station",
+          "is so far away that they're not feeling gravity,",
+          "and that's not the case at all.",
+          "They're absolutely feeling gravity.",
+          "They're just cruising so fast that,",
+          "even though they're being pulled in,",
+          "they never get pulled to the surface."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "Yeah, you feel pinned to that.",
+          "It's exactly like that.",
+          "There's something called the equivalence principle",
+          "where people realized, especially Einstein,",
+          "that if you were in outer space in a rocket ship",
+          "and it was dark and painted and it was accelerating",
+          "at exactly the right rate,",
+          "you actually wouldn't know if you were sitting",
+          "on the floor of a building around the Earth",
+          "or if you were on a rocket ship that was accelerating."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah.",
+          "You ever had that experience where you're sitting in a train",
+          "and the other one moves and for a second",
+          "you're not sure if you're the one moving?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "That's because in some sense, you're really not.",
+          "Imagine you're in this train",
+          "and it's going near the speed of light",
+          "relative to the platform,",
+          "but it's so smooth,",
+          "then you should be in a situation",
+          "in which there's no meaning to your absolute motion,",
+          "there's no absolute motion.",
+          "So that if you throw a ball up,",
+          "you might think from the outside of the platform,",
+          "be confused that when gravity pulls that back down,",
+          "it's gonna hit you or something,",
+          "but it'll land in your palm",
+          "as surely as if you were in your living room."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "So imagine you were an astronaut",
+          "and you were floating in empty space.",
+          "You can't see anything.",
+          "There's no stars, there's no Earth.",
+          "You can ask yourself, am I moving?",
+          "There's really no way for you to tell.",
+          "So you would probably conclude, well, I'm not moving.",
+          "So then your friend Marina comes cruising past you,",
+          "and maybe she's going thousands of kilometers a second,",
+          "and you say, Marina, you're cruising",
+          "at thousands of kilometers a second,",
+          "you're going so fast.",
+          "But she had just done the same experiment.",
+          "She was just floating in space thinking,",
+          "Am I moving?",
+          "There's no way to know which one of you is moving",
+          "and there's no meaning to the absolute motion.",
+          "The only thing that's true",
+          "is that you're in relative motion, that's true.",
+          "You both agree you're in relative motion,",
+          "and that's clear.",
+          "But neither of you can say it's actually you who's moving",
+          "and I'm stationary."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          "So let me tell you where it gets really crazy."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "27",
+        "Sentence": [
+          "So, let's say you and Marina are floating in space",
+          "and you can't tell who's moving.",
+          "Let's say you both see a flash of light.",
+          "A flash of light comes from somewhere,",
+          "you don't know where.",
+          "So you measure the speed of light",
+          "to be 300,000 kilometers per second.",
+          "But here comes Marina and she's racing at the light pulse,",
+          "as far as you can tell.",
+          "Two cars driving towards each other",
+          "seem like they're going faster towards each other",
+          "than somebody who's standing still",
+          "relative to one of the cars,",
+          "right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "29",
+        "Sentence": [
+          "So you would say, oh Marina is gonna measure",
+          "a different speed of light.",
+          "But she comes back and she says, No.",
+          "300,000 kilometers per second.",
+          "Because from her perspective, she's standing still,",
+          "and the laws of physics have better be the same for her.",
+          "The speed of light is a fact of nature",
+          "that's as true as the strength of gravity.",
+          "And the two of you are in this quandary",
+          "because if one of you is the preferred person",
+          "who correctly measures the speed of light,",
+          "that ruins everything about the idea",
+          "of the relativity of motion.",
+          "Which one of you should it be?",
+          "So Einstein decides they must both measure",
+          "the same speed of life.",
+          "How could that possibly, possibly be the case?",
+          "And he thinks, well, if speed is how far you travel,",
+          "your spatial distance, in a certain amount of time,",
+          "then there must be something wrong with space and time.",
+          "And he goes from the constancy of the speed of light",
+          "and a respect for this idea of relativity",
+          "to the idea that space and time must not be the same",
+          "for you and for Marina.",
+          "And that's how he gets the idea",
+          "of the relativity of space and time.",
+          "[laughs] You have the best expression on your face. [laughs]",
+          "It's pretty wild, but that is a starting point, actually,",
+          "of the whole theory of relativity.",
+          "That starting point leads to",
+          "this complete revolution in physics",
+          "where we suddenly have a Big Bang",
+          "and black holes and space-time.",
+          "Just from that one simple starting point.",
+          "So, is your impression of gravity different",
+          "than when we started the conversation?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "31",
+        "Sentence": [
+          "And it's a really deep principle.",
+          "And what about the theory of gravity?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "33",
+        "Sentence": [
+          "It's like a big paradigm."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "So, you're in college?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "[Janna] And what are you studying in college?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "So, from your perspective,",
+          "how would you describe gravity?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "So, when you say it's an inverse-square law,",
+          "that means that the closer you are,",
+          "the more strongly you feel the gravitational pull.",
+          "And that makes sense.",
+          "There's very few things that are stronger",
+          "when you're further apart."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "So you can also think of a gravitational field,",
+          "something that permeates all of space.",
+          "Even though the earth is three stories below us,",
+          "it's not as though it's pulling at us from a distance.",
+          "We're actually interacting with the field at this point",
+          "and there's a real interaction right here at this point.",
+          "And that's nice, because people were worried",
+          "that if things acted at a distance,",
+          "that the way that old-fashioned",
+          "inverse-square force law describes it,",
+          "that it was as spooky as mind-bending a spoon,",
+          "that it was like telekinesis.",
+          "If you don't touch something, how do you affect it?",
+          "And so the first step was to start to think of gravity",
+          "as a field that permeates all of a space.",
+          "And it's weaker very far from the Earth",
+          "and it's closer very close to the Earth.",
+          "So one way to think of this field",
+          "as a field that's really describing",
+          "a curved space-time that is everywhere.",
+          "Forget the difficulty of the math,",
+          "just the intuition comes from",
+          "two kind of simple observations.",
+          "One was what Einstein described",
+          "as the happiest thought of his life.",
+          "So, right now, you might feel heavy in your chair,",
+          "and we might feel heavy on the floor and our feet,",
+          "or standing in an elevator cab.",
+          "And Einstein said, what does the chair have to do with it,",
+          "or the floor, or the elevator?",
+          "Those aren't gravitational objects.",
+          "So he wanted to eliminate them,",
+          "and one way to do the thought experiment",
+          "is to imagine standing in an elevator",
+          "that you can see out of, a black box.",
+          "And imagine the cable is cut",
+          "and you and the elevator begin to fall."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "You're in total free fall.",
+          "Now, because things fall at the same rate,",
+          "including the elevator and you,",
+          "you can actually float in the elevator.",
+          "If you just floated in the elevator,",
+          "the two of you would drop,",
+          "and you might not even know you're falling.",
+          "You could take an apple and drop it in front of you,",
+          "and it would float in front of you.",
+          "You would actually experience weightlessness.",
+          "It's called the equivalence principle.",
+          "It was Einstein's happiest thought",
+          "that what you're really doing",
+          "when you're experiencing gravity",
+          "isn't being heavy in your chair,",
+          "it's falling weightlessly in the gravitational field.",
+          "And that was the first step,",
+          "to think of gravity as weightlessness and falling."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah, exactly."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "You can make somebody look like",
+          "they're in the International Space Station",
+          "by flying up in a plane and then just free-falling,",
+          "the plane just drops out of the air.",
+          "And while it's falling, they will float weightlessly,",
+          "and there's been a lot of experiments about it,",
+          "but you don't want it to end unhappily,",
+          "so the plane has to scoop back up,",
+          "and then you see them",
+          "become pinned to the floor of the plane,",
+          "because then the plane is interrupting their fall.",
+          "So that's the first thought,",
+          "and then the next is, what is the shape that's chased?",
+          "So if you were floating in empty space,",
+          "really empty space, and you had an apple,",
+          "and you threw the apple,",
+          "what shape do you think it would chase, the path?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Yeah, it would just go straight.",
+          "But if you did that on the Earth, what would happen?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, it would chase a curve, it would chase an arc.",
+          "And the faster you throw it, the kind of longer the arc.",
+          "So the second step to think about curved space-time",
+          "is to say that when things fall freely",
+          "around a body like the Earth, they trace curved paths,",
+          "as though space-time itself, space itself was curved."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "21",
+        "Sentence": [
+          "You had that moment,",
+          "I saw that it your face!"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "23",
+        "Sentence": [
+          "You went, Oh.",
+          "[Janna and Lisa laugh]",
+          "So, that's the intuition,",
+          "that's how Einstein gets from thinking",
+          "that space-time is curved from the idea that, well,",
+          "there's this field that permeates all of space,",
+          "and what is really describing is the curves",
+          "that things fall along.",
+          "And from there, it's a very long path",
+          "to finding the mathematics and the right description,",
+          "that's really hard.",
+          "But that intuition is so elegant and so beautiful",
+          "and just comes from these two simple thought experiments."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "25",
+        "Sentence": [
+          "Isn't it kind of amazing?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "27",
+        "Sentence": [
+          "So you described learning in a class about light",
+          "the theory of special relativity",
+          "where Einstein is really adhering",
+          "to the constancy of the speed of light",
+          "and questioning the absolute nature of space and time.",
+          "And it seems like that has nothing to do with gravity,",
+          "but he later begins to think about",
+          "the incompatibility of gravity",
+          "with his theory of relativity.",
+          "So suppose the Sun were to disappear tomorrow.",
+          "Some evil genius comes and just figures out a way",
+          "to evaporate the Sun.",
+          "In Newton's understanding of gravity,",
+          "we would instantaneously know about it",
+          "all the way over here at the Earth.",
+          "And that's incompatible with the concept",
+          "that nothing can travel faster than the speed of light.",
+          "No information, not even information about the Sun,",
+          "could possibly travel faster than the speed of light.",
+          "So we shouldn't know about what happened to the Sun",
+          "for a full eight minutes,",
+          "which is the time it would take light to travel to us.",
+          "And so he begins to question",
+          "why gravity is so incompatible with relativity,",
+          "but he already knows he's thinking about",
+          "space and time in relativity.",
+          "So then he gets to his general theory of relativity",
+          "where he realizes if I eliminate everything",
+          "but just the gravitational field of let's say the Earth",
+          "and I look at how things fall",
+          "and I see that they follow curves,",
+          "well, then he realizes that space and time",
+          "don't just contract or dilate,",
+          "that they can really warp,",
+          "that they can bend and that they can curve.",
+          "And then he finds a way",
+          "to make gravity compatible with relativity",
+          "by saying if the Sun were to disappear tomorrow,",
+          "the curves that the Sun imprinted in space-time",
+          "would actually begin to ripple,",
+          "and those are the gravitational waves,",
+          "and they would change and they would flatten out,",
+          "'cause the Sun was no longer there.",
+          "And that would take the light-travel time to get to us",
+          "to tell us that the Sun was gone,",
+          "and then we would stop orbiting",
+          "and just travel along a straight line."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "29",
+        "Sentence": [
+          "Wow.",
+          "[Janna and Lisa laughs]",
+          "Well, let's hope it doesn't happen."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "31",
+        "Sentence": [
+          "So what do you think you walk away with?",
+          "What do you think you learned?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "33",
+        "Sentence": [
+          "Yeah, it does for me too, so thank you. [laughs]"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "So you're getting your PhD in physics?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "So what would that have to do",
+          "with gravity or astrophysics?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "So what I love about neutron stars personally",
+          "is that they're kind of city-sized,",
+          "right?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "[Janna] They're about the size of a city.",
+          "So you're imagining something",
+          "more than the mass of the Sun."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Now, that makes the gravitational field incredibly strong",
+          "around the neutron star.",
+          "So what would happen if we were on a neutron star,",
+          "because of the gravity?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "So what's the connection",
+          "between neutron stars and black holes?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "Black holes are so amazing",
+          "that when the neutron star stops",
+          "and there's something actually there.",
+          "There's material there.",
+          "If it's so heavy it becomes a black hole,",
+          "so it keeps falling,",
+          "once the event horizon of the black hole forms,",
+          "which is the shadow,",
+          "the curve that's so strong that not even light can escape,",
+          "the material keeps falling.",
+          "And like you said, maybe space-time breaks down",
+          "right at the center there, but whatever happens,",
+          "the star's gone, that black hole is empty.",
+          "So in a weird way black holes are a place and not a thing."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "There isn't a sensible way to talk about it yet,",
+          "and that probably means that's where Einstein's",
+          "theory of gravity as a curved space-time",
+          "is beginning to break down,",
+          "and we need to take the extra step",
+          "of going to some kind of quantum theory of gravity.",
+          "And we don't have that yet.",
+          "So even though the black hole isn't completely understood,",
+          "we do know that they form astronomically,",
+          "that in the universe things like neutron stars form",
+          "and things like black holes form.",
+          "The consequences are very much speaking",
+          "to this curved space-time.",
+          "So, for instance, if two black holes orbit each other,",
+          "they're like mallets on a drum,",
+          "and they actually cause space-time to ring,",
+          "and it's very much part of gravitation.",
+          "The ringing of space-time itself,",
+          "we call gravitational waves.",
+          "And this was something Einstein thought about",
+          "right away in 1950-1960, he was thinking about that."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "[Janna] Yes, they ring space-time also like a drum,",
+          "and you can record the sound of that ringing",
+          "after a billion years,",
+          "when it's traveled through the universe.",
+          "But then the next thing that happens is",
+          "those neutron stars collide,",
+          "and because of this incredibly high energy state of matter,",
+          "which you study,",
+          "it becomes this firework of different explosions.",
+          "It's really quite spectacular."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, it was, to my knowledge,",
+          "the most widely studied astronomical event",
+          "in the history of humanity."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "So when the gravitational waves were recorded",
+          "and they realized, oh this sounds like,",
+          "you can reconstruct the shape and size",
+          "of the mallets of the drum from the sound,",
+          "these sounds like neutron stars colliding, not black holes.",
+          "And so, like you said, there was a trigger",
+          "for satellites and experiments all over the world",
+          "to point roughly in the direction",
+          "that the sound was coming from.",
+          "So, from your point of view,",
+          "they're like two super-conducting giant magnets colliding,",
+          "an experiment you could never do on Earth.",
+          "That's just the most tremendous scales",
+          "and peculiarities of matter."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "[Janna] The way you do in a bomb.",
+          "It's basically nuclear fusion."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "25",
+        "Sentence": [
+          "Yeah, it's amazing.",
+          "It's literally populating the periodic table."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "27",
+        "Sentence": [
+          "So you are already a PhD student,",
+          "you know a lot about gravity,",
+          "but what do you think you've taken away",
+          "from this conversation?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "29",
+        "Sentence": [
+          "See, you're a scientist. [laughs]",
+          "Isn't the best part being able to ask the questions?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "So we've been talking about gravity",
+          "from Newton and celestial bodies, the Earth, the Moon,",
+          "pulling on each other in the conventional sense",
+          "of gravity being an attractive force,",
+          "to the Earth creating curves in space-time,",
+          "then we moved on to just diffused seas of energy",
+          "and space-time as the real universe",
+          "and gravitation is really just talking about",
+          "space-time in general, and here we are,",
+          "and you're really hardcore in theoretical physics.",
+          "Where would you take the exposition of gravity",
+          "from that point?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "So when we think about quantum mechanics,",
+          "we think about particles and their quantum charges",
+          "in the Feynman way, the way that Feynman taught us.",
+          "They come in and they exchange a force carrier",
+          "and then they come out again,",
+          "so that's how we think of an electron and light scattering,",
+          "for instance, or something like that.",
+          "And the language that Einstein gave us is so different.",
+          "It's completely geometric, it's all this space-time.",
+          "And it's also unnecessary."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "Is there really space-time",
+          "or are we just using unnecessary language",
+          "because it's elegant and we like it and it's beautiful?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "To have the waves together."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "So do you think there's some sense",
+          "in which we shouldn't be thinking",
+          "about individual universes, individual space-time,",
+          "so we should be thinking about",
+          "superpositions of space-times?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "So when we're talking about",
+          "the multiverse or the Big Bang,",
+          "we are really talking about gravity ultimately,",
+          "and we're talking about how a theory of gravitation",
+          "which we know think of as a theory of space-time",
+          "has a quantum explanation,",
+          "has a quantum paradigm imposed on it",
+          "that will help us understand these things,",
+          "and we don't have that yet.",
+          "One of the things that I think is so amazing",
+          "is that the terrains in which we're going to understand",
+          "quantum gravity are very few.",
+          "It's the Big Bang, because that's where we know",
+          "that quantum and gravity both were called into action.",
+          "And there's black holes.",
+          "One of the most interesting discoveries",
+          "is of course Hawking's discovery,",
+          "kick-started a kind of crisis, right?",
+          "In thinking about why quantum mechanics and gravity",
+          "were so knocking heads.",
+          "It was one of the most beautiful examples."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "This is the Heisenberg's uncertainty principle in reality.",
+          "You can't precisely say where the electron is,",
+          "and you can't precisely say how quickly it's moving."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "This idea that the darkest phenomenon in the universe",
+          "actually is forced to radiate quantum particles",
+          "is pretty wild.",
+          "I think everyone understood",
+          "that it was a correct calculation,",
+          "but I don't think a lot of people",
+          "understood the implications,",
+          "that it meant something really terrible was happening.",
+          "Because this black hole,",
+          "which could have been made of who knows what,",
+          "is disappearing into these quantum particles",
+          "which, in some sense, have nothing to do",
+          "with the material that went in.",
+          "So do you think that's a big crisis?",
+          "The black hole evaporates, the information is lost?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "Practical purposes."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          "So this is a huge crisis",
+          "'cause either quantum mechanics is wrong,",
+          "and as you described it,",
+          "it's the most accurately-tested paradigm",
+          "in the history of physics,",
+          "how could it be wrong, right?",
+          "Or the event horizon is letting information out",
+          "and violating one of the most",
+          "sacred principles of relativity."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          "That's a nice way of looking at it.",
+          "So that you're not actually violating classical relativity",
+          "once you're in a regime where the wave function",
+          "has really peaked around a very well-defined stage."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          "Yes, so one of the things I like to think of",
+          "with holography is that I can pack",
+          "a certain amount of information in a black hole.",
+          "I mean, you can literally think of it",
+          "as throwing things into it.",
+          "So let's say I have information in some volume",
+          "and I'm under the illusion",
+          "that I can just keep packing information in that volume,",
+          "as much as the volume will contain.",
+          "Eventually I'll make a black hole",
+          "and I'll find out that the maximum amount of information",
+          "I can pack into anything in the entire universe",
+          "is what I can pack on the area.",
+          "And since area is projecting the illusion, maybe, of volume,",
+          "maybe the whole world is just a hologram.",
+          "It's not a principle that only applies to black holes.",
+          "It's saying that,",
+          "if this theory of quantum gravity is correct,",
+          "then this while three-dimensionality is an utter illusion",
+          "and really the universe is two-dimensional.",
+          "That's crazy."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          "[Janna laughs]"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "29",
+        "Sentence": [
+          "A smaller and smaller space,",
+          "trying to pack it denser and denser,",
+          "until eventually we make a black hole."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          "Right, exactly.",
+          "And the most knowledge you could ever have",
+          "would only be on a two-dimensional surface."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "33",
+        "Sentence": [
+          "Do you think it's possible",
+          "that gravity is really ultimately just quantum mechanics",
+          "and doesn't exist at all in the fundamental ways",
+          "that we've been talking about so far,",
+          "like the Newtonian way and the space-time way,",
+          "that those are just these kind of macroscopic illusions?",
+          "Sometimes I talk about it in terms of temperature.",
+          "Temperature is not a thing.",
+          "There is no single thing called temperature.",
+          "It's a macroscopic illusion",
+          "that comes from the collective behavior,",
+          "really quantum behavior of random motions of atoms.",
+          "And is it possible that the whole of gravity",
+          "is some kind of emergent illusion",
+          "from what's really quantum phenomenon underlying it?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "35",
+        "Sentence": [
+          "I mean, temperature is still great to talk about.",
+          "It doesn't mean we shouldn't talk about temperature.",
+          "I mean, we should absolutely adjust our thermostats",
+          "and talk about temperature.",
+          "But if we look at it closer and closer and closer,",
+          "we realize there's not a thing in the world",
+          "that has as a quantum value temperature, isolated.",
+          "And so maybe there is no such thing as gravity",
+          "isolated from quantum mechanics."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "37",
+        "Sentence": [
+          "So that's just like saying",
+          "there's the idea of a dual description.",
+          "It's just saying there's a perfect dictionary",
+          "between these two descriptions,",
+          "and so to belabor which one's real is silly.",
+          "It's like saying, is French or is English real?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "39",
+        "Sentence": [
+          "[Janna laughs]"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "41",
+        "Sentence": [
+          "Yeah, you don't go to the doctor and say,",
+          "Heisenberg's uncertainty principle caused",
+          "a series of fluctuations."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "43",
+        "Sentence": [
+          "Thanks so much for coming.",
+          "It's really good to have you here."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I hoped you learned something about gravity",
+          "you hadn't thought of before,",
+          "and I hope even more that it provoked some questions.",
+          "So thank you for watching."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk?t=31",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "It's something that, so, right now,",
+          "we would be floating if there was no gravity,",
+          "but since there's gravity",
+          "we're sitting right down on these chairs."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Mm-hmm, just like the ocean tides."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "If gravity was too strong, would we be able to get up?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I'm in the fours. In the fours?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So that was last night?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "[Bonet screams]",
+          "Ooh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "So, if we both dropped down from a plane,",
+          "we would both land at the same time,",
+          "but you would land heavier?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Oh my God."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "That's..."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Oh my God. [Janna laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "I've learned that the person that learned about the apple."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "He was learning about gravity",
+          "just about what he saw on this planet.",
+          "I also learned that if you drop one light thing",
+          "and one heavy thing at the same height at the same time,",
+          "they're both gonna drop at the same time",
+          "but one's gonna drop a little heavier than the other."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk?t=319",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yeah, I'm a junior."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm taking physics right now."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Well, there are some things that interest me",
+          "and others that bore me, so it depends."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Well, I'm a gymnast, so in physics they talk about",
+          "force and stuff and then I think of how I use physics",
+          "in my own life."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I think that if there's no gravity,",
+          "everyone would float everywhere.",
+          "It pulls things down,",
+          "and without it, everything would be chaos."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Isn't it like a slingshot,",
+          "like if you pull something back enough",
+          "it'll go in the opposite direction?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "And does the gravity pull it or is it just floating?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "It's like that ride at the rollercoasters",
+          "where you go in and it's spins super fast",
+          "and you can't feel it spinning fast but--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "That's crazy."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yeah, 'cause I go on the train every day",
+          "to go to school,",
+          "but I never feel like I'm moving when I'm in the train,",
+          "and then I'm like, wait, what?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Isn't that kinda crazy? Amazing."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "[laughs] I don't even know what to say to that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "[Maria laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Yeah, 'cause I knew that when I was on the train",
+          "it didn't feel like I was moving,",
+          "but I didn't know why or that it was a thing",
+          "and I wasn't crazy.",
+          "[Janna and Maria laugh]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "I don't know, usually when I just heard gravity",
+          "it's from my coaches,",
+          "but I didn't know it was all these things."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk?t=746",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I'm a physics major."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I'm taught that it's a force.",
+          "It's described by inverse law.",
+          "But I also know that it's a field.",
+          "And there's a recent discovery with gravitational waves,",
+          "although I don't know the specific details about that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "So, in free fall?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I know zero-gravity experiences",
+          "that are done with planes, I believe?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Well, if I threw it straight,",
+          "I would think it would go straight."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "It would just go down."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah, yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "That's amazing."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yeah. [laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Yeah. [Janna laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Well, I learned more about the intuitions",
+          "behind the concept.",
+          "'Cause we already just do the problems",
+          "but sometimes you get lost in the math,",
+          "but speaking like this it really helps build my intuition."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk?t=1155",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "That's right.",
+          "Theoretical high energy physics.",
+          "Basically the physics of",
+          "really, really small fundamental things."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Well, what I'm looking at is states of matter",
+          "that might exist inside neutron stars.",
+          "So, when a star dies, if the star is massive enough,",
+          "there's a huge explosion, called a supernova,",
+          "and the stuff that's left behind",
+          "that doesn't get blown away",
+          "collapses into a tiny compact blob",
+          "called a neutron star."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "That's right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "[Will] Yeah, or about the mass of the Sun,",
+          "condensed to the size of a city.",
+          "It's dense enough that one teaspoon-full",
+          "would weigh about a billion tons here on Earth."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "We would immediately be crushed into the ground,",
+          "I think our bodies would be shred",
+          "into their subatomic particles."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So, as I understand it,",
+          "a black hole is sort of like a neutron star's big brother.",
+          "It's more intense, though.",
+          "If you have so much matter when a star is collapsing",
+          "that it can't hold itself up, it collapses to a black hole,",
+          "and those are so dense that space-time breaks down",
+          "in some way or another."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So is there a sensible way to talk",
+          "about what's inside a black hole,",
+          "or is that, should you think of it",
+          "as there is no space-time inside?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Those waves are very exciting for me too",
+          "because neutron stars orbiting each other",
+          "also give off gravitational waves",
+          "and we might be able to get some data",
+          "about neutron star material from that kind of signal."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "That's right, in fact,",
+          "when we recorded that for the first time",
+          "with gravitational waves,",
+          "we then pointed telescopes at it",
+          "and were able to see it optically as well,",
+          "and that gave scientists a lot of data."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Wow, that's amazing."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Absolutely.",
+          "I've heard statistics like many Earth masses worth of gold",
+          "were created, forged in the neutron star collision",
+          "that caused that.",
+          "We used to think that most elements in the universe",
+          "were created in supernova, which is when stars explode,",
+          "because there's so much violent activity at the center",
+          "that you need that kind of energy to create new elements."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Sure, but we now think that that kind of fusion happens",
+          "when two neutron stars collide.",
+          "If you think about it,",
+          "you have two massive blobs of neutrons.",
+          "When you smush them together, you've got neutrons colliding.",
+          "It creates the conditions where new elements can be created."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yes, we now think that most of the heavy elements",
+          "after some number are created in neutron star collisions."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Well, I've definitely taken away",
+          "that the way that we think about gravity today",
+          "is very different from how Newton thought about it,",
+          "and that even though we have a very good understanding,",
+          "there's lots of things that we don't fully understand.",
+          "There's still a lot of questions to be answered,",
+          "which I think is really exciting."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Oh yeah."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/QcUey-DVYjk?t=1489",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-astrophysicist-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Well, one thing is quantum mechanics.",
+          "Quantum mechanics is the most successful theory",
+          "in the history of science,",
+          "it explains the most different phenomena the most precisely.",
+          "Yet many people would still say we don't understand",
+          "even the basics of it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yeah, for me, the beauty of the theory of gravity is",
+          "the way Einstein formulated it,",
+          "as a theory of geometry, of curved space and time.",
+          "I think, like you, that's one of the things",
+          "that really pulled me into it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Well, I think there's really space-time",
+          "in the sense that it's a description that works really well,",
+          "so there has to be something right about it.",
+          "I mean, if we're gonna talk about",
+          "what's really, really underlying that",
+          "and we're gonna put quantum mechanics into the mix,",
+          "then there should be some",
+          "quantum mechanical wave function for space-time.",
+          "You should be able to take two different space-times",
+          "and add them together,",
+          "'cause one of the crazy things about quantum mechanics,",
+          "as you know, it's--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah, and in two states",
+          "and in two possible states of the world,",
+          "you can just literally put a plus sign between them",
+          "and that's a sensible state, that's a good state,",
+          "it makes sense."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yeah, I think so.",
+          "I think if you were to go far enough back",
+          "in the history of the universe,",
+          "back to when it was very, very dense, very small,",
+          "and when quantum mechanics was certainly important,",
+          "then it must have been like that.",
+          "I mean, if we believe that",
+          "the dominant standard model of cosmology,",
+          "something had to produce the density perturbations,",
+          "the things that seeded all the galaxies and stars",
+          "and everything else in the world.",
+          "So there's a galaxy over there, let's say,",
+          "and not over there, so how did that happen?",
+          "Why is there a galaxy there and not there?",
+          "In the standard theory, as you know,",
+          "that was a quantum event, a random event.",
+          "And it doesn't mean that if happened there and not there",
+          "'cause you flipped a coin,",
+          "it actually happened in both places.",
+          "There's gotta be a wave function",
+          "where in one branch of the wave function",
+          "there's a galaxy there and not there,",
+          "and on the other branch it's the opposite."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Sure, yeah, it is a beautiful, beautiful idea.",
+          "So, first of all, to be totally clear, though,",
+          "we've never observed Hawking radiation,",
+          "which is what he predicted, directly.",
+          "I don't think very many people doubt that it's there,",
+          "but yeah, Hawking discovered mathematically",
+          "that when you have a black hole, it's got an event horizon,",
+          "it's got a surface which is a point of no return.",
+          "If you fall through that surface, no matter what you have,",
+          "no matter how powerful the rocket you've got,",
+          "even if you beam a flashlight back behind you",
+          "in the direction you fall from,",
+          "nothing escapes, not even light.",
+          "It all gets sucked in and spaghettified",
+          "and destroyed at the singularity,",
+          "or something, something happens, but it doesn't get out.",
+          "But in quantum mechanics,",
+          "you can't really pin down",
+          "the location of something precisely.",
+          "If you try to pin down an electron",
+          "in a tiny circuit in a microchip,",
+          "sometimes you discover it's not actually there",
+          "and then your computer crashes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Exactly, yeah, so when you get the blue screen of death,",
+          "that might be because of quantum mechanics."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "You know, you try to pin something down",
+          "near a black hole, well, it's a surface,",
+          "it's got a particular radius for a round black hole,",
+          "and wanna say something is inside or outside,",
+          "well, you can't absolutely say that in quantum mechanics.",
+          "And this kind of uncertainty produces a radiation,",
+          "which you can think of as pulling some of the energy",
+          "out of the black hole.",
+          "The black hole is formed out of some mass",
+          "and there's an energy in that.",
+          "If you think of pulling some energy out of that",
+          "and sending it off to infinity",
+          "in the form of particles being admitted.",
+          "And what Hawking found is that it's a thermal spectrum,",
+          "it looks like a hot, or not so hot for a large black hole,",
+          "but like an oven, the kind of radiation",
+          "that comes out of a cast iron."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "It's a crisis because of some of the details of it,",
+          "but I would say the way you just described,",
+          "I mean, if I build a big bonfire or an incinerator",
+          "and I throw an encyclopedia into it,",
+          "good luck reconstructing what was in that encyclopedia.",
+          "The information is lost for all practical purpose."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "One thing about quantum mechanics is that",
+          "any time you have a state of the world",
+          "and another state of the world,",
+          "you can literally add them together",
+          "and get a third possible state,",
+          "as crazy as that sounds.",
+          "And so if you're gonna have a quantum theory of gravity,",
+          "then we can't really talk about there being a black hole",
+          "or not a black hole,",
+          "or an event horizon or not an event horizon,",
+          "because we could always a state",
+          "that had an event horizon and a state that doesn't,",
+          "or has the event horizon",
+          "in a slightly different position, maybe,",
+          "and add them together.",
+          "So the existence or position of an event horizon",
+          "can't possibly be determined as a fact",
+          "any more than the position of an electron is determined.",
+          "So I think that's the loophole."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "That's right, and one of the most exciting developments",
+          "in the last 10 or 20 years is called holography,",
+          "and it's called holography because",
+          "a hologram is a two-dimensional surface",
+          "that creates a three-dimensional image.",
+          "It's got sort of 3D information built into it.",
+          "And this, in a fundamental way,",
+          "really has that 3D or higher dimensional information",
+          "built into it.",
+          "It's exactly the same as this theory of gravity",
+          "and more dimensions."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "That's true."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "And as practically speaking,",
+          "you mentioned before in our conversation",
+          "that it's really interesting",
+          "that the Heisenberg uncertainty principle",
+          "is a practical limit now in microchips.",
+          "If we make microchips much smaller than they already are,",
+          "even as they already are, it causes errors,",
+          "'cause you don't know that the electron's in.",
+          "If holography, if this limit on how much information",
+          "you can ever pack, if that ever become a limit,",
+          "as far as we know that's an absolute limit.",
+          "We started off with clay tablets,",
+          "not so much information per cubit centimeter or whatever.",
+          "Then we had written stuff that's getting better,",
+          "encyclopedias with thin paper that's even better, CDs."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Yeah, at some point you try to fill up",
+          "your encyclopedia with knowledge",
+          "and you get swallowed up by a black hole."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Right, and as big as the universe, and then you're done.",
+          "So, you know, not likely",
+          "that we're ever gonna hit that limit any time soon."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "If we buy the idea of holography, then absolutely,",
+          "that's for sure, that's what it's telling us.",
+          "Although which side is the illusion",
+          "and which side is the reality?",
+          "They're the same."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "Right, so I guess with the holographic description",
+          "we've got two sides, which are actually secretly the same.",
+          "On one side there's definitely no gravity.",
+          "On the other side, well,",
+          "it's a quantum theory of gravity, whatever that means.",
+          "But the point is you can get it out,",
+          "it's equivalent to this theory."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "Yeah, an example I like to give is",
+          "if you take some extra dimensions",
+          "and you compactify them, let's say just one,",
+          "all that is, it's exactly prevalent",
+          "to whatever particles you had,",
+          "whatever fields you had in your original theory",
+          "before you added it,",
+          "you just added an infinite tower of new particles",
+          "with certain properties that are all easy to calculate.",
+          "For me, it's a question of which description",
+          "is most useful.",
+          "I mean, if you wanna say gravity is an illusion",
+          "and it's all quantum, that's great,",
+          "but then you fall down the stairs and bang your head."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "It's sort of like there's a description",
+          "that works pretty well."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "Right, would you help me?",
+          "So there's so many open questions.",
+          "The fact that they are all these fundamental issues",
+          "that we really don't understand.",
+          "But, on the other hand, there's all these moving parts",
+          "that fit together so neatly.",
+          "There's definitely something that's working here.",
+          "But ultimately what is gonna emerge from that,",
+          "what structure is lying under it, we just don't know.",
+          "But I think the fact that there are",
+          "so many fundamental questions",
+          "that we just don't know the answer to,",
+          "that is an opportunity, that's exciting, it's great."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          "Thank you very much, Janna, it was my pleasure."
+        ]
+      }
+    ]
+  }
+}

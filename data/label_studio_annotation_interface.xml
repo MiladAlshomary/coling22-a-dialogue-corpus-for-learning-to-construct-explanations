@@ -1,0 +1,45 @@
+<View>
+  <Header value="Select one label for each fo the following categories" size="4" underline="true"/>
+  <View style="display: flex;">
+    <View style="flex: 40%">
+      <Header value="1. How relevant the introduced topic to the main one?" size="3"/>
+      <ParagraphLabels name="topic_function" toName="dialogue" showInline="false">
+        <Label value="(T01) It is the main topic"/>
+        <Label value="(T02) A subtopic"/>
+        <Label value="(T03) A related topic"/>
+        <Label value="(T04) Other - No topic was introduced"/>
+      </ParagraphLabels>
+    </View>
+    <View style="flex: 30%">
+      <Header value="2. What is the explanation goal?" size="3"/>
+      <ParagraphLabels name="explanation_act" toName="dialogue" showInline="false">
+        <Label value="(E01) Testing understanding"/>
+        <Label value="(E02) Testing prior knowledge"/>
+        <Label value="(E03) Provide an explanation"/>
+        <Label value="(E04) Ask for an explanation"/>
+        <Label value="(E05) Signaling understanding"/>
+        <Label value="(E06) Signaling non-understanding"/>
+        <Label value="(E07) Providing Feedback"/>
+        <Label value="(E08) Providing Assessment"/>
+        <Label value="(E09) Other"/>
+      </ParagraphLabels>
+    </View>
+    <View style="flex: 30%">
+      <Header value="3. How is the explanation goal being carried?" size="3"/>
+      <ParagraphLabels name="dialog_act" toName="dialogue" showInline="false">
+        <Label value="(D01) To ask a check question"/>
+        <Label value="(D02) To ask what/how question"/>
+        <Label value="(D03) To ask other kind of questions"/>
+        <Label value="(D04) To answer a question by confirming"/>
+        <Label value="(D05) To answer a question by disconfirming"/>
+        <Label value="(D06) Answer - Other"/>
+        <Label value="(D07) Agreement"/>
+        <Label value="(D08) Disagreement"/>
+        <Label value="(D09) Other"/>
+      </ParagraphLabels>
+    </View>
+  </View>
+  <Header value="The main topic is $topic" size="4" underline="true"/>
+  <Header value="An explanation dialog betwen an Expert and a $level. Link to the video $youtube_link" size="3" underline="false"/>
+  <Paragraphs name="dialogue" value="$dialogue" layout="dialogue"/>
+</View>

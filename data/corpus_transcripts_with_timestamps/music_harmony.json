@@ -1,0 +1,1349 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:00:00,030 --> 00:00:01,829","Hello everybody."],
+          ["00:00:01,829 --> 00:00:03,959","My name is Jacob Collier and I'm a musician."],
+          ["00:00:03,959 --> 00:00:06,180","I've been challenged today to explain one simple concept"],
+          ["00:00:06,180 --> 00:00:09,719","in five levels of increasing complexity."],
+          ["00:00:09,719 --> 00:00:12,480","My topic, harmony."],
+          ["00:00:12,480 --> 00:00:14,519","I'm positive that everybody can leave this video"],
+          ["00:00:14,519 --> 00:00:18,770","with some understanding at some level."]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:00:18,770 --> 00:00:19,770","Bodhi, how's it going?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          ["00:00:19,770 --> 00:00:20,700","Cool."],
+          ["00:00:20,700 --> 00:00:23,460","So do you know what harmony is?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          ["00:00:27,460  --> 00:00:29,369","Yeah, that's 100% correct."],
+          ["00:00:29,369 --> 00:00:31,000","Have you ever heard a song called Amazing Grace?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          ["00:00:31,000 --> 00:00:32,000","It's a good one."],
+          ["00:00:32,000 --> 00:00:33,000","The melody on its own just goes."],
+          ["00:00:33,000 --> 00:00:33,500","(hums Amazing Grace)"],
+          ["00:00:33,000 --> 00:00:39,329","That melody on its own is kind of lonely, right?"],
+          ["00:00:39,329 --> 00:00:41,000","And no one really knows how it feels."],
+          ["00:00:41,000 --> 00:00:46,500","(plays and hums Amazing Grace)"],
+          ["00:00:46,500 --> 00:00:49,710","So which one did you prefer?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          ["00:00:49,710 --> 00:00:50,110","[Jacob] Awesome.",]
+          ["00:00:50,110 --> 00:00:51,500","And why did you prefer that one?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          ["00:00:55,500 --> 00:00:56,500","Yeah, ah, that's great."],
+          ["00:00:56,500 --> 00:00:57,500","I can decide how I want this melody to feel"],
+          ["00:00:57,510 --> 00:00:59,500","and the more notes there are, the more exciting it is."],
+          ["00:00:59,500 --> 00:01:02,500","That's what musical harmony is."],
+          ["00:01:02,500 --> 00:01:03,500","Does that make sense?"]
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          ["00:01:03,500 --> 00:01:03,800","You're the best."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:01:02,809 --> 00:01:09,000","Have you ever heard of harmony?"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          ["00:01:09,809 --> 00:01:11,000","Okay, so what do you think harmony is?"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          ["00:01:18,809 --> 00:01:19,000","I like it."],
+          ["00:01:19,809 --> 00:01:21,000","That's absolutely correct."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          ["00:01:21,270 --> 00:01:24,690","Harmony is about injecting melody with emotion"],
+          ["00:01:24,690 --> 00:01:26,430","so that ultimately, you leave home and you return home"],
+          ["00:01:26,430 --> 00:01:27,430""and you've learned something along the way."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          ["00:01:27,690 --> 00:01:30,430""So a nice place to start is with the idea of a triad."],
+          ["00:01:31 --> 00:01:33","A triad is a three-part harmony, basically."],
+          ["00:01:33 --> 00:01:35","(keyboard harmonic tone)"],
+          ["00:01:35 --> 00:01:37","So that's a triad."],
+          ["00:01:37 --> 00:01:38","So this triad's called C major."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          ["00:01:38 --> 00:01:40","So have you ever heard of this idea"],
+          ["00:01:40 --> 00:01:41","of like, major chords and minor chords?"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          ["00:01:41 --> 00:01:43","So this is C major, yeah?"],
+          ["00:01:43 --> 00:01:46","(keyboard music)"],
+          ["00:01:46 --> 00:01:49","And then this is C minor."],
+          ["00:01:49 --> 00:01:50","So the feelings are different, right?"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          ["00:01:50 --> 00:01:51","[Jacob] Yeah, this one's dark and spooky."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          ["00:01:51 --> 00:01:53","And how does this one"],
+          ["00:01:53 --> 00:01:55","make you feel though?"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          ["00:01:55 --> 00:01:58","Yeah, I like that, yeah."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          ["00:01:58 --> 00:02:01","So in Amazing Grace, you start with F."],
+          ["00:02:01 --> 00:02:03","You know, if I go"],
+          ["00:02:03 --> 00:02:04","(melodic humming)"],
+          ["00:02:04 --> 00:02:05","♪ How sweet the sound ♪"],
+          ["00:02:05 --> 00:02:06","(scat singing)"],
+          ["00:02:06 --> 00:02:07","(laughs)"],
+          ["00:02:07 --> 00:02:08","Where am I right now?"],
+          ["00:02:08 --> 00:02:09","I don't know where I am."],
+          ["00:02:09 --> 00:02:09","(scat singing)"],
+          ["00:02:09 --> 00:02:11","And my job is to get back home, but to make this chord"],
+          ["00:02:11 --> 00:02:13","make sense."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          ["00:02:13 --> 00:02:14","So I might go"],
+          ["00:02:14 --> 00:02:16","(hums Amazing Grace)"]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          ["00:02:16 --> 00:02:17","(mumbles) thanks."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "27",
+        "Sentence": [
+          ["00:02:17 --> 00:02:19","Oh, cheers (mumbles)."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "29",
+        "Sentence": [
+          ["00:02:19 --> 00:02:27","My job as a harmonizer is to find"],
+          ["00:02:27 --> 00:02:30","that narrative and make it make sense."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "31",
+        "Sentence": [
+          ["00:02:30 --> 00:02:31","Cool."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "33",
+        "Sentence": [
+          ["00:02:32 --> 00:02:33","Right."]
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "35",
+        "Sentence": [
+          ["00:02:38 --> 00:02:39","Amazing, that's great."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:02:43,780 --> 00:02:46,420","Essentially what harmony is, is like a language, right?"],
+          ["00:02:46,420 --> 00:02:48,700","And so as with any language,"],
+          ["00:02:48,700 --> 00:02:50,230","the more words you're capable of speaking"],
+          ["00:02:50,230 --> 00:02:51,850","in a language, the more you can say."],
+          ["00:02:51,850 --> 00:02:54,010","All right, so in harmony, this might be"],
+          ["00:02:54,010 --> 00:02:55,930","how many notes you can think to add to a chord"],
+          ["00:02:55,930 --> 00:02:57,370","to make it feel a different way."],
+          ["00:02:57,370 --> 00:02:58,930","Have you ever heard of the circle of fifths?"]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          ["00:02:58,930 --> 00:03:00,850","Okay, that's great."],
+          ["00:03:00,850 --> 00:03:02,200","On one side, we have a lot of the notes which make us"],
+          ["00:03:02,200 --> 00:03:04,650","feel brighter, you know, like these kinds of,"],
+          ["00:03:04,200 --> 00:03:06,650","(keyboard music)"],
+          ["00:03:06,650 --> 00:03:07,330","these really bright sounds."],
+          ["00:03:07,330 --> 00:03:10,269","And the other side is a lot more to do"],
+          ["00:03:10,269 --> 00:03:12,519","with the darkness of a key center."],
+          ["00:03:12,519 --> 00:03:14,230","So we're home in F, but imagine we're taking"],
+          ["00:03:14,230 --> 00:03:16,330","a quick visit to B-flat, but then the sun comes out."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          ["00:03:16,330 --> 00:03:18,190","What notes would you suggest I add?"]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          ["00:03:18,330 --> 00:03:22,190","F is a great one."],
+          ["00:03:22,330 --> 00:03:24,190","Yeah, and if we keep going in that direction?"]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          ["00:03:25,330 --> 00:03:26,190","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          ["00:03:26,330 --> 00:03:26,990","You got it."],
+          ["00:03:26,990 --> 00:03:27,190","Ooh! Yeah?"],
+          ["00:03:27,190 --> 00:03:28,190","Yeah, yeah. So this is really,"],
+          ["00:03:28,190 --> 00:03:30,190","this is like a gleaming glade or something, you know?"],
+          ["00:03:30,330 --> 00:03:32,190","Let's play this tune, Amazing Grace."],
+          ["00:03:32,330 --> 00:03:33,190","Let's play it in its simplest form."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          ["00:03:34,280 --> 00:03:36,190","All right, so we're gonna start in F, right?"],
+          ["00:03:36,330 --> 00:03:37,190","Yeah. So say."],
+          ["00:03:37,330 --> 00:03:38,190","♪ I once ♪"],
+          ["00:03:38,330 --> 00:03:39,190","F, yeah."],
+          ["00:03:39,330 --> 00:03:48,190","(Amazing Grace)"],
+          ["00:03:48,330 --> 00:03:50,190","B-flat, yeah."],
+          ["00:03:50,330 --> 00:03:51,190","F."],
+          ["00:03:52,330 --> 00:03:53,190","C."],
+          ["00:03:53,330 --> 00:03:54,190","F."],
+          ["00:03:54,330 --> 00:03:55,190","So we're home."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          ["00:03:55,489 --> 00:03:58,140","Nice, okay cool."],
+          ["00:03:58,489 --> 00:04:00,140","Lets try one more version where we add some colors."],
+          ["00:04:00,489 --> 00:04:02,140","Alright so lets visit the B flat,"],
+          ["00:04:02,489 --> 00:04:04,140","with a bit more imagination."]
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          ["00:04:02,489 --> 00:04:04,140","Just to see how things feel. Yeah."],
+          ["00:04:04,489 --> 00:05:04,140","All right, lets do it."],
+          ["00:04:04,489 --> 00:04:06,140","(both playing Amazing Grace)"],
+          ["00:04:06,489 --> 00:04:09,140","So it's F major seven, but its over A."],
+          ["00:04:11,489 --> 00:04:12,140","Which is F seven over A."],
+          ["00:04:12,489 --> 00:04:14,140","(both playing)"],
+          ["00:04:14,489 --> 00:04:15,140","B flat major seven with an A and a G in it."],
+          ["00:04:16,489 --> 00:04:18,140","F major seven with an E and a D and a G, yeah."],
+          ["00:04:19,489 --> 00:04:21,140","(laughter)"],
+          ["00:04:23,489 --> 00:04:25,140","D minor seven with a G in it."],
+          ["00:04:27,489 --> 00:04:30,140","C softs, or minor, nice."],
+          ["00:04:32,489 --> 00:04:32,140","B flat major."],
+          ["00:04:34,489 --> 00:04:37,140","G seven, F sharp major seven."],
+          ["00:04:37,489 --> 00:04:38,140","Home, yeah!"],
+          ["00:04:38,489 --> 00:04:39,140","I like that."],
+          ["00:04:40,489 --> 00:04:42,140","So what harmony does is just gives us"],
+          ["00:04:42,489 --> 00:04:43,140","even more tools to tell those stories."],
+          ["00:04:43,489 --> 00:04:45,140","Cool, yeah. Nice, man."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:04:45,360 --> 00:04:50,509","One nice emotional device when it come to harmony"],
+          ["00:04:52,360 --> 00:04:54,509","is just thinking about how to arrive somewhere."],
+          ["00:04:54,360 --> 00:04:55,509","You know, it can be so sparse, it can be so rich,"],
+          ["00:04:55,360 --> 00:04:56,509","and it can be really emotional."],
+          ["00:04:56,360 --> 00:04:58,509","So this idea of the overtone and the undertone"],
+          ["00:04:58,360 --> 00:05:00,509","in the harmonic series, how much do you know about this?"]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          ["00:05:18,039 --> 00:05:19,370","Yeah."],
+          ["00:05:19,039 --> 00:05:22,370","The amazing thing about harmony is that it exists in nature."],
+          ["00:05:22,370 --> 00:05:24,080","So, take the harmonic series of the note F, for example."],
+          ["00:05:24,080 --> 00:05:26,150","Okay."],
+          ["00:05:26,150 --> 00:05:29,750","You have the ups on the fifth and the fourth and then the,"],
+          ["00:05:29,750 --> 00:05:31,340","(hums) That seemed a little bit sharp, but that's fine."],
+          ["00:05:31,340 --> 00:05:33,500","And then tones get increasingly small."],
+          ["00:05:33,500 --> 00:05:35,720","Beneath that note, you have the undertone series,"],
+          ["00:05:35,720 --> 00:05:38,479","which essentially is like a reflection of something."],
+          ["00:05:38,479 --> 00:05:40,550","In the same way that when a tree grows in nature,"],
+          ["00:05:40,550 --> 00:05:41,840","you have the branches which grow upwards and"],
+          ["00:05:41,840 --> 00:05:43,880","the roots which go downwards."],
+          ["00:05:43,880 --> 00:05:46,280","So it's quite a nice thing to thing about,"],
+          ["00:05:46,280 --> 00:05:48,919","this being the key center, the floor, the ground,"],
+          ["00:05:48,919 --> 00:05:50,870","and then these two different directions"],
+          ["00:05:50,870 --> 00:05:52,370","of ways in which it can express itself,"],
+          ["00:05:52,370 --> 00:05:54,320","and the differences in the sensations with that."],
+          ["00:05:56,270 --> 00:05:57,139","Lots of the time I think when it comes to"],
+          ["00:05:57,139 --> 00:05:59,270","reharmonization or harmonization,"],
+          ["00:05:59,270 --> 00:06:01,070","people think that the solution to the problems"],
+          ["00:06:01,070 --> 00:06:04,159","come when we add more notes."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          ["00:06:04,159 --> 00:06:06,050","I think that people forget that you can work"],
+          ["00:06:06,050 --> 00:06:07,520","with the notes you already have by just rearranging them,"],
+          ["00:06:07,520 --> 00:06:09,590","just the simple idea of inversion,"],
+          ["00:06:09,590 --> 00:06:11,690","inversion of the simple triad, of F major."],
+          ["00:06:11,000 --> 00:06:13,000","♪I once was lost and now I'm found ♪"],
+          ["00:06:13,000 --> 00:06:14,000","♪ Was blind ♪"],
+          ["00:06:14,000 --> 00:06:15,690","♪ But now I see ♪"],
+          ["00:06:15,690 --> 00:06:16,690","Now how home do I want to go here, you know?"],
+          ["00:06:16,590 --> 00:06:17,690","Is there another verse to come?"]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          ["00:06:29,910 --> 00:06:31,500","Because I can delay the gratification of going home."],
+          ["00:06:31,500 --> 00:06:34,800","First of all, just by using inversions,"],
+          ["00:06:34,860 --> 00:06:36,860","even before we add the notes to the chord."],
+          ["00:06:36,750 --> 00:06:39,170","One thing that I was very joyful to discover"],
+          ["00:06:39,170 --> 00:06:41,430","is that every single melody note"],
+          ["00:06:41,430 --> 00:06:44,760","works with every single base note."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          ["00:06:44,760 --> 00:06:46,770","Yeah. so this is the note F."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          ["00:06:46,770 --> 00:06:51,630","F major, F minor, D flat major seven"],
+          ["00:06:51,630 --> 00:06:54,480","G flat diminished, G flat minor major seven,"],
+          ["00:06:54,480 --> 00:06:57,150","G minor seven, G soft, G seven, G seven sharp 11."],
+          ["00:06:57,150 --> 00:07:02,820","And then, G seven with a flat 13"]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          ["00:07:01,820 --> 00:07:02,700","That's it! (laughs)"],
+          ["00:07:02,820 --> 00:07:05,700","A flat soft, A flat major seven."],
+          ["00:07:05,700 --> 00:07:07,980","A flat major seven sharp five, with a sharp 11."],
+          ["00:07:07,980 --> 00:07:10,740","Essentially, what that demonstrates is that"],
+          ["00:07:10,740 --> 00:07:12,120","every note and every base note are compatible."],
+          ["00:07:12,120 --> 00:07:14,610","So once we realize this its like, that's great!"],
+          ["00:07:14,610 --> 00:07:16,860","Now what should we do?"],
+          ["00:07:16,860 --> 00:07:19,380","What, how, what should we, what should we,"],
+          ["00:07:19,380 --> 00:07:20,910","how, what am I supposed to do?"],
+          ["00:07:20,910 --> 00:07:22,740","What to do, right."],
+          ["00:07:22,740 --> 00:07:23,790","And sometimes the paralyzing thing"],
+          ["00:07:23,790 --> 00:07:25,410","when it comes to arranging, there are too many options,"],
+          ["00:07:25,410 --> 00:07:27,030","too many things are possible."],
+          ["00:07:27,030 --> 00:07:28,590","So that's when it becomes super, super important"],
+          ["00:07:28,590 --> 00:07:30,600","to be aware of what you wanna try and say emotionally."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          ["00:07:35,010 --> 00:07:36,510","So essentially, the way I'd apply negative harmony"],
+          ["00:07:36,510 --> 00:07:38,100","would be this idea of polarity, you know,"],
+          ["00:07:38,100 --> 00:07:39,390","between the overtone series and the undertone series,"],
+          ["00:07:39,390 --> 00:07:40,980","or you know, the one side and the other side."],
+          ["00:07:40,980 --> 00:07:42,210","The perfect and the play goal.",
+          "The feeling of a minor perfect--"],
+          ["00:07:45,770 --> 00:07:48,510","Resolving, it's so moving, you know?"],
+          ["00:07:48,510 --> 00:07:49,650","And it's a good alternative to something like,"]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          ["00:07:57,510 --> 00:07:58,650","Right."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          ["00:08:02,910 --> 00:08:03,820","Exactly, yeah."],
+          ["00:08:03,820 --> 00:08:05,820","No, for sure."],
+          ["00:08:05,820 --> 00:08:07,740","And, you know, F major can be something you arrive in from,"],
+          ["00:08:07,740 --> 00:08:10,080","if you arrive in F major from D flat,"],
+          ["00:08:10,080 --> 00:08:11,970","then it's like the sun's come up."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          ["00:08:11,970 --> 00:08:13,440","But if you arrive in F major from A major,"],
+          ["00:08:16,690 --> 00:08:19,630","then it's like the sun's gone in."]
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "25",
+        "Sentence": [
+          ["00:08:19,630 --> 00:08:21,160","So, there's a lot about context, I think."],
+          ["00:08:21,160 --> 00:08:22,750","Once you have a language, it's about using it"],
+          ["00:08:22,750 --> 00:08:24,340","and applying it in those emotional ways."],
+          ["00:08:24,340 --> 00:08:25,030","I think that's what makes the difference."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          ["00:08:25,030 --> 00:08:29,470","A lot of people will see you as somebody"],
+          ["00:08:29,470 --> 00:08:31,300","who's drank in harmony their whole life."],
+          ["00:08:31,300 --> 00:08:32,559","They've seen so much harmony, heard so much harmony."],
+          ["00:08:32,559 --> 00:08:34,450","How do you make the choices, there's so much"],
+          ["00:08:34,450 --> 00:08:36,039","that's possible when you know stuff."],
+          ["00:08:36,039 --> 00:08:38,740","How do you have the courage to make a choice?"]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          ["00:08:49,510 --> 00:08:54,070","Yeah, yeah, yeah."],
+          ["00:08:54,070 --> 00:08:57,490","I find it fascinating in music to think about,"],
+          ["00:08:57,490 --> 00:08:59,860","you know, say I arrive in a place,"],
+          ["00:08:59,860 --> 00:09:02,230","if I'm going, say I'm going to D flat major."],
+          ["00:09:02,230 --> 00:09:04,600","And there's something you once taught me."],
+          ["00:09:04,600 --> 00:09:06,040","You taught me this song Don't Follow the Crowd."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          ["00:09:06,040 --> 00:09:08,050","And there's that chord."],
+          ["00:09:08,050 --> 00:09:10,090","It's not a Dennerman chord,"],
+          ["00:09:10,090 --> 00:09:11,890","but it functions as a dominant chord."],
+          ["00:09:11,890 --> 00:09:13,480","But it doesn't matter, because you're still going"],
+          ["00:09:13,480 --> 00:09:14,560","to the place you're going to."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          ["00:09:16,420 --> 00:09:19,020","It's something like, um..."],
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          ["00:09:22,510 --> 00:09:26,810","Yeah."],
+          ["00:09:26,810 --> 00:09:31,190","So this chord being, like a major seven"],
+          ["00:09:31,190 --> 00:09:33,830","with a sharp five, and a natural,"],
+          ["00:09:31,190 --> 00:09:33,830","like, there's no dominant thing."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          ["00:09:33,830 --> 00:09:38,120","But at that moment, I'm coming from here,"],
+          ["00:09:38,120 --> 00:09:40,700","and I wanna forge some, some solution."],
+          ["00:09:40,700 --> 00:09:50,360","I get myself in a situation."],
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          ["00:09:50,100 --> 00:09:50,760","That haunted me for days."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          ["00:09:50,360 --> 00:09:54,050","'Cause, you know, I just wouldn't think"],
+          ["00:09:54,050 --> 00:09:56,030","to use that chord in that situation."],
+          ["00:09:56,030 --> 00:09:58,070","And there it was!"],
+          ["00:09:58,070 --> 00:09:59,690","And, you know, if you read the rule book,"],
+          ["00:09:59,690 --> 00:10:01,490","it's, that not in it."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          ["00:10:01,490 --> 00:10:03,490","Chris Anderson, yeah, yeah."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          ["00:10:03,490 --> 00:10:03,560","Oh yeah."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          ["00:10:19,180 --> 00:10:21,190","Exactly right, it gets gnarly right?"]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          ["00:10:56,240 --> 00:10:57,129","Yeah."],
+          ["00:10:57,129 --> 00:10:58,129","But if you verse that correctly, then you're safe."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          ["00:11:00,379 --> 00:11:02,269","You can get away with it."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          ["00:11:19,970 --> 00:11:28,389","Yeah. Oh yeah."],
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "28",
+        "Sentence": [
+          ["00:11:28,389 --> 00:11:28,800","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "30",
+        "Sentence": [
+          ["00:11:28,389 --> 00:11:28,800","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          ["00:11:28,800 --> 00:11:29,800","Right, right, right."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "33",
+        "Sentence": [
+          ["00:11:32,800 --> 00:11:34,800","Something like that."],
+          ["00:11:34,800 --> 00:11:36,800","And that's not 'cause like emotionally,"],
+          ["00:11:36,670 --> 00:11:38,560","it's almost like I'm here, I'm arriving here."],
+          ["00:11:38,560 --> 00:11:43,320","But, if the base note is the same,"],
+          ["00:11:43,320 --> 00:11:48,610","it's like this inevitability about it,"],
+          ["00:11:48,610 --> 00:11:52,390","it's like I was there all along."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "35",
+        "Sentence": [
+          ["00:11:52,390 --> 00:11:53,529","Yeah, yeah.",]
+          ["00:11:52,390 --> 00:11:53,529","It's like one thing is moving in one direction and one thing"],
+          ["00:11:53,529 --> 00:11:54,880","has arrived, so it's this tension and it's glorious."],
+          ["00:11:54,880 --> 00:11:57,160","I love thinking about these things emotionally,"],
+          ["00:11:57,880 --> 00:12:00,160","just because that's a feeling,"],
+          ["00:12:00,880 --> 00:12:01,160","I know that feeling in my life."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "37",
+        "Sentence": [
+          ["00:12:01,160 --> 00:12:02,160","(Jacob) No."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "39",
+        "Sentence": [
+          ["00:12:09,339 --> 00:12:10,120","Yeah."],
+          ["00:12:10,120 --> 00:12:11,529","Was there ever a point in your life"],
+          ["00:12:11,529 --> 00:12:13,390","when you were younger where you felt like you had"],
+          ["00:12:13,390 --> 00:12:15,459","consistently fell back into the same habits?"]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "41",
+        "Sentence": [
+          ["00:12:18,130 --> 00:12:20,440","I don't want to play this same thing again."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "43",
+        "Sentence": [
+          ["00:12:37,320 --> 00:12:40,270","So you thought he said butter."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "45",
+        "Sentence": [
+          ["00:12:40,270 --> 00:12:41,800","And he said bottom."],
+          ["00:12:40,270 --> 00:12:41,800","But you thought he said butter."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "47",
+        "Sentence": [
+          ["00:12:41,800 --> 00:12:44,950","Wow."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "49",
+        "Sentence": [
+          ["00:12:41,800 --> 00:12:44,950","Wow."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "51",
+        "Sentence": [
+          ["00:13:12,430 --> 00:13:14,860","That's amazing."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "53",
+        "Sentence": [
+          ["00:13:14,860 --> 00:13:18,070","I've been using this tune Amazing Grace."]
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "55",
+        "Sentence": [
+          ["00:13:18,070 --> 00:13:19,270","And so, we could play a bit of that if you want to."],
+          ["00:13:19,270 --> 00:13:21,640","And we could talk about some stuff."],
+          ["00:13:21,640 --> 00:13:24,120","I've been doing it in F."],
+          ["00:13:21,640 --> 00:13:24,120","Thanks Herbie, that was a trip."]
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=17",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          ["00:00:19,770 --> 00:00:20,789","Good."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          ["00:00:23,460 --> 00:00:26,820","It's when people sing together and it sounds nice."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          ["00:00:29,369 --> 00:00:31,529","No."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          ["00:00:46,920 --> 00:00:49,710","The second one."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          ["00:00:51,510 --> 00:00:53,340","Because it sounds better."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          ["00:01:01,809 --> 00:01:02,809","Mm-hmm."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          ["00:01:02,809 --> 00:01:09,000","Thank you!"]
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=65",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          ["","00:01:09,000 --> 00:01:10,250","Yes."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          ["0:01:11,250 --> 00:01:12,930","I think basically it's like, one person has the lower"],
+          ["00:01:12,930 --> 00:01:15,030","voice and then like, girl usually has the higher voice"],
+          ["00:01:17,040 --> 00:01:19,229","and then they blend it together."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          ["00:01:19,040 --> 00:01:20,229","Okay."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          ["00:01:24,690 --> 00:01:25,430","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          ["00:01:38,399 --> 00:01:40,530","Okay."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          ["00:01:41,910 --> 00:01:51,030","Yeah, yeah, yeah, yeah, yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          ["00:01:51,030 --> 00:01:54,360","Yeah, feels like dark and spooky."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          ["00:01:51,030 --> 00:01:54,360","Haunted house."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          ["00:01:51,030 --> 00:01:54,360","Happy. And joyful."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          ["00:01:55,030 --> 00:01:57,360","Yeah, yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          ["00:01:57,030 --> 00:01:59,360","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          ["00:02:21,660 --> 00:02:23,480","Oh man, that sounded really good."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          ["00:02:23,660 --> 00:02:24,480","I was surprised."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          ["00:02:24,660 --> 00:02:25,480","That was like, happened."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          ["00:02:30,660 --> 00:02:31,480","That was interesting."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          ["00:02:31,660 --> 00:02:33,480","'Cause I didn't think that that would work together."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          ["00:02:33,819 --> 00:02:34,989","Because there were two two completely different sounds,"],
+          ["00:02:34,989 --> 00:02:36,730","but then, like, it just made it happen"],
+          ["00:02:36,730 --> 00:02:37,780","and it just was like, pow!"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          ["00:02:39,730 --> 00:02:40,780","Magic!"]
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=161",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          ["00:02:57,370 --> 00:02:58,930","Mm-hmm."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          ["00:03:16,230 --> 00:03:16,330","Oh, yeah, yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          ["00:03:18,190 --> 00:03:19,150","F."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          ["00:03:24,430 --> 00:03:25,750","C?"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          ["00:03:25,430 --> 00:03:28,750","And then G."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          ["00:03:24,430 --> 00:03:28,750","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          ["00:03:30,430 --> 00:03:31,750","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          ["00:03:34,430 --> 00:03:35,750","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          ["00:03:43,430 --> 00:03:45,750","Awesome."]
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=286",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          ["00:05:00,139 --> 00:05:03,639","Only until I started listening to singing,"],
+          ["00:05:03,139 --> 00:05:04,639","like barbershop quartet, and,"],
+          ["00:05:04,639 --> 00:05:07,099","and as I was a violinist as well--"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          ["00:05:07,099 --> 00:05:09,229","Then I finally understood the idea"],
+          ["00:05:09,229 --> 00:05:10,789","where the overtone series came from"],
+          ["00:05:10,789 --> 00:05:12,889","that if a bunch of singers were to nail a chord"],
+          ["00:05:12,889 --> 00:05:15,349","or have it perfectly tuned, the overtones,"],
+          ["00:05:15,349 --> 00:05:17,180","you would hear a tone that necessarily"],
+          ["00:05:17,180 --> 00:05:19,039","wasn't being produced by one the singers."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          ["00:06:03,760 --> 00:06:04,770","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          ["00:06:09,760 --> 00:06:10,770","Right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          ["00:06:44,760 --> 00:06:46,770","Would you care to demonstrate that?"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          ["00:06:44,760 --> 00:06:46,770","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          ["00:07:01,760 --> 00:07:03,770","(laughs)"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          ["00:07:30,600 --> 00:07:32,370","But what about negative harmony, the dark side?"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          ["00:07:49,650 --> 00:07:53,400","It's funny, you know, you doing that"],
+          ["00:07:53,400 --> 00:07:55,170","makes something in a major key"],
+          ["00:07:55,170 --> 00:07:57,000","sound like kind of a wistful sad song."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          ["00:07:57,000 --> 00:07:59,040,""You know, you changed the feeling of it,"],
+          ["00:07:59,040 --> 00:08:00,690","what otherwise would, you know, if you were to tell a kid"],
+          ["00:08:01,680 --> 00:08:02,910","that this is a major song, we should be happy."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          ["00:08:11,680 --> 00:08:12,910","Right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          ["00:08:16,680 --> 00:08:18,910","Interesting."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          ["00:08:21,680 --> 00:08:24,910","All right."]
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=507",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          ["00:08:40,510 --> 00:08:43,270","It comes from just your life experience."],
+          ["00:08:46,690 --> 00:08:49,510","And that moves you in a certain direction."],
+          ["00:08:49,510 --> 00:08:54,070","How it gets expressed, many times, is sudden."],
+          ["00:08:54,070 --> 00:08:57,490","Complete surprise. (laughs)"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          ["00:09:06,040 --> 00:09:08,050","Oh, yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          ["00:09:14,560 --> 00:09:16,420","Right, right, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          ["00:09:22,510 --> 00:09:26,810","Right, right, right, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          ["00:09:32,510 --> 00:09:34,810","Right, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          ["00:09:44,510 --> 00:09:45,810","Yeah."],
+          ["00:09:45,510 --> 00:09:46,810","Right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          ["00:09:47,510 --> 00:09:50,810","(Herbie laughs)"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          ["00:09:59,690 --> 00:10:01,490","Yeah, and this is what I learned"],
+          ["00:10:01,490 --> 00:10:03,560","from the great Chris Anderson."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          ["00:10:03,560 --> 00:10:05,660","The idea of going to a D flat chord."],
+          ["00:10:05,660 --> 00:10:09,440","Normally it does a dominant like the A flat seven."],
+          ["00:10:09,440 --> 00:10:15,050","But back in the 20s, they also used to do things like,"],
+          ["00:10:15,440 --> 00:10:16,050","(keyboard music)"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          ["00:10:21,190 --> 00:10:24,520","So, It's always coming."],
+          ["00:10:25,750 --> 00:10:29,770","Coming from just below the key."],
+          ["00:10:29,770 --> 00:10:33,540","From C with a seventh."],
+          ["00:10:33,589 --> 00:10:38,180","And when we don't normally say a C seventh"],
+          ["00:10:38,180 --> 00:10:42,499","and an A flat seventh are related,"],
+          ["00:10:42,499 --> 00:10:44,180","you know, 'cause so many of the notes are different."],
+          ["00:10:44,499 --> 00:10:45,180","You've got this, and you've got a G--"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          ["00:10:56,240 --> 00:10:58,129","Yeah, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+         ["00:11:00,379 --> 00:11:02,269", "Oh yeah, you can get all of those notes."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          ["00:11:00,379 --> 00:11:02,269","Yeah. (laughs)"],
+          ["00:11:02,269 --> 00:11:05,300","The other thing that I like, that we both do on occasion,"],
+          ["00:11:05,300 --> 00:11:09,559","is to be on the chord we want to arrive at"],
+          ["00:11:13,339 --> 00:11:17,959","with the bottom part of our structure."],
+          ["00:11:17,959 --> 00:11:19,970","And the chord before the arrival chord,"],
+          ["00:11:17,959 --> 00:11:19,970""to have that on top."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "29",
+        "Sentence": [
+          ["00:11:24,959 --> 00:11:25,970","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          ["00:11:44,610 --> 00:11:46,390","Right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          ["00:11:48,610 --> 00:11:52,390","And it makes like a pull."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          ["00:12:00,339 --> 00:12:01,990","Music is not different from life."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          ["00:12:04,540 --> 00:12:06,519","You know, and I think that's probably"],
+          ["00:12:06,519 --> 00:12:09,339","the greatest attraction to those of us who play music."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          ["00:12:15,459 --> 00:12:18,130","You'd find, man,"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          ["00:12:20,440 --> 00:12:21,970","I had a really great experience"],
+          ["00:12:20,440 --> 00:12:21,970","when I was working with Miles Davis."],
+          ["00:12:21,970 --> 00:12:24,540","I felt like I was in a rut playing the same stuff,"],
+          ["00:12:24,540 --> 00:12:27,820","and I was getting depressed because of it."],
+          ["00:12:27,820 --> 00:12:30,370","And Myles said something to me."],
+          ["00:12:30,370 --> 00:12:32,709","I thought he said, Don't play the butter notes."],
+          ["00:12:32,709 --> 00:12:35,529","And so, I thought, what did he mean by that?"]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          ["00:12:37,320 --> 00:12:40,270","Butter notes, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "46",
+        "Sentence": [
+          ["00:12:41,800 --> 00:12:44,950","Yeah."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "48",
+        "Sentence": [
+          ["00:12:41,800 --> 00:12:44,950","And so, I started thinking,"],
+          ["00:12:44,950 --> 00:12:47,560","oh great, what could butter be?"],
+          ["00:12:41,800 --> 00:12:44,950","What is butter?"],
+          ["00:12:44,950 --> 00:12:47,560","Then I started thinking, what are the obvious notes?"],
+          ["00:12:47,560 --> 00:12:49,300","For example in a chord."],
+          ["00:12:49,300 --> 00:12:51,579","The obvious notes are the third and the seventh."],
+          ["00:12:54,430 --> 00:12:56,380","So I said, maybe if I leave those out."],
+          ["00:12:56,380 --> 00:12:58,779","It changed everything for me, from that moment on."],
+          ["00:12:58,779 --> 00:13:03,100","I got more applause for that solo than I did the whole week."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "50",
+        "Sentence": [
+          ["00:13:05,940 --> 00:13:09,220","I wouldn't play the voice things"],
+          ["00:13:09,220 --> 00:13:12,430","I play today if that had not happened."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "52",
+        "Sentence": [
+          ["00:13:12,430 --> 00:13:14,860","I know."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "54",
+        "Sentence": [
+          ["00:13:14,860 --> 00:13:18,070","Oh, right."]
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "56",
+        "Sentence": [
+          ["00:15:38,839 --> 00:15:41,959","Yeah, thank you."]
+        ]
+      }
+    ]
+  }
+}

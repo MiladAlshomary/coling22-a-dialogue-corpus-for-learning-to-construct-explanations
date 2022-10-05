@@ -1,0 +1,2377 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, I'm Sean Carroll.",
+          "I'm a theoretical physicist",
+          "here at the California Institute of Technology.",
+          "I've been challenged to explain dimensions",
+          "to five different levels.",
+          "The idea of a dimension, sometimes in pop culture",
+          "is misunderstood, like there's an extra place",
+          "you can go, a mystical dimension or something like that.",
+          "To a physicist or a mathematician,",
+          "a dimension is just the direction you can go in.",
+          "Up down, left right, forward backward.",
+          "To you and me, we think there's three dimensions around us,",
+          "but then physicists start talking about extra dimensions.",
+          "How can you hide them?",
+          "Where might they be?",
+          "I'm hopeful that we're learn something at each level."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "We're gonna talk about some science.",
+          "Do you like science?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Oh, very good.",
+          "You've come to the right place.",
+          "So we're gonna think about physics.",
+          "Have you heard the word physics before?",
+          "Do you know what that is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "What's your idea what physics is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Okay.",
+          "I just think of physics as the study of everything.",
+          "What stuff is, what stuff does.",
+          "So today we're gonna talk about space,",
+          "and in particular the idea of dimensions.",
+          "Have you heard about dimensions?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "3D printing, good."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "But do you know what 3D means?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "Three dimensional, as opposed to,",
+          "what is ordinary printing?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "What do you say when something is one dimensional?",
+          "What's an example of something that's one dimensional?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "A line is the perfect example"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "Because it's one thing that's straight, right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "So here's some toys.",
+          "We're gonna build some dimensions, right?",
+          "So what would you say about this?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "23",
+        "Sentence": [
+          "Exactly.",
+          "It's not really one dimensional, right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "25",
+        "Sentence": [
+          "And how would you find yourself,",
+          "like if someone said where are you,",
+          "could you use some words or ideas",
+          "to say where you are on that line?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "27",
+        "Sentence": [
+          "But here's what I want you to think about.",
+          "If I say I'm at this point on the line,",
+          "I could translate that into saying",
+          "I'm at the three centimeter point,",
+          "if I were here I'd be at the four centimeter point,",
+          "the five centimeter point, right?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "29",
+        "Sentence": [
+          "So every point, every location on our little line--"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "31",
+        "Sentence": [
+          "Has its own unit, has one number."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "33",
+        "Sentence": [
+          "We need one number to tell you where we are.",
+          "That's one dimension.",
+          "That's what it means to be one dimensional.",
+          "I only need to tell you one number",
+          "to figure out where we are."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "35",
+        "Sentence": [
+          "There you go. Exactly.",
+          "We're gonna build a little two dimensional space.",
+          "You wanna do it?",
+          "You wanna do the honors here?",
+          "Why don't you put those two lines together?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "37",
+        "Sentence": [
+          "Exactly, there you go."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "39",
+        "Sentence": [
+          "I think you should be in this chair",
+          "and you should be explaining this to me.",
+          "You're much better at this than I am."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "41",
+        "Sentence": [
+          "So those are the dimensions.",
+          "That's how we think about dimensions.",
+          "Remember, we just needed one number",
+          "to find ourselves on the line, we need two numbers",
+          "to find ourselves on the plane."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "43",
+        "Sentence": [
+          "There you go."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "44",
+        "Sentence": [
+          "So, do you think we could have more than three dimensions?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "46",
+        "Sentence": [
+          "Well, as far as we know."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "48",
+        "Sentence": [
+          "This is why physicists think about things",
+          "we don't know about.",
+          "We're wondering whether there could be extra dimensions",
+          "you've never seen. Yeah.",
+          "That are tinier than atoms.",
+          "So, okay.",
+          "So what have you learned?",
+          "What do you know about dimensions now?",
+          "How do you think about dimensions",
+          "in a slightly different way than you did before?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "50",
+        "Sentence": [
+          "Yeah, do you think you'd be excited",
+          "if physicists said that they found",
+          "extra dimensions of space?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "52",
+        "Sentence": [
+          "I think so.",
+          "I think you're right.",
+          "All right Hank, we want you to keep up studying,",
+          "learn a lot of math and physics",
+          "and help us discover new dimensions some day.",
+          "Does that sound like a fun idea?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you like science?",
+          "Is that something you think about?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "[Sean] What kind of science?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "All right, you're in the wrong place.",
+          "[laughs] We're not gonna be talking",
+          "about biology or computer science.",
+          "So we wanna talk about the idea of dimensions.",
+          "Do you know what dimension is?",
+          "How we would define dimensions?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "Right, you know the difference between like one dimension",
+          "two dimensions, three dimensions, et cetera.",
+          "So let's do a little experiment here.",
+          "So there's one dimension.",
+          "I'll give that to you.",
+          "Now, here's your task.",
+          "I'm going to give you another dimension,",
+          "and I'm gonna ask hold those two things",
+          "at right angles to each other.",
+          "It's easy to do.",
+          "Yeah, so there's no trick here."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "I'm not trying to fool you here. Okay.",
+          "Now this is going to be slightly trickier.",
+          "I'm going to give you this.",
+          "I want you to hold all three of them",
+          "at right angles to all the others",
+          "at the same time."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "There you go.",
+          "So what that's doing is when you had just two",
+          "that was describing a two dimensional plane, right?",
+          "Like the two things pick out a plane,",
+          "the three things pick out all three dimensional space.",
+          "I'm gonna give you one more,",
+          "and I'm gonna ask you to hold that fourth one",
+          "so that it's at a right angle to all the other three",
+          "at the same time."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "All right, now I am tricking you.",
+          "It can't be done.",
+          "Yeah. Right?",
+          "You can't do it.",
+          "So we just experimentally proved",
+          "that space is three dimensional.",
+          "That's sort of what it means to be three dimensional,",
+          "that there are three different directions you can move in",
+          "and there's not four or five or six directions",
+          "you can move in."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "There you go.",
+          "Three dimensional space, right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "[Sean] So, have you thought about using coordinates",
+          "in three dimensions?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "There you go.",
+          "[laughing]"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "That's right.",
+          "So that's exactly what these would be.",
+          "Have you heard that there are other coordinate systems",
+          "other than XYX?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "Well, we could also say how far we are",
+          "away from the center, just the distance.",
+          "And then the angle that our little line makes",
+          "with let's say the X axis."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          "So that's a different way of giving you two numbers",
+          "and locating yourself, and we call those polar coordinates.",
+          "It's a different coordinate system.",
+          "What we want to do as physicists is look",
+          "for extra dimensions.",
+          "Can you imagine, can you think of any way",
+          "that there could be extra dimensions?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "27",
+        "Sentence": [
+          "Time.",
+          "Yes, Einstein said that we can think of time",
+          "as a fourth dimension, and that's a very fascinating thing",
+          "that we could talk about all by itself.",
+          "But what about space?",
+          "What about the solar system?",
+          "Like, if you wanted to tell me where a certain star was",
+          "in the sky, do you know how we do that?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "29",
+        "Sentence": [
+          "It's exactly the same thing as latitude and longitude",
+          "but we put coordinates on the sky."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "31",
+        "Sentence": [
+          "So astronomers call them right ascension and declination,",
+          "which are two terrible words,",
+          "but basically you've seen on the globe",
+          "where you draw latitude and longitude,",
+          "what it looks like."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "33",
+        "Sentence": [
+          "[Sean] And sort of the peels of an orange",
+          "kind of thing, right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "35",
+        "Sentence": [
+          "So you can define something as, well you know,",
+          "how high above a certain location on earth it is,",
+          "but the earth is rotating and revolving around the sun",
+          "so we have to define separate celestial coordinates."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "37",
+        "Sentence": [
+          "We don't know.",
+          "You know, the optimistic view is that there are six,",
+          "but the thing is, some of them might be",
+          "really, really, really, really, really small,",
+          "like way too small for us to ever see."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "39",
+        "Sentence": [
+          "And some of them might be medium sized",
+          "that hopefully we can see."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "41",
+        "Sentence": [
+          "Absolutely right.",
+          "And this is sort of the state of uncertainty",
+          "that physicists are stuck living in."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "43",
+        "Sentence": [
+          "You know, honestly out there, if you go out",
+          "onto campus and talk to the physicists,",
+          "half of them will say probably extra dimensions exist,",
+          "and half of them say no, that's just nonsense."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "45",
+        "Sentence": [
+          "[Sean] We really don't know."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "47",
+        "Sentence": [
+          "Okay, after all this."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "49",
+        "Sentence": [
+          "Someone comes up to you on the street and says",
+          "what's a dimension?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "51",
+        "Sentence": [
+          "That's right, and you know, if they're still bugging you",
+          "you can just like give them some sticks",
+          "and ask them to put them together."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "53",
+        "Sentence": [
+          "[Sean] And that would shut them up."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "Where do you go to school and what do you study?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Oh, math and physics, okay.",
+          "What kind of physicist do you want to be?",
+          "Do you know?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "Usually if it's math and physics,",
+          "you end up as a theoretical physicist, right?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "Not an experimental one.",
+          "So, our theme here today is dimensions.",
+          "So this is great that you have some math background",
+          "because mathematicians think about dimensions",
+          "in a different way."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "So how would you explain to your friends",
+          "who are not math and physics majors,",
+          "like what is a dimension, yourself?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "That's exactly right, and so you've heard",
+          "of spacetime--"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "[Sean] Being four dimensional, right?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Now, in some sense that's kind of trivial to you and me,",
+          "because of course you have space,",
+          "which is three dimensional, you have time",
+          "which is one dimensional, so spacetime is four dimensional.",
+          "But it didn't turn out, it didn't occur to anyone",
+          "that that was a sensible way to talk",
+          "until really relativity.",
+          "This is the crucial thing, right?",
+          "Is that what Einstein realized is that",
+          "sure there's both time and space, but how we divide",
+          "spacetime into time and space can be different",
+          "for different people, and really there's a real sense",
+          "in which four dimensional spacetime",
+          "is kind of a generalization of three dimensional space.",
+          "And I think to really explain this",
+          "we're gonna need a blackboard."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "Let's bring one in.",
+          "All right.",
+          "The thing about relativity",
+          "is that they really want you to think",
+          "of spacetime as one four dimensional thing, right?",
+          "It's kind of like space.",
+          "It's not just three dimensions of space",
+          "and one dimension of time."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "21",
+        "Sentence": [
+          "Why?",
+          "This is a very good question.",
+          "So, let's just start with space, right?",
+          "We know a little bit about space.",
+          "So here's my simple minded way of drawing space",
+          "two dimensions, because that's how many",
+          "I can draw on the blackboard.",
+          "Let's say X and Y.",
+          "And what is special about space, there's many things,",
+          "but one is that if I have a curve or a path",
+          "between two points, there's a distance",
+          "that you can calculate, right?",
+          "And the distance between those two points",
+          "doesn't depend on your coordinates.",
+          "It doesn't depend on whether you're in radial coordinates",
+          "or Cartesian coordinates, or whatever.",
+          "I'm allowed to imagine a curve that does something like this",
+          "between those two points, and if I were a person",
+          "walking on that curve, I would have an odometer",
+          "with me maybe, and I would know, you would know,",
+          "even without having done that,",
+          "this path is always gonna be longer than that path.",
+          "There's a formula, Pythagoras' Theorem",
+          "that tells you what the shortest distance path is.",
+          "That's the point.",
+          "The physical-ness of what is real",
+          "is the distance along a certain curve.",
+          "So spacetime is like that.",
+          "That's why it is useful to think about spacetime."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "23",
+        "Sentence": [
+          "So let me draw spacetime.",
+          "Here's how we usually draw it.",
+          "I'll just say X, but all of space is condensed",
+          "in this one direction, and this is time, okay?",
+          "So if you're a little person",
+          "and you started some event, so you start,",
+          "you're located somewhere in space,",
+          "somewhere in the three coordinates of space,",
+          "and whether you like it or not, you're moving",
+          "through spacetime just by getting older."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "25",
+        "Sentence": [
+          "When people ask me can you travel through time?",
+          "I say yes, yesterday I traveled 24 hours into the future",
+          "and here I am, a day later.",
+          "So that's just this.",
+          "Okay, you're moving through time, like it or not.",
+          "So what Einstein says is look, I can travel",
+          "through spacetime in different ways,",
+          "like I could hop in a rocket ship",
+          "and fly out and then fly back,",
+          "and then I could meet you there.",
+          "So this is a different trajectory through spacetime, right?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "27",
+        "Sentence": [
+          "And it's almost exactly like the space story.",
+          "The space story says there's a distance,",
+          "distance is different along different curves.",
+          "Einstein says there's something that measures",
+          "the length of these curves,",
+          "and we call it the proper time.",
+          "It is literally the time that you would read",
+          "on your wristwatch."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "29",
+        "Sentence": [
+          "Well kind of.",
+          "What Einstein wants to get across is there's no such thing",
+          "as fundamental, like there's the universe's time,",
+          "this big letter T that might tell you how old",
+          "the universe is, but then every individual",
+          "has a clock with them, and they measure their own time",
+          "depending on how they're moving through the universe."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "31",
+        "Sentence": [
+          "And the crucial difference is",
+          "that time is not the same for this person who stayed behind",
+          "and sat in their chair,",
+          "and this person who zoomed out there."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "33",
+        "Sentence": [
+          "There is what we call a metric on spacetime,",
+          "and when we talk about Euclidean space",
+          "versus a curved space, versus a sphere or something,",
+          "that's a different metric.",
+          "And spacetime has its own metric",
+          "which says the following thing,",
+          "that the path between two events in spacetime",
+          "that is a straight line, will always be the longest time."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "35",
+        "Sentence": [
+          "[Sean] That's the difference."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "37",
+        "Sentence": [
+          "So when Einstein had this idea,",
+          "oh gravity could be related to the curvature",
+          "of spacetime, he did some equations,",
+          "so he got it, that's a long story,",
+          "we'll put that aside.",
+          "What he figured out was that rather than gravity",
+          "living on top of spacetime, it's a manifestation",
+          "of the curvature of spacetime",
+          "so when you have like the earth, the sun, the moon,",
+          "they cause a gravitational field,",
+          "they're actually warping the spacetime around them.",
+          "They're giving it a different geometry."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "39",
+        "Sentence": [
+          "Yeah, exactly.",
+          "If you had a sheet that was originally flat,",
+          "and you set a marble on it,",
+          "it would go in a straight line,",
+          "but then if you put something on it",
+          "so it warps it, that marble is now gonna be deflected."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "41",
+        "Sentence": [
+          "Einstein says that gravity is just like that."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "43",
+        "Sentence": [
+          "But there are no straight lines,",
+          "because spacetime itself is curved.",
+          "So do you think if you had to explain relativity",
+          "what would you say?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "45",
+        "Sentence": [
+          "Yeah, that's right.",
+          "And it goes exactly back to what we drew on the board",
+          "where how those two people in the train and on the ground",
+          "would divide spacetime up differently",
+          "to space and time."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "47",
+        "Sentence": [
+          "[Sean] Yeah.",
+          "I learned a lot.",
+          "[Sean] It's a lot of fun stuff to talk about."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "So observational cosmology, so like what do you look at?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "I'm sure you've heard about extra dimensions",
+          "a little bit."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Well I'm thinking about the idea",
+          "that there might be more than three dimensions of space.",
+          "What is your impression of theoretical physicists",
+          "who think about things like extra dimensions of space",
+          "that they haven't ever seen?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "It does.",
+          "In fact, one way that different universes",
+          "might be created and be different from each other",
+          "is that different universes could have",
+          "effectively different numbers of dimensions.",
+          "Like we have three dimensions around us,",
+          "but there's people out there, aliens, who could live",
+          "in five dimensional universes."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "It's a, yeah."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "We think that it would be,",
+          "no all of this is incredibly speculative,",
+          "and we don't know for sure.",
+          "But the idea is that there is some deep down",
+          "underlying laws that are universal and the same,",
+          "but they show up differently,",
+          "so they appear different.",
+          "So the specific particles and forces and masses",
+          "would be completely different in different parts",
+          "of the multiverse."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "Why in the world would you think that there",
+          "are extra dimensions, right?",
+          "So you've heard of string theory?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "Mm-hmm.",
+          "So we have quantum mechanics, right?",
+          "The theory of atoms and so forth and how those work,",
+          "and then we have gravity, and gravity doesn't",
+          "seem to fit in.",
+          "It's the one force of nature that we can't really",
+          "easily fit into this quantum mechanical framework,",
+          "so string theory is one of the best ideas."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "That's the good news.",
+          "The bad news is that it only seems to work",
+          "if spacetime is ten dimensional.",
+          "[chuckles]",
+          "So you would say well then it's wrong.",
+          "It can't be right.",
+          "Spacetime is not ten-dimensional.",
+          "Spacetime is four dimensional.",
+          "We've observed that.",
+          "But instead, we say if spacetime looks four dimensional",
+          "to us, but string theory, which might be the best theory",
+          "we have of quantum gravity says it must be ten dimensional,",
+          "maybe we can hide those extra six dimensions somehow.",
+          "So here's how we could get lucky.",
+          "We could imagine that there are extra dimensions of space",
+          "that are curled up somehow",
+          "that are so small that we can't see them.",
+          "This is actually an old idea.",
+          "It goes back to Kaluza and Klein",
+          "right after general relativity was invented in 1915.",
+          "But there's a more recent idea that says",
+          "there could actually be relatively large extra dimensions.",
+          "There could be extra dimensions that are actually",
+          "that big, like a millimeter across",
+          "that you would not have noticed.",
+          "But here's the new, exciting idea.",
+          "So let's imagine, okay.",
+          "This is a piece of paper.",
+          "But let's imagine this is our entire world.",
+          "So, in other words, our real world is three dimensional,",
+          "but let's imagine that we're just idealizing it down",
+          "to two dimensions, so we all live here.",
+          "You and I live here.",
+          "But let's imagine that we're embedded in this bigger space.",
+          "So there are extra dimensions that are actually big, okay?",
+          "And let's imagine that.",
+          "When I say we live on this three dimensional world",
+          "what I mean is imagine that the particles",
+          "that you and I are made of, right, the quarks, the leptons,",
+          "the electrons and everything, all the forces we know about,",
+          "electromagnetism, the weak nuclear force,",
+          "the strong nuclear force,",
+          "imagine they can't leave this surface.",
+          "This is what we call a brane.",
+          "B-R-A-N-E.",
+          "Have you heard this word before?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "[Sean] Do you know where it comes from?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "25",
+        "Sentence": [
+          "From membranes, you know.",
+          "We have lines, one dimension.",
+          "We have two dimensional surfaces.",
+          "So if you have a line that is a vibrating physical thing,",
+          "you call it a string, right?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "27",
+        "Sentence": [
+          "If you have a two dimensional surface that vibrates",
+          "and is a physical thing, we call that a membrane.",
+          "Membrane theory goes back, it never was as popular",
+          "as string theory, but it's been around for a while.",
+          "But if you had extra dimensions of space,",
+          "then you can three dimensional vibrating things,",
+          "and four dimensional vibrating things."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "29",
+        "Sentence": [
+          "Well basically the strings are the particles that we see.",
+          "It's exactly the same thing as we said for the straw,",
+          "if you look at it far away it looks one dimensional.",
+          "A little loop of string,",
+          "so a little one dimensional circle that is vibrating.",
+          "If you look at it from very, very far away,",
+          "it just looks like a particle.",
+          "So in string theory, an electron is a little string.",
+          "A photon is a little string."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "31",
+        "Sentence": [
+          "Yes, string theory's even better.",
+          "So the phrase Grand Unified Theory was coined in the 1970s",
+          "for theories that joined electricity and magnetism.",
+          "So a good string theory is gravity plus",
+          "the Grand Unified Theory."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "33",
+        "Sentence": [
+          "It's even better.",
+          "It's the theory of everything.",
+          "What would you tell a friend of yours",
+          "if they asked you what dimensions are,",
+          "what extra dimensions are, what a brane is?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "35",
+        "Sentence": [
+          "That's right.",
+          "And we could live there.",
+          "The world we see around us, the three dimensions",
+          "of space around us could reflect the fact",
+          "that we are somehow stuck on a three dimensional brane",
+          "trying to escape."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "You're a string theorist, so tell us what kind",
+          "of string theory you do, what it means",
+          "to be a string theorist."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "Cool, so do you think a lot about extra dimensions",
+          "in your everyday life?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "And so when you think about extra dimensions,",
+          "you put them together with brains and different fields",
+          "wrapping around the extra dimensions and so forth, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "You know, a lot of people, a lot of string theorists,",
+          "they care a lot about all the different ways",
+          "in which we could hide the extra dimensions.",
+          "As someone who cares about cosmology,",
+          "I wanna start asking why are the extra dimensions",
+          "small at all?",
+          "How did that happen?",
+          "Is this something you think about yourself?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "The thing I want to talk about is this paper I wrote",
+          "with Matt Johnson and Lisa Randall",
+          "where we realize there's another way",
+          "to compactify extra dimensions spontaneously, dynamically.",
+          "If you imagine starting with this big piece of paper",
+          "you couldn't wrap up everything,",
+          "but within some region of space you could make a tube."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "Right?",
+          "And down there in the tube it looks like",
+          "your long thing that is compactified in one direction",
+          "and infinitely extending in the other direction,",
+          "so there's one less macroscopic dimension of space."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "[Sean] You think that sounds plausible to you?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "Yeah.",
+          "So we certainly assume that they're all large",
+          "as a starting point, and it's worse than that.",
+          "So in our paper we imagine you start",
+          "in de Sitter space.",
+          "You start in a universe with no matter,",
+          "no anything like that, just empty space",
+          "but with an energy that is positive",
+          "and all the dimensions are large."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "It was always there."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "Why not?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          "Well you know, I think that this is again, this is--"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          "I would say that we shouldn't be prejudiced",
+          "one way or the other."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          "Yeah, so let me tell you a little bit more",
+          "about the scenario.",
+          "So you know there are black holes, good?",
+          "Right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          "[Sean] There are black branes as well."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "29",
+        "Sentence": [
+          "Why don't you explain to us what a black brane is?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          "Yeah, I've been trying to explain this",
+          "to lower levels, and they always look at me like,",
+          "are you pulling my leg here a little bit?",
+          "Or is this the real thing that they use?",
+          "Yes, it is the real thing they use.",
+          "We study these branes in de Sitter space,",
+          "and so what we found is that there are black brane solutions",
+          "which instead of having a singularity inside",
+          "are non-singular, and stable, and compactified.",
+          "Is this a familiar thing?",
+          "I know things like this have been discussed, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "33",
+        "Sentence": [
+          "Right.",
+          "Imagine that rather than going down to a point,",
+          "it just asymptotes to some fixed radius",
+          "that continues infinitely far down there.",
+          "But then you can ask, okay what about the rest",
+          "of the universe?",
+          "You have some sphere, some two dimensions compactified,",
+          "and the balance between the cosmological constant",
+          "and the electromagnetic field keeps it",
+          "at a fixed distance."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "35",
+        "Sentence": [
+          "But then the other dimensions,",
+          "the transverse dimensions, don't need to be anti-de Sitter.",
+          "They can have either positive, zero,",
+          "or negative cosmological constant.",
+          "So you can basically get any sort of cosmological solution",
+          "times a compactified sphere."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "37",
+        "Sentence": [
+          "I guess.",
+          "I mean, maybe you'd think otherwise.",
+          "Again or maybe you could change my mind,",
+          "I think that as long as it can happen",
+          "it will happen some of the time, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "39",
+        "Sentence": [
+          "I mean it's one of the things that could happen, so",
+          "I mean it obviously,",
+          "You know, we know--"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "41",
+        "Sentence": [
+          "It's quantum.",
+          "[laughing]",
+          "It's a loud, it's of a loud",
+          "it's gonna happen."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "43",
+        "Sentence": [
+          "Someone probably wrote it for him.",
+          "So it's possible that if you do have this starting point",
+          "of an empty de Sitter space",
+          "with positive cosmological constants and fields lying around",
+          "you inevitably get a multiverse.",
+          "It just happens, you know,",
+          "it's just part of quantum nucleation to different things,",
+          "and then maybe you need to explain",
+          "why we live in this universe",
+          "rather than some other one",
+          "via the anthropic principle or something like that.",
+          "So how does our kind of, you know, low-tech",
+          "old fashioned way of making new universes intersect",
+          "with the kinds of things you'd think about."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "45",
+        "Sentence": [
+          "They overlap, they wrap around."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "47",
+        "Sentence": [
+          "I know not everyone buys that, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "49",
+        "Sentence": [
+          "And if we put aside for the second",
+          "the concerns of our colleagues in other parts of physics,",
+          "and it's just amongst us chickens,",
+          "what do you think about the future of cosmology",
+          "and string theory, and the dynamics",
+          "of these extra dimensions?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "51",
+        "Sentence": [
+          "If the viewers wanted to know more about how spacetime",
+          "can emerge from quantum mechanics,",
+          "they could read the graphic novel you just wrote."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "53",
+        "Sentence": [
+          "And I just wrote a book",
+          "called Something Deeply Hidden",
+          "about many worlds, quantum mechanics,",
+          "and how spacetime can emerge from it.",
+          "Plenty of reading material for the audience out there."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "So that was fun.",
+          "I hope that everyone did learn something.",
+          "I know that I did.",
+          "It was very nice to see how the idea of dimensions",
+          "and space resonates in different ways",
+          "with different people, all the way up to talking",
+          "to Clifford about the forefront of modern research.",
+          "I really do think that we're not done",
+          "understanding how dimensions work.",
+          "There are three dimensions of space, why that?",
+          "Why not two?",
+          "Why not 27?",
+          "I think that we really don't yet have the data",
+          "or ideas to think about this, but we're creeping up on it.",
+          "I'm optimistic about progress in the near future."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q?t=36",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes, a lot."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yeah, kind of."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Um, I'm not so sure."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "At the camp",
+          "I made a 3D printing one."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "So I don't choose the size,",
+          "all I had to do was the shape."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "It's three dimensional."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So, ordinary printing would be 2D."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Hmm, I think one dimensional might be a circle, I guess,",
+          "or maybe a line."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yeah, a line."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "[Hank] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "That's one dimensional."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "So everything has to be one or two dimensional",
+          "before it's three dimensional."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "I think I would be maybe there,",
+          "since I'm facing it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Has its own unit."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Unlike three dimensional, you have to tell a lot",
+          "'cause if it's like a sphere, you kind of have",
+          "to start using points."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "If you make it",
+          "two dimensional is this, a corner."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "Another way is if you have space in between",
+          "is an angle."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "I think that would be an X or a Y axis, so--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "45",
+        "Sentence": [
+          "3D is the maximum of dimensions for shapes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "47",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "49",
+        "Sentence": [
+          "So at least everything has a certain dimension."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "51",
+        "Sentence": [
+          "That would be an amazing discovery.",
+          "The news would be spreaded around the world rapidly."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "53",
+        "Sentence": [
+          "Yeah."
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q?t=258",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yeah, I do."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I like biology and computer science."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I guess, I don't know how to exactly define it,",
+          "but I know, like the first four."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "[laughing] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Um ..."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Um ..."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yeah, I was actually doing SAT prep."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "It showed like the X Y and Z axis as well."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Time?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "I have no idea."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Oh."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "[Juliana] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "[Juliana] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "So, there's like how many dimension would there be?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "Oh, okay.",
+          "So since it's all theoretical,",
+          "like this could not be three dimensional."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "Oh. [laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          "Oh. [laughs]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "46",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "48",
+        "Sentence": [
+          "[Juliana] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "50",
+        "Sentence": [
+          "Oh, man.",
+          "I mean, I guess what I've learned today",
+          "is just that there are not just three dimensions",
+          "or at least we think, I mean everything's theoretical.",
+          "It's all just really kind of confusing."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "52",
+        "Sentence": [
+          "Oh yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "54",
+        "Sentence": [
+          "Yeah."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q?t=514",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I'm gonna be a sophomore at Pomona College,",
+          "and I study math and physics."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I really don't know.",
+          "I like theory and experimental so it's kind of tough",
+          "for me to say."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Hopefully, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "My first intuitive thought is what are the coordinates."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So if we are looking at things,",
+          "if we're looking at like a dot,",
+          "or a line rather, that's one dimensional",
+          "because we can only measure it one way,",
+          "but then if we look at like a square",
+          "then we're increasing like that,",
+          "so it's basically what coordinates we can use",
+          "to measure something."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Why though?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "So it's kind of like our fundamental time?",
+          "Or our base time?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "I see."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Why is that, that this one's shorter then?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "I see.",
+          "Oh, okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "All right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "Would it be if I had like a spring",
+          "or not a spring, but like a sheet,",
+          "and I dropped a book in the sheet, curves down?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "I see."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "I see."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          "I think I'd go with kind of the train paradox.",
+          "Let's say I'm stationary, and someone's moving past me",
+          "on the train, they think they're stationary on the train.",
+          "Like they think that they're not accelerating,",
+          "but if they start walking through the train cars,",
+          "then they are accelerating in their frame,",
+          "but then from my outside frame",
+          "where I'm completely removed, I see they are accelerating.",
+          "So I guess that relativity is all about perspective,",
+          "I guess in a way."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "46",
+        "Sentence": [
+          "That was pretty good."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q?t=904",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "So, I work on two ground-based surveys in the optical,",
+          "and we're basically trying to make huge maps",
+          "of the universe so that we can study dark energy."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I've heard it, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I get a little scared,",
+          "[laughing]",
+          "because I think how can you prove these theories?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "One theory I've heard of, I don't know if this fits in",
+          "with that, is bubble universes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Is that an extra dimension?",
+          "Does that fit into that, or is that something?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "And are each of those dimensions,",
+          "are they governed by the same laws of physics,",
+          "or is there like a separate Lagrangian for each universe--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "[Bela] Or how does that work?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "I have.",
+          "So string theory is basically a theory",
+          "of quantum gravity."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "I've heard it, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "So how do these strings give rise to things",
+          "like mass and charge, and basically give us",
+          "the properties of the particles that we see?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "So, is string theory part of what they call",
+          "the Grand Unified Theory?",
+          "Is it supposed to be the last thing",
+          "that sort of unifies all the forces together?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "So we have three spatial dimensions.",
+          "A brane is sort of the next level.",
+          "So a brane is a higher dimensional object",
+          "that vibrates through space."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "It was really cool to learn about strings and branes",
+          "and how looking at gravity on small scales",
+          "is actually connected to what I do",
+          "in looking at gravity on these cosmological scales,",
+          "and it's definitely something I'm gonna think about",
+          "in my research."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/3KC32Vymo0Q?t=1235",
+    "wired_link": "https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "One of the things that's key",
+          "in the whole story of string theory",
+          "is the piece of it that talks about",
+          "quantum theories of gravity.",
+          "So I'm very excited about what happens to spacetime,",
+          "what does it even mean at the quantum level."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Uh, yes I do."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yes, well ultimately we'd like to understand",
+          "the observable universe.",
+          "If string theory turns out to be the thing",
+          "that the universe cares about,",
+          "we'd like to know, with all of these possibilities",
+          "that are in string theory, how do we get the one",
+          "that looks like the world we live in?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Hmm. Okay, that's nice."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "It sounds like fun.",
+          "What I would immediately ask is",
+          "where do the large dimensions come from in the first place?",
+          "Is that something you address, or you just assume",
+          "that all the dimension are large as a starting point?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "But where do they come from?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Why?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Okay.",
+          "[laughing]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "You're replacing one prejudice with a different prejudice."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Just a large, ten or 11 dimensions",
+          "with a cosmological constant",
+          "doesn't seem like a fundamental starting point.",
+          "It sounds like there needs to be something",
+          "to underlie that.",
+          "But it's a fun scenario."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "I've heard of them."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Indeed."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "Well in some ways, it's very much like a black hole",
+          "in that you have far away from it",
+          "you have these large just flat dimensions.",
+          "As you move in, there's something in the interior.",
+          "It has, itself, higher dimensions,",
+          "and so because physicists love to joke",
+          "they thought, well it's like a membrane",
+          "but it can have many different dimensions.",
+          "Let's use P to stand in for those number of dimensions,",
+          "and so they called them P-branes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Yeah. Yeah.",
+          "So, a lot of the branes that are relevant for studying",
+          "things to do with anti-de Sitter spacetimes",
+          "in various dimensions actually start out",
+          "as these non-singular type brains,",
+          "and then you find in the core,",
+          "there's actually an anti-de Sitter spacetime."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Right. Good, good."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "Is it that these have the lowest action",
+          "of all the things that could possibly,",
+          "all the possible solutions?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "Okay, that's fair."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "It's quantum, baby."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "I still laugh from Keanu Reeves I'm afraid.",
+          "[laughing]"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          "Well, it's interesting because there's a lot",
+          "of activity going on inspired by things we learned",
+          "from working in anti-de Sitter space",
+          "where the cosmological constant has the wrong sign.",
+          "So you will find that there are a number of papers",
+          "as many of which you've probably read,",
+          "probably you've read more of them than I have,",
+          "which try then to take the different kinds of brains,",
+          "these extended solutions, and they're many different kinds",
+          "doing different things, we understand well enough now",
+          "that we can put them together in various ways.",
+          "They intersect, they dissolve inside each other,",
+          "they wrap each other."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "46",
+        "Sentence": [
+          "They overlap, and you do them in all sorts",
+          "of different ways and show that you can construct",
+          "four dimensional universes with a cosmological constant",
+          "of your desire, depending upon how you did the construction."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "48",
+        "Sentence": [
+          "Not everyone buys it.",
+          "There's a big discussion in the literature right now."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "50",
+        "Sentence": [
+          "I think it's gonna get way more interesting",
+          "than we're currently able to grapple with right now,",
+          "and I think there are hints of it.",
+          "There could be a description of the physics",
+          "that might be our early universe",
+          "that is like that molecular description.",
+          "And then from that emerges flat spacetimes",
+          "maybe four, maybe some mechanism tells you",
+          "it's four and not something else.",
+          "I think that's where we're going."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "52",
+        "Sentence": [
+          "Right, yes.",
+          "I wrote and drew a graphic novel called The Dialogues:",
+          "Conversations About the Nature of Universe."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "54",
+        "Sentence": [
+          "Excellent."
+        ]
+      }
+    ]
+  }
+}

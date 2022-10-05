@@ -1,0 +1,1342 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hi, my name is Samy Kamkar.",
+          "I am a security researcher, computer hacker,",
+          "and co-founder of Openpath Security.",
+          "I've been challenged today to explain one simple concept",
+          "in five levels of increasing complexity.",
+          "My topic, hacking.",
+          "Hacking to me is using or manipulating a system in a way",
+          "that it wasn't intended or really expected.",
+          "And that could be a computer or it could be a phone",
+          "or a drone or a satellite.",
+          "It could really be anything."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you know what computer hacking is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Yeah, it's crazy.",
+          "They're really a lot of bad or malicious hackers out there",
+          "who are doing just that.",
+          "They're going into people's accounts",
+          "and they're stealing money,",
+          "but there's also another side of computer hacking where",
+          "there are people who are trying to learn how",
+          "those bad hackers are actually breaking in",
+          "to the bank accounts."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "What they're trying to do is",
+          "they're trying to even prevent",
+          "the bad hackers from getting in in the first place."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Yeah, exactly.",
+          "They're looking for ways that they can create protection.",
+          "It's kind of like the lock on your front door.",
+          "That lock is to essentially prevent",
+          "bad people from coming in",
+          "or people accidentally coming in when they shouldn't.",
+          "A hacker is essentially looking at a way,",
+          "how can I get into this lock?",
+          "But then there are the good ones who are trying to unlock it",
+          "so that they can tell the company that made the lock, hey,",
+          "we can actually protect people",
+          "by making the lock a little harder."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "In many cases, they'll send them a new lock.",
+          "So it's an upgraded, better version.",
+          "Sometimes that's new features,",
+          "but sometimes that's bug fixes",
+          "and ways to protect you as well."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "That's a very good point.",
+          "You should definitely make sure that you're obeying the law.",
+          "They might work with the lock company and say,",
+          "I'm trying to improve your product.",
+          "And they're trying to find these holes or problems,",
+          "and then share that with the company.",
+          "Even though the good hacker is doing exactly the same thing",
+          "as the bad hacker, it's the same exact skillset,",
+          "and you're using the same exact techniques and information",
+          "to try to break that lock,",
+          "but your goal as a good hacker is really to help everyone",
+          "like you and me to make sure that our stuff is protected.",
+          "So hopefully they don't get in trouble",
+          "because they're the good guys."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "I started doing the good hacking",
+          "when I turned nine years old."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "15",
+        "Sentence": [
+          "I started going on the computer and playing video games,",
+          "but I had some ideas of my own,",
+          "and that's where I started to learn how to hack.",
+          "I wanted to play with my friends on this video game",
+          "and just change the way that things look."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "17",
+        "Sentence": [
+          "That's entirely possible.",
+          "They may have done it for a reason,",
+          "but you may have come up with a really good idea that,",
+          "do you think there are other people",
+          "who might like the idea that you came up with?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "19",
+        "Sentence": [
+          "When you have creative ideas like that,",
+          "hacking can actually allow you to",
+          "change the way a system works,",
+          "and that means you can change a game",
+          "and how the game is played,",
+          "and then you can share that with your friends",
+          "and other people who like that game.",
+          "Once I started learning how to do it,",
+          "I found that, things that were harder for me,",
+          "I could make easier."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "21",
+        "Sentence": [
+          "I don't think my parents knew,",
+          "but when my parents found out that I was doing it for good,",
+          "I think they were happy."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you do anything with computers or any coding?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "[Samy] Interesting, so it's like a graphical interface",
+          "where you can connect different pieces together.",
+          "Kinda like wire them together."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "Oh, that's pretty cool.",
+          "What do you know about computer hacking?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "So on code.org, one of the things you've been doing",
+          "is actually building a game",
+          "or that they have a game and then you can actually",
+          "rewire some of the inputs and outputs of that.",
+          "Is that right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "Okay. With computer hacking, it's actually the same thing.",
+          "Really, you have some sort of system",
+          "and you have a bunch of inputs",
+          "and you have some sort of output,",
+          "and actually you, as the designer,",
+          "you're essentially designing games and software.",
+          "You're saying, well,",
+          "I will only allow a user to really control these inputs.",
+          "Can you think of any inputs the computer might have?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "Yep, there's also things like your mouse",
+          "and there's even things like the microphone itself",
+          "is actually an input device.",
+          "It's taking something from you,",
+          "which is the sound and it's then transmitting that,",
+          "ad it's actually sending it to me.",
+          "Are there any other things that you can talk to a computer?",
+          "You can give it information."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "That's absolutely another input",
+          "that exists on your computer.",
+          "That's how I try to think of things",
+          "is there's just a bunch of inputs.",
+          "Often, if you're trying to break something",
+          "or hack something, you're really saying, okay,",
+          "how can I control these inputs in a way that",
+          "wasn't necessarily expected?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "Typically, it's going to be something",
+          "like the keyboard, right?",
+          "I'm just going to be typing keystrokes",
+          "to be talking to some piece of software or hardware,",
+          "but other times it can be other things",
+          "like even the temperature of a computer",
+          "can actually affect how the computer operates,",
+          "and it might be advantageous to me to cool down the computer",
+          "and actually slow down the movement of electrons in",
+          "something like memory, so that if a computer shuts off,",
+          "it stores something that wasn't memory like a password",
+          "and stores it for a long enough time",
+          "that I might be able to actually",
+          "extract it through some other methods."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "It just depends what you're trying to do.",
+          "In some cases, it could literally be seconds",
+          "because you already know how the system works,",
+          "and other times, it could be years.",
+          "So what have you learned about hacking?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "Have you started studying cybersecurity?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Have you heard of the breach of Target",
+          "where they were breached many years ago",
+          "and their point of sale systems were hacked?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "So where people are swiping credit cards,",
+          "those credit card numbers were stolen.",
+          "They hired a company to come in",
+          "and perform a penetration test to see,",
+          "can the good guys essentially break in again",
+          "to prevent this sort of thing in the future?",
+          "And when this team came in,",
+          "they found they actually were able",
+          "to get pretty much to the same point of sale system,",
+          "and the way they did that was by exploiting",
+          "an internet-connected deli meat scale.",
+          "Once the company was able to essentially",
+          "get into the deli scale,",
+          "because the deli scale was on the internal network,",
+          "then they were able to really escalate privilege and find",
+          "a vulnerability within another system.",
+          "Essentially, that just got them into the network.",
+          "and once you're in the network,",
+          "it's often really easy to then escalate from there."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "Yeah, that's another interesting concept.",
+          "It's really just different layers",
+          "that we have for protection,",
+          "because often when you're talking about",
+          "something like a corporate network,",
+          "or even your home network,",
+          "you typically have sort of one level of defense, right?",
+          "If someone can break that",
+          "or it can get in through some other system",
+          "that is connected or exposes",
+          "some other protocol, like Bluetooth, right?",
+          "You can connect to a Bluetooth device",
+          "without being on the wireless network,",
+          "without being on the LAN.",
+          "That potentially gives you another place",
+          "that you can pivot on and then access other devices,",
+          "because if something has both Bluetooth and also Wi-Fi,",
+          "well, if you can get in through Bluetooth,",
+          "then you can then access the Wi-Fi",
+          "and get to other devices on the network.",
+          "Are you familiar with buffer overflows?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "If we were to write a program that asked for your name",
+          "and you typed in your name,",
+          "but before you could type in your name,",
+          "in a low leveling, which is like C or C++,",
+          "you'd have to allocate some memory.",
+          "So you might allocate a buffer of a hundred bytes",
+          "because whose name is going to be longer",
+          "than a hundred bytes or a hundred character?",
+          "But what happens if you were to not really check",
+          "that they limited to a hundred bytes?",
+          "Do you know what happens if they essentially",
+          "start typing over that hundred bytes?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "Absolutely, you would essentially cause",
+          "a segmentation fault."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "But what's really cool about that is,",
+          "when you're going into memory,",
+          "you're starting to cross over",
+          "that boundary of that hundred byte allocation,",
+          "and now you're starting to write over additional memory.",
+          "That other memory is really important stuff.",
+          "So you have your name, the hundred bytes there,",
+          "and then right next to your name is the return address,",
+          "and that's the address that the code is gonna execute",
+          "and it's going to return to after that function is done,",
+          "and it's going to jump to that address,",
+          "but after you type your hundred bytes,",
+          "the next few bites that you type,",
+          "you're actually going to overwrite that return address.",
+          "So that return address could essentially be",
+          "another address in memory.",
+          "So what you end up doing is you type a name",
+          "and it's not really a name, it's really just code.",
+          "And that code, you keep typing until",
+          "you get to the return address,",
+          "and you start typing an address,",
+          "which is really the beginning of your name",
+          "and your computer or your processor",
+          "is actually going to read that address",
+          "and it will jump back to the beginning",
+          "and then execute that payload.",
+          "So that was sort of the very first thing that I think was",
+          "super exciting to me when I started",
+          "learning about really reverse engineering."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "Ever since buffer overflow started many years ago,",
+          "there been a lot of protection mechanisms",
+          "built to make it difficult to exploit.",
+          "More and more, we're actually using",
+          "smaller and smaller computers",
+          "with smaller amounts of compute power.",
+          "If you take a car, you have hundreds of microcontrollers",
+          "that are all running there.",
+          "So they don't really have a sophisticated operating system",
+          "that can try to prevent attacks like buffer overflows.",
+          "So how do we keep these low cost computers in here while",
+          "adding layers of protection to prevent malice",
+          "and these types of attacks?",
+          "Sometimes it actually is,",
+          "how can we write software",
+          "or how can we build a system",
+          "that prevents these types of attacks from entering?",
+          "But oftentimes, it's really looking for how can we find",
+          "new attacks that we haven't even necessarily thought of?",
+          "What got you interested in computer science",
+          "and information security?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "You brought up China and Iran,",
+          "and something that's interesting about those areas",
+          "is really censorship, right?",
+          "They have essentially censored internet.",
+          "In the US, we have a really interesting",
+          "internal struggle here where we actually have",
+          "government agencies like the state department",
+          "that are funding software to evade censorship,",
+          "like Tor and other mechanisms.",
+          "While then we also have an internal struggle where we have",
+          "other organizations like the NSA",
+          "who are specifically looking to break that exact same system",
+          "that the US government is also funding."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "19",
+        "Sentence": [
+          "It's good for us to understand",
+          "how these systems can really break down.",
+          "Although, I think one thing that I see",
+          "is that some of, let's say,",
+          "the organizations that are looking to break this",
+          "are not necessarily going to share",
+          "once they actually learn that information.",
+          "They might actually sort of hold that in their back pocket",
+          "and use it when it's advantageous to them."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "What kind of projects are you working on?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "So essentially it's a really,",
+          "definitely a stripped down operating system,",
+          "or I guess it's a virtual machine."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Have you done any work in side channel analysis?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "So the side channel analysis is really looking",
+          "not at a vulnerability within a system,",
+          "but really unintended consequences",
+          "of what the system is built on.",
+          "A very simple example of a side channel",
+          "is putting your ear to the ground to hear if",
+          "there are horses coming towards you,",
+          "and the same thing applies to technology.",
+          "So you can have something like",
+          "a CPU, it's executing instructions,",
+          "certain instructions that use a little bit more power,",
+          "and power is reserved in these capacitors,",
+          "which are like tiny batteries next to your CPU.",
+          "And as they're pulling power,",
+          "there's something in physics called",
+          "the electrostrictive effect",
+          "where the capacitor will move in a very, very tiny amount.",
+          "And then although we can't hear it,",
+          "the microphone on a mobile device",
+          "can actually listen to that.",
+          "If you then listen to that and you say,",
+          "oh, I see a pattern here,",
+          "and you can go all the way down",
+          "and then extract and reveal the full password, the full key,",
+          "even though it could be argued that",
+          "the algorithm itself, there's no problem with it."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah, I suppose the physical adjacency",
+          "of the underlying transistors and capacitors",
+          "that are holding that storage.",
+          "That's crazy.",
+          "I think the first time I heard of",
+          "an interesting attack like that was learning",
+          "about the cold boot attack.",
+          "Being able to, you know,",
+          "someone enters their password on their computer",
+          "and that decrypts their hard drive and then they walk away.",
+          "Being able to extract that password is really difficult.",
+          "If I can pull that memory chip out and extract that memory,",
+          "put it in my own device,",
+          "except the problem is memory is volatile,",
+          "so it'll erase as soon as I pull it out.",
+          "You can take something like canned air, turn it upside down,",
+          "cool that computer, make it real nice and cool.",
+          "Then you have a minute or two to pull out the memory,",
+          "put into your own device, extract the memory,",
+          "and then you're good.",
+          "It's such a simple method to really",
+          "extract something kind of critical.",
+          "Like Rowhammer, it's such a low level of vulnerability",
+          "and you could argue that it's not necessarily",
+          "a vulnerability in the architecture itself,",
+          "but rather exploitation of physics at that point."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "I keep forgetting to update my fridge."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "That's pretty challenging",
+          "if you want to use wireless, right?",
+          "If you wanna use a wireless router."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "The risk right now, just during this quarantine,",
+          "is actually massive now that we think about it,",
+          "because you might have these legacy systems.",
+          "You know, they were built 20, 30 years ago,",
+          "and it's too costly to upgrade,",
+          "but now you can't actually have a lot of people",
+          "in a single location, so potentially,",
+          "they actually do have to now add some sort of",
+          "remote capabilities to these systems",
+          "that were never meant to be on the internet.",
+          "Have you ever had any ethical concerns",
+          "with the stuff you're interested in or the work you do?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "Especially now that we're seeing more and more companies",
+          "who are trying to make it illegal for you",
+          "to inspect the vehicle that you've purchased, right?",
+          "Something that you actually own."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "What if it were illegal?",
+          "Would you then do it?",
+          "Fortunately it's not today, right?",
+          "It hasn't been, you know, despite their attempts,",
+          "none of that has been passed,",
+          "but if you had a vehicle and you wanted to inspect it,",
+          "but all of a sudden, it passed, I mean."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "But the laws don't always equate to hurting anyone.",
+          "I ethically think similar to you in that, you know,",
+          "what is moral to me is",
+          "as long as I'm not intentionally hurting others, right?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "I think we see every day that ethics and the laws",
+          "aren't necessarily the same thing all the time."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "Hey Colin, we already know each other,",
+          "but why don't you introduce yourself",
+          "for the people watching?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "What have you been up to?",
+          "And yeah, what are you working on?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "Maybe a mutual acquaintance of ours,",
+          "Jasper gave a example of fault injection,",
+          "and I like to use that as,",
+          "when I'm trying to explain fault injection,",
+          "he shows a pinball machine and the pinball machine,",
+          "obviously the two inputs are the two plungers",
+          "when you're playing a pinball machine,",
+          "but fault injection,",
+          "you can tilt the entire pinball machine, right?",
+          "You're just introducing some external variable",
+          "that's outside of the traditional inputs",
+          "that you're used to",
+          "and you've now controlled the environment",
+          "in a advantageous way to the user or the player.",
+          "Can you give an example of some type of fault injection",
+          "that you're doing or working on?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "We're also scratching the surface of,",
+          "like, what is possible?",
+          "It's not necessarily just the system itself",
+          "and not necessarily that algorithm itself.",
+          "Like you said, you don't necessarily",
+          "need to attack the math in some cases.",
+          "You can just attack that check.",
+          "And I think something that's been pretty cool",
+          "is looking at higher energy particles.",
+          "It's going to be maybe hard to entirely confirm,",
+          "but I think it'd be really, really cool to actually see.",
+          "Like, I want to see one of these faults",
+          "because I haven't seen it myself.",
+          "And also, how do you know that you've seen it?",
+          "I've started playing with, like, setting up a cloud chamber.",
+          "A cloud chamber lets you actually view",
+          "high energy particles going through",
+          "sort of like in a small jar with some evaporated alcohol.",
+          "And I thought it'd be really cool",
+          "if we put some memory chip in there,",
+          "like a basic memory chip and we just fill it with some data,",
+          "but then you put a camera on that area and you just watch.",
+          "Assuming that there is a high energy particle",
+          "that actually hits that memory,",
+          "that should potentially flip the energy state of that bit.",
+          "The outside microcontrollers",
+          "should be able to read that and actually say,",
+          "Oh wait, the data, even though I'm not changing data,",
+          "I'm only reading data,",
+          "and we should be able to visibly or optically see it.",
+          "What I'm wondering is could that be a next area of research?",
+          "Because I don't think anyone's actually looking at",
+          "intentionally injecting high energy particles",
+          "to take over a computer, when really, you know,",
+          "that's another technique for fault injection,",
+          "technically speaking."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "You mean flipping bits within flash?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "I've never seen...",
+          "Maybe call it a verifiable visualization of it, right?",
+          "We know it's true, you know,",
+          "you can get skin cancer by going outside",
+          "and having too many high energy particles hit you,",
+          "but we've never seen it.",
+          "And we know it can happen to a computer chip,",
+          "but I've never seen both."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "The thing is, even if you know about that,",
+          "then there's so many others that",
+          "someone won't necessarily know about,",
+          "because there's so many, I guess,",
+          "potential areas for a fault to occur.",
+          "Where do you think security is going",
+          "or new research is going?",
+          "Are there any new areas you think",
+          "are coming out or are going to be more interesting,",
+          "you know, pretty soon?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "For me, I think the things that have been",
+          "recent and super interesting",
+          "are typically down to physics-level effects",
+          "that maybe we haven't seen before.",
+          "I think my mind was blown with the,",
+          "there was the light commands research,",
+          "and they were able to modulate sound,",
+          "although it's purely over light using a laser,",
+          "they would hit the MEMS microphone,",
+          "and it was picking that up and was able to then interpret it",
+          "and essentially take control over light."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "It's the easier side.",
+          "I would say my side is the easier side, right?",
+          "I'm on the offensive side. I want to break into things.",
+          "Someone on the defense side,",
+          "they might have, you know, a system was developed",
+          "and they now need to patch a hundred holes.",
+          "They patch 99 of them. I only need to find that one."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, only when you get caught."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I hope you learned something about hacking.",
+          "Maybe next time a system behaves in a way",
+          "that you weren't expecting, you might just be curious enough",
+          "to try to understand why.",
+          "Thanks for watching."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ?t=28",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "It's bad.",
+          "Like, I'm going into someone's",
+          "personal account or account,",
+          "changing some stuff or just stealing some information",
+          "or your money."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Do they, like, return the money?",
+          "Like, give them their money or something like that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "So they put like a protection account or something."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "What would they do about the people and the broken lock?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "But like, they may get arrested",
+          "because they might get mistaken."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "When did you start doing, like, the good hacking?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "But that would be kinda bad,",
+          "because maybe the creator did it for a reason."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Did your parents approve of it?"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ?t=199",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I like to play coding games,",
+          "and I like to go on code.org, and they have",
+          "a variety of games for different ages.",
+          "So like, I really like to do that.",
+          "For example, like the game Flappy Bird,",
+          "it's like puzzle pieces, so they would tell you",
+          "to connect something and then you would play the game",
+          "and then you could see what you connected."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "[Linda] Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I don't really know much about computer hacking actually."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "[Linda] Space bar."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Camera."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "What inputs would you normally use to hack?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "How long does it take to get in?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "I think hacking is actually really interesting.",
+          "There's different languages to hack in.",
+          "I've also learned that a lot of things could be hacked",
+          "that you don't necessarily think that can be hacked."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ?t=352",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I started this year, I took my first course,",
+          "so haven't gone too deep into it,",
+          "but we got a basic idea of, like,",
+          "basics of information and network security.",
+          "We learned about how networks are set up,",
+          "like the different types of topologies, like Star and Mesh,",
+          "and also how networks are designed",
+          "with different levels of security."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yes, I heard about that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I've heard about similar attacks",
+          "in hospitals using hospital equipment,",
+          "but I'm surprised that something as simple as a meat scale",
+          "would have been used in such an attack.",
+          "We discussed it in class as how hackers look at",
+          "some of the weakest links in these large networks",
+          "and use those to tap into networks."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "No, I am not familiar with that."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "In that case,",
+          "it would be an error for accessing invalid memory."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So how does the buffer overloading",
+          "relate to what you are doing in terms of",
+          "network security or designing software",
+          "for penetration testing?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "I got interested in cybersecurity",
+          "because I'm really into global affairs, global politics,",
+          "and you often hear in the news about",
+          "the rising power of China, the rising power of Iran.",
+          "I enjoy how interdisciplinary computer science is.",
+          "Like, nowadays there's so much going on",
+          "in the world of computers and that's what fascinated me."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "There are a lot of ethical questions",
+          "about whether we should be intervening in other countries,",
+          "but it's pretty interesting that",
+          "two different agencies of the government",
+          "are actually working on contrasting technology.",
+          "I can actually understand that because",
+          "if we are creating a technology",
+          "that we are going to deploy somewhere else,",
+          "we should know its limitations.",
+          "We should know how to control it."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ?t=738",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "This is the end of my first year.",
+          "I'm a PhD student at NYU Tandon School of Engineering.",
+          "I'm studying security systems and operating systems.",
+          "So, security for operating systems.",
+          "I've been mostly working on a project",
+          "that limits executables' exposure to bugs in the kernel.",
+          "It's run by professor Justin Cappos there.",
+          "He found that the majority of bugs",
+          "that occur in the Linux kernel",
+          "happen when you're doing things that",
+          "people don't do that often,",
+          "the programs don't do that often.",
+          "So designing a runtime environment that lets you",
+          "limit what a certain program has access to,",
+          "but also the things that it does have access to",
+          "is also limited to those popular paths in the kernel.",
+          "So it can't access areas that aren't under more scrutiny."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Basically, we're creating a user space operating system."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Like, a little bit.",
+          "I read the Rowhammer paper.",
+          "I found it really interesting,",
+          "but it's nothing that I've actually worked with."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "So all memory devices are just,",
+          "it's just a bunch of gates and they're in rows.",
+          "They basically all hold different pieces of memory.",
+          "That's all the gates are.",
+          "Either they're turned on or they're turned off.",
+          "So what Rowhammer found was they tested",
+          "a bunch of different memory devices and found that",
+          "by doing a certain order of storing things,",
+          "and then pulling that information back in a certain way",
+          "in one place would actually flip gates in a different place.",
+          "So you could actually do a bunch of things",
+          "to a piece of memory that had nothing to do with",
+          "something that may be critical in a different place",
+          "and actually change its contents,",
+          "and that obviously exposes all sorts of security issues,",
+          "because that's very hard to predict."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I've spent a decent amount of time with this stuff,",
+          "and in my mind, a lot of that is a nightmare.",
+          "Over the last year while I was doing some other stuff,",
+          "I actually designed some microcontroller boards",
+          "for a company that was doing stuff with,",
+          "like, a smart watering project.",
+          "The problems with updating is just, like,",
+          "that scares me the most.",
+          "Like, people don't update their own stuff,",
+          "let alone these, like, devices."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "I find myself trying to shy away",
+          "from owning like smart things."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah, I mean, there's obviously essentials,",
+          "but yeah, no matter what,",
+          "you can't really avoid any of this."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Oh yeah, for sure.",
+          "When people find vulnerabilities,",
+          "I think it's their duty to release those to the public."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yeah, I think that's nuts.",
+          "I'm firmly against that for sure."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "I don't know, probably, yeah.",
+          "[laughing]",
+          "I don't think that's hurting anyone,"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/d9PqVcgT1kQ?t=1087",
+    "wired_link": "https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Hi, I'm Colin O'Flynn.",
+          "I live in Halifax, Nova Scotia, Canada.",
+          "I do hardware hacking both in academia",
+          "at Dalhousie University,",
+          "and in industry at my startup, NewAE Technology."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Lately I've been doing, you know,",
+          "always a little bit of side channel analysis.",
+          "So what I really do, you know, is all hardware layer.",
+          "So I've been looking, you know,",
+          "at some various devices lately,",
+          "at how susceptible they are to fault attacks,",
+          "what that sort of means in real life.",
+          "You know, not just purely the research side,",
+          "but also how much should you care about it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "One of them was looking at, like,",
+          "a little hardware Bitcoin wallet,",
+          "and you could use fault injection",
+          "to actually recover secrets from it,",
+          "and a lot of devices.",
+          "I mean, the whole idea is pretty cool, right?",
+          "Because you tell the device, Hey, I want to authenticate,",
+          "and it's supposed to run",
+          "some really crazy math that authenticates it,",
+          "but instead of doing that crazy math and attacking the math,",
+          "you just attack the check at the end."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "This was actually tied into something recently",
+          "I was looking at, which was, you know,",
+          "flipping flash and EPROM memory."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yeah, exactly, right.",
+          "So flipping it in this sort of flash memory.",
+          "And so someone's done it with x-rays.",
+          "There's actually, I forget who now.",
+          "There's a paper, at least one,",
+          "and it's just like a little plate they make",
+          "with like a hole in it to concentrate the x-ray source",
+          "and it works, so yeah, it's super interesting.",
+          "Like, one bit in memory means a lot,",
+          "especially in the flash memory side.",
+          "Yeah, visualizing it would be cool though."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah, so actually, so it's funny you mentioned,",
+          "like, making it more obvious.",
+          "I mean, staying on fault injection right now,",
+          "this is lately what I've been up to.",
+          "A lot of making a little kind of, you know,",
+          "like electronics kits of old, right?",
+          "And you can assemble it all yourself and see how it works.",
+          "So making something like that for fault injection.",
+          "So all kind of older logic and stuff like that.",
+          "So, I mean, it's sort of based on, like,",
+          "you're presented the little MUX chip.",
+          "You know, voltage switcher.",
+          "That sort of idea, using just discreet logic",
+          "to generate the actual glitch itself.",
+          "So, but you know, it's part of, I think, this stuff, right?",
+          "It's like people don't know about it sometimes.",
+          "Like, even engineers designing systems.",
+          "It's new to a lot of people."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Fault injection has become pretty interesting.",
+          "Like, there's been a lot of people poking at that,",
+          "and I think a lot more products of interest.",
+          "Side channel still might have a bit of a comeback.",
+          "Basically, what I kind of see is",
+          "a lot of the really cool stuff has been in academia",
+          "because product security hasn't kept up, right?",
+          "For the longest time, doing these attacks on hardware",
+          "was pretty straightforward.",
+          "You didn't need these crazy attacks.",
+          "It looks like a lot of devices are coming out now",
+          "that actually have real claims to security, right?",
+          "More than just a data sheet mentioned.",
+          "There's actually something behind it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "I'm curious of the backstory to how they found that.",
+          "Because if you told me that, right?",
+          "So you said like, Hey, Colin, you should test this out.",
+          "I probably would be like, It probably won't even work.",
+          "Which is like a lot of side channels.",
+          "When I first heard about it, you know,",
+          "working, doing firmware stuff, it was like,",
+          "Oh, that sounds like it's not gonna work.",
+          "Like, that sounds impossible.",
+          "You know, the whole area of hardware hacking,",
+          "it feels kinda like cheating because, you know, as you said,",
+          "someone designing the system needs to know about",
+          "so many different ways, right?",
+          "So there's so many ways to break the system,",
+          "and if you're designing them, you need to know all of them,",
+          "but when you're attacking it,",
+          "you really need to know one, right?",
+          "So I can know nothing about, like,",
+          "how does ECC actually work?",
+          "You know, I have some vague hand-waving",
+          "I can tell you about, but if you gave me a pen",
+          "and told me, like, Okay, write it down,",
+          "specifically the equations and what they mean",
+          "and how the point model works and stuff.",
+          "Right, no idea, but designers are like the other side.",
+          "It's almost like, I don't wanna say the lazy side of it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yeah. There's no downsides is what you're saying."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4408 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:00,250 --> 00:00:03,470",
+                  "- My name's Aric Prather and"
+               ],
+               [
+                  "00:00:00,250 --> 00:00:03,470",
+                  "I'm a sleep scientist at UCSF."
+               ],
+               [
+                  "00:00:03,470 --> 00:00:07,680",
+                  "I study the causes and"
+               ],
+               [
+                  "00:00:03,470 --> 00:00:07,680",
+                  "consequences of insufficient sleep,"
+               ],
+               [
+                  "00:00:07,680 --> 00:00:10,510",
+                  "and I also carry out"
+               ],
+               [
+                  "00:00:07,680 --> 00:00:10,510",
+                  "interventions to improve sleep"
+               ],
+               [
+                  "00:00:10,510 --> 00:00:11,940",
+                  "among people with insomnia."
+               ],
+               [
+                  "00:00:11,940 --> 00:00:14,820",
+                  "Today, I've been challenged"
+               ],
+               [
+                  "00:00:11,940 --> 00:00:14,820",
+                  "to explain the topic of sleep"
+               ],
+               [
+                  "00:00:14,820 --> 00:00:16,260",
+                  "at five different levels."
+               ],
+               [
+                  "00:00:16,260 --> 00:00:17,836",
+                  "Everybody knows a little bit about"
+               ],
+               [
+                  "00:00:17,836 --> 00:00:20,300",
+                  "what is happening when they sleep,"
+               ],
+               [
+                  "00:00:20,300 --> 00:00:22,620",
+                  "but I think they'll be surprised"
+               ],
+               [
+                  "00:00:22,620 --> 00:00:24,570",
+                  "that there's a lot of science in there."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:00:28,300 --> 00:00:29,133",
+                  "- Hey Christopher."
+               ],
+               [
+                  "00:00:29,133 --> 00:00:30,160",
+                  "And how old are you?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:00:30,993 --> 00:00:32,180",
+                  "- What grade is that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:00:33,217 --> 00:00:34,050",
+                  "- You think fifth?"
+               ],
+               [
+                  "00:00:34,050 --> 00:00:35,446",
+                  "What is your favorite subject?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:00:37,000 --> 00:00:37,833",
+                  "- Well that's awesome,"
+               ],
+               [
+                  "00:00:37,833 --> 00:00:39,350",
+                  "because we're going to be"
+               ],
+               [
+                  "00:00:37,833 --> 00:00:39,350",
+                  "talking about science today."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:00:40,183 --> 00:00:41,095",
+                  "- And you know what we're"
+               ],
+               [
+                  "00:00:40,183 --> 00:00:41,095",
+                  "going to be talking about?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:00:41,928 --> 00:00:43,130",
+                  "- Sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:00:44,180 --> 00:00:46,750",
+                  "- Mine too, because I get to"
+               ],
+               [
+                  "00:00:44,180 --> 00:00:46,750",
+                  "spend all day studying it."
+               ],
+               [
+                  "00:00:46,750 --> 00:00:48,550",
+                  "Because you know what sleep does for you?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:00:50,836 --> 00:00:51,960",
+                  "- [laughs] That's exactly right."
+               ],
+               [
+                  "00:00:51,960 --> 00:00:54,420",
+                  "It kinda is like recharging"
+               ],
+               [
+                  "00:00:51,960 --> 00:00:54,420",
+                  "your battery, right?"
+               ],
+               [
+                  "00:00:54,420 --> 00:00:57,040",
+                  "And sleep is so critical for so many parts"
+               ],
+               [
+                  "00:00:57,040 --> 00:00:59,030",
+                  "of our body and our mind, right?"
+               ],
+               [
+                  "00:00:59,030 --> 00:01:01,650",
+                  "It plays a really important"
+               ],
+               [
+                  "00:00:59,030 --> 00:01:01,650",
+                  "way that we learn,"
+               ],
+               [
+                  "00:01:01,650 --> 00:01:04,690",
+                  "and it helps us kind of"
+               ],
+               [
+                  "00:01:01,650 --> 00:01:04,690",
+                  "recover from the day before."
+               ],
+               [
+                  "00:01:04,690 --> 00:01:07,350",
+                  "It affects our immune"
+               ],
+               [
+                  "00:01:04,690 --> 00:01:07,350",
+                  "system and our metabolism,"
+               ],
+               [
+                  "00:01:07,350 --> 00:01:09,436",
+                  "all of these things that we"
+               ],
+               [
+                  "00:01:07,350 --> 00:01:09,436",
+                  "need to kinda be healthy."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:01:10,540 --> 00:01:12,530",
+                  "- So today, we're going"
+               ],
+               [
+                  "00:01:10,540 --> 00:01:12,530",
+                  "to talk about some animals"
+               ],
+               [
+                  "00:01:12,530 --> 00:01:13,640",
+                  "and how they sleep."
+               ],
+               [
+                  "00:01:13,640 --> 00:01:15,023",
+                  "So here's the first one."
+               ],
+               [
+                  "00:01:15,023 --> 00:01:16,920",
+                  "What's that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:01:17,753 --> 00:01:18,670",
+                  "- Have you ever seen a giraffe in person?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:01:19,750 --> 00:01:20,644",
+                  "- They're pretty cool, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:01:21,477 --> 00:01:23,970",
+                  "- And so what's really"
+               ],
+               [
+                  "00:01:21,477 --> 00:01:23,970",
+                  "cool about this is that"
+               ],
+               [
+                  "00:01:23,970 --> 00:01:26,350",
+                  "giraffes need to sleep"
+               ],
+               [
+                  "00:01:23,970 --> 00:01:26,350",
+                  "like everybody else,"
+               ],
+               [
+                  "00:01:26,350 --> 00:01:29,290",
+                  "and so the way that it does"
+               ],
+               [
+                  "00:01:26,350 --> 00:01:29,290",
+                  "is it kind of slumps over"
+               ],
+               [
+                  "00:01:29,290 --> 00:01:31,030",
+                  "and it gets down on its legs"
+               ],
+               [
+                  "00:01:31,030 --> 00:01:32,900",
+                  "and it kind of becomes this ball,"
+               ],
+               [
+                  "00:01:32,900 --> 00:01:34,910",
+                  "but what's crazy about the whole thing"
+               ],
+               [
+                  "00:01:34,910 --> 00:01:37,600",
+                  "is they only sleep for"
+               ],
+               [
+                  "00:01:34,910 --> 00:01:37,600",
+                  "like 30 minutes a day."
+               ],
+               [
+                  "00:01:37,600 --> 00:01:38,433",
+                  "30 minutes!"
+               ],
+               [
+                  "00:01:38,433 --> 00:01:40,670",
+                  "Because it can't waste any more time,"
+               ],
+               [
+                  "00:01:40,670 --> 00:01:42,730",
+                  "because it can't be"
+               ],
+               [
+                  "00:01:40,670 --> 00:01:42,730",
+                  "vulnerable for any longer."
+               ],
+               [
+                  "00:01:42,730 --> 00:01:44,770",
+                  "It can get eaten by lions"
+               ],
+               [
+                  "00:01:42,730 --> 00:01:44,770",
+                  "and that kind of thing."
+               ],
+               [
+                  "00:01:44,770 --> 00:01:48,530",
+                  "It has kind of evolved in a"
+               ],
+               [
+                  "00:01:44,770 --> 00:01:48,530",
+                  "way that it can still survive"
+               ],
+               [
+                  "00:01:48,530 --> 00:01:50,570",
+                  "and still get all the restoration it needs"
+               ],
+               [
+                  "00:01:50,570 --> 00:01:52,340",
+                  "under such a short period of time."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":27,
+            "Sentence":[
+               [
+                  "00:01:55,460 --> 00:01:57,810",
+                  "- So we think it works the same way,"
+               ],
+               [
+                  "00:01:57,810 --> 00:01:59,530",
+                  "but maybe just like more efficiently."
+               ],
+               [
+                  "00:01:59,530 --> 00:02:03,090",
+                  "And so we're still really"
+               ],
+               [
+                  "00:01:59,530 --> 00:02:03,090",
+                  "learning about how this works."
+               ],
+               [
+                  "00:02:03,090 --> 00:02:05,850",
+                  "Sleep science itself"
+               ],
+               [
+                  "00:02:03,090 --> 00:02:05,850",
+                  "is kind of a new field."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":29,
+            "Sentence":[
+               [
+                  "00:02:09,880 --> 00:02:10,955",
+                  "- And how did you feel?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":31,
+            "Sentence":[
+               [
+                  "00:02:12,120 --> 00:02:13,150",
+                  "- Really tired."
+               ],
+               [
+                  "00:02:13,150 --> 00:02:15,745",
+                  "Do you think you were a"
+               ],
+               [
+                  "00:02:13,150 --> 00:02:15,745",
+                  "little crankier than usual?"
+               ],
+               [
+                  "00:02:15,745 --> 00:02:17,040",
+                  "Yeah."
+               ],
+               [
+                  "00:02:17,040 --> 00:02:18,540",
+                  "That's actually really interesting,"
+               ],
+               [
+                  "00:02:18,540 --> 00:02:20,440",
+                  "because what happens is"
+               ],
+               [
+                  "00:02:20,440 --> 00:02:23,930",
+                  "humans and everything"
+               ],
+               [
+                  "00:02:20,440 --> 00:02:23,930",
+                  "needs to sleep eventually,"
+               ],
+               [
+                  "00:02:23,930 --> 00:02:26,810",
+                  "and so you can't stay"
+               ],
+               [
+                  "00:02:23,930 --> 00:02:26,810",
+                  "up indefinitely, right?"
+               ],
+               [
+                  "00:02:26,810 --> 00:02:29,180",
+                  "What do you think happens"
+               ],
+               [
+                  "00:02:26,810 --> 00:02:29,180",
+                  "if you don't sleep?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":33,
+            "Sentence":[
+               [
+                  "00:02:31,980 --> 00:02:32,813",
+                  "- Excellent."
+               ],
+               [
+                  "00:02:32,813 --> 00:02:34,670",
+                  "So now I want to tell"
+               ],
+               [
+                  "00:02:32,813 --> 00:02:34,670",
+                  "you about another animal"
+               ],
+               [
+                  "00:02:34,670 --> 00:02:36,160",
+                  "and how they sleep, okay?"
+               ],
+               [
+                  "00:02:36,160 --> 00:02:37,564",
+                  "So we have this one."
+               ],
+               [
+                  "00:02:37,564 --> 00:02:39,270",
+                  "What's that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":35,
+            "Sentence":[
+               [
+                  "00:02:40,103 --> 00:02:40,936",
+                  "- A hippopotamus."
+               ],
+               [
+                  "00:02:40,936 --> 00:02:42,413",
+                  "They have a different challenge."
+               ],
+               [
+                  "00:02:42,413 --> 00:02:46,010",
+                  "They sleep underwater."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":37,
+            "Sentence":[
+               [
+                  "00:02:47,950 --> 00:02:48,783",
+                  "- Right, right!"
+               ],
+               [
+                  "00:02:48,783 --> 00:02:49,760",
+                  "So how do they do it?"
+               ],
+               [
+                  "00:02:49,760 --> 00:02:50,663",
+                  "In the area that they live in,"
+               ],
+               [
+                  "00:02:50,663 --> 00:02:52,540",
+                  "they need to stay cool, right?"
+               ],
+               [
+                  "00:02:52,540 --> 00:02:54,230",
+                  "And so they spend a lot"
+               ],
+               [
+                  "00:02:52,540 --> 00:02:54,230",
+                  "of time in the water,"
+               ],
+               [
+                  "00:02:54,230 --> 00:02:55,340",
+                  "and so then as a consequence,"
+               ],
+               [
+                  "00:02:55,340 --> 00:02:56,700",
+                  "they need to sleep in the water,"
+               ],
+               [
+                  "00:02:56,700 --> 00:02:57,740",
+                  "but how do they do it?"
+               ],
+               [
+                  "00:02:57,740 --> 00:03:00,260",
+                  "So it's really fascinating."
+               ],
+               [
+                  "00:03:00,260 --> 00:03:02,770",
+                  "What they do is while they're sleeping,"
+               ],
+               [
+                  "00:03:02,770 --> 00:03:06,080",
+                  "they actually float back up"
+               ],
+               [
+                  "00:03:02,770 --> 00:03:06,080",
+                  "to the surface and breathe"
+               ],
+               [
+                  "00:03:06,080 --> 00:03:07,530",
+                  "without waking up."
+               ],
+               [
+                  "00:03:07,530 --> 00:03:10,910",
+                  "They're able to go about"
+               ],
+               [
+                  "00:03:07,530 --> 00:03:10,910",
+                  "their whole sleep cycles"
+               ],
+               [
+                  "00:03:10,910 --> 00:03:12,090",
+                  "but still able to breathe,"
+               ],
+               [
+                  "00:03:12,090 --> 00:03:14,150",
+                  "because their body has adapted in a way"
+               ],
+               [
+                  "00:03:14,150 --> 00:03:17,230",
+                  "that they can still get"
+               ],
+               [
+                  "00:03:14,150 --> 00:03:17,230",
+                  "the oxygen that they need."
+               ],
+               [
+                  "00:03:17,230 --> 00:03:19,770",
+                  "It's a really amazing thing."
+               ],
+               [
+                  "00:03:19,770 --> 00:03:20,810",
+                  "What do you think?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":39,
+            "Sentence":[
+               [
+                  "00:03:21,643 --> 00:03:22,956",
+                  "- Would it be cool to have that power?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":41,
+            "Sentence":[
+               [
+                  "00:03:23,860 --> 00:03:26,090",
+                  "- So now I want to talk"
+               ],
+               [
+                  "00:03:23,860 --> 00:03:26,090",
+                  "about our last animal,"
+               ],
+               [
+                  "00:03:26,090 --> 00:03:29,270",
+                  "and I think this one is probably"
+               ],
+               [
+                  "00:03:26,090 --> 00:03:29,270",
+                  "the most amazing of all."
+               ],
+               [
+                  "00:03:29,270 --> 00:03:31,180",
+                  "Okay, so what's this?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":43,
+            "Sentence":[
+               [
+                  "00:03:32,013 --> 00:03:32,846",
+                  "- A dolphin!"
+               ],
+               [
+                  "00:03:32,846 --> 00:03:33,679",
+                  "Yes."
+               ],
+               [
+                  "00:03:33,679 --> 00:03:37,190",
+                  "So dolphins, kind of like hippos,"
+               ],
+               [
+                  "00:03:37,190 --> 00:03:40,425",
+                  "have to sleep in the water, okay?"
+               ],
+               [
+                  "00:03:40,425 --> 00:03:43,460",
+                  "But because they're mammals,"
+               ],
+               [
+                  "00:03:40,425 --> 00:03:43,460",
+                  "right, they need to breathe."
+               ],
+               [
+                  "00:03:43,460 --> 00:03:44,760",
+                  "Dolphins breathe air."
+               ],
+               [
+                  "00:03:44,760 --> 00:03:46,420",
+                  "They have to go up to the"
+               ],
+               [
+                  "00:03:44,760 --> 00:03:46,420",
+                  "surface and breathe, right?"
+               ],
+               [
+                  "00:03:46,420 --> 00:03:47,590",
+                  "And for an animal like that,"
+               ],
+               [
+                  "00:03:47,590 --> 00:03:50,280",
+                  "it needs to figure out"
+               ],
+               [
+                  "00:03:47,590 --> 00:03:50,280",
+                  "a way that it can sleep"
+               ],
+               [
+                  "00:03:50,280 --> 00:03:52,180",
+                  "but also still survive, right?"
+               ],
+               [
+                  "00:03:52,180 --> 00:03:54,933",
+                  "You know how dolphins sleep?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":45,
+            "Sentence":[
+               [
+                  "00:03:55,766 --> 00:03:57,440",
+                  "- One half of their brain at a time."
+               ],
+               [
+                  "00:03:57,440 --> 00:04:00,300",
+                  "So half of their brain goes to sleep,"
+               ],
+               [
+                  "00:04:00,300 --> 00:04:02,360",
+                  "and the other half stays awake,"
+               ],
+               [
+                  "00:04:02,360 --> 00:04:04,700",
+                  "so that they can continue"
+               ],
+               [
+                  "00:04:02,360 --> 00:04:04,700",
+                  "to breathe and swim,"
+               ],
+               [
+                  "00:04:04,700 --> 00:04:07,030",
+                  "and they do it in this four hours a time,"
+               ],
+               [
+                  "00:04:07,030 --> 00:04:09,390",
+                  "so like their right part"
+               ],
+               [
+                  "00:04:07,030 --> 00:04:09,390",
+                  "of their brain sleeps,"
+               ],
+               [
+                  "00:04:09,390 --> 00:04:11,470",
+                  "they're able to go up to"
+               ],
+               [
+                  "00:04:09,390 --> 00:04:11,470",
+                  "the surface and breathe."
+               ],
+               [
+                  "00:04:11,470 --> 00:04:13,940",
+                  "Then their left part of their"
+               ],
+               [
+                  "00:04:11,470 --> 00:04:13,940",
+                  "brain sleeps for four hours,"
+               ],
+               [
+                  "00:04:13,940 --> 00:04:16,160",
+                  "and it goes back and"
+               ],
+               [
+                  "00:04:13,940 --> 00:04:16,160",
+                  "forth, back and forth,"
+               ],
+               [
+                  "00:04:16,160 --> 00:04:18,630",
+                  "so they can kind of maintain alertness,"
+               ],
+               [
+                  "00:04:18,630 --> 00:04:21,370",
+                  "still breathe, and survive."
+               ],
+               [
+                  "00:04:21,370 --> 00:04:22,277",
+                  "Is that amazing or what?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":47,
+            "Sentence":[
+               [
+                  "00:04:23,440 --> 00:04:24,870",
+                  "- So what'd you learn today?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":49,
+            "Sentence":[
+               [
+                  "00:04:26,930 --> 00:04:29,070",
+                  "- What is important about sleeping?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:04:40,280 --> 00:04:41,210",
+                  "- Hey, I'm Aric."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:04:42,876 --> 00:04:43,709",
+                  "- And how old are you, Dwayne?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:04:44,566 --> 00:04:45,970",
+                  "- Okay, and where do you go to school?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:04:48,140 --> 00:04:51,006",
+                  "- Excellent, and what's"
+               ],
+               [
+                  "00:04:48,140 --> 00:04:51,006",
+                  "your favorite subject?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:04:53,260 --> 00:04:54,189",
+                  "- That's a serious science."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:04:55,022 --> 00:04:56,800",
+                  "- And good news, we're"
+               ],
+               [
+                  "00:04:55,022 --> 00:04:56,800",
+                  "talking about science today."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:04:57,633 --> 00:04:59,380",
+                  "- In fact, we're talking about sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:04:59,380 --> 00:05:01,000",
+                  "- And sleep science."
+               ],
+               [
+                  "00:05:01,000 --> 00:05:01,833",
+                  "Do you sleep?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:05:02,950 --> 00:05:04,410",
+                  "- You try, we all gotta try."
+               ],
+               [
+                  "00:05:04,410 --> 00:05:06,780",
+                  "You've probably heard about"
+               ],
+               [
+                  "00:05:04,410 --> 00:05:06,780",
+                  "sleep as this kind of,"
+               ],
+               [
+                  "00:05:06,780 --> 00:05:08,290",
+                  "you know, it's a biological process"
+               ],
+               [
+                  "00:05:08,290 --> 00:05:09,710",
+                  "that happens in your brain."
+               ],
+               [
+                  "00:05:09,710 --> 00:05:10,870",
+                  "It's really important for your body,"
+               ],
+               [
+                  "00:05:10,870 --> 00:05:12,860",
+                  "but it's a lot more complex than that."
+               ],
+               [
+                  "00:05:12,860 --> 00:05:14,156",
+                  "Sleep is made up of different parts."
+               ],
+               [
+                  "00:05:14,156 --> 00:05:15,830",
+                  "You know, when you think about sleep,"
+               ],
+               [
+                  "00:05:15,830 --> 00:05:17,090",
+                  "what do you think about?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:05:24,620 --> 00:05:27,370",
+                  "- But being off is not just being off."
+               ],
+               [
+                  "00:05:27,370 --> 00:05:29,210",
+                  "There's lots of things that are happening."
+               ],
+               [
+                  "00:05:29,210 --> 00:05:30,390",
+                  "We're gonna kind of talk"
+               ],
+               [
+                  "00:05:30,390 --> 00:05:32,600",
+                  "about those different pieces of sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:05:33,433 --> 00:05:36,150",
+                  "- So our sleep is made up"
+               ],
+               [
+                  "00:05:33,433 --> 00:05:36,150",
+                  "of different types, okay?"
+               ],
+               [
+                  "00:05:36,150 --> 00:05:40,250",
+                  "The first one is called"
+               ],
+               [
+                  "00:05:36,150 --> 00:05:40,250",
+                  "non-rapid eye movement sleep,"
+               ],
+               [
+                  "00:05:40,250 --> 00:05:41,870",
+                  "or non-REM, okay?"
+               ],
+               [
+                  "00:05:41,870 --> 00:05:43,220",
+                  "Or NREM."
+               ],
+               [
+                  "00:05:43,220 --> 00:05:46,640",
+                  "And then the other one, which"
+               ],
+               [
+                  "00:05:43,220 --> 00:05:46,640",
+                  "might not be a surprise,"
+               ],
+               [
+                  "00:05:46,640 --> 00:05:47,473",
+                  "is called REM."
+               ],
+               [
+                  "00:05:47,473 --> 00:05:48,306",
+                  "Rapid eye movement sleep."
+               ],
+               [
+                  "00:05:48,306 --> 00:05:51,680",
+                  "And those are the two main"
+               ],
+               [
+                  "00:05:48,306 --> 00:05:51,680",
+                  "types of sleep that happen."
+               ],
+               [
+                  "00:05:51,680 --> 00:05:53,940",
+                  "The way that we measure"
+               ],
+               [
+                  "00:05:51,680 --> 00:05:53,940",
+                  "that as a sleep scientist"
+               ],
+               [
+                  "00:05:53,940 --> 00:05:55,660",
+                  "is that we'll actually"
+               ],
+               [
+                  "00:05:53,940 --> 00:05:55,660",
+                  "bring people into the lab"
+               ],
+               [
+                  "00:05:55,660 --> 00:05:56,980",
+                  "where they can do this at home,"
+               ],
+               [
+                  "00:05:56,980 --> 00:06:00,660",
+                  "where we put electrodes on their scalp"
+               ],
+               [
+                  "00:06:00,660 --> 00:06:01,600",
+                  "while they're sleeping,"
+               ],
+               [
+                  "00:06:01,600 --> 00:06:04,730",
+                  "and that allows us to"
+               ],
+               [
+                  "00:06:01,600 --> 00:06:04,730",
+                  "measure the brain activity"
+               ],
+               [
+                  "00:06:04,730 --> 00:06:06,400",
+                  "that's going on during the night."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:06:11,545 --> 00:06:14,070",
+                  "- When we measure all of"
+               ],
+               [
+                  "00:06:11,545 --> 00:06:14,070",
+                  "that, we're able to see"
+               ],
+               [
+                  "00:06:14,070 --> 00:06:16,030",
+                  "how much time someone's asleep,"
+               ],
+               [
+                  "00:06:16,030 --> 00:06:18,330",
+                  "and how many times they wake"
+               ],
+               [
+                  "00:06:16,030 --> 00:06:18,330",
+                  "up and stuff during the night."
+               ],
+               [
+                  "00:06:18,330 --> 00:06:19,770",
+                  "You know, we're also really interested"
+               ],
+               [
+                  "00:06:19,770 --> 00:06:23,010",
+                  "in kind of, the amount of"
+               ],
+               [
+                  "00:06:19,770 --> 00:06:23,010",
+                  "non-REM sleep someone gets"
+               ],
+               [
+                  "00:06:23,010 --> 00:06:24,900",
+                  "and the amount of REM"
+               ],
+               [
+                  "00:06:23,010 --> 00:06:24,900",
+                  "sleep that someone gets,"
+               ],
+               [
+                  "00:06:24,900 --> 00:06:27,630",
+                  "because each part of those types of sleep"
+               ],
+               [
+                  "00:06:27,630 --> 00:06:29,330",
+                  "do different things for the body."
+               ],
+               [
+                  "00:06:29,330 --> 00:06:31,220",
+                  "And so it's important"
+               ],
+               [
+                  "00:06:29,330 --> 00:06:31,220",
+                  "to get both of those."
+               ],
+               [
+                  "00:06:31,220 --> 00:06:33,030",
+                  "And so within non-REM sleep,"
+               ],
+               [
+                  "00:06:33,030 --> 00:06:37,650",
+                  "there are three stages ranging"
+               ],
+               [
+                  "00:06:33,030 --> 00:06:37,650",
+                  "from N-1 to N-2 to N-3."
+               ],
+               [
+                  "00:06:37,650 --> 00:06:39,990",
+                  "So not particularly clever in our naming,"
+               ],
+               [
+                  "00:06:39,990 --> 00:06:42,130",
+                  "but that's how we know"
+               ],
+               [
+                  "00:06:39,990 --> 00:06:42,130",
+                  "what stages they are."
+               ],
+               [
+                  "00:06:42,130 --> 00:06:44,010",
+                  "And what they do is it moves"
+               ],
+               [
+                  "00:06:44,010 --> 00:06:46,414",
+                  "from lightest to deepest sleep, okay?"
+               ],
+               [
+                  "00:06:46,414 --> 00:06:50,520",
+                  "N-1, it's more kind of"
+               ],
+               [
+                  "00:06:46,414 --> 00:06:50,520",
+                  "light, wakefulness sleep,"
+               ],
+               [
+                  "00:06:50,520 --> 00:06:52,470",
+                  "kind of in and out of sleeping."
+               ],
+               [
+                  "00:06:52,470 --> 00:06:54,150",
+                  "Then you go into N-2,"
+               ],
+               [
+                  "00:06:54,150 --> 00:06:58,030",
+                  "which is where we spend 45"
+               ],
+               [
+                  "00:06:54,150 --> 00:06:58,030",
+                  "to 55 percent of our sleep."
+               ],
+               [
+                  "00:06:58,030 --> 00:07:00,210",
+                  "And it's more this kind of light sleep,"
+               ],
+               [
+                  "00:07:00,210 --> 00:07:03,417",
+                  "but then we get into kind of"
+               ],
+               [
+                  "00:07:00,210 --> 00:07:03,417",
+                  "the really restorative sleep,"
+               ],
+               [
+                  "00:07:03,417 --> 00:07:05,000",
+                  "and that's N-3."
+               ],
+               [
+                  "00:07:05,000 --> 00:07:08,190",
+                  "And in N-3, when we look"
+               ],
+               [
+                  "00:07:05,000 --> 00:07:08,190",
+                  "at someone's EEG wave,"
+               ],
+               [
+                  "00:07:08,190 --> 00:07:10,830",
+                  "we see these big slow waves,"
+               ],
+               [
+                  "00:07:10,830 --> 00:07:12,970",
+                  "and it's called slow wave sleep."
+               ],
+               [
+                  "00:07:12,970 --> 00:07:17,450",
+                  "And so we spend about 20% of"
+               ],
+               [
+                  "00:07:12,970 --> 00:07:17,450",
+                  "our sleep in slow wave sleep,"
+               ],
+               [
+                  "00:07:17,450 --> 00:07:19,100",
+                  "though it can vary on a day to day."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:07:19,933 --> 00:07:20,766",
+                  "- Okay?"
+               ],
+               [
+                  "00:07:20,766 --> 00:07:23,750",
+                  "When do you think you"
+               ],
+               [
+                  "00:07:20,766 --> 00:07:23,750",
+                  "experience the most REM?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":28,
+            "Sentence":[
+               [
+                  "00:07:42,140 --> 00:07:44,240",
+                  "- You know, some of that"
+               ],
+               [
+                  "00:07:42,140 --> 00:07:44,240",
+                  "is totally accurate,"
+               ],
+               [
+                  "00:07:44,240 --> 00:07:47,070",
+                  "that like when your brain's more engaged"
+               ],
+               [
+                  "00:07:47,070 --> 00:07:51,090",
+                  "by being on your phone or doing"
+               ],
+               [
+                  "00:07:47,070 --> 00:07:51,090",
+                  "things that you really enjoy"
+               ],
+               [
+                  "00:07:51,090 --> 00:07:52,200",
+                  "or things that stress you out"
+               ],
+               [
+                  "00:07:52,200 --> 00:07:53,360",
+                  "or any of those types of things,"
+               ],
+               [
+                  "00:07:53,360 --> 00:07:54,990",
+                  "it's harder to get to sleep"
+               ],
+               [
+                  "00:07:54,990 --> 00:07:58,280",
+                  "and to kind of fall into"
+               ],
+               [
+                  "00:07:54,990 --> 00:07:58,280",
+                  "that deeper levels of sleep."
+               ],
+               [
+                  "00:07:58,280 --> 00:08:01,860",
+                  "Most of the REM sleep,"
+               ],
+               [
+                  "00:07:58,280 --> 00:08:01,860",
+                  "this dreaming sleep,"
+               ],
+               [
+                  "00:08:01,860 --> 00:08:03,869",
+                  "happens in the second half of the night."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":30,
+            "Sentence":[
+               [
+                  "00:08:04,702 --> 00:08:05,535",
+                  "- Okay?"
+               ],
+               [
+                  "00:08:05,535 --> 00:08:06,368",
+                  "So we wake up a lot during the night,"
+               ],
+               [
+                  "00:08:06,368 --> 00:08:07,820",
+                  "and we just don't remember it."
+               ],
+               [
+                  "00:08:07,820 --> 00:08:09,720",
+                  "And you'll go back down into deep sleep,"
+               ],
+               [
+                  "00:08:09,720 --> 00:08:11,930",
+                  "and then up again into REM,"
+               ],
+               [
+                  "00:08:11,930 --> 00:08:14,040",
+                  "you know, in kinda these cycles."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":32,
+            "Sentence":[
+               [
+                  "00:08:14,873 --> 00:08:15,706",
+                  "- Do you ever take naps?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":34,
+            "Sentence":[
+               [
+                  "00:08:16,539 --> 00:08:17,372",
+                  "- Okay."
+               ],
+               [
+                  "00:08:17,372 --> 00:08:18,730",
+                  "How long are the naps that you take?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":36,
+            "Sentence":[
+               [
+                  "00:08:21,920 --> 00:08:23,400",
+                  "- One to six hours?"
+               ],
+               [
+                  "00:08:23,400 --> 00:08:24,233",
+                  "That's a long nap."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":38,
+            "Sentence":[
+               [
+                  "00:08:25,066 --> 00:08:25,899",
+                  "- Okay."
+               ],
+               [
+                  "00:08:25,899 --> 00:08:28,560",
+                  "Usually we want to keep"
+               ],
+               [
+                  "00:08:25,899 --> 00:08:28,560",
+                  "naps, like 20 to 30 minutes."
+               ],
+               [
+                  "00:08:28,560 --> 00:08:31,280",
+                  "When people drop into deep sleep,"
+               ],
+               [
+                  "00:08:31,280 --> 00:08:32,970",
+                  "and then they're woken up out of a nap,"
+               ],
+               [
+                  "00:08:32,970 --> 00:08:35,900",
+                  "most people report that"
+               ],
+               [
+                  "00:08:32,970 --> 00:08:35,900",
+                  "they feel way worse"
+               ],
+               [
+                  "00:08:35,900 --> 00:08:37,750",
+                  "than they did before they took the nap,"
+               ],
+               [
+                  "00:08:37,750 --> 00:08:40,220",
+                  "and that's because you've"
+               ],
+               [
+                  "00:08:37,750 --> 00:08:40,220",
+                  "been in deep sleep,"
+               ],
+               [
+                  "00:08:40,220 --> 00:08:42,370",
+                  "and it's this term called sleep inertia."
+               ],
+               [
+                  "00:08:42,370 --> 00:08:44,300",
+                  "So what are the stages of sleep?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":40,
+            "Sentence":[
+               [
+                  "00:09:07,360 --> 00:09:09,360",
+                  "- I want to know if you agree,"
+               ],
+               [
+                  "00:09:09,360 --> 00:09:10,669",
+                  "sleep is the coolest thing"
+               ],
+               [
+                  "00:09:09,360 --> 00:09:10,669",
+                  "you've ever heard of."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:09:17,920 --> 00:09:20,130",
+                  "- So tell me, where are you in school?"
+               ],
+               [
+                  "00:09:20,130 --> 00:09:20,963",
+                  "What do you study?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:09:24,690 --> 00:09:25,673",
+                  "- So pretty science-y."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:09:26,990 --> 00:09:29,210",
+                  "- Excellent, because today for this level,"
+               ],
+               [
+                  "00:09:29,210 --> 00:09:30,398",
+                  "we're talking about sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:09:31,850 --> 00:09:34,460",
+                  "- How much sleep do you get, typically?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:09:35,570 --> 00:09:37,080",
+                  "- 10 hours?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:09:40,620 --> 00:09:41,453",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:09:42,286 --> 00:09:43,119",
+                  "- And so, how much do you think you need?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:09:48,010 --> 00:09:50,300",
+                  "- It turns out, for people that are"
+               ],
+               [
+                  "00:09:50,300 --> 00:09:53,460",
+                  "between the ages of 18 and 65,"
+               ],
+               [
+                  "00:09:53,460 --> 00:09:55,330",
+                  "the agreed upon amount of sleep"
+               ],
+               [
+                  "00:09:55,330 --> 00:09:58,590",
+                  "that people should get is"
+               ],
+               [
+                  "00:09:55,330 --> 00:09:58,590",
+                  "between seven and nine hours,"
+               ],
+               [
+                  "00:09:58,590 --> 00:10:01,540",
+                  "and it's really at least"
+               ],
+               [
+                  "00:09:58,590 --> 00:10:01,540",
+                  "seven hours per night,"
+               ],
+               [
+                  "00:10:01,540 --> 00:10:03,930",
+                  "to maintain optimal health as an adult."
+               ],
+               [
+                  "00:10:03,930 --> 00:10:05,270",
+                  "So at least seven hours."
+               ],
+               [
+                  "00:10:05,270 --> 00:10:08,680",
+                  "When we look at across all"
+               ],
+               [
+                  "00:10:05,270 --> 00:10:08,680",
+                  "of the data that is available"
+               ],
+               [
+                  "00:10:08,680 --> 00:10:09,740",
+                  "on like sleep and health,"
+               ],
+               [
+                  "00:10:09,740 --> 00:10:12,100",
+                  "and sleep and psychiatric illness"
+               ],
+               [
+                  "00:10:09,740 --> 00:10:12,100",
+                  "and those types of things,"
+               ],
+               [
+                  "00:10:12,100 --> 00:10:15,290",
+                  "the largest risk is when"
+               ],
+               [
+                  "00:10:12,100 --> 00:10:15,290",
+                  "people get five hours or less."
+               ],
+               [
+                  "00:10:15,290 --> 00:10:18,900",
+                  "What do you think is"
+               ],
+               [
+                  "00:10:15,290 --> 00:10:18,900",
+                  "responsible for driving"
+               ],
+               [
+                  "00:10:18,900 --> 00:10:20,950",
+                  "how much sleep you need,"
+               ],
+               [
+                  "00:10:18,900 --> 00:10:20,950",
+                  "and things like that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:10:34,219 --> 00:10:35,810",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:11:23,080 --> 00:11:25,780",
+                  "- I'm from Hoi, so we have very long days."
+               ],
+               [
+                  "00:11:25,780 --> 00:11:27,850",
+                  "We have early sunrises, late sunsets."
+               ],
+               [
+                  "00:11:27,850 --> 00:11:30,310",
+                  "Does that signify less sleep,"
+               ],
+               [
+                  "00:11:30,310 --> 00:11:31,670",
+                  "because we have a shorter amount of time"
+               ],
+               [
+                  "00:11:31,670 --> 00:11:33,430",
+                  "for melatonin to be released?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:12:45,660 --> 00:12:47,140",
+                  "- I see"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:12:48,434 --> 00:12:49,267",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:12:50,210 --> 00:12:52,100",
+                  "- I learned about the two processes,"
+               ],
+               [
+                  "00:12:52,100 --> 00:12:53,850",
+                  "process S and process C."
+               ],
+               [
+                  "00:12:53,850 --> 00:12:56,090",
+                  "I learned about the circadian rhythm,"
+               ],
+               [
+                  "00:12:56,090 --> 00:12:59,770",
+                  "and it doesn't only rely on melatonin,"
+               ],
+               [
+                  "00:12:59,770 --> 00:13:02,150",
+                  "but it also relies on your eating"
+               ],
+               [
+                  "00:13:02,150 --> 00:13:04,550",
+                  "and a whole bunch of other factors"
+               ],
+               [
+                  "00:13:04,550 --> 00:13:06,283",
+                  "that affect your circadian rhythm."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:13:08,360 --> 00:13:09,483",
+                  "- Hi, I'm Aric."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:13:10,540 --> 00:13:11,640",
+                  "- Thank you for joining us."
+               ],
+               [
+                  "00:13:11,640 --> 00:13:12,480",
+                  "What do you do?"
+               ],
+               [
+                  "00:13:12,480 --> 00:13:14,340",
+                  "Where are you at in school?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:13:22,000 --> 00:13:22,890",
+                  "- Congratulations."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:13:23,723 --> 00:13:25,821",
+                  "- So a lot of brain stuff."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:13:27,541 --> 00:13:28,374",
+                  "- Great."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:13:32,850 --> 00:13:35,260",
+                  "- So that's good, because"
+               ],
+               [
+                  "00:13:32,850 --> 00:13:35,260",
+                  "that's why you're here,"
+               ],
+               [
+                  "00:13:35,260 --> 00:13:38,100",
+                  "and so we're talking about sleep today,"
+               ],
+               [
+                  "00:13:38,100 --> 00:13:42,041",
+                  "and really about kind of"
+               ],
+               [
+                  "00:13:38,100 --> 00:13:42,041",
+                  "what is the brain machinery"
+               ],
+               [
+                  "00:13:42,041 --> 00:13:45,110",
+                  "through which we go through consciousness"
+               ],
+               [
+                  "00:13:45,110 --> 00:13:47,060",
+                  "to unconsciousness and that transition."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:13:47,893 --> 00:13:48,726",
+                  "- Okay."
+               ],
+               [
+                  "00:13:48,726 --> 00:13:49,810",
+                  "The best way to think"
+               ],
+               [
+                  "00:13:48,726 --> 00:13:49,810",
+                  "about this transition"
+               ],
+               [
+                  "00:13:49,810 --> 00:13:53,420",
+                  "is really called, it's a"
+               ],
+               [
+                  "00:13:49,810 --> 00:13:53,420",
+                  "flip flop switch, okay?"
+               ],
+               [
+                  "00:13:53,420 --> 00:13:55,410",
+                  "So this term comes from engineering,"
+               ],
+               [
+                  "00:13:55,410 --> 00:13:57,150",
+                  "and the idea is that in sleep,"
+               ],
+               [
+                  "00:13:57,150 --> 00:14:01,040",
+                  "you basically have kind of"
+               ],
+               [
+                  "00:13:57,150 --> 00:14:01,040",
+                  "this all of nothing experience."
+               ],
+               [
+                  "00:14:01,040 --> 00:14:03,043",
+                  "Certainly people kind"
+               ],
+               [
+                  "00:14:01,040 --> 00:14:03,043",
+                  "of drift off to sleep,"
+               ],
+               [
+                  "00:14:03,043 --> 00:14:04,830",
+                  "but then all of a sudden"
+               ],
+               [
+                  "00:14:03,043 --> 00:14:04,830",
+                  "you're unconscious, right?"
+               ],
+               [
+                  "00:14:04,830 --> 00:14:06,832",
+                  "So it seems like it's"
+               ],
+               [
+                  "00:14:04,830 --> 00:14:06,832",
+                  "this flip flop between"
+               ],
+               [
+                  "00:14:06,832 --> 00:14:10,230",
+                  "the arousal system and the"
+               ],
+               [
+                  "00:14:06,832 --> 00:14:10,230",
+                  "sleep promoting system,"
+               ],
+               [
+                  "00:14:10,230 --> 00:14:12,130",
+                  "and it's certainly regulated,"
+               ],
+               [
+                  "00:14:12,130 --> 00:14:13,580",
+                  "and we'll get a little bit into that,"
+               ],
+               [
+                  "00:14:13,580 --> 00:14:14,870",
+                  "but they're certainly kind of made up"
+               ],
+               [
+                  "00:14:14,870 --> 00:14:17,870",
+                  "of two reciprocally inhibitory processes."
+               ],
+               [
+                  "00:14:17,870 --> 00:14:20,810",
+                  "Okay, so we have the ascending"
+               ],
+               [
+                  "00:14:17,870 --> 00:14:20,810",
+                  "reticular activating system."
+               ],
+               [
+                  "00:14:20,810 --> 00:14:22,580",
+                  "It originates in the brain stem,"
+               ],
+               [
+                  "00:14:22,580 --> 00:14:25,100",
+                  "and there's a dorsal and"
+               ],
+               [
+                  "00:14:22,580 --> 00:14:25,100",
+                  "a ventral arm to this,"
+               ],
+               [
+                  "00:14:25,100 --> 00:14:28,990",
+                  "and so the dorsal arm has"
+               ],
+               [
+                  "00:14:25,100 --> 00:14:28,990",
+                  "neurons, cholinergic neurons,"
+               ],
+               [
+                  "00:14:28,990 --> 00:14:29,960",
+                  "that go up to the thalamus"
+               ],
+               [
+                  "00:14:29,960 --> 00:14:32,320",
+                  "and then it projections"
+               ],
+               [
+                  "00:14:29,960 --> 00:14:32,320",
+                  "into the fore brain,"
+               ],
+               [
+                  "00:14:32,320 --> 00:14:33,970",
+                  "and then there's the ventral arm,"
+               ],
+               [
+                  "00:14:33,970 --> 00:14:35,600",
+                  "and this is comprised of a whole bunch"
+               ],
+               [
+                  "00:14:35,600 --> 00:14:36,510",
+                  "of different types of neurons,"
+               ],
+               [
+                  "00:14:36,510 --> 00:14:37,720",
+                  "so there are monominergic,"
+               ],
+               [
+                  "00:14:37,720 --> 00:14:39,970",
+                  "so there's kind of dopaminergic neurons"
+               ],
+               [
+                  "00:14:39,970 --> 00:14:43,070",
+                  "that come from the periaqueductal gray,"
+               ],
+               [
+                  "00:14:43,070 --> 00:14:45,670",
+                  "serotonergic ones from"
+               ],
+               [
+                  "00:14:43,070 --> 00:14:45,670",
+                  "the dorsal raphae nuclei,"
+               ],
+               [
+                  "00:14:45,670 --> 00:14:47,190",
+                  "histaminergic neurons that come"
+               ],
+               [
+                  "00:14:47,190 --> 00:14:50,060",
+                  "from the tuberomammillary"
+               ],
+               [
+                  "00:14:47,190 --> 00:14:50,060",
+                  "nucleus of the hippothalamus,"
+               ],
+               [
+                  "00:14:50,060 --> 00:14:52,860",
+                  "and then noradrenergic neurons"
+               ],
+               [
+                  "00:14:52,860 --> 00:14:55,490",
+                  "from the locus coeruleus,"
+               ],
+               [
+                  "00:14:55,490 --> 00:14:57,940",
+                  "and so all of those are"
+               ],
+               [
+                  "00:14:55,490 --> 00:14:57,940",
+                  "kind of working in tandem"
+               ],
+               [
+                  "00:14:57,940 --> 00:15:00,432",
+                  "to kind of drive wake within the brain."
+               ],
+               [
+                  "00:15:00,432 --> 00:15:04,499",
+                  "So if we just think about"
+               ],
+               [
+                  "00:15:00,432 --> 00:15:04,499",
+                  "drugs that are available"
+               ],
+               [
+                  "00:15:04,499 --> 00:15:07,360",
+                  "inducing wakefulness, we can certainly,"
+               ],
+               [
+                  "00:15:07,360 --> 00:15:09,460",
+                  "kind of the dopaminergic"
+               ],
+               [
+                  "00:15:07,360 --> 00:15:09,460",
+                  "ones jump out, right?"
+               ],
+               [
+                  "00:15:09,460 --> 00:15:13,930",
+                  "So we have amphetamines that"
+               ],
+               [
+                  "00:15:09,460 --> 00:15:13,930",
+                  "kind of drive those signaling,"
+               ],
+               [
+                  "00:15:13,930 --> 00:15:18,230",
+                  "and then modafinil, which"
+               ],
+               [
+                  "00:15:13,930 --> 00:15:18,230",
+                  "is a wake promoting drug"
+               ],
+               [
+                  "00:15:18,230 --> 00:15:21,120",
+                  "for people that have kind of"
+               ],
+               [
+                  "00:15:18,230 --> 00:15:21,120",
+                  "excessive day-time sleepiness"
+               ],
+               [
+                  "00:15:21,120 --> 00:15:23,060",
+                  "that maintains alertness"
+               ],
+               [
+                  "00:15:21,120 --> 00:15:23,060",
+                  "throughout the day."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:15:36,550 --> 00:15:37,830",
+                  "- For the role that they play"
+               ],
+               [
+                  "00:15:37,830 --> 00:15:39,170",
+                  "with respect to the sleep-wake system"
+               ],
+               [
+                  "00:15:39,170 --> 00:15:41,550",
+                  "is really kind of amping"
+               ],
+               [
+                  "00:15:39,170 --> 00:15:41,550",
+                  "up the wake system, right?"
+               ],
+               [
+                  "00:15:41,550 --> 00:15:44,020",
+                  "And so certainly that has"
+               ],
+               [
+                  "00:15:41,550 --> 00:15:44,020",
+                  "like down stream consequences"
+               ],
+               [
+                  "00:15:44,020 --> 00:15:46,580",
+                  "for the sleep system, because"
+               ],
+               [
+                  "00:15:44,020 --> 00:15:46,580",
+                  "now the flip flop switch"
+               ],
+               [
+                  "00:15:46,580 --> 00:15:49,650",
+                  "is kind of pushed in a"
+               ],
+               [
+                  "00:15:46,580 --> 00:15:49,650",
+                  "much stronger direction,"
+               ],
+               [
+                  "00:15:49,650 --> 00:15:53,240",
+                  "and we have to kind of rely"
+               ],
+               [
+                  "00:15:49,650 --> 00:15:53,240",
+                  "on what regulates sleep"
+               ],
+               [
+                  "00:15:53,240 --> 00:15:54,707",
+                  "to get it pushed back to sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:16:07,230 --> 00:16:08,400",
+                  "- You know, so I think"
+               ],
+               [
+                  "00:16:08,400 --> 00:16:09,720",
+                  "that's less clear."
+               ],
+               [
+                  "00:16:09,720 --> 00:16:12,710",
+                  "In some ways, you know,"
+               ],
+               [
+                  "00:16:09,720 --> 00:16:12,710",
+                  "getting back to this idea"
+               ],
+               [
+                  "00:16:12,710 --> 00:16:14,200",
+                  "of this wake-sleep system,"
+               ],
+               [
+                  "00:16:14,200 --> 00:16:17,214",
+                  "we have this sleep system that"
+               ],
+               [
+                  "00:16:14,200 --> 00:16:17,214",
+                  "is kind of the counterpoint"
+               ],
+               [
+                  "00:16:17,214 --> 00:16:19,510",
+                  "to this wake arousal system, and so"
+               ],
+               [
+                  "00:16:19,510 --> 00:16:22,160",
+                  "the primary nucleus region"
+               ],
+               [
+                  "00:16:22,160 --> 00:16:25,230",
+                  "is the ventral lateral pre-optic nucleus,"
+               ],
+               [
+                  "00:16:25,230 --> 00:16:30,230",
+                  "also called VLPO, and that"
+               ],
+               [
+                  "00:16:25,230 --> 00:16:30,230",
+                  "has particular neuron outputs"
+               ],
+               [
+                  "00:16:30,910 --> 00:16:34,810",
+                  "that release GABA and galanin,"
+               ],
+               [
+                  "00:16:34,810 --> 00:16:38,010",
+                  "which work in an inhibitory way"
+               ],
+               [
+                  "00:16:38,010 --> 00:16:40,660",
+                  "on kind of the wake promoting ones."
+               ],
+               [
+                  "00:16:40,660 --> 00:16:43,280",
+                  "And so, it's kind of this delicate balance"
+               ],
+               [
+                  "00:16:43,280 --> 00:16:45,800",
+                  "of these two systems that are ongoing."
+               ],
+               [
+                  "00:16:45,800 --> 00:16:48,540",
+                  "In your cognitive"
+               ],
+               [
+                  "00:16:45,800 --> 00:16:48,540",
+                  "neuro-science training, right,"
+               ],
+               [
+                  "00:16:48,540 --> 00:16:51,730",
+                  "it sounds like it's pretty"
+               ],
+               [
+                  "00:16:48,540 --> 00:16:51,730",
+                  "specific and focused"
+               ],
+               [
+                  "00:16:51,730 --> 00:16:54,180",
+                  "in a particular part of"
+               ],
+               [
+                  "00:16:51,730 --> 00:16:54,180",
+                  "the brain, the cerebellum,"
+               ],
+               [
+                  "00:16:54,180 --> 00:16:57,520",
+                  "and one thing that I'm interested in"
+               ],
+               [
+                  "00:16:57,520 --> 00:16:59,810",
+                  "is you bring a participant into the study,"
+               ],
+               [
+                  "00:16:59,810 --> 00:17:02,980",
+                  "have you ensured that they"
+               ],
+               [
+                  "00:16:59,810 --> 00:17:02,980",
+                  "got a good night's sleep?"
+               ],
+               [
+                  "00:17:02,980 --> 00:17:05,200",
+                  "Have you asked them about their sleep?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:17:40,960 --> 00:17:44,100",
+                  "- I often think that"
+               ],
+               [
+                  "00:17:40,960 --> 00:17:44,100",
+                  "people, many people think"
+               ],
+               [
+                  "00:17:44,100 --> 00:17:46,117",
+                  "that they can get by on very little sleep"
+               ],
+               [
+                  "00:17:46,117 --> 00:17:48,334",
+                  "where the less than"
+               ],
+               [
+                  "00:17:46,117 --> 00:17:48,334",
+                  "average amount of sleep,"
+               ],
+               [
+                  "00:17:48,334 --> 00:17:50,200",
+                  "from what I know from the research,"
+               ],
+               [
+                  "00:17:50,200 --> 00:17:52,030",
+                  "you know if you actually test those people"
+               ],
+               [
+                  "00:17:52,030 --> 00:17:55,550",
+                  "on different batteries of cognitive tasks,"
+               ],
+               [
+                  "00:17:55,550 --> 00:17:59,380",
+                  "you often find that their"
+               ],
+               [
+                  "00:17:55,550 --> 00:17:59,380",
+                  "performance is slightly worse"
+               ],
+               [
+                  "00:17:59,380 --> 00:18:01,040",
+                  "than they had anticipated."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:18:33,830 --> 00:18:36,070",
+                  "- So now we have sleep on your brain."
+               ],
+               [
+                  "00:18:36,070 --> 00:18:38,093",
+                  "That was all I wanted to hear."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:18:40,820 --> 00:18:42,030",
+                  "- Good to see you again, Yue."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:18:43,030 --> 00:18:44,330",
+                  "- Really glad that you could join us."
+               ],
+               [
+                  "00:18:44,330 --> 00:18:46,890",
+                  "So we've been talking about sleep today,"
+               ],
+               [
+                  "00:18:46,890 --> 00:18:48,520",
+                  "various levels of complexity."
+               ],
+               [
+                  "00:18:48,520 --> 00:18:50,990",
+                  "But now with you, I"
+               ],
+               [
+                  "00:18:48,520 --> 00:18:50,990",
+                  "really want to talk about"
+               ],
+               [
+                  "00:18:50,990 --> 00:18:54,090",
+                  "what do we know about"
+               ],
+               [
+                  "00:18:50,990 --> 00:18:54,090",
+                  "sleep and the aging brain."
+               ],
+               [
+                  "00:18:54,090 --> 00:18:54,923",
+                  "Can you tell me a little bit about"
+               ],
+               [
+                  "00:18:54,923 --> 00:18:56,620",
+                  "some of the work that you've"
+               ],
+               [
+                  "00:18:54,923 --> 00:18:56,620",
+                  "been doing in that area?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:19:31,730 --> 00:19:33,060",
+                  "- So how strong is the link?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:20:42,880 --> 00:20:44,960",
+                  "- Yeah, so I think"
+               ],
+               [
+                  "00:20:42,880 --> 00:20:44,960",
+                  "what's really fascinating"
+               ],
+               [
+                  "00:20:44,960 --> 00:20:47,360",
+                  "is all these bio-directional relationships"
+               ],
+               [
+                  "00:20:47,360 --> 00:20:50,730",
+                  "that's being identified in"
+               ],
+               [
+                  "00:20:47,360 --> 00:20:50,730",
+                  "animal studies especially,"
+               ],
+               [
+                  "00:20:50,730 --> 00:20:54,210",
+                  "showing that sleep changes"
+               ],
+               [
+                  "00:20:50,730 --> 00:20:54,210",
+                  "actually occur very early on"
+               ],
+               [
+                  "00:20:54,210 --> 00:20:58,000",
+                  "in the disease process, so"
+               ],
+               [
+                  "00:20:54,210 --> 00:20:58,000",
+                  "it could be a prodromal stage"
+               ],
+               [
+                  "00:20:58,000 --> 00:21:02,824",
+                  "of Parkinson's, and also"
+               ],
+               [
+                  "00:20:58,000 --> 00:21:02,824",
+                  "in transgenic model of AD,"
+               ],
+               [
+                  "00:21:02,824 --> 00:21:06,810",
+                  "they're already showing a lot"
+               ],
+               [
+                  "00:21:02,824 --> 00:21:06,810",
+                  "of circadian abnormalities"
+               ],
+               [
+                  "00:21:06,810 --> 00:21:07,770",
+                  "in this mouse."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:21:29,770 --> 00:21:31,820",
+                  "- Yes, in the transgenic"
+               ],
+               [
+                  "00:21:29,770 --> 00:21:31,820",
+                  "mouse models of AD,"
+               ],
+               [
+                  "00:21:31,820 --> 00:21:33,380",
+                  "including those expressing"
+               ],
+               [
+                  "00:21:33,380 --> 00:21:36,390",
+                  "human mutant amyloid precursor protein,"
+               ],
+               [
+                  "00:21:36,390 --> 00:21:38,250",
+                  "APP type or both,"
+               ],
+               [
+                  "00:21:38,250 --> 00:21:40,230",
+                  "so that's kind of"
+               ],
+               [
+                  "00:21:38,250 --> 00:21:40,230",
+                  "showing the sleep changes"
+               ],
+               [
+                  "00:21:40,230 --> 00:21:42,200",
+                  "in both of these pathologies."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:22:14,210 --> 00:22:16,791",
+                  "- So the thing I'm most"
+               ],
+               [
+                  "00:22:14,210 --> 00:22:16,791",
+                  "excited about sleep research"
+               ],
+               [
+                  "00:22:16,791 --> 00:22:19,550",
+                  "is, I think, first of all,"
+               ],
+               [
+                  "00:22:19,550 --> 00:22:22,680",
+                  "this complexity of the"
+               ],
+               [
+                  "00:22:19,550 --> 00:22:22,680",
+                  "daytime/nighttime sleep,"
+               ],
+               [
+                  "00:22:22,680 --> 00:22:26,410",
+                  "what sleep is really doing"
+               ],
+               [
+                  "00:22:22,680 --> 00:22:26,410",
+                  "to our body and to our brain,"
+               ],
+               [
+                  "00:22:26,410 --> 00:22:28,950",
+                  "and then is really from the epidemiologic"
+               ],
+               [
+                  "00:22:28,950 --> 00:22:30,680",
+                  "or public health perspective,"
+               ],
+               [
+                  "00:22:30,680 --> 00:22:35,680",
+                  "how we can best use sleep"
+               ],
+               [
+                  "00:22:30,680 --> 00:22:35,680",
+                  "as a tool for the detection"
+               ],
+               [
+                  "00:22:35,710 --> 00:22:39,910",
+                  "and prevention of"
+               ],
+               [
+                  "00:22:35,710 --> 00:22:39,910",
+                  "neurodegeneration in the long-term."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:23:03,220 --> 00:23:05,480",
+                  "So this was certainly a challenge today."
+               ],
+               [
+                  "00:23:05,480 --> 00:23:07,830",
+                  "Everyone knew a little bit about sleep,"
+               ],
+               [
+                  "00:23:07,830 --> 00:23:09,060",
+                  "and I think that's great,"
+               ],
+               [
+                  "00:23:09,060 --> 00:23:10,650",
+                  "because sleep is incredibly important,"
+               ],
+               [
+                  "00:23:10,650 --> 00:23:12,380",
+                  "but there was also a lot of misinformation"
+               ],
+               [
+                  "00:23:12,380 --> 00:23:14,290",
+                  "around kind of how sleep works,"
+               ],
+               [
+                  "00:23:14,290 --> 00:23:16,350",
+                  "and people doing sleep behaviors"
+               ],
+               [
+                  "00:23:16,350 --> 00:23:18,600",
+                  "that may not be the"
+               ],
+               [
+                  "00:23:16,350 --> 00:23:18,600",
+                  "most adaptive for them."
+               ],
+               [
+                  "00:23:18,600 --> 00:23:21,050",
+                  "We're still uncovering"
+               ],
+               [
+                  "00:23:18,600 --> 00:23:21,050",
+                  "new things every day"
+               ],
+               [
+                  "00:23:21,050 --> 00:23:23,550",
+                  "about how sleep works, but despite that,"
+               ],
+               [
+                  "00:23:23,550 --> 00:23:27,320",
+                  "all of us know that sleep is"
+               ],
+               [
+                  "00:23:23,550 --> 00:23:27,320",
+                  "fundamental to our health,"
+               ],
+               [
+                  "00:23:27,320 --> 00:23:31,400",
+                  "and so I'm excited for sleep"
+               ],
+               [
+                  "00:23:27,320 --> 00:23:31,400",
+                  "to kind of raise its profile"
+               ],
+               [
+                  "00:23:31,400 --> 00:23:33,130",
+                  "among other health behaviors"
+               ],
+               [
+                  "00:23:33,130 --> 00:23:35,803",
+                  "and get the investment"
+               ],
+               [
+                  "00:23:33,130 --> 00:23:35,803",
+                  "and care that it needs."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU?t=24",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:00:26,640 --> 00:00:28,300",
+                  "- Nice to meet you, my name's Christopher."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:00:30,160 --> 00:00:30,993",
+                  "- I'm ten."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:00:32,180 --> 00:00:33,217",
+                  "- I think fifth."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:00:35,446 --> 00:00:37,000",
+                  "- Math and science."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:00:39,350 --> 00:00:40,183",
+                  "- Cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:00:41,095 --> 00:00:41,928",
+                  "- What?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:00:43,130 --> 00:00:44,180",
+                  "- Favorite part of the day."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:00:48,550 --> 00:00:50,836",
+                  "- It rests your body,"
+               ],
+               [
+                  "00:00:48,550 --> 00:00:50,836",
+                  "like an electric car."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:01:09,436 --> 00:01:10,540",
+                  "- Whoa."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:01:16,920 --> 00:01:17,753",
+                  "- A giraffe."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:01:18,670 --> 00:01:19,750",
+                  "- Uh yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:01:20,644 --> 00:01:21,477",
+                  "- Mhm."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:01:52,340 --> 00:01:55,460",
+                  "- And how does it like"
+               ],
+               [
+                  "00:01:52,340 --> 00:01:55,460",
+                  "recharge, like humans?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":28,
+            "Sentence":[
+               [
+                  "00:02:05,850 --> 00:02:08,550",
+                  "- I had a sleepover on Saturday,"
+               ],
+               [
+                  "00:02:08,550 --> 00:02:09,880",
+                  "and I didn't sleep at all."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":30,
+            "Sentence":[
+               [
+                  "00:02:10,955 --> 00:02:12,120",
+                  "- Really tired."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":32,
+            "Sentence":[
+               [
+                  "00:02:29,180 --> 00:02:31,980",
+                  "- It affects what you can"
+               ],
+               [
+                  "00:02:29,180 --> 00:02:31,980",
+                  "do in your daily life."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":34,
+            "Sentence":[
+               [
+                  "00:02:39,270 --> 00:02:40,103",
+                  "- A hippo."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":36,
+            "Sentence":[
+               [
+                  "00:02:46,010 --> 00:02:47,950",
+                  "- I could never do that, I would pass out."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":38,
+            "Sentence":[
+               [
+                  "00:03:20,810 --> 00:03:21,643",
+                  "- That's cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":40,
+            "Sentence":[
+               [
+                  "00:03:22,956 --> 00:03:23,860",
+                  "- Uh yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":42,
+            "Sentence":[
+               [
+                  "00:03:31,180 --> 00:03:32,013",
+                  "- Aww a dolphin."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":44,
+            "Sentence":[
+               [
+                  "00:03:54,933 --> 00:03:55,766",
+                  "- How?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":46,
+            "Sentence":[
+               [
+                  "00:04:22,277 --> 00:04:23,440",
+                  "- That's cool."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":48,
+            "Sentence":[
+               [
+                  "00:04:24,870 --> 00:04:26,930",
+                  "- I learned how other animals sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":50,
+            "Sentence":[
+               [
+                  "00:04:29,070 --> 00:04:32,410",
+                  "- Sleep rests your body,"
+               ],
+               [
+                  "00:04:32,410 --> 00:04:35,530",
+                  "and you have to rest your body"
+               ],
+               [
+                  "00:04:35,530 --> 00:04:38,133",
+                  "in order to do your daily things in life."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU?t=278",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:04:41,210 --> 00:04:42,043",
+                  "- I'm Dwayne."
+               ],
+               [
+                  "00:04:42,043 --> 00:04:42,876",
+                  "Nice to meet you, Aric."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:04:43,709 --> 00:04:44,566",
+                  "- I'm 16 years old."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:04:45,970 --> 00:04:48,140",
+                  "- McClymonds High School"
+               ],
+               [
+                  "00:04:45,970 --> 00:04:48,140",
+                  "in Oakland, California."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:04:51,006 --> 00:04:53,260",
+                  "- AP Chemistry."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:04:54,189 --> 00:04:55,022",
+                  "- It is."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:04:56,800 --> 00:04:57,633",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:04:59,380 --> 00:05:01,000",
+                  "- Oh okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:05:01,833 --> 00:05:02,950",
+                  "- I do, I try. [laughs]"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:05:17,090 --> 00:05:20,950",
+                  "- Resting, relaxing, really"
+               ],
+               [
+                  "00:05:17,090 --> 00:05:20,950",
+                  "shutting down your brain,"
+               ],
+               [
+                  "00:05:20,950 --> 00:05:24,620",
+                  "taking some time off of a"
+               ],
+               [
+                  "00:05:20,950 --> 00:05:24,620",
+                  "busy schedule and work day."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:05:32,600 --> 00:05:33,433",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:06:06,400 --> 00:06:07,233",
+                  "- Okay."
+               ],
+               [
+                  "00:06:07,233 --> 00:06:09,750",
+                  "Are you like able to tell how"
+               ],
+               [
+                  "00:06:07,233 --> 00:06:09,750",
+                  "much sleep someone's getting"
+               ],
+               [
+                  "00:06:09,750 --> 00:06:11,545",
+                  "or what their sleep schedule is by REM?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:07:19,100 --> 00:07:19,933",
+                  "- Oh wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":27,
+            "Sentence":[
+               [
+                  "00:07:23,750 --> 00:07:26,700",
+                  "- Well I've heard that you don't really go"
+               ],
+               [
+                  "00:07:26,700 --> 00:07:27,690",
+                  "into like a deeper sleep,"
+               ],
+               [
+                  "00:07:27,690 --> 00:07:29,280",
+                  "so I'm guessing like N-3,"
+               ],
+               [
+                  "00:07:29,280 --> 00:07:31,670",
+                  "or really any of the N's at all, really,"
+               ],
+               [
+                  "00:07:31,670 --> 00:07:34,590",
+                  "if you are on technology"
+               ],
+               [
+                  "00:07:31,670 --> 00:07:34,590",
+                  "right before you sleep."
+               ],
+               [
+                  "00:07:34,590 --> 00:07:37,170",
+                  "And also if there's too much light,"
+               ],
+               [
+                  "00:07:37,170 --> 00:07:39,630",
+                  "or if you're listening to"
+               ],
+               [
+                  "00:07:37,170 --> 00:07:39,630",
+                  "music while you're asleep"
+               ],
+               [
+                  "00:07:39,630 --> 00:07:40,463",
+                  "or anything like that,"
+               ],
+               [
+                  "00:07:40,463 --> 00:07:42,140",
+                  "you're not experiencing deep sleep, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":29,
+            "Sentence":[
+               [
+                  "00:08:03,869 --> 00:08:04,702",
+                  "- Oh."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":31,
+            "Sentence":[
+               [
+                  "00:08:14,040 --> 00:08:14,873",
+                  "- Oh wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":33,
+            "Sentence":[
+               [
+                  "00:08:15,706 --> 00:08:16,539",
+                  "- I do."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":35,
+            "Sentence":[
+               [
+                  "00:08:18,730 --> 00:08:21,920",
+                  "- Anywhere from between one to six hours."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":37,
+            "Sentence":[
+               [
+                  "00:08:24,233 --> 00:08:25,066",
+                  "- It is a long nap."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":39,
+            "Sentence":[
+               [
+                  "00:08:44,300 --> 00:08:46,629",
+                  "- So N-1 being like light sleep,"
+               ],
+               [
+                  "00:08:46,629 --> 00:08:49,770",
+                  "still a lot of brain activity going on."
+               ],
+               [
+                  "00:08:49,770 --> 00:08:52,347",
+                  "I can imagine that happens"
+               ],
+               [
+                  "00:08:49,770 --> 00:08:52,347",
+                  "right after you fall asleep."
+               ],
+               [
+                  "00:08:52,347 --> 00:08:53,886",
+                  "Asleep."
+               ],
+               [
+                  "00:08:53,886 --> 00:08:58,886",
+                  "And then N-2 being light,"
+               ],
+               [
+                  "00:08:53,886 --> 00:08:58,886",
+                  "moderate activity in your brain,"
+               ],
+               [
+                  "00:08:59,760 --> 00:09:04,460",
+                  "still sleep, but still"
+               ],
+               [
+                  "00:08:59,760 --> 00:09:04,460",
+                  "kind of consciously aware,"
+               ],
+               [
+                  "00:09:04,460 --> 00:09:07,360",
+                  "and N-3 being the deepest form of sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":41,
+            "Sentence":[
+               [
+                  "00:09:10,669 --> 00:09:12,048",
+                  "- It really is."
+               ],
+               [
+                  "00:09:12,048 --> 00:09:12,881",
+                  "[laughs]"
+               ],
+               [
+                  "00:09:12,881 --> 00:09:14,790",
+                  "Right now, it definitely is"
+               ],
+               [
+                  "00:09:14,790 --> 00:09:16,583",
+                  "the coolest thing I've ever heard of."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU?t=556",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:09:20,963 --> 00:09:24,690",
+                  "- I'm a fourth year"
+               ],
+               [
+                  "00:09:20,963 --> 00:09:24,690",
+                  "Chemistry student at USF."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:09:25,673 --> 00:09:26,990",
+                  "- Yes, pretty science-y."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:09:30,398 --> 00:09:31,850",
+                  "- Great."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:09:34,460 --> 00:09:35,570",
+                  "- During the summer?"
+               ],
+               [
+                  "00:09:35,570 --> 00:09:37,080",
+                  "Like 10 hours."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:09:37,080 --> 00:09:40,620",
+                  "- And during the school year, maybe five?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:09:41,453 --> 00:09:42,286",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:09:43,119 --> 00:09:45,520",
+                  "- I mean, I've read that six is ideal"
+               ],
+               [
+                  "00:09:45,520 --> 00:09:48,010",
+                  "for people in my age range."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:10:20,950 --> 00:10:23,920",
+                  "- I mean, I know sleep"
+               ],
+               [
+                  "00:10:20,950 --> 00:10:23,920",
+                  "is kind of regulated"
+               ],
+               [
+                  "00:10:23,920 --> 00:10:26,710",
+                  "by the thalamus and the"
+               ],
+               [
+                  "00:10:23,920 --> 00:10:26,710",
+                  "suprachiasmatic nucleus"
+               ],
+               [
+                  "00:10:26,710 --> 00:10:29,100",
+                  "sending signals to the pineal gland"
+               ],
+               [
+                  "00:10:29,100 --> 00:10:31,290",
+                  "to which kind of secretes melatonin,"
+               ],
+               [
+                  "00:10:31,290 --> 00:10:34,219",
+                  "which tells us when it's"
+               ],
+               [
+                  "00:10:31,290 --> 00:10:34,219",
+                  "time to go to sleep."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:10:35,810 --> 00:10:38,170",
+                  "- You can do part of this level,"
+               ],
+               [
+                  "00:10:38,170 --> 00:10:40,000",
+                  "and you can do the other part, clearly."
+               ],
+               [
+                  "00:10:40,000 --> 00:10:42,490",
+                  "Got some expertise under your"
+               ],
+               [
+                  "00:10:40,000 --> 00:10:42,490",
+                  "belt, and that's awesome,"
+               ],
+               [
+                  "00:10:42,490 --> 00:10:45,030",
+                  "because I think that everyone"
+               ],
+               [
+                  "00:10:42,490 --> 00:10:45,030",
+                  "should know more about sleep."
+               ],
+               [
+                  "00:10:45,030 --> 00:10:47,700",
+                  "And so the way that we think"
+               ],
+               [
+                  "00:10:45,030 --> 00:10:47,700",
+                  "about what drives sleep"
+               ],
+               [
+                  "00:10:47,700 --> 00:10:51,960",
+                  "are two independent but related processes"
+               ],
+               [
+                  "00:10:51,960 --> 00:10:54,330",
+                  "and so they have kind of lame names."
+               ],
+               [
+                  "00:10:54,330 --> 00:10:56,780",
+                  "Process S and process C,"
+               ],
+               [
+                  "00:10:56,780 --> 00:10:59,450",
+                  "and what you've kind of"
+               ],
+               [
+                  "00:10:56,780 --> 00:10:59,450",
+                  "described is process C,"
+               ],
+               [
+                  "00:10:59,450 --> 00:11:01,750",
+                  "and that's the master clock, right?"
+               ],
+               [
+                  "00:11:01,750 --> 00:11:03,920",
+                  "And it helps regulate kind of the rhythms"
+               ],
+               [
+                  "00:11:03,920 --> 00:11:05,250",
+                  "like all over your body, all your cells,"
+               ],
+               [
+                  "00:11:05,250 --> 00:11:06,210",
+                  "and all those kind of things."
+               ],
+               [
+                  "00:11:06,210 --> 00:11:10,540",
+                  "It drives the release of"
+               ],
+               [
+                  "00:11:06,210 --> 00:11:10,540",
+                  "melatonin from the pineal gland,"
+               ],
+               [
+                  "00:11:10,540 --> 00:11:14,020",
+                  "and melatonin comes online under darkness,"
+               ],
+               [
+                  "00:11:14,020 --> 00:11:16,460",
+                  "so when the sun goes"
+               ],
+               [
+                  "00:11:14,020 --> 00:11:16,460",
+                  "down, your brain knows"
+               ],
+               [
+                  "00:11:16,460 --> 00:11:18,770",
+                  "okay it's time to start"
+               ],
+               [
+                  "00:11:16,460 --> 00:11:18,770",
+                  "getting ready for sleep,"
+               ],
+               [
+                  "00:11:18,770 --> 00:11:20,600",
+                  "and so you start releasing melatonin,"
+               ],
+               [
+                  "00:11:20,600 --> 00:11:23,080",
+                  "which really kind of sets"
+               ],
+               [
+                  "00:11:20,600 --> 00:11:23,080",
+                  "the table for sleeping."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:11:33,430 --> 00:11:34,930",
+                  "- Yeah, no, that's a"
+               ],
+               [
+                  "00:11:33,430 --> 00:11:34,930",
+                  "really great question,"
+               ],
+               [
+                  "00:11:34,930 --> 00:11:37,830",
+                  "and the same is true in places where"
+               ],
+               [
+                  "00:11:37,830 --> 00:11:39,450",
+                  "the sun never goes down during the summer,"
+               ],
+               [
+                  "00:11:39,450 --> 00:11:41,160",
+                  "and when it's dark all the"
+               ],
+               [
+                  "00:11:39,450 --> 00:11:41,160",
+                  "time during the winter,"
+               ],
+               [
+                  "00:11:41,160 --> 00:11:43,090",
+                  "and it turns out light"
+               ],
+               [
+                  "00:11:41,160 --> 00:11:43,090",
+                  "isn't the only thing"
+               ],
+               [
+                  "00:11:43,090 --> 00:11:45,150",
+                  "that kind of gates your circadian rhythm."
+               ],
+               [
+                  "00:11:45,150 --> 00:11:46,693",
+                  "But I think the thing"
+               ],
+               [
+                  "00:11:45,150 --> 00:11:46,693",
+                  "that's really important,"
+               ],
+               [
+                  "00:11:46,693 --> 00:11:48,760",
+                  "again there are two processes,"
+               ],
+               [
+                  "00:11:48,760 --> 00:11:50,007",
+                  "that the other one is the S process,"
+               ],
+               [
+                  "00:11:50,007 --> 00:11:51,410",
+                  "and that one's just kind of"
+               ],
+               [
+                  "00:11:51,410 --> 00:11:54,763",
+                  "a really important driver of sleep."
+               ],
+               [
+                  "00:11:54,763 --> 00:11:57,750",
+                  "One name we call it is the"
+               ],
+               [
+                  "00:11:54,763 --> 00:11:57,750",
+                  "homeostatic sleep drive."
+               ],
+               [
+                  "00:11:57,750 --> 00:11:59,240",
+                  "Kind of the longer you're awake,"
+               ],
+               [
+                  "00:11:59,240 --> 00:12:00,570",
+                  "the sleepier you get."
+               ],
+               [
+                  "00:12:00,570 --> 00:12:02,740",
+                  "You stay up, you get sleepy."
+               ],
+               [
+                  "00:12:02,740 --> 00:12:04,170",
+                  "Time goes by, you get sleepier."
+               ],
+               [
+                  "00:12:04,170 --> 00:12:05,610",
+                  "Time goes by, you get sleepier."
+               ],
+               [
+                  "00:12:05,610 --> 00:12:09,150",
+                  "But it's actually kind of"
+               ],
+               [
+                  "00:12:05,610 --> 00:12:09,150",
+                  "a fundamental principle"
+               ],
+               [
+                  "00:12:09,150 --> 00:12:10,760",
+                  "for how sleep is regulated,"
+               ],
+               [
+                  "00:12:10,760 --> 00:12:13,380",
+                  "and it's really kind of akin"
+               ],
+               [
+                  "00:12:10,760 --> 00:12:13,380",
+                  "to like a balloon, okay?"
+               ],
+               [
+                  "00:12:13,380 --> 00:12:16,520",
+                  "So you wake up in the morning"
+               ],
+               [
+                  "00:12:13,380 --> 00:12:16,520",
+                  "and your balloon is flat."
+               ],
+               [
+                  "00:12:16,520 --> 00:12:18,480",
+                  "You've kind of like drained"
+               ],
+               [
+                  "00:12:16,520 --> 00:12:18,480",
+                  "out all of the sleepiness."
+               ],
+               [
+                  "00:12:18,480 --> 00:12:20,130",
+                  "But then as you kind of"
+               ],
+               [
+                  "00:12:18,480 --> 00:12:20,130",
+                  "go throughout the day,"
+               ],
+               [
+                  "00:12:20,130 --> 00:12:23,820",
+                  "it kind of fills up,"
+               ],
+               [
+                  "00:12:20,130 --> 00:12:23,820",
+                  "so you use your energy,"
+               ],
+               [
+                  "00:12:23,820 --> 00:12:25,550",
+                  "it gets filled up."
+               ],
+               [
+                  "00:12:25,550 --> 00:12:27,100",
+                  "And then it gets filled up more"
+               ],
+               [
+                  "00:12:27,100 --> 00:12:28,790",
+                  "as you get towards nighttime, right?"
+               ],
+               [
+                  "00:12:28,790 --> 00:12:30,890",
+                  "And then when it's at this optimal amount"
+               ],
+               [
+                  "00:12:30,890 --> 00:12:32,200",
+                  "is when you kind of go to sleep"
+               ],
+               [
+                  "00:12:32,200 --> 00:12:34,290",
+                  "and let out all of the sleepiness again."
+               ],
+               [
+                  "00:12:34,290 --> 00:12:36,339",
+                  "And this is really what underlies"
+               ],
+               [
+                  "00:12:36,339 --> 00:12:38,780",
+                  "why napping can also be bad for you."
+               ],
+               [
+                  "00:12:38,780 --> 00:12:40,440",
+                  "So napping's not inherently bad,"
+               ],
+               [
+                  "00:12:40,440 --> 00:12:44,300",
+                  "but if you actually let out"
+               ],
+               [
+                  "00:12:40,440 --> 00:12:44,300",
+                  "some of this air during the day,"
+               ],
+               [
+                  "00:12:44,300 --> 00:12:45,660",
+                  "it's going to take longer for the balloon"
+               ],
+               [
+                  "00:12:45,660 --> 00:12:47,140",
+                  "to get bigger, right,"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:12:47,140 --> 00:12:48,434",
+                  "- to where you feel sleepy, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:12:49,267 --> 00:12:50,210",
+                  "- What did you learn about sleep today?"
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU?t=788",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:13:09,483 --> 00:13:10,540",
+                  "- Mave."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:13:14,340 --> 00:13:18,130",
+                  "- So I'm at UC Berkeley,"
+               ],
+               [
+                  "00:13:14,340 --> 00:13:18,130",
+                  "I'm a psychology student"
+               ],
+               [
+                  "00:13:18,130 --> 00:13:19,980",
+                  "studying cognitive neuro-science"
+               ],
+               [
+                  "00:13:19,980 --> 00:13:22,000",
+                  "and I just started my third year."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:13:22,890 --> 00:13:23,723",
+                  "- Thank you."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:13:25,821 --> 00:13:27,541",
+                  "- A lot of brain stuff."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:13:28,374 --> 00:13:30,360",
+                  "- I'm biased because I"
+               ],
+               [
+                  "00:13:28,374 --> 00:13:30,360",
+                  "study one of the other"
+               ],
+               [
+                  "00:13:30,360 --> 00:13:32,850",
+                  "sub-critical parts of the"
+               ],
+               [
+                  "00:13:30,360 --> 00:13:32,850",
+                  "brain, the cerebellum."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:13:47,060 --> 00:13:47,893",
+                  "- Great."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:15:23,060 --> 00:15:25,792",
+                  "- In terms of the dopamine,"
+               ],
+               [
+                  "00:15:25,792 --> 00:15:27,540",
+                  "if you're taking amphetamines,"
+               ],
+               [
+                  "00:15:27,540 --> 00:15:30,271",
+                  "that's usually to promote,"
+               ],
+               [
+                  "00:15:27,540 --> 00:15:30,271",
+                  "as you said, wakefulness,"
+               ],
+               [
+                  "00:15:30,271 --> 00:15:34,440",
+                  "but does that actually improve"
+               ],
+               [
+                  "00:15:30,271 --> 00:15:34,440",
+                  "the quality of your sleep?"
+               ],
+               [
+                  "00:15:34,440 --> 00:15:36,550",
+                  "How reliable are those"
+               ],
+               [
+                  "00:15:34,440 --> 00:15:36,550",
+                  "kinds of interventions?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:15:54,707 --> 00:15:57,060",
+                  "- And do we know much about why,"
+               ],
+               [
+                  "00:15:57,060 --> 00:16:01,192",
+                  "or which stages of the"
+               ],
+               [
+                  "00:15:57,060 --> 00:16:01,192",
+                  "sleep cycle are affected?"
+               ],
+               [
+                  "00:16:01,192 --> 00:16:03,140",
+                  "You know, if you take amphetamines,"
+               ],
+               [
+                  "00:16:03,140 --> 00:16:03,973",
+                  "is it then when you go to sleep,"
+               ],
+               [
+                  "00:16:03,973 --> 00:16:05,350",
+                  "that you're not able to transition"
+               ],
+               [
+                  "00:16:05,350 --> 00:16:07,230",
+                  "through each of the sleep periods,"
+               ],
+               [
+                  "00:16:07,230 --> 00:16:08,400",
+                  "or is that less clear?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:17:05,200 --> 00:17:08,160",
+                  "- Well in most studies,"
+               ],
+               [
+                  "00:17:05,200 --> 00:17:08,160",
+                  "probably it is advised"
+               ],
+               [
+                  "00:17:08,160 --> 00:17:10,010",
+                  "for your participants before they come in"
+               ],
+               [
+                  "00:17:10,010 --> 00:17:11,260",
+                  "to get a good night's sleep,"
+               ],
+               [
+                  "00:17:11,260 --> 00:17:13,843",
+                  "so those would be recommendations"
+               ],
+               [
+                  "00:17:11,260 --> 00:17:13,843",
+                  "that you would lay out,"
+               ],
+               [
+                  "00:17:13,843 --> 00:17:16,079",
+                  "you know, in communication"
+               ],
+               [
+                  "00:17:13,843 --> 00:17:16,079",
+                  "with the participant,"
+               ],
+               [
+                  "00:17:16,079 --> 00:17:17,169",
+                  "before they come in."
+               ],
+               [
+                  "00:17:17,170 --> 00:17:19,030",
+                  "You know, what we do in our studies,"
+               ],
+               [
+                  "00:17:19,030 --> 00:17:23,410",
+                  "is we actually track"
+               ],
+               [
+                  "00:17:19,030 --> 00:17:23,410",
+                  "people, for say a week,"
+               ],
+               [
+                  "00:17:23,410 --> 00:17:26,819",
+                  "and they have to get in within"
+               ],
+               [
+                  "00:17:23,410 --> 00:17:26,819",
+                  "this range of amount of sleep"
+               ],
+               [
+                  "00:17:26,819 --> 00:17:29,190",
+                  "and then it has to be both amount of sleep"
+               ],
+               [
+                  "00:17:29,190 --> 00:17:31,650",
+                  "and how stable it is."
+               ],
+               [
+                  "00:17:31,650 --> 00:17:34,293",
+                  "That variability can kind of impact it"
+               ],
+               [
+                  "00:17:34,293 --> 00:17:39,160",
+                  "and certainly might have"
+               ],
+               [
+                  "00:17:34,293 --> 00:17:39,160",
+                  "an impact on the machinery"
+               ],
+               [
+                  "00:17:39,160 --> 00:17:40,960",
+                  "that's happening in the brain."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:18:01,040 --> 00:18:01,905",
+                  "- Yeah."
+               ],
+               [
+                  "00:18:01,905 --> 00:18:04,260",
+                  "So what did you learn about sleep today?"
+               ],
+               [
+                  "00:18:04,260 --> 00:18:07,760",
+                  "I guess I learned a system that is,"
+               ],
+               [
+                  "00:18:07,760 --> 00:18:10,870",
+                  "you know, very heavily"
+               ],
+               [
+                  "00:18:07,760 --> 00:18:10,870",
+                  "regulated and influenced"
+               ],
+               [
+                  "00:18:10,870 --> 00:18:14,200",
+                  "by some of these older conserved"
+               ],
+               [
+                  "00:18:14,200 --> 00:18:16,500",
+                  "sub-cortical systems in the brain,"
+               ],
+               [
+                  "00:18:16,500 --> 00:18:18,110",
+                  "and that there's, as you called it,"
+               ],
+               [
+                  "00:18:18,110 --> 00:18:23,000",
+                  "like a flip flop function"
+               ],
+               [
+                  "00:18:18,110 --> 00:18:23,000",
+                  "between wakefulness and sleep"
+               ],
+               [
+                  "00:18:23,000 --> 00:18:26,967",
+                  "that's regulated by these"
+               ],
+               [
+                  "00:18:23,000 --> 00:18:26,967",
+                  "specific dopaminergic,"
+               ],
+               [
+                  "00:18:28,040 --> 00:18:30,150",
+                  "neurogenergic, like neurotransmitters,"
+               ],
+               [
+                  "00:18:30,150 --> 00:18:33,830",
+                  "that manifest in different"
+               ],
+               [
+                  "00:18:30,150 --> 00:18:33,830",
+                  "sub-cortical parts of the brain."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/OB61yG8WDyU?t=1119",
+      "wired_link":"https://www.wired.com/video/watch/sleep-scientist-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:18:42,030 --> 00:18:43,030",
+                  "- Yes, good to see you."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:18:56,620 --> 00:18:57,850",
+                  "- So I'm a epidemiologist,"
+               ],
+               [
+                  "00:18:57,850 --> 00:18:59,280",
+                  "so we do a lot of work"
+               ],
+               [
+                  "00:18:59,280 --> 00:19:02,070",
+                  "on the epidemiology of sleep"
+               ],
+               [
+                  "00:19:02,070 --> 00:19:04,830",
+                  "and development of"
+               ],
+               [
+                  "00:19:02,070 --> 00:19:04,830",
+                  "neurodegenerative diseases"
+               ],
+               [
+                  "00:19:04,830 --> 00:19:07,810",
+                  "including both Alzheimer's"
+               ],
+               [
+                  "00:19:04,830 --> 00:19:07,810",
+                  "and Parkinson's disease,"
+               ],
+               [
+                  "00:19:07,810 --> 00:19:09,380",
+                  "so ADMPD."
+               ],
+               [
+                  "00:19:09,380 --> 00:19:11,880",
+                  "We mainly work on population studies."
+               ],
+               [
+                  "00:19:11,880 --> 00:19:15,640",
+                  "We work on thousands and"
+               ],
+               [
+                  "00:19:11,880 --> 00:19:15,640",
+                  "even millions of population,"
+               ],
+               [
+                  "00:19:15,640 --> 00:19:19,120",
+                  "and we use statistical"
+               ],
+               [
+                  "00:19:15,640 --> 00:19:19,120",
+                  "modeling to find out"
+               ],
+               [
+                  "00:19:19,120 --> 00:19:22,700",
+                  "the association between"
+               ],
+               [
+                  "00:19:19,120 --> 00:19:22,700",
+                  "different sleep disturbances"
+               ],
+               [
+                  "00:19:22,700 --> 00:19:27,270",
+                  "and also genetics related"
+               ],
+               [
+                  "00:19:22,700 --> 00:19:27,270",
+                  "to sleep disturbances"
+               ],
+               [
+                  "00:19:27,270 --> 00:19:31,730",
+                  "and link that to their"
+               ],
+               [
+                  "00:19:27,270 --> 00:19:31,730",
+                  "risk of developing ADMPD."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:19:33,060 --> 00:19:36,800",
+                  "- Our study has found"
+               ],
+               [
+                  "00:19:33,060 --> 00:19:36,800",
+                  "really strong associations"
+               ],
+               [
+                  "00:19:36,800 --> 00:19:40,310",
+                  "looking at these populations,"
+               ],
+               [
+                  "00:19:36,800 --> 00:19:40,310",
+                  "for example, with sleep apnea."
+               ],
+               [
+                  "00:19:40,310 --> 00:19:43,690",
+                  "We've done one meta-analysis"
+               ],
+               [
+                  "00:19:40,310 --> 00:19:43,690",
+                  "and it's showed that"
+               ],
+               [
+                  "00:19:43,690 --> 00:19:48,690",
+                  "those with sleep apnea,"
+               ],
+               [
+                  "00:19:43,690 --> 00:19:48,690",
+                  "they have a ratio of 1.26,"
+               ],
+               [
+                  "00:19:49,120 --> 00:19:51,240",
+                  "which means that those"
+               ],
+               [
+                  "00:19:49,120 --> 00:19:51,240",
+                  "who have sleep apnea"
+               ],
+               [
+                  "00:19:51,240 --> 00:19:55,580",
+                  "have 26% elevated risk"
+               ],
+               [
+                  "00:19:51,240 --> 00:19:55,580",
+                  "of developing Alzheimer's"
+               ],
+               [
+                  "00:19:55,580 --> 00:19:57,784",
+                  "compared to those without sleep apnea."
+               ],
+               [
+                  "00:19:57,784 --> 00:20:00,290",
+                  "So it's interesting, so I also saw"
+               ],
+               [
+                  "00:20:00,290 --> 00:20:01,590",
+                  "that there was also a recent meta-analysis"
+               ],
+               [
+                  "00:20:01,590 --> 00:20:03,970",
+                  "around sleep disturbances"
+               ],
+               [
+                  "00:20:01,590 --> 00:20:03,970",
+                  "and dementia risk,"
+               ],
+               [
+                  "00:20:03,970 --> 00:20:07,970",
+                  "and in that study, they"
+               ],
+               [
+                  "00:20:03,970 --> 00:20:07,970",
+                  "looked about 250,000 people"
+               ],
+               [
+                  "00:20:07,970 --> 00:20:08,860",
+                  "in this meta-analysis,"
+               ],
+               [
+                  "00:20:08,860 --> 00:20:10,560",
+                  "and they followed them"
+               ],
+               [
+                  "00:20:08,860 --> 00:20:10,560",
+                  "around for 10 years,"
+               ],
+               [
+                  "00:20:10,560 --> 00:20:12,620",
+                  "and you know, when they pulled"
+               ],
+               [
+                  "00:20:10,560 --> 00:20:12,620",
+                  "all the samples together,"
+               ],
+               [
+                  "00:20:12,620 --> 00:20:15,840",
+                  "they found there was a"
+               ],
+               [
+                  "00:20:12,620 --> 00:20:15,840",
+                  "1.2 fold increased risk"
+               ],
+               [
+                  "00:20:15,840 --> 00:20:18,190",
+                  "for developing all caused dementia,"
+               ],
+               [
+                  "00:20:18,190 --> 00:20:20,190",
+                  "so it sounds like both sleep apnea"
+               ],
+               [
+                  "00:20:20,190 --> 00:20:22,770",
+                  "and then maybe sleep"
+               ],
+               [
+                  "00:20:20,190 --> 00:20:22,770",
+                  "disturbances more generally"
+               ],
+               [
+                  "00:20:22,770 --> 00:20:25,220",
+                  "are associated with"
+               ],
+               [
+                  "00:20:22,770 --> 00:20:25,220",
+                  "increased risk for dementia."
+               ],
+               [
+                  "00:20:25,220 --> 00:20:27,130",
+                  "When I think about that, I think about how"
+               ],
+               [
+                  "00:20:27,130 --> 00:20:28,823",
+                  "sleep lives in the brain,"
+               ],
+               [
+                  "00:20:29,660 --> 00:20:31,900",
+                  "these neurodegenerative"
+               ],
+               [
+                  "00:20:29,660 --> 00:20:31,900",
+                  "diseases live in the brain,"
+               ],
+               [
+                  "00:20:31,900 --> 00:20:34,040",
+                  "and so what do we know"
+               ],
+               [
+                  "00:20:31,900 --> 00:20:34,040",
+                  "about the causality of this?"
+               ],
+               [
+                  "00:20:34,040 --> 00:20:36,010",
+                  "Could it be that individuals"
+               ],
+               [
+                  "00:20:36,010 --> 00:20:39,260",
+                  "who have early onset of say, Alzheimer's,"
+               ],
+               [
+                  "00:20:39,260 --> 00:20:42,880",
+                  "have then poor sleep kind"
+               ],
+               [
+                  "00:20:39,260 --> 00:20:42,880",
+                  "of as a consequence of that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:21:07,770 --> 00:21:09,320",
+                  "- So within dementia risk in particular,"
+               ],
+               [
+                  "00:21:09,320 --> 00:21:10,770",
+                  "Alzheimer's for instance,"
+               ],
+               [
+                  "00:21:10,770 --> 00:21:13,670",
+                  "there are kind of two clear features"
+               ],
+               [
+                  "00:21:13,670 --> 00:21:16,020",
+                  "that seem to be part of"
+               ],
+               [
+                  "00:21:13,670 --> 00:21:16,020",
+                  "the pathology, right?"
+               ],
+               [
+                  "00:21:16,020 --> 00:21:18,890",
+                  "So there's beta-amyloid which"
+               ],
+               [
+                  "00:21:16,020 --> 00:21:18,890",
+                  "accumulates in the brain,"
+               ],
+               [
+                  "00:21:18,890 --> 00:21:20,400",
+                  "and then there's kind of these tangles,"
+               ],
+               [
+                  "00:21:20,400 --> 00:21:21,880",
+                  "this tauopathies, right?"
+               ],
+               [
+                  "00:21:21,880 --> 00:21:25,980",
+                  "And so it sounds like"
+               ],
+               [
+                  "00:21:21,880 --> 00:21:25,980",
+                  "sleep seems to be related"
+               ],
+               [
+                  "00:21:25,980 --> 00:21:27,100",
+                  "to the tauopathies."
+               ],
+               [
+                  "00:21:27,100 --> 00:21:29,770",
+                  "What about kind of beta-amyloid?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:21:42,200 --> 00:21:44,510",
+                  "- Okay, so there is this"
+               ],
+               [
+                  "00:21:42,200 --> 00:21:44,510",
+                  "bio-directional piece,"
+               ],
+               [
+                  "00:21:44,510 --> 00:21:47,790",
+                  "but I think perhaps"
+               ],
+               [
+                  "00:21:44,510 --> 00:21:47,790",
+                  "the most exciting thing"
+               ],
+               [
+                  "00:21:47,790 --> 00:21:49,320",
+                  "that happened in the sleep field,"
+               ],
+               [
+                  "00:21:49,320 --> 00:21:50,180",
+                  "at least in my view,"
+               ],
+               [
+                  "00:21:50,180 --> 00:21:53,800",
+                  "has been understanding the role of sleep"
+               ],
+               [
+                  "00:21:53,800 --> 00:21:56,990",
+                  "and its clearance of"
+               ],
+               [
+                  "00:21:53,800 --> 00:21:56,990",
+                  "beta-amyloid in the brain."
+               ],
+               [
+                  "00:21:56,990 --> 00:22:01,010",
+                  "This idea that sleep is kind"
+               ],
+               [
+                  "00:21:56,990 --> 00:22:01,010",
+                  "of the dishwasher of the brain,"
+               ],
+               [
+                  "00:22:01,010 --> 00:22:04,090",
+                  "it seems like, that you"
+               ],
+               [
+                  "00:22:01,010 --> 00:22:04,090",
+                  "know A betta accumulates"
+               ],
+               [
+                  "00:22:04,090 --> 00:22:06,010",
+                  "as we kind of use energy,"
+               ],
+               [
+                  "00:22:06,010 --> 00:22:09,793",
+                  "and you know it's kind of a waste product,"
+               ],
+               [
+                  "00:22:09,793 --> 00:22:12,520",
+                  "and the idea that if"
+               ],
+               [
+                  "00:22:09,793 --> 00:22:12,520",
+                  "you don't clear it out,"
+               ],
+               [
+                  "00:22:12,520 --> 00:22:14,210",
+                  "that it's going to"
+               ],
+               [
+                  "00:22:12,520 --> 00:22:14,210",
+                  "build up and accumulate."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:22:39,910 --> 00:22:44,790",
+                  "- I'm excited about the"
+               ],
+               [
+                  "00:22:39,910 --> 00:22:44,790",
+                  "future of sleep medicine."
+               ],
+               [
+                  "00:22:44,790 --> 00:22:47,830",
+                  "I think there are incredible"
+               ],
+               [
+                  "00:22:44,790 --> 00:22:47,830",
+                  "innovations that are happening"
+               ],
+               [
+                  "00:22:47,830 --> 00:22:52,140",
+                  "in the basic sciences, kind of"
+               ],
+               [
+                  "00:22:47,830 --> 00:22:52,140",
+                  "really starting to understand"
+               ],
+               [
+                  "00:22:52,140 --> 00:22:55,780",
+                  "what are the clear biological processes"
+               ],
+               [
+                  "00:22:55,780 --> 00:22:57,250",
+                  "that underly some of these things"
+               ],
+               [
+                  "00:22:57,250 --> 00:22:58,830",
+                  "as they relate to disease risk,"
+               ],
+               [
+                  "00:22:58,830 --> 00:23:00,940",
+                  "and what is the true function of sleep,"
+               ],
+               [
+                  "00:23:00,940 --> 00:23:03,220",
+                  "kind of the why we"
+               ],
+               [
+                  "00:23:00,940 --> 00:23:03,220",
+                  "sleep phenomenon, right?"
+               ]
+            ]
+         }
+      ]
+   }
+}

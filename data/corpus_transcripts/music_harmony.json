@@ -1,0 +1,1358 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "Hello everybody.",
+          "My name is Jacob Collier and I'm a musician.",
+          "I've been challenged today to explain one simple concept",
+          "in five levels of increasing complexity.",
+          "My topic, harmony.",
+          "I'm positive that everybody can leave this video",
+          "with some understanding at some level."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Bodhi, how's it going?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "Cool.",
+          "So do you know what harmony is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah, that's 100% correct.",
+          "Have you ever heard a song called Amazing Grace?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "It's a good one.",
+          "The melody on its own just goes.",
+          "(hums Amazing Grace)",
+          "That melody on its own is kind of lonely, right?",
+          "And no one really knows how it feels.",
+          "(plays and hums Amazing Grace)",
+          "So which one did you prefer?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "[Jacob] Awesome.",
+          "And why did you prefer that one?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "Yeah, ah, that's great.",
+          "I can decide how I want this melody to feel",
+          "and the more notes there are, the more exciting it is.",
+          "That's what musical harmony is.",
+          "Does that make sense?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "13",
+        "Sentence": [
+          "You're the best."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "Have you ever heard of harmony?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "Okay, so what do you think harmony is?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "I like it.",
+          "That's absolutely correct."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "Harmony is about injecting melody with emotion",
+          "so that ultimately, you leave home and you return home",
+          "and you've learned something along the way."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "So a nice place to start is with the idea of a triad.",
+          "A triad is a three-part harmony, basically.",
+          "(keyboard harmonic tone)",
+          "So that's a triad.",
+          "So this triad's called C major."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "So have you ever heard of this idea",
+          "of like, major chords and minor chords?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "So this is C major, yeah?",
+          "(keyboard music)",
+          "And then this is C minor.",
+          "So the feelings are different, right?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "[Jacob] Yeah, this one's dark and spooky."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "And how does this one",
+          "make you feel though?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "Yeah, I like that, yeah."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "So in Amazing Grace, you start with F.",
+          "You know, if I go",
+          "(melodic humming)",
+          "♪ How sweet the sound ♪",
+          "(scat singing)",
+          "(laughs)",
+          "Where am I right now?",
+          "I don't know where I am.",
+          "(scat singing)",
+          "And my job is to get back home, but to make this chord",
+          "make sense."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "So I might go",
+          "(hums Amazing Grace)"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "25",
+        "Sentence": [
+          "(mumbles) thanks."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "27",
+        "Sentence": [
+          "Oh, cheers (mumbles)."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "29",
+        "Sentence": [
+          "My job as a harmonizer is to find",
+          "that narrative and make it make sense."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "31",
+        "Sentence": [
+          "Cool."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "33",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "35",
+        "Sentence": [
+          "Amazing, that's great."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "Essentially what harmony is, is like a language, right?",
+          "And so as with any language,",
+          "the more words you're capable of speaking",
+          "in a language, the more you can say.",
+          "All right, so in harmony, this might be",
+          "how many notes you can think to add to a chord",
+          "to make it feel a different way.",
+          "Have you ever heard of the circle of fifths?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "Okay, that's great.",
+          "On one side, we have a lot of the notes which make us",
+          "feel brighter, you know, like these kinds of,",
+          "(keyboard music)",
+          "these really bright sounds.",
+          "And the other side is a lot more to do",
+          "with the darkness of a key center.",
+          "So we're home in F, but imagine we're taking",
+          "a quick visit to B-flat, but then the sun comes out."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "What notes would you suggest I add?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "F is a great one.",
+          "Yeah, and if we keep going in that direction?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "11",
+        "Sentence": [
+          "You got it.",
+          "Ooh! Yeah?",
+          "Yeah, yeah. So this is really,",
+          "this is like a gleaming glade or something, you know?",
+          "Let's play this tune, Amazing Grace.",
+          "Let's play it in its simplest form."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "13",
+        "Sentence": [
+          "All right, so we're gonna start in F, right?",
+          "Yeah. So say.",
+          "♪ I once ♪",
+          "F, yeah.",
+          "(Amazing Grace)",
+          "B-flat, yeah.",
+          "F.",
+          "C.",
+          "F.",
+          "So we're home."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "15",
+        "Sentence": [
+          "Nice, okay cool.",
+          "Lets try one more version where we add some colors.",
+          "Alright so lets visit the B flat,",
+          "with a bit more imagination."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "17",
+        "Sentence": [
+          "Just to see how things feel. Yeah.",
+          "All right, lets do it.",
+          "(both playing Amazing Grace)",
+          "So it's F major seven, but its over A.",
+          "Which is F seven over A.",
+          "(both playing)",
+          "B flat major seven with an A and a G in it.",
+          "F major seven with an E and a D and a G, yeah.",
+          "(laughter)",
+          "D minor seven with a G in it.",
+          "C softs, or minor, nice.",
+          "B flat major.",
+          "G seven, F sharp major seven.",
+          "Home, yeah!",
+          "I like that.",
+          "So what harmony does is just gives us",
+          "even more tools to tell those stories.",
+          "Cool, yeah. Nice, man."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "One nice emotional device when it come to harmony",
+          "is just thinking about how to arrive somewhere.",
+          "You know, it can be so sparse, it can be so rich,",
+          "and it can be really emotional.",
+          "So this idea of the overtone and the undertone",
+          "in the harmonic series, how much do you know about this?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah.",
+          "The amazing thing about harmony is that it exists in nature.",
+          "So, take the harmonic series of the note F, for example.",
+          "Okay.",
+          "You have the ups on the fifth and the fourth and then the,",
+          "(hums) That seemed a little bit sharp, but that's fine.",
+          "And then tones get increasingly small.",
+          "Beneath that note, you have the undertone series,",
+          "which essentially is like a reflection of something.",
+          "In the same way that when a tree grows in nature,",
+          "you have the branches which grow upwards and",
+          "the roots which go downwards.",
+          "So it's quite a nice thing to thing about,",
+          "this being the key center, the floor, the ground,",
+          "and then these two different directions",
+          "of ways in which it can express itself,",
+          "and the differences in the sensations with that.",
+          "Lots of the time I think when it comes to",
+          "reharmonization or harmonization,",
+          "people think that the solution to the problems",
+          "come when we add more notes."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "I think that people forget that you can work",
+          "with the notes you already have by just rearranging them,",
+          "just the simple idea of inversion,",
+          "inversion of the simple triad, of F major.",
+          "♪I once was lost and now I'm found ♪",
+          "♪ Was blind ♪",
+          "♪ But now I see ♪",
+          "Now how home do I want to go here, you know?",
+          "Is there another verse to come?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Because I can delay the gratification of going home.",
+          "First of all, just by using inversions,",
+          "even before we add the notes to the chord.",
+          "One thing that I was very joyful to discover",
+          "is that every single melody note",
+          "works with every single base note."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "Yeah. so this is the note F."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "F major, F minor, D flat major seven",
+          "G flat diminished, G flat minor major seven,",
+          "G minor seven, G soft, G seven, G seven sharp 11.",
+          "And then, G seven with a flat 13"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "That's it! (laughs)",
+          "A flat soft, A flat major seven.",
+          "A flat major seven sharp five, with a sharp 11.",
+          "Essentially, what that demonstrates is that",
+          "every note and every base note are compatible.",
+          "So once we realize this its like, that's great!",
+          "Now what should we do?",
+          "What, how, what should we, what should we,",
+          "how, what am I supposed to do?",
+          "What to do, right.",
+          "And sometimes the paralyzing thing",
+          "when it comes to arranging, there are too many options,",
+          "too many things are possible.",
+          "So that's when it becomes super, super important",
+          "to be aware of what you wanna try and say emotionally."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "So essentially, the way I'd apply negative harmony",
+          "would be this idea of polarity, you know,",
+          "between the overtone series and the undertone series,",
+          "or you know, the one side and the other side.",
+          "The perfect and the play goal.",
+          "The feeling of a minor perfect--",
+          "(keyboard music)",
+          "Resolving, it's so moving, you know?",
+          "And it's a good alternative to something like,",
+          "(keyboard music)"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "19",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "21",
+        "Sentence": [
+          "Exactly, yeah.",
+          "No, for sure.",
+          "And, you know, F major can be something you arrive in from,",
+          "if you arrive in F major from D flat,",
+          "then it's like the sun's come up."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "23",
+        "Sentence": [
+          "But if you arrive in F major from A major,",
+          "then it's like the sun's gone in."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "25",
+        "Sentence": [
+          "So, there's a lot about context, I think.",
+          "Once you have a language, it's about using it",
+          "and applying it in those emotional ways.",
+          "I think that's what makes the difference."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "A lot of people will see you as somebody",
+          "who's drank in harmony their whole life.",
+          "They've seen so much harmony, heard so much harmony.",
+          "How do you make the choices, there's so much",
+          "that's possible when you know stuff.",
+          "How do you have the courage to make a choice?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "Yeah, yeah, yeah.",
+          "I find it fascinating in music to think about,",
+          "you know, say I arrive in a place,",
+          "if I'm going, say I'm going to D flat major.",
+          "And there's something you once taught me.",
+          "You taught me this song Don't Follow the Crowd."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "And there's that chord.",
+          "It's not a Dennerman chord,",
+          "but it functions as a dominant chord.",
+          "But it doesn't matter, because you're still going",
+          "to the place you're going to."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "It's something like, um...",
+          "(keyboard music)"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "Yeah.",
+          "So this chord being, like a major seven",
+          "with a sharp five, and a natural,",
+          "like, there's no dominant thing."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "But at that moment, I'm coming from here,",
+          "and I wanna forge some, some solution.",
+          "I get myself in a situation.",
+          "(keyboard music)"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "That haunted me for days."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "'Cause, you know, I just wouldn't think",
+          "to use that chord in that situation.",
+          "And there it was!",
+          "And, you know, if you read the rule book,",
+          "it's, that not in it."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "Chris Anderson, yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "Oh yeah."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          "Exactly right, it gets gnarly right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah.",
+          "But if you verse that correctly, then you're safe."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          "You can get away with it."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          "Yeah. Oh yeah.",
+          "(keyboard music)"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "28",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "30",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          "Right, right, right."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "33",
+        "Sentence": [
+          "Something like that.",
+          "And that's not 'cause like emotionally,",
+          "it's almost like I'm here, I'm arriving here.",
+          "But, if the base note is the same,",
+          "it's like this inevitability about it,",
+          "it's like I was there all along."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "35",
+        "Sentence": [
+          "Yeah, yeah.",
+          "It's like one thing is moving in one direction and one thing",
+          "has arrived, so it's this tension and it's glorious.",
+          "I love thinking about these things emotionally,",
+          "just because that's a feeling,",
+          "I know that feeling in my life."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "37",
+        "Sentence": [
+          "(Jacob) No."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "39",
+        "Sentence": [
+          "Yeah.",
+          "Was there ever a point in your life",
+          "when you were younger where you felt like you had",
+          "consistently fell back into the same habits?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "41",
+        "Sentence": [
+          "I don't want to play this same thing again."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "43",
+        "Sentence": [
+          "So you thought he said butter."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "45",
+        "Sentence": [
+          "And he said bottom.",
+          "But you thought he said butter."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "47",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "49",
+        "Sentence": [
+          "Wow."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "51",
+        "Sentence": [
+          "That's amazing."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "53",
+        "Sentence": [
+          "I've been using this tune Amazing Grace."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "55",
+        "Sentence": [
+          "And so, we could play a bit of that if you want to.",
+          "And we could talk about some stuff.",
+          "I've been doing it in F.",
+          "(keyboards playing Amazing Grace)",
+          "(laughing)",
+          "Thanks Herbie, that was a trip."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=17",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Good."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "It's when people sing together and it sounds nice."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "The second one."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Because it sounds better."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Thank you!"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=65",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I think basically it's like, one person has the lower",
+          "voice and then like, girl usually has the higher voice",
+          "and then they blend it together."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah, yeah, yeah, yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah, feels like dark and spooky."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Haunted house."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Happy. And joyful."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Oh man, that sounded really good."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "I was surprised."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "That was like, happened."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "That was interesting."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "'Cause I didn't think that that would work together."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "Because there were two two completely different sounds,",
+          "but then, like, it just made it happen",
+          "and it just was like, pow!"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "Magic!"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=161",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Mm-hmm."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Oh, yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "F."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "C?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "And then G."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Awesome."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=286",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Only until I started listening to singing,",
+          "like barbershop quartet, and,",
+          "and as I was a violinist as well--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Then I finally understood the idea",
+          "where the overtone series came from",
+          "that if a bunch of singers were to nail a chord",
+          "or have it perfectly tuned, the overtones,",
+          "you would hear a tone that necessarily",
+          "wasn't being produced by one the singers."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Would you care to demonstrate that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "(laughs)"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "But what about negative harmony, the dark side?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "It's funny, you know, you doing that",
+          "makes something in a major key",
+          "sound like kind of a wistful sad song."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "You know, you changed the feeling of it,",
+          "what otherwise would, you know, if you were to tell a kid",
+          "that this is a major song, we should be happy."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Interesting."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "All right."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/eRkgK4jfi6M?t=507",
+    "wired_link": "https://www.wired.com/video/watch/musician-explains-one-concept-in-5-levels-of-difficulty",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "It comes from just your life experience.",
+          "And that moves you in a certain direction.",
+          "How it gets expressed, many times, is sudden.",
+          "Complete surprise. (laughs)"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Oh, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Right, right, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Right, right, right, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Right, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "Yeah.",
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "(Herbie laughs)"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "Yeah, and this is what I learned",
+          "from the great Chris Anderson."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "The idea of going to a D flat chord.",
+          "Normally it does a dominant like the A flat seven.",
+          "But back in the 20s, they also used to do things like,",
+          "(keyboard music)"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "So, It's always coming.",
+          "(keyboard music)",
+          "Coming from just below the key.",
+          "From C with a seventh.",
+          "And when we don't normally say a C seventh",
+          "and an A flat seventh are related,",
+          "you know, 'cause so many of the notes are different.",
+          "You've got this, and you've got a G--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "Yeah, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "Oh yeah, you can get all of those notes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "Yeah. (laughs)",
+          "The other thing that I like, that we both do on occasion,",
+          "is to be on the chord we want to arrive at",
+          "with the bottom part of our structure.",
+          "And the chord before the arrival chord,",
+          "to have that on top."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "29",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "32",
+        "Sentence": [
+          "Right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "34",
+        "Sentence": [
+          "And it makes like a pull."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "36",
+        "Sentence": [
+          "Music is not different from life."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "38",
+        "Sentence": [
+          "You know, and I think that's probably",
+          "the greatest attraction to those of us who play music."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "40",
+        "Sentence": [
+          "You'd find, man,"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "42",
+        "Sentence": [
+          "I had a really great experience",
+          "when I was working with Miles Davis.",
+          "I felt like I was in a rut playing the same stuff,",
+          "and I was getting depressed because of it.",
+          "And Myles said something to me.",
+          "I thought he said, Don't play the butter notes.",
+          "And so, I thought, what did he mean by that?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "44",
+        "Sentence": [
+          "Butter notes, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "46",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "48",
+        "Sentence": [
+          "And so, I started thinking,",
+          "oh great, what could butter be?",
+          "What is butter?",
+          "Then I started thinking, what are the obvious notes?",
+          "For example in a chord.",
+          "The obvious notes are the third and the seventh.",
+          "So I said, maybe if I leave those out.",
+          "It changed everything for me, from that moment on.",
+          "I got more applause for that solo than I did the whole week.",
+          "(Herbie laughs)"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "50",
+        "Sentence": [
+          "I wouldn't play the voice things",
+          "I play today if that had not happened."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "52",
+        "Sentence": [
+          "I know."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "54",
+        "Sentence": [
+          "Oh, right."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "56",
+        "Sentence": [
+          "Yeah, thank you."
+        ]
+      }
+    ]
+  }
+}

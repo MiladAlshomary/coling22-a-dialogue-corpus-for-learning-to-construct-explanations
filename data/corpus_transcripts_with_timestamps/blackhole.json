@@ -1,0 +1,2252 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:00,030 --> 00:00:03,240",
+                  "Hi, I'm Varoujan Gorjian, I'm a Research Astronomer"
+               ],
+               [
+                  "00:00:03,240 --> 00:00:04,560",
+                  "at NASA's Jet Propulsion Laboratory."
+               ],
+               [
+                  "00:00:04,560 --> 00:00:07,230",
+                  "I've been challenged today to talk"
+               ],
+               [
+                  "00:00:07,230 --> 00:00:09,360",
+                  "about once concept at five different levels"
+               ],
+               [
+                  "00:00:09,360 --> 00:00:12,179",
+                  "of increasing complexity."
+               ],
+               [
+                  "00:00:12,179 --> 00:00:13,620",
+                  "Today we're going to be talking about black holes."
+               ],
+               [
+                  "00:00:13,620 --> 00:00:15,990",
+                  "A basic definition of a black hole is"
+               ],
+               [
+                  "00:00:15,990 --> 00:00:18,869",
+                  "that it's a lot of mass crammed into a very tiny volume,"
+               ],
+               [
+                  "00:00:18,869 --> 00:00:21,240",
+                  "such that the escaped velocity is the speed of light."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:00:21,240 --> 00:00:26,400",
+                  "So have you ever heard of something called a black hole?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:00:28,050 --> 00:00:31,289",
+                  "Well, it has to do with, a lot with gravity,"
+               ],
+               [
+                  "00:00:31,289 --> 00:00:33,899",
+                  "do you know what gravity is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:00:36,059 --> 00:00:39,660",
+                  "It's what keeps us on the earth."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:00:41,430 --> 00:00:44,010",
+                  "The reason we're not just flying off the earth is"
+               ],
+               [
+                  "00:00:44,010 --> 00:00:46,219",
+                  "because earth has gravity, so if we throw something up,"
+               ],
+               [
+                  "00:00:46,219 --> 00:00:48,600",
+                  "it comes back down, so that's why"
+               ],
+               [
+                  "00:00:48,600 --> 00:00:50,129",
+                  "when we're walking on the earth,"
+               ],
+               [
+                  "00:00:50,129 --> 00:00:51,930",
+                  "we don't fly off the earth because the earth has gravity,"
+               ],
+               [
+                  "00:00:51,930 --> 00:00:56,309",
+                  "and it keeps us down."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:00:59,399 --> 00:01:01,530",
+                  "The main thing about black hole to remember is"
+               ],
+               [
+                  "00:01:01,530 --> 00:01:03,600",
+                  "that it's just, like I said, how the earth holds you down,"
+               ],
+               [
+                  "00:01:03,600 --> 00:01:05,549",
+                  "the black hole pulls you in, as well."
+               ],
+               [
+                  "00:01:05,549 --> 00:01:07,740",
+                  "Now, try and take the ball from me, black hole--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:01:09,270 --> 00:01:11,010",
+                  "I'm holding it tight to show you"
+               ],
+               [
+                  "00:01:11,010 --> 00:01:13,670",
+                  "then when you're trying to pull it,"
+               ],
+               [
+                  "00:01:13,670 --> 00:01:19,860",
+                  "a black hole will really hold onto it with its gravity."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"13",
+            "Sentence":[
+               [
+                  "00:01:21,330 --> 00:01:23,640",
+                  "Yeah."
+               ],
+               [
+                  "00:01:23,640 --> 00:01:26,729",
+                  "The main thing is that if something falls"
+               ],
+               [
+                  "00:01:26,729 --> 00:01:28,619",
+                  "into a black hole, it can never get out, it's--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"15",
+            "Sentence":[
+               [
+                  "00:01:31,259 --> 00:01:33,869",
+                  "Oh, if the earth rolls into it?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"17",
+            "Sentence":[
+               [
+                  "00:01:37,020 --> 00:01:38,729",
+                  "It would be bad, we wouldn't be able to get out."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"19",
+            "Sentence":[
+               [
+                  "00:01:41,310 --> 00:01:42,540",
+                  "It's never, not likely to happen, no."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"21",
+            "Sentence":[
+               [
+                  "00:01:44,759 --> 00:01:46,259",
+                  "Well, yeah, definitely in movies, yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"23",
+            "Sentence":[
+               [
+                  "00:01:49,490 --> 00:01:52,409",
+                  "Yeah, exactly."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"25",
+            "Sentence":[
+               [
+                  "00:01:56,270 --> 00:01:58,229",
+                  "The black hole will sort"
+               ],
+               [
+                  "00:01:58,229 --> 00:02:00,299",
+                  "of stretch you out as you're falling in."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"27",
+            "Sentence":[
+               [
+                  "00:02:03,450 --> 00:02:05,040",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"2",
+            "Sequence":"29",
+            "Sentence":[
+               [
+                  "00:02:07,050 --> 00:02:09,600",
+                  "So what do you think about black holes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:02:12,300 --> 00:02:14,430",
+                  "So tell me, what do you know about black holes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:02:20,280 --> 00:02:22,709",
+                  "You got, pretty much, you got a very good idea about it."
+               ],
+               [
+                  "00:02:22,709 --> 00:02:24,360",
+                  "Basically you have a star,"
+               ],
+               [
+                  "00:02:24,360 --> 00:02:26,220",
+                  "at the core its generating energy,"
+               ],
+               [
+                  "00:02:26,220 --> 00:02:27,540",
+                  "which is countering the pressure"
+               ],
+               [
+                  "00:02:27,540 --> 00:02:30,630",
+                  "of all that mass trying, being pulled in by gravity."
+               ],
+               [
+                  "00:02:30,630 --> 00:02:32,610",
+                  "Once it can't generate that energy anymore,"
+               ],
+               [
+                  "00:02:32,610 --> 00:02:33,330",
+                  "the core collapses, once the core is collapsing,"
+               ],
+               [
+                  "00:02:33,330 --> 00:02:35,100",
+                  "it keeps collapsing, and collapsing, and collapsing,"
+               ],
+               [
+                  "00:02:35,100 --> 00:02:38,010",
+                  "and that's the critical thing that makes a black hole."
+               ],
+               [
+                  "00:02:38,010 --> 00:02:39,390",
+                  "You have enough mass in the volume,"
+               ],
+               [
+                  "00:02:39,390 --> 00:02:41,070",
+                  "such that the escaped velocity becomes the speed of light,"
+               ],
+               [
+                  "00:02:41,070 --> 00:02:42,690",
+                  "once light can't escape, hence the black part. (laughs)"
+               ],
+               [
+                  "00:02:42,690 --> 00:02:45,300",
+                  "But that's the thing, is that just"
+               ],
+               [
+                  "00:02:45,300 --> 00:02:46,980",
+                  "because there's an intense amount"
+               ],
+               [
+                  "00:02:46,980 --> 00:02:48,239",
+                  "of gravity very close to a black hole,"
+               ],
+               [
+                  "00:02:48,239 --> 00:02:50,250",
+                  "things don't start behaving differently."
+               ],
+               [
+                  "00:02:50,250 --> 00:02:52,709",
+                  "And my favorite analogy is a vacuum, everybody thinks, like,"
+               ],
+               [
+                  "00:02:52,709 --> 00:02:54,690",
+                  "if you point a vacuum cleaner at something,"
+               ],
+               [
+                  "00:02:54,690 --> 00:02:56,040",
+                  "it's just gonna suck everything in--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:02:59,910 --> 00:03:01,799",
+                  "Right, you will feel the gravitational pull,"
+               ],
+               [
+                  "00:03:01,799 --> 00:03:04,049",
+                  "and it'll redirect you in some way,"
+               ],
+               [
+                  "00:03:04,049 --> 00:03:05,850",
+                  "and if you're far enough way,"
+               ],
+               [
+                  "00:03:05,850 --> 00:03:08,670",
+                  "it's just like you're very far away"
+               ],
+               [
+                  "00:03:08,670 --> 00:03:11,640",
+                  "from the sun, or something else."
+               ],
+               [
+                  "00:03:11,640 --> 00:03:13,019",
+                  "If you're close enough, it will divert your path more,"
+               ],
+               [
+                  "00:03:13,019 --> 00:03:14,790",
+                  "if you're close enough still, then you will get"
+               ],
+               [
+                  "00:03:14,790 --> 00:03:16,350",
+                  "what are called tidal forces, where the difference between,"
+               ],
+               [
+                  "00:03:16,350 --> 00:03:18,450",
+                  "for example, if you're standing next to a black hole,"
+               ],
+               [
+                  "00:03:18,450 --> 00:03:19,980",
+                  "the difference in gravity between your feet"
+               ],
+               [
+                  "00:03:19,980 --> 00:03:21,540",
+                  "and your head actually becomes significant."
+               ],
+               [
+                  "00:03:21,540 --> 00:03:24,090",
+                  "Next time you see a science fiction movie,"
+               ],
+               [
+                  "00:03:24,090 --> 00:03:26,280",
+                  "if somebody says, Oh, my god, we've been caught"
+               ],
+               [
+                  "00:03:26,280 --> 00:03:28,110",
+                  "in the gravitation field of a black hole,"
+               ],
+               [
+                  "00:03:28,110 --> 00:03:30,120",
+                  "and we're gonna fall in, it's like,"
+               ],
+               [
+                  "00:03:30,120 --> 00:03:32,220",
+                  "no, no, just, if you're far enough away,"
+               ],
+               [
+                  "00:03:32,220 --> 00:03:34,530",
+                  "just thrust a little bit this way,"
+               ],
+               [
+                  "00:03:34,530 --> 00:03:36,510",
+                  "and then you'll slingshot around the black hole."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:03:40,829 --> 00:03:43,709",
+                  "I wouldn't call them educational,"
+               ],
+               [
+                  "00:03:43,709 --> 00:03:44,970",
+                  "but the movie Interstellar actually had,"
+               ],
+               [
+                  "00:03:44,970 --> 00:03:48,000",
+                  "as one of the people involved in both writing it,"
+               ],
+               [
+                  "00:03:48,000 --> 00:03:50,010",
+                  "and as a science advisor, Dr. Kip Thorne,"
+               ],
+               [
+                  "00:03:50,010 --> 00:03:52,440",
+                  "who's a Professor at Caltech, who was part of the team"
+               ],
+               [
+                  "00:03:52,440 --> 00:03:54,000",
+                  "that detected gravitational waves,"
+               ],
+               [
+                  "00:03:54,000 --> 00:03:55,350",
+                  "and just won a Nobel Prize for it."
+               ],
+               [
+                  "00:03:55,350 --> 00:03:58,260",
+                  "So he made sure to try and get it as accurate as possible,"
+               ],
+               [
+                  "00:03:58,260 --> 00:04:00,810",
+                  "so Interstellar, I think, is one of the best examples"
+               ],
+               [
+                  "00:04:00,810 --> 00:04:02,790",
+                  "of getting black holes right."
+               ]
+            ]
+         },
+         {
+            "Reciever":"3",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:04:11,280 --> 00:04:12,750",
+                  "It's, there're multiple theories,"
+               ],
+               [
+                  "00:04:12,750 --> 00:04:14,460",
+                  "there's observational evidence,"
+               ],
+               [
+                  "00:04:14,460 --> 00:04:16,680",
+                  "more than some other theories that are really feeding"
+               ],
+               [
+                  "00:04:16,680 --> 00:04:18,238",
+                  "into this because now we have the instrumentation,"
+               ],
+               [
+                  "00:04:18,238 --> 00:04:20,760",
+                  "both in X-rays and infrared, in particular,"
+               ],
+               [
+                  "00:04:20,760 --> 00:04:21,779",
+                  "because we don't have a direct optical line"
+               ],
+               [
+                  "00:04:21,779 --> 00:04:24,240",
+                  "of sight to the center of our galaxy"
+               ],
+               [
+                  "00:04:24,240 --> 00:04:25,530",
+                  "because there's just a lot of dust in the way."
+               ],
+               [
+                  "00:04:25,530 --> 00:04:27,300",
+                  "But the infrared can penetrate the dust,"
+               ],
+               [
+                  "00:04:27,300 --> 00:04:29,580",
+                  "the X-rays can penetrate the dust,"
+               ],
+               [
+                  "00:04:29,580 --> 00:04:31,650",
+                  "the radio can penetrate all of that dust,"
+               ],
+               [
+                  "00:04:31,650 --> 00:04:33,390",
+                  "so by combining all of these different wavelengths,"
+               ],
+               [
+                  "00:04:33,390 --> 00:04:36,480",
+                  "people are really coming to a point"
+               ],
+               [
+                  "00:04:36,480 --> 00:04:37,710",
+                  "of okay, how is this happening,"
+               ],
+               [
+                  "00:04:37,710 --> 00:04:39,570",
+                  "by looking at different wavelengths of light,"
+               ],
+               [
+                  "00:04:39,570 --> 00:04:40,710",
+                  "we can get a better sense, but they're still working"
+               ],
+               [
+                  "00:04:40,710 --> 00:04:44,130",
+                  "on the theory, it's not all done."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:04:44,130 --> 00:04:47,160",
+                  "So far, what do you know about black holes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:05:18,000 --> 00:05:20,790",
+                  "So we've been, we've had, now,"
+               ],
+               [
+                  "00:05:20,790 --> 00:05:22,380",
+                  "effectively two different ways"
+               ],
+               [
+                  "00:05:22,380 --> 00:05:24,630",
+                  "of getting more direct measurements, one is the LIGO, which"
+               ],
+               [
+                  "00:05:24,630 --> 00:05:25,380",
+                  "is the Laser Interferometer Gravitational Wave Observatory,"
+               ],
+               [
+                  "00:05:25,380 --> 00:05:27,330",
+                  "which is where, getting the ripples in space time,"
+               ],
+               [
+                  "00:05:27,330 --> 00:05:29,130",
+                  "coming off of the merging of black holes."
+               ],
+               [
+                  "00:05:29,130 --> 00:05:32,250",
+                  "The other one that you're mentioning is actually called"
+               ],
+               [
+                  "00:05:32,250 --> 00:05:33,390",
+                  "the Event Horizon Telescope, where they're using radio waves"
+               ],
+               [
+                  "00:05:33,390 --> 00:05:34,620",
+                  "to actually image the event horizon,"
+               ],
+               [
+                  "00:05:34,620 --> 00:05:37,020",
+                  "that region where light cannot escape"
+               ],
+               [
+                  "00:05:37,020 --> 00:05:39,630",
+                  "from the black hole at the center of our galaxy,"
+               ],
+               [
+                  "00:05:39,630 --> 00:05:41,490",
+                  "which I know they're working on it right now."
+               ],
+               [
+                  "00:05:41,490 --> 00:05:42,840",
+                  "It's an amazing thing,"
+               ],
+               [
+                  "00:05:42,840 --> 00:05:44,250",
+                  "but that'll be the most direct imaging of a black hole."
+               ],
+               [
+                  "00:05:44,250 --> 00:05:46,530",
+                  "LIGO is a direct detection of the consequence"
+               ],
+               [
+                  "00:05:46,530 --> 00:05:48,479",
+                  "of the merging of black holes."
+               ],
+               [
+                  "00:05:48,479 --> 00:05:50,790",
+                  "The critical part has been, like,"
+               ],
+               [
+                  "00:05:50,790 --> 00:05:52,410",
+                  "for the super massive black hole at the center"
+               ],
+               [
+                  "00:05:52,410 --> 00:05:54,479",
+                  "of our galaxy, we've seen the stars orbiting it,"
+               ],
+               [
+                  "00:05:54,479 --> 00:05:55,979",
+                  "and we've measured the mass, so that way,"
+               ],
+               [
+                  "00:05:55,979 --> 00:05:57,330",
+                  "so if you look at a spinning black hole,"
+               ],
+               [
+                  "00:05:57,330 --> 00:05:59,460",
+                  "it actually fundamentally alters the emission"
+               ],
+               [
+                  "00:05:59,460 --> 00:06:01,080",
+                  "that's coming off the stuff that's falling into it."
+               ],
+               [
+                  "00:06:01,080 --> 00:06:03,000",
+                  "These are discovered as what are called X-ray binaries,"
+               ],
+               [
+                  "00:06:03,000 --> 00:06:04,860",
+                  "that is, you know, there's an X-ray member"
+               ],
+               [
+                  "00:06:04,860 --> 00:06:06,690",
+                  "of the binary that is emitting in the X-rays,"
+               ],
+               [
+                  "00:06:06,690 --> 00:06:08,100",
+                  "and it's really not very bright"
+               ],
+               [
+                  "00:06:08,100 --> 00:06:09,450",
+                  "in the optical (mumbles) at all, so there's always,"
+               ],
+               [
+                  "00:06:09,450 --> 00:06:11,880",
+                  "people are looking at these X-ray binaries."
+               ]
+            ]
+         },
+         {
+            "Reciever":"4",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:06:19,740 --> 00:06:21,250",
+                  "For my studies, I actually, when I started at UCLA"
+               ],
+               [
+                  "00:06:21,250 --> 00:06:23,350",
+                  "in graduate school, I worked"
+               ],
+               [
+                  "00:06:23,350 --> 00:06:25,180",
+                  "with a professor named Matt Malkin who was,"
+               ],
+               [
+                  "00:06:25,180 --> 00:06:27,130",
+                  "gotten a lot of data observations"
+               ],
+               [
+                  "00:06:27,130 --> 00:06:29,860",
+                  "from the Hubble Space Telescope, so that was one"
+               ],
+               [
+                  "00:06:29,860 --> 00:06:32,860",
+                  "of my very first projects to work on, so any,"
+               ],
+               [
+                  "00:06:32,860 --> 00:06:34,510",
+                  "space-based observatories have been a really big advantage,"
+               ],
+               [
+                  "00:06:34,510 --> 00:06:37,720",
+                  "and then I've moved on now to the Spitzer Space Telescope."
+               ],
+               [
+                  "00:06:37,720 --> 00:06:39,100",
+                  "In addition to that, then there's other people"
+               ],
+               [
+                  "00:06:39,100 --> 00:06:41,830",
+                  "who've used a lot of X-ray telescopes,"
+               ],
+               [
+                  "00:06:41,830 --> 00:06:43,810",
+                  "NuSTAR, Chandra have used data from that."
+               ],
+               [
+                  "00:06:43,810 --> 00:06:45,190",
+                  "It's been a combination of both ground-based observatories,"
+               ],
+               [
+                  "00:06:45,190 --> 00:06:46,540",
+                  "as well as space-based ones, and going everywhere"
+               ],
+               [
+                  "00:06:46,540 --> 00:06:48,280",
+                  "from X-ray observations, not done by me,"
+               ],
+               [
+                  "00:06:48,280 --> 00:06:49,750",
+                  "but certainly ultraviolet, and then optical,"
+               ],
+               [
+                  "00:06:49,750 --> 00:06:51,610",
+                  "and infrared, particularly, those are the ones"
+               ],
+               [
+                  "00:06:51,610 --> 00:06:53,500",
+                  "that I've been most involved with."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:06:53,500 --> 00:06:54,610",
+                  "What got you interested in studying black holes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:07:29,950 --> 00:07:31,780",
+                  "Which is, by the way, what, when I was just starting out"
+               ],
+               [
+                  "00:07:31,780 --> 00:07:33,580",
+                  "in graduate school, that was the hot new thing, so."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:07:35,919 --> 00:07:39,220",
+                  "That was, it was like, oh, wow, this might be it,"
+               ],
+               [
+                  "00:07:39,220 --> 00:07:41,500",
+                  "and then, but very early on, it was, as I just started my,"
+               ],
+               [
+                  "00:07:41,500 --> 00:07:44,620",
+                  "it was basically my second year of graduate school,"
+               ],
+               [
+                  "00:07:44,620 --> 00:07:46,840",
+                  "it was like, uh, this is not that simple."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:07:49,360 --> 00:07:51,250",
+                  "You know, everybody's been just coming at it"
+               ],
+               [
+                  "00:07:51,250 --> 00:07:54,070",
+                  "from different wavelengths at the optical infrared,"
+               ],
+               [
+                  "00:07:54,070 --> 00:07:55,780",
+                  "and, but definitely the X-rays has been one"
+               ],
+               [
+                  "00:07:55,780 --> 00:07:58,120",
+                  "of those things where it's like, oh, finally."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:08:17,800 --> 00:08:20,590",
+                  "It does seem to be that it may not even,"
+               ],
+               [
+                  "00:08:20,590 --> 00:08:22,900",
+                  "in parts, it may not be even connected"
+               ],
+               [
+                  "00:08:22,900 --> 00:08:25,750",
+                  "to this tiny, little torus at all"
+               ],
+               [
+                  "00:08:25,750 --> 00:08:27,729",
+                  "because part of the work that I did,"
+               ],
+               [
+                  "00:08:27,729 --> 00:08:30,099",
+                  "and others have done, is that type twos preferentially live"
+               ],
+               [
+                  "00:08:30,099 --> 00:08:32,950",
+                  "in different kinds of galaxies than type ones,"
+               ],
+               [
+                  "00:08:32,950 --> 00:08:34,750",
+                  "which should not in any way have to do"
+               ],
+               [
+                  "00:08:34,750 --> 00:08:36,760",
+                  "with something such a small scale."
+               ],
+               [
+                  "00:08:36,760 --> 00:08:38,710",
+                  "They tend to be in smaller bulged,"
+               ],
+               [
+                  "00:08:38,710 --> 00:08:40,719",
+                  "SB and SC type spiral galaxies."
+               ],
+               [
+                  "00:08:40,719 --> 00:08:42,820",
+                  "So there's something also having to do"
+               ],
+               [
+                  "00:08:42,820 --> 00:08:44,350",
+                  "with environment that gets you to be a type two,"
+               ],
+               [
+                  "00:08:44,350 --> 00:08:46,660",
+                  "and you can still maybe, timing wise,"
+               ],
+               [
+                  "00:08:46,660 --> 00:08:48,610",
+                  "but there's something else that's going on"
+               ],
+               [
+                  "00:08:48,610 --> 00:08:51,310",
+                  "on a larger scale because the type"
+               ],
+               [
+                  "00:08:51,310 --> 00:08:52,960",
+                  "of the AGN should not really correspond"
+               ],
+               [
+                  "00:08:52,960 --> 00:08:55,090",
+                  "to the host galaxy, but it seems to."
+               ],
+               [
+                  "00:08:55,090 --> 00:08:56,830",
+                  "And that was one of the things"
+               ],
+               [
+                  "00:08:56,830 --> 00:09:01,960",
+                  "that we were finding out, and that was one"
+               ],
+               [
+                  "00:09:01,960 --> 00:09:04,630",
+                  "of the early little ideas that the,"
+               ],
+               [
+                  "00:09:04,630 --> 00:09:06,100",
+                  "individually, just as the torus model,"
+               ],
+               [
+                  "00:09:06,100 --> 00:09:08,440",
+                  "the unified model, can't explain everything"
+               ],
+               [
+                  "00:09:08,440 --> 00:09:11,200",
+                  "that we were observing at the time."
+               ],
+               [
+                  "00:09:11,200 --> 00:09:13,030",
+                  "But it is one of those things that it's,"
+               ],
+               [
+                  "00:09:13,030 --> 00:09:14,920",
+                  "they're super luminous, they're all over the place,"
+               ],
+               [
+                  "00:09:14,920 --> 00:09:16,570",
+                  "and we don't have a really good picture of it,"
+               ],
+               [
+                  "00:09:16,570 --> 00:09:19,600",
+                  "which makes it exciting to study."
+               ]
+            ]
+         },
+         {
+            "Reciever":"5",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:09:41,700 --> 00:09:43,839",
+                  "Oh, that makes sense, but it's always"
+               ],
+               [
+                  "00:09:43,839 --> 00:09:46,089",
+                  "so difficult to get that."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:10:05,860 --> 00:10:07,540",
+                  "So fortunately there's, I'm also doing it"
+               ],
+               [
+                  "00:10:07,540 --> 00:10:10,120",
+                  "from space with the Spitzer Space Telescope, so particularly"
+               ],
+               [
+                  "00:10:10,120 --> 00:10:12,820",
+                  "in the infrared, and my main interest has been to try and"
+               ],
+               [
+                  "00:10:12,820 --> 00:10:14,920",
+                  "study the environment around the super massive black holes,"
+               ],
+               [
+                  "00:10:14,920 --> 00:10:17,440",
+                  "not as close as where the X-rays are coming from,"
+               ],
+               [
+                  "00:10:17,440 --> 00:10:19,390",
+                  "but clearly there's something from the X-ray corona"
+               ],
+               [
+                  "00:10:19,390 --> 00:10:21,820",
+                  "that illuminates the rest of the accretion disk,"
+               ],
+               [
+                  "00:10:21,820 --> 00:10:23,850",
+                  "and the dust that's further out."
+               ],
+               [
+                  "00:10:23,850 --> 00:10:26,920",
+                  "And so fundamentally, that's one of the key things"
+               ],
+               [
+                  "00:10:26,920 --> 00:10:28,390",
+                  "that I'm trying to use, is trying to see how long,"
+               ],
+               [
+                  "00:10:28,390 --> 00:10:30,700",
+                  "once you've got this sort of pulse"
+               ],
+               [
+                  "00:10:30,700 --> 00:10:32,920",
+                  "that's generated close to the black hole,"
+               ],
+               [
+                  "00:10:32,920 --> 00:10:35,770",
+                  "it propagates out, and so you can use optical wavelengths"
+               ],
+               [
+                  "00:10:35,770 --> 00:10:37,420",
+                  "to see that the accretion disk lights up"
+               ],
+               [
+                  "00:10:37,420 --> 00:10:38,920",
+                  "in the optical a little bit as it gets heated up"
+               ],
+               [
+                  "00:10:38,920 --> 00:10:41,500",
+                  "from the X-ray, and then later on,"
+               ],
+               [
+                  "00:10:41,500 --> 00:10:43,060",
+                  "the infrared dust, the dust absorbs it,"
+               ],
+               [
+                  "00:10:43,060 --> 00:10:44,980",
+                  "and emits it in the infrared."
+               ],
+               [
+                  "00:10:44,980 --> 00:10:46,750",
+                  "And so that, I love that, the ability"
+               ],
+               [
+                  "00:10:46,750 --> 00:10:48,220",
+                  "to exchange time for resolution,"
+               ],
+               [
+                  "00:10:48,220 --> 00:10:51,160",
+                  "because these structures are so far away"
+               ],
+               [
+                  "00:10:51,160 --> 00:10:52,990",
+                  "that we're never gonna get a telescope big enough"
+               ],
+               [
+                  "00:10:52,990 --> 00:10:54,490",
+                  "where that has the resolution to see the accretion disk,"
+               ],
+               [
+                  "00:10:54,490 --> 00:10:57,820",
+                  "or the dust distribution around--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:10:59,170 --> 00:11:02,140",
+                  "Yeah, again, we don't know exactly where X, Y, Z,"
+               ],
+               [
+                  "00:11:02,140 --> 00:11:03,580",
+                  "zero is, we're assuming that it's something,"
+               ],
+               [
+                  "00:11:03,580 --> 00:11:04,960",
+                  "you know, the X-rays that are coming out are very close"
+               ],
+               [
+                  "00:11:04,960 --> 00:11:06,580",
+                  "to the event horizon of the black hole,"
+               ],
+               [
+                  "00:11:06,580 --> 00:11:08,140",
+                  "but this is still, you know, your realm of X-rays,"
+               ],
+               [
+                  "00:11:08,140 --> 00:11:09,820",
+                  "to really figure out those kinds of things."
+               ],
+               [
+                  "00:11:09,820 --> 00:11:11,260",
+                  "But once the X-rays, once the photons hit the corona,"
+               ],
+               [
+                  "00:11:11,260 --> 00:11:13,900",
+                  "and are re-scattered, and up, energized,"
+               ],
+               [
+                  "00:11:13,900 --> 00:11:15,970",
+                  "and then they start illuminating the accretion disk,"
+               ],
+               [
+                  "00:11:15,970 --> 00:11:18,070",
+                  "it heats it up, and so just by the light travel time,"
+               ],
+               [
+                  "00:11:18,070 --> 00:11:20,800",
+                  "when the optical, if it gets, you know,"
+               ],
+               [
+                  "00:11:20,800 --> 00:11:22,570",
+                  "brighter and fainter, and then the infrared gets brighter"
+               ],
+               [
+                  "00:11:22,570 --> 00:11:24,730",
+                  "and fainter, two weeks later,"
+               ],
+               [
+                  "00:11:24,730 --> 00:11:27,130",
+                  "then the dust is two light weeks away from that."
+               ],
+               [
+                  "00:11:27,130 --> 00:11:30,100",
+                  "So it's a one dimensional one, so we're averaging,"
+               ],
+               [
+                  "00:11:30,100 --> 00:11:32,380",
+                  "so we don't get the two dimensional,"
+               ],
+               [
+                  "00:11:32,380 --> 00:11:34,660",
+                  "or even three dimensional one."
+               ],
+               [
+                  "00:11:34,660 --> 00:11:36,670",
+                  "And then we've done it now, of course,"
+               ],
+               [
+                  "00:11:36,670 --> 00:11:39,400",
+                  "we have better telescopes, there was a project"
+               ],
+               [
+                  "00:11:39,400 --> 00:11:41,500",
+                  "where you could do it with the Hubble Space Telescope"
+               ],
+               [
+                  "00:11:41,500 --> 00:11:43,840",
+                  "and the ultraviolet, you used the Swift Observatory,"
+               ],
+               [
+                  "00:11:43,840 --> 00:11:45,580",
+                  "which had optical and ultraviolet,"
+               ],
+               [
+                  "00:11:45,580 --> 00:11:48,250",
+                  "and then from ground base, we did optical,"
+               ],
+               [
+                  "00:11:48,250 --> 00:11:50,080",
+                  "and then from space we did it"
+               ],
+               [
+                  "00:11:50,080 --> 00:11:53,110",
+                  "with Spitzer and the infrared."
+               ],
+               [
+                  "00:11:53,110 --> 00:11:55,030",
+                  "So you could actually see this bright flash go off"
+               ],
+               [
+                  "00:11:55,030 --> 00:11:56,350",
+                  "in a nearby AGN called NGC5548,"
+               ],
+               [
+                  "00:11:56,350 --> 00:11:59,230",
+                  "and then you see it propagate as it warms up the disk,"
+               ],
+               [
+                  "00:11:59,230 --> 00:12:01,240",
+                  "as all that light is falling onto it,"
+               ],
+               [
+                  "00:12:01,240 --> 00:12:03,850",
+                  "and then eventually you hit the,"
+               ],
+               [
+                  "00:12:03,850 --> 00:12:05,950",
+                  "the, further away, where the dust is,"
+               ],
+               [
+                  "00:12:05,950 --> 00:12:07,870",
+                  "and the dust tends to radiate in an infrared."
+               ],
+               [
+                  "00:12:07,870 --> 00:12:09,730",
+                  "So we got basically a structure,"
+               ],
+               [
+                  "00:12:09,730 --> 00:12:11,320",
+                  "and you just, you see this flashbulb go off,"
+               ],
+               [
+                  "00:12:11,320 --> 00:12:12,550",
+                  "and then it illuminates, effectively, the structure."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:12:14,740 --> 00:12:16,840",
+                  "So you do see it, basically the dust sublimation radius,"
+               ],
+               [
+                  "00:12:16,840 --> 00:12:18,130",
+                  "and you see it at, and it tells you,"
+               ],
+               [
+                  "00:12:18,130 --> 00:12:19,720",
+                  "depending on what kind of dust it is,"
+               ],
+               [
+                  "00:12:19,720 --> 00:12:20,560",
+                  "and it's actually one of the problems"
+               ],
+               [
+                  "00:12:20,560 --> 00:12:22,690",
+                  "for me studying, whenever we try and do X-ray studies"
+               ],
+               [
+                  "00:12:22,690 --> 00:12:24,970",
+                  "of low luminosity active galactic nuclei in your,"
+               ],
+               [
+                  "00:12:24,970 --> 00:12:27,160",
+                  "by galaxies, because there're all these X-ray binaries"
+               ],
+               [
+                  "00:12:27,160 --> 00:12:29,770",
+                  "that are also emitting X-rays,"
+               ],
+               [
+                  "00:12:29,770 --> 00:12:32,080",
+                  "which make our lives difficult."
+               ],
+               [
+                  "00:12:32,080 --> 00:12:33,130",
+                  "But they're also in black holes,"
+               ],
+               [
+                  "00:12:33,130 --> 00:12:37,780",
+                  "when it's this really interesting sort of both,"
+               ],
+               [
+                  "00:12:37,780 --> 00:12:40,360",
+                  "it's great, but ugh, it's also a source"
+               ],
+               [
+                  "00:12:40,360 --> 00:12:42,790",
+                  "of noise for those of us who are trying"
+               ],
+               [
+                  "00:12:42,790 --> 00:12:44,220",
+                  "to do X-ray observations of nearby galaxies."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:12:52,020 --> 00:12:54,420",
+                  "It's a weird thing to be sitting in your own galaxy,"
+               ],
+               [
+                  "00:12:54,420 --> 00:12:56,730",
+                  "but not be able to separate all these,"
+               ],
+               [
+                  "00:12:56,730 --> 00:12:58,980",
+                  "four million solar mass black hole creating,"
+               ],
+               [
+                  "00:12:58,980 --> 00:13:01,320",
+                  "next to, how massive, it's like two"
+               ],
+               [
+                  "00:13:01,320 --> 00:13:03,270",
+                  "to three solar masses for the X-ray binaries?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:14:03,450 --> 00:14:05,400",
+                  "Which is great, although it still doesn't help us"
+               ],
+               [
+                  "00:14:05,400 --> 00:14:06,900",
+                  "in the AGN community, because we don't know how the millions"
+               ],
+               [
+                  "00:14:06,900 --> 00:14:09,840",
+                  "to billions solar mass black holes came to be."
+               ],
+               [
+                  "00:14:09,840 --> 00:14:11,300",
+                  "But it's, at least we're building up,"
+               ],
+               [
+                  "00:14:11,300 --> 00:14:14,280",
+                  "or hopefully that at some point,"
+               ],
+               [
+                  "00:14:14,280 --> 00:14:16,830",
+                  "and by understanding these lower mass,"
+               ],
+               [
+                  "00:14:16,830 --> 00:14:19,260",
+                  "how these lower mass black holes came to be,"
+               ],
+               [
+                  "00:14:19,260 --> 00:14:20,970",
+                  "then we can see where there are a large scale number"
+               ],
+               [
+                  "00:14:20,970 --> 00:14:22,680",
+                  "of mergers can potentially give us this,"
+               ],
+               [
+                  "00:14:22,680 --> 00:14:25,260",
+                  "or you really need something, other,"
+               ],
+               [
+                  "00:14:25,260 --> 00:14:29,520",
+                  "another corridor to fundamentally get us something"
+               ],
+               [
+                  "00:14:29,520 --> 00:14:32,310",
+                  "that's a million solar masses, you know,"
+               ],
+               [
+                  "00:14:32,310 --> 00:14:33,810",
+                  "on the minimum side, but definitely,"
+               ],
+               [
+                  "00:14:33,810 --> 00:14:35,220",
+                  "you know, we've gotten those which are billion."
+               ],
+               [
+                  "00:14:35,220 --> 00:14:37,080",
+                  "So we know we can merge the million solar mass black holes"
+               ],
+               [
+                  "00:14:37,080 --> 00:14:38,850",
+                  "to get the bigger ones, but how do you get to those"
+               ],
+               [
+                  "00:14:38,850 --> 00:14:41,460",
+                  "in the beginning, particularly so early in the universe,"
+               ],
+               [
+                  "00:14:41,460 --> 00:14:43,500",
+                  "when you get quasars at really high red shifts,"
+               ],
+               [
+                  "00:14:43,500 --> 00:14:46,380",
+                  "so they're really early on."
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:15:22,200 --> 00:15:23,970",
+                  "And this goes to the idea"
+               ],
+               [
+                  "00:15:23,970 --> 00:15:26,100",
+                  "that you don't have a core balance,"
+               ],
+               [
+                  "00:15:26,100 --> 00:15:27,900",
+                  "that a supernova with a black hole as its final result,"
+               ],
+               [
+                  "00:15:27,900 --> 00:15:29,910",
+                  "actually never has any kind of expulsion,"
+               ],
+               [
+                  "00:15:29,910 --> 00:15:31,850",
+                  "that it all just goes. (imitates sucking)"
+               ]
+            ]
+         },
+         {
+            "Reciever":"6",
+            "Sequence":"14",
+            "Sentence":[
+               [
+                  "00:15:34,050 --> 00:15:35,490",
+                  "Which was one idea, but again, it's,"
+               ],
+               [
+                  "00:15:35,490 --> 00:15:37,560",
+                  "I'll leave this to your theoreticians,"
+               ],
+               [
+                  "00:15:37,560 --> 00:15:38,880",
+                  "I think there are problems with that, as well."
+               ],
+               [
+                  "00:15:38,880 --> 00:15:40,590",
+                  "I call it job security. That's right."
+               ],
+               [
+                  "00:15:40,590 --> 00:15:42,150",
+                  "(both laugh)"
+               ],
+               [
+                  "00:15:42,150 --> 00:15:44,670",
+                  "We have a lot of things about black holes,"
+               ],
+               [
+                  "00:15:44,670 --> 00:15:47,040",
+                  "both in terms of their formation,"
+               ],
+               [
+                  "00:15:47,040 --> 00:15:48,390",
+                  "or even how they exist as they are,"
+               ],
+               [
+                  "00:15:48,390 --> 00:15:50,130",
+                  "and how they're interacting with their environment"
+               ],
+               [
+                  "00:15:50,130 --> 00:15:53,070",
+                  "that we're still not understanding."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA?t=24",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:00:26,400 --> 00:00:28,050",
+                  "What is a black hole?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:00:33,899 --> 00:00:36,059",
+                  "No, not at all."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:00:39,660 --> 00:00:41,430",
+                  "What?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:00:56,309 --> 00:00:59,399",
+                  "Nice."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:01:07,740 --> 00:01:09,270",
+                  "Why do you hold it so tight?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:01:19,860 --> 00:01:21,330",
+                  "I got it."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"14",
+            "Sentence":[
+               [
+                  "00:01:28,619 --> 00:01:31,259",
+                  "What about the earth? What if it rolls into it--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"16",
+            "Sentence":[
+               [
+                  "00:01:33,869 --> 00:01:37,020",
+                  "Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"18",
+            "Sentence":[
+               [
+                  "00:01:38,729 --> 00:01:41,310",
+                  "So it could never happen?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"20",
+            "Sentence":[
+               [
+                  "00:01:42,540 --> 00:01:44,759",
+                  "Only in movies, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"22",
+            "Sentence":[
+               [
+                  "00:01:46,259 --> 00:01:49,490",
+                  "Yeah, but it's not real because it's just pictures of it."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"24",
+            "Sentence":[
+               [
+                  "00:01:52,409 --> 00:01:56,270",
+                  "What if I went in there?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"26",
+            "Sentence":[
+               [
+                  "00:02:00,299 --> 00:02:03,450",
+                  "It'll, like, stretch my body out?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"28",
+            "Sentence":[
+               [
+                  "00:02:05,040 --> 00:02:07,050",
+                  "What?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"30",
+            "Sentence":[
+               [
+                  "00:02:09,600 --> 00:02:12,300",
+                  "It's kind of dangerous."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA?t=115",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:02:14,430 --> 00:02:16,920",
+                  "Well, I know they're created when stars,"
+               ],
+               [
+                  "00:02:16,920 --> 00:02:17,940",
+                  "once they start growing, it doesn't,"
+               ],
+               [
+                  "00:02:17,940 --> 00:02:20,280",
+                  "it can't expand anymore, so they collapse inward."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:02:56,040 --> 00:02:58,050",
+                  "But no, the wind, the pull isn't,"
+               ],
+               [
+                  "00:02:58,050 --> 00:02:59,910",
+                  "if you're not close enough, it doesn't work."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:03:36,510 --> 00:03:39,390",
+                  "So are there any movies that actually do,"
+               ],
+               [
+                  "00:03:39,390 --> 00:03:40,829",
+                  "like, get space right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:04:02,790 --> 00:04:04,320",
+                  "So it's, I'm assuming it's hard to,"
+               ],
+               [
+                  "00:04:04,320 --> 00:04:06,540",
+                  "like, detect a black hole, besides if it's,"
+               ],
+               [
+                  "00:04:06,540 --> 00:04:09,420",
+                  "if things are close enough that they're being pulled in,"
+               ],
+               [
+                  "00:04:09,420 --> 00:04:11,280",
+                  "so it's basically a theory?"
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA?t=284",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:04:47,160 --> 00:04:49,530",
+                  "I never knew beforehand how hard it was"
+               ],
+               [
+                  "00:04:49,530 --> 00:04:51,330",
+                  "to get actual data of the black holes itself,"
+               ],
+               [
+                  "00:04:51,330 --> 00:04:52,740",
+                  "first of all, they're dark, and, like,"
+               ],
+               [
+                  "00:04:52,740 --> 00:04:54,419",
+                  "they're so far away, it's almost impossible just"
+               ],
+               [
+                  "00:04:54,419 --> 00:04:55,740",
+                  "to get a good image of them."
+               ],
+               [
+                  "00:04:55,740 --> 00:04:57,510",
+                  "They were discussing a project in"
+               ],
+               [
+                  "00:04:57,510 --> 00:05:00,870",
+                  "which multiple radio telescopes of some sort, like, are,"
+               ],
+               [
+                  "00:05:00,870 --> 00:05:02,310",
+                  "like, pinpointed all across, from Greenland"
+               ],
+               [
+                  "00:05:02,310 --> 00:05:04,440",
+                  "to South America, and, like, and they're trying to"
+               ],
+               [
+                  "00:05:04,440 --> 00:05:07,500",
+                  "get an image of"
+               ],
+               [
+                  "00:05:07,500 --> 00:05:10,380",
+                  "the black hole in the center"
+               ],
+               [
+                  "00:05:10,380 --> 00:05:12,930",
+                  "of our galaxy because, as opposed"
+               ],
+               [
+                  "00:05:12,930 --> 00:05:15,570",
+                  "to just recording its impact"
+               ],
+               [
+                  "00:05:15,570 --> 00:05:18,000",
+                  "on the surrounding stars and planets."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:06:11,880 --> 00:06:14,310",
+                  "What sort of technology and, like,"
+               ],
+               [
+                  "00:06:14,310 --> 00:06:16,020",
+                  "I guess tools have you been using"
+               ],
+               [
+                  "00:06:16,020 --> 00:06:17,820",
+                  "in your studies, or, like, just in general,"
+               ],
+               [
+                  "00:06:17,820 --> 00:06:19,740",
+                  "in the study of black holes?"
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA?t=428",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"2",
+            "Sentence":[
+               [
+                  "00:06:54,610 --> 00:06:57,580",
+                  "The way I got really interested"
+               ],
+               [
+                  "00:06:57,580 --> 00:07:00,100",
+                  "in this field is I actually first came"
+               ],
+               [
+                  "00:07:00,100 --> 00:07:01,900",
+                  "to Caltech as a summer student, and I started working"
+               ],
+               [
+                  "00:07:01,900 --> 00:07:03,850",
+                  "in this research group called the NuSTAR Group."
+               ],
+               [
+                  "00:07:03,850 --> 00:07:05,230",
+                  "Right now I'm doing my PhD in the field"
+               ],
+               [
+                  "00:07:05,230 --> 00:07:08,430",
+                  "of active galactic nuclei,"
+               ],
+               [
+                  "00:07:08,430 --> 00:07:10,930",
+                  "which are the most luminous compact objects in the universe,"
+               ],
+               [
+                  "00:07:10,930 --> 00:07:12,880",
+                  "and it's because of the extreme accretion"
+               ],
+               [
+                  "00:07:12,880 --> 00:07:14,890",
+                  "that we're seeing onto these super massive black holes."
+               ],
+               [
+                  "00:07:14,890 --> 00:07:16,690",
+                  "We don't have such a simple picture,"
+               ],
+               [
+                  "00:07:16,690 --> 00:07:19,090",
+                  "that this central black hole is surrounded"
+               ],
+               [
+                  "00:07:19,090 --> 00:07:20,560",
+                  "by this donut shaped torus of material,"
+               ],
+               [
+                  "00:07:20,560 --> 00:07:23,980",
+                  "and that all these different classes of AGN simply arise"
+               ],
+               [
+                  "00:07:23,980 --> 00:07:26,770",
+                  "from a viewing angle effect of this torus,"
+               ],
+               [
+                  "00:07:26,770 --> 00:07:29,950",
+                  "as a very oversimplified geometry, and this--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"4",
+            "Sentence":[
+               [
+                  "00:07:33,580 --> 00:07:35,919",
+                  "Exactly."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"6",
+            "Sentence":[
+               [
+                  "00:07:46,840 --> 00:07:49,360",
+                  "It isn't."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"8",
+            "Sentence":[
+               [
+                  "00:07:58,120 --> 00:07:59,830",
+                  "And we've come a long way by seeing a wider range"
+               ],
+               [
+                  "00:07:59,830 --> 00:08:02,200",
+                  "of the spectrum, we can elucidate more"
+               ],
+               [
+                  "00:08:02,200 --> 00:08:03,790",
+                  "about the circumnuclear geometry,"
+               ],
+               [
+                  "00:08:03,790 --> 00:08:06,729",
+                  "and there's just been so much progress made"
+               ],
+               [
+                  "00:08:06,729 --> 00:08:09,790",
+                  "with all these new spectral models"
+               ],
+               [
+                  "00:08:09,790 --> 00:08:11,320",
+                  "that we use to fit AGN spectra,"
+               ],
+               [
+                  "00:08:11,320 --> 00:08:12,280",
+                  "and the different types of classes of AGN,"
+               ],
+               [
+                  "00:08:12,280 --> 00:08:13,990",
+                  "like type one and type two are believed"
+               ],
+               [
+                  "00:08:13,990 --> 00:08:15,729",
+                  "to be just a viewing angle effect"
+               ],
+               [
+                  "00:08:15,729 --> 00:08:17,800",
+                  "of seeing this torus at different angles."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"10",
+            "Sentence":[
+               [
+                  "00:09:19,600 --> 00:09:20,680",
+                  "Yeah, and I think, you know,"
+               ],
+               [
+                  "00:09:20,680 --> 00:09:22,750",
+                  "pushing towards the future, that, like,"
+               ],
+               [
+                  "00:09:22,750 --> 00:09:25,780",
+                  "this whole multi-messenger era, and like,"
+               ],
+               [
+                  "00:09:25,780 --> 00:09:28,630",
+                  "you know, utilizing all the different wavelength telescopes"
+               ],
+               [
+                  "00:09:28,630 --> 00:09:30,640",
+                  "that we can is really the way to go."
+               ],
+               [
+                  "00:09:30,640 --> 00:09:32,980",
+                  "We cannot just build up a picture purely"
+               ],
+               [
+                  "00:09:32,980 --> 00:09:35,110",
+                  "from X-rays alone, or purely from infrared,"
+               ],
+               [
+                  "00:09:35,110 --> 00:09:36,880",
+                  "and, you know, I think there should be increased effort"
+               ],
+               [
+                  "00:09:36,880 --> 00:09:39,910",
+                  "to try and have more coordinated observations"
+               ],
+               [
+                  "00:09:39,910 --> 00:09:41,700",
+                  "with the different telescopes, like NuSTAR--"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"12",
+            "Sentence":[
+               [
+                  "00:09:46,089 --> 00:09:47,890",
+                  "It is, and it's difficult to even just coordinate,"
+               ],
+               [
+                  "00:09:47,890 --> 00:09:49,570",
+                  "you know, soft X-ray and hard X-ray telescopes together,"
+               ],
+               [
+                  "00:09:49,570 --> 00:09:51,520",
+                  "like, getting, you know, time for both simultaneous,"
+               ],
+               [
+                  "00:09:51,520 --> 00:09:52,150",
+                  "you know, say, Chandra observations,"
+               ],
+               [
+                  "00:09:52,150 --> 00:09:54,160",
+                  "and NuSTAR observations, or (mumbles) and NuSTAR."
+               ],
+               [
+                  "00:09:54,160 --> 00:09:55,810",
+                  "It's a difficult thing, but, you know,"
+               ],
+               [
+                  "00:09:55,810 --> 00:09:58,900",
+                  "I think we really need to get a clear picture,"
+               ],
+               [
+                  "00:09:58,900 --> 00:10:00,640",
+                  "to be looking at wavelengths, of course."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/rUvFbJYWGDA?t=630",
+      "wired_link":"https://www.wired.com/video/watch/physicist-explains-one-concept-in-5-levels-of-difficulty-2019-10-16",
+      "dialog":[
+         {
+            "Reciever":"1",
+            "Sequence":"1",
+            "Sentence":[
+               [
+                  "00:10:00,640 --> 00:10:03,070",
+                  "So how do you do your observations"
+               ],
+               [
+                  "00:10:03,070 --> 00:10:05,860",
+                  "in optical and infrared?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"3",
+            "Sentence":[
+               [
+                  "00:10:57,820 --> 00:10:59,170",
+                  "So do you get dimensions of the disk out of that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"5",
+            "Sentence":[
+               [
+                  "00:12:12,550 --> 00:12:14,740",
+                  "So you can map out the dust, where do you see it?"
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"7",
+            "Sentence":[
+               [
+                  "00:12:44,220 --> 00:12:47,550",
+                  "We have the same problem,"
+               ],
+               [
+                  "00:12:47,550 --> 00:12:49,590",
+                  "we can't see the actual black hole"
+               ],
+               [
+                  "00:12:49,590 --> 00:12:52,020",
+                  "underneath all these very bright X-ray binaries."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"9",
+            "Sentence":[
+               [
+                  "00:13:03,270 --> 00:13:05,310",
+                  "The X-ray binaries, yeah, so they're,"
+               ],
+               [
+                  "00:13:05,310 --> 00:13:07,350",
+                  "no, they're typically like 10 solar masses, so from three,"
+               ],
+               [
+                  "00:13:07,350 --> 00:13:08,940",
+                  "you know, that's the smallest one you can have is"
+               ],
+               [
+                  "00:13:08,940 --> 00:13:11,850",
+                  "from three solar masses, and then all the way up."
+               ],
+               [
+                  "00:13:11,850 --> 00:13:14,160",
+                  "So that's where we have LIGO, and LIGO has now directly,"
+               ],
+               [
+                  "00:13:14,160 --> 00:13:16,470",
+                  "I mean, this was all theory before,"
+               ],
+               [
+                  "00:13:16,470 --> 00:13:18,180",
+                  "that we knew that this was gonna happen,"
+               ],
+               [
+                  "00:13:18,180 --> 00:13:19,560",
+                  "and never seen it before, so LIGO is now the first time"
+               ],
+               [
+                  "00:13:19,560 --> 00:13:21,480",
+                  "that we have been able to completely verify this theory,"
+               ],
+               [
+                  "00:13:21,480 --> 00:13:23,310",
+                  "that you can have black holes"
+               ],
+               [
+                  "00:13:23,310 --> 00:13:25,020",
+                  "and neutron stars merging together."
+               ],
+               [
+                  "00:13:25,020 --> 00:13:27,480",
+                  "And so what happens in the case"
+               ],
+               [
+                  "00:13:27,480 --> 00:13:29,670",
+                  "of two neutron stars, when they merge together,"
+               ],
+               [
+                  "00:13:29,670 --> 00:13:30,930",
+                  "now suddenly they become heavier,"
+               ],
+               [
+                  "00:13:30,930 --> 00:13:33,210",
+                  "they become heavy enough to turn into a black hole."
+               ],
+               [
+                  "00:13:33,210 --> 00:13:35,220",
+                  "And so the first of these events happened in August,"
+               ],
+               [
+                  "00:13:35,220 --> 00:13:36,990",
+                  "and what happened here is you had these two neutron stars"
+               ],
+               [
+                  "00:13:36,990 --> 00:13:39,180",
+                  "that spun around each other, and then they merged,"
+               ],
+               [
+                  "00:13:39,180 --> 00:13:41,340",
+                  "and then for a very short time, we are talking"
+               ],
+               [
+                  "00:13:41,340 --> 00:13:44,460",
+                  "about 100 milliseconds, or tens of 100 milliseconds,"
+               ],
+               [
+                  "00:13:44,460 --> 00:13:46,920",
+                  "it actually remained a neutron star, probably,"
+               ],
+               [
+                  "00:13:46,920 --> 00:13:48,300",
+                  "it was a hyper massive neutron star because it was spinning"
+               ],
+               [
+                  "00:13:48,300 --> 00:13:50,430",
+                  "so fast, it didn't collapse under its own weight."
+               ],
+               [
+                  "00:13:50,430 --> 00:13:52,620",
+                  "But then, you know,"
+               ],
+               [
+                  "00:13:52,620 --> 00:13:56,070",
+                  "the angular momentum gets dissipated away from the object,"
+               ],
+               [
+                  "00:13:56,070 --> 00:13:57,360",
+                  "and then, at that point, it can't maintain its own weight,"
+               ],
+               [
+                  "00:13:57,360 --> 00:13:58,920",
+                  "and then it collapses, and turn into a black hole."
+               ],
+               [
+                  "00:13:58,920 --> 00:14:01,050",
+                  "All this theory that we knew about is now finally being,"
+               ],
+               [
+                  "00:14:01,050 --> 00:14:03,450",
+                  "being validated."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"11",
+            "Sentence":[
+               [
+                  "00:14:46,380 --> 00:14:48,000",
+                  "Yeah, it is odd, it is very odd."
+               ],
+               [
+                  "00:14:48,000 --> 00:14:49,680",
+                  "I mean, the other thing that's a little odd,"
+               ],
+               [
+                  "00:14:49,680 --> 00:14:51,960",
+                  "now we're going back to stellar mass black holes is,"
+               ],
+               [
+                  "00:14:51,960 --> 00:14:53,960",
+                  "so we look at a lot of supernova remnants,"
+               ],
+               [
+                  "00:14:53,960 --> 00:14:56,550",
+                  "and we, so we see them, we can only really see them"
+               ],
+               [
+                  "00:14:56,550 --> 00:14:57,660",
+                  "in our own galaxy, and so we have a lot"
+               ],
+               [
+                  "00:14:57,660 --> 00:14:59,010",
+                  "of supernova remnants, and so how we see them is,"
+               ],
+               [
+                  "00:14:59,010 --> 00:15:00,300",
+                  "you see the expelled mass from the star as it died,"
+               ],
+               [
+                  "00:15:00,300 --> 00:15:02,370",
+                  "so that creates an extended source, and then you look"
+               ],
+               [
+                  "00:15:02,370 --> 00:15:05,550",
+                  "for the compact object that was left behind."
+               ],
+               [
+                  "00:15:05,550 --> 00:15:07,020",
+                  "And what's interesting is that you see,"
+               ],
+               [
+                  "00:15:07,020 --> 00:15:08,820",
+                  "you quite often see the neutron stars"
+               ],
+               [
+                  "00:15:08,820 --> 00:15:10,650",
+                  "because they pulse, so they're easy to see,"
+               ],
+               [
+                  "00:15:10,650 --> 00:15:12,840",
+                  "but so far, we've not found a single black hole"
+               ],
+               [
+                  "00:15:12,840 --> 00:15:14,520",
+                  "at the center of a supernova remnant."
+               ],
+               [
+                  "00:15:14,520 --> 00:15:16,650",
+                  "And so, which is interesting, so you say,"
+               ],
+               [
+                  "00:15:16,650 --> 00:15:18,480",
+                  "you should see them, you know, you ought"
+               ],
+               [
+                  "00:15:18,480 --> 00:15:20,520",
+                  "to see some fallback, you know, you need some matter,"
+               ],
+               [
+                  "00:15:20,520 --> 00:15:22,200",
+                  "you need something, but no, never, not yet been detected."
+               ]
+            ]
+         },
+         {
+            "Reciever":"1",
+            "Sequence":"13",
+            "Sentence":[
+               [
+                  "00:15:31,850 --> 00:15:34,050",
+                  "Yeah, that might be, yeah."
+               ]
+            ]
+         }
+      ]
+   }
+}

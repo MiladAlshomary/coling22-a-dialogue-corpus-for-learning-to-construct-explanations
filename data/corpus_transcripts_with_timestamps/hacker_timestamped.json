@@ -1,0 +1,4544 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:00,190 --> 00:00:02,450",
+                  "- Hi, my name is Samy Kamkar."
+               ],
+               [
+                  "00:00:02,450 --> 00:00:04,550",
+                  "I am a security researcher,"
+               ],
+               [
+                  "00:00:02,450 --> 00:00:04,550",
+                  "computer hacker,"
+               ],
+               [
+                  "00:00:04,550 --> 00:00:06,750",
+                  "and co-founder of Openpath Security."
+               ],
+               [
+                  "00:00:06,750 --> 00:00:09,830",
+                  "I've been challenged today"
+               ],
+               [
+                  "00:00:06,750 --> 00:00:09,830",
+                  "to explain one simple concept"
+               ],
+               [
+                  "00:00:09,830 --> 00:00:12,570",
+                  "in five levels of increasing complexity."
+               ],
+               [
+                  "00:00:12,570 --> 00:00:14,490",
+                  "My topic, hacking."
+               ],
+               [
+                  "00:00:14,490 --> 00:00:18,950",
+                  "Hacking to me is using or"
+               ],
+               [
+                  "00:00:14,490 --> 00:00:18,950",
+                  "manipulating a system in a way"
+               ],
+               [
+                  "00:00:18,950 --> 00:00:21,530",
+                  "that it wasn't intended"
+               ],
+               [
+                  "00:00:18,950 --> 00:00:21,530",
+                  "or really expected."
+               ],
+               [
+                  "00:00:21,530 --> 00:00:24,840",
+                  "And that could be a computer"
+               ],
+               [
+                  "00:00:21,530 --> 00:00:24,840",
+                  "or it could be a phone"
+               ],
+               [
+                  "00:00:24,840 --> 00:00:26,900",
+                  "or a drone or a satellite."
+               ],
+               [
+                  "00:00:26,900 --> 00:00:28,312",
+                  "It could really be anything."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:30,020 --> 00:00:31,950",
+                  "Do you know what computer hacking is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:00:41,540 --> 00:00:42,570",
+                  "- Yeah, it's crazy."
+               ],
+               [
+                  "00:00:42,570 --> 00:00:45,640",
+                  "They're really a lot of bad"
+               ],
+               [
+                  "00:00:42,570 --> 00:00:45,640",
+                  "or malicious hackers out there"
+               ],
+               [
+                  "00:00:45,640 --> 00:00:47,560",
+                  "who are doing just that."
+               ],
+               [
+                  "00:00:47,560 --> 00:00:48,760",
+                  "They're going into people's accounts"
+               ],
+               [
+                  "00:00:48,760 --> 00:00:49,980",
+                  "and they're stealing money,"
+               ],
+               [
+                  "00:00:49,980 --> 00:00:52,442",
+                  "but there's also another side"
+               ],
+               [
+                  "00:00:49,980 --> 00:00:52,442",
+                  "of computer hacking where"
+               ],
+               [
+                  "00:00:52,442 --> 00:00:54,990",
+                  "there are people who"
+               ],
+               [
+                  "00:00:52,442 --> 00:00:54,990",
+                  "are trying to learn how"
+               ],
+               [
+                  "00:00:54,990 --> 00:00:57,390",
+                  "those bad hackers are actually breaking in"
+               ],
+               [
+                  "00:00:57,390 --> 00:00:58,630",
+                  "to the bank accounts."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:01:02,693 --> 00:01:03,670",
+                  "- What they're trying to do is"
+               ],
+               [
+                  "00:01:03,670 --> 00:01:05,290",
+                  "they're trying to even prevent"
+               ],
+               [
+                  "00:01:05,290 --> 00:01:07,830",
+                  "the bad hackers from getting"
+               ],
+               [
+                  "00:01:05,290 --> 00:01:07,830",
+                  "in in the first place."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:01:10,700 --> 00:01:11,630",
+                  "- Yeah, exactly."
+               ],
+               [
+                  "00:01:11,630 --> 00:01:14,907",
+                  "They're looking for ways that"
+               ],
+               [
+                  "00:01:11,630 --> 00:01:14,907",
+                  "they can create protection."
+               ],
+               [
+                  "00:01:14,907 --> 00:01:16,260",
+                  "It's kind of like the"
+               ],
+               [
+                  "00:01:14,907 --> 00:01:16,260",
+                  "lock on your front door."
+               ],
+               [
+                  "00:01:16,260 --> 00:01:18,830",
+                  "That lock is to essentially prevent"
+               ],
+               [
+                  "00:01:18,830 --> 00:01:20,200",
+                  "bad people from coming in"
+               ],
+               [
+                  "00:01:20,200 --> 00:01:22,440",
+                  "or people accidentally coming"
+               ],
+               [
+                  "00:01:20,200 --> 00:01:22,440",
+                  "in when they shouldn't."
+               ],
+               [
+                  "00:01:22,440 --> 00:01:24,280",
+                  "A hacker is essentially looking at a way,"
+               ],
+               [
+                  "00:01:24,280 --> 00:01:26,180",
+                  "how can I get into this lock?"
+               ],
+               [
+                  "00:01:26,180 --> 00:01:28,970",
+                  "But then there are the good"
+               ],
+               [
+                  "00:01:26,180 --> 00:01:28,970",
+                  "ones who are trying to unlock it"
+               ],
+               [
+                  "00:01:28,970 --> 00:01:31,320",
+                  "so that they can tell the"
+               ],
+               [
+                  "00:01:28,970 --> 00:01:31,320",
+                  "company that made the lock, hey,"
+               ],
+               [
+                  "00:01:31,320 --> 00:01:32,720",
+                  "we can actually protect people"
+               ],
+               [
+                  "00:01:32,720 --> 00:01:34,430",
+                  "by making the lock a little harder."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:01:37,110 --> 00:01:39,330",
+                  "- In many cases, they'll"
+               ],
+               [
+                  "00:01:37,110 --> 00:01:39,330",
+                  "send them a new lock."
+               ],
+               [
+                  "00:01:39,330 --> 00:01:41,440",
+                  "So it's an upgraded, better version."
+               ],
+               [
+                  "00:01:41,440 --> 00:01:42,570",
+                  "Sometimes that's new features,"
+               ],
+               [
+                  "00:01:42,570 --> 00:01:44,030",
+                  "but sometimes that's bug fixes"
+               ],
+               [
+                  "00:01:44,030 --> 00:01:45,670",
+                  "and ways to protect you as well."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:01:50,000 --> 00:01:51,330",
+                  "- That's a very good point."
+               ],
+               [
+                  "00:01:51,330 --> 00:01:53,780",
+                  "You should definitely make sure"
+               ],
+               [
+                  "00:01:51,330 --> 00:01:53,780",
+                  "that you're obeying the law."
+               ],
+               [
+                  "00:01:53,780 --> 00:01:55,447",
+                  "They might work with the"
+               ],
+               [
+                  "00:01:53,780 --> 00:01:55,447",
+                  "lock company and say,"
+               ],
+               [
+                  "00:01:55,447 --> 00:01:57,480",
+                  "I'm trying to improve your product."
+               ],
+               [
+                  "00:01:57,480 --> 00:02:00,299",
+                  "And they're trying to find"
+               ],
+               [
+                  "00:01:57,480 --> 00:02:00,299",
+                  "these holes or problems,"
+               ],
+               [
+                  "00:02:00,299 --> 00:02:02,420",
+                  "and then share that with the company."
+               ],
+               [
+                  "00:02:02,420 --> 00:02:05,110",
+                  "Even though the good hacker is"
+               ],
+               [
+                  "00:02:02,420 --> 00:02:05,110",
+                  "doing exactly the same thing"
+               ],
+               [
+                  "00:02:05,110 --> 00:02:07,860",
+                  "as the bad hacker, it's"
+               ],
+               [
+                  "00:02:05,110 --> 00:02:07,860",
+                  "the same exact skillset,"
+               ],
+               [
+                  "00:02:07,860 --> 00:02:10,919",
+                  "and you're using the same exact"
+               ],
+               [
+                  "00:02:07,860 --> 00:02:10,919",
+                  "techniques and information"
+               ],
+               [
+                  "00:02:10,919 --> 00:02:12,490",
+                  "to try to break that lock,"
+               ],
+               [
+                  "00:02:12,490 --> 00:02:15,330",
+                  "but your goal as a good hacker"
+               ],
+               [
+                  "00:02:12,490 --> 00:02:15,330",
+                  "is really to help everyone"
+               ],
+               [
+                  "00:02:15,330 --> 00:02:18,210",
+                  "like you and me to make sure"
+               ],
+               [
+                  "00:02:15,330 --> 00:02:18,210",
+                  "that our stuff is protected."
+               ],
+               [
+                  "00:02:18,210 --> 00:02:19,930",
+                  "So hopefully they don't get in trouble"
+               ],
+               [
+                  "00:02:19,930 --> 00:02:21,260",
+                  "because they're the good guys."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:02:23,392 --> 00:02:25,670",
+                  "- I started doing the good hacking"
+               ],
+               [
+                  "00:02:25,670 --> 00:02:27,570",
+                  "when I turned nine years old."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:02:27,570 --> 00:02:30,928",
+                  "- I started going on the"
+               ],
+               [
+                  "00:02:27,570 --> 00:02:30,928",
+                  "computer and playing video games,"
+               ],
+               [
+                  "00:02:30,928 --> 00:02:32,610",
+                  "but I had some ideas of my own,"
+               ],
+               [
+                  "00:02:32,610 --> 00:02:34,630",
+                  "and that's where I started"
+               ],
+               [
+                  "00:02:32,610 --> 00:02:34,630",
+                  "to learn how to hack."
+               ],
+               [
+                  "00:02:34,630 --> 00:02:37,461",
+                  "I wanted to play with my"
+               ],
+               [
+                  "00:02:34,630 --> 00:02:37,461",
+                  "friends on this video game"
+               ],
+               [
+                  "00:02:37,461 --> 00:02:39,690",
+                  "and just change the way that things look."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:02:44,110 --> 00:02:45,440",
+                  "- That's entirely possible."
+               ],
+               [
+                  "00:02:45,440 --> 00:02:46,930",
+                  "They may have done it for a reason,"
+               ],
+               [
+                  "00:02:46,930 --> 00:02:49,430",
+                  "but you may have come up"
+               ],
+               [
+                  "00:02:46,930 --> 00:02:49,430",
+                  "with a really good idea that,"
+               ],
+               [
+                  "00:02:49,430 --> 00:02:50,630",
+                  "do you think there are other people"
+               ],
+               [
+                  "00:02:50,630 --> 00:02:52,448",
+                  "who might like the idea"
+               ],
+               [
+                  "00:02:50,630 --> 00:02:52,448",
+                  "that you came up with?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:02:53,281 --> 00:02:54,490",
+                  "- When you have creative ideas like that,"
+               ],
+               [
+                  "00:02:54,490 --> 00:02:55,900",
+                  "hacking can actually allow you to"
+               ],
+               [
+                  "00:02:55,900 --> 00:02:57,970",
+                  "change the way a system works,"
+               ],
+               [
+                  "00:02:57,970 --> 00:03:00,320",
+                  "and that means you can change a game"
+               ],
+               [
+                  "00:03:00,320 --> 00:03:01,779",
+                  "and how the game is played,"
+               ],
+               [
+                  "00:03:01,779 --> 00:03:03,950",
+                  "and then you can share"
+               ],
+               [
+                  "00:03:01,779 --> 00:03:03,950",
+                  "that with your friends"
+               ],
+               [
+                  "00:03:03,950 --> 00:03:05,360",
+                  "and other people who like that game."
+               ],
+               [
+                  "00:03:05,360 --> 00:03:07,080",
+                  "Once I started learning how to do it,"
+               ],
+               [
+                  "00:03:07,080 --> 00:03:09,390",
+                  "I found that, things"
+               ],
+               [
+                  "00:03:07,080 --> 00:03:09,390",
+                  "that were harder for me,"
+               ],
+               [
+                  "00:03:09,390 --> 00:03:10,540",
+                  "I could make easier."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:03:12,340 --> 00:03:13,940",
+                  "- I don't think my parents knew,"
+               ],
+               [
+                  "00:03:15,098 --> 00:03:18,280",
+                  "but when my parents found out"
+               ],
+               [
+                  "00:03:15,098 --> 00:03:18,280",
+                  "that I was doing it for good,"
+               ],
+               [
+                  "00:03:18,280 --> 00:03:19,175",
+                  "I think they were happy."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:03:21,410 --> 00:03:23,690",
+                  "Do you do anything with"
+               ],
+               [
+                  "00:03:21,410 --> 00:03:23,690",
+                  "computers or any coding?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:03:42,477 --> 00:03:44,420",
+                  "- [Samy] Interesting, so it's"
+               ],
+               [
+                  "00:03:42,477 --> 00:03:44,420",
+                  "like a graphical interface"
+               ],
+               [
+                  "00:03:44,420 --> 00:03:46,330",
+                  "where you can connect"
+               ],
+               [
+                  "00:03:44,420 --> 00:03:46,330",
+                  "different pieces together."
+               ],
+               [
+                  "00:03:46,330 --> 00:03:47,710",
+                  "Kinda like wire them together."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:03:48,543 --> 00:03:49,376",
+                  "- Oh, that's pretty cool."
+               ],
+               [
+                  "00:03:49,376 --> 00:03:50,730",
+                  "What do you know about computer hacking?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:03:53,550 --> 00:03:55,390",
+                  "- So on code.org, one of"
+               ],
+               [
+                  "00:03:53,550 --> 00:03:55,390",
+                  "the things you've been doing"
+               ],
+               [
+                  "00:03:55,390 --> 00:03:56,910",
+                  "is actually building a game"
+               ],
+               [
+                  "00:03:56,910 --> 00:03:59,060",
+                  "or that they have a game"
+               ],
+               [
+                  "00:03:56,910 --> 00:03:59,060",
+                  "and then you can actually"
+               ],
+               [
+                  "00:03:59,060 --> 00:04:01,410",
+                  "rewire some of the inputs"
+               ],
+               [
+                  "00:03:59,060 --> 00:04:01,410",
+                  "and outputs of that."
+               ],
+               [
+                  "00:04:01,410 --> 00:04:02,750",
+                  "Is that right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:04:02,750 --> 00:04:06,724",
+                  "- Okay. With computer hacking,"
+               ],
+               [
+                  "00:04:02,750 --> 00:04:06,724",
+                  "it's actually the same thing."
+               ],
+               [
+                  "00:04:06,724 --> 00:04:08,880",
+                  "Really, you have some sort of system"
+               ],
+               [
+                  "00:04:08,880 --> 00:04:11,000",
+                  "and you have a bunch of inputs"
+               ],
+               [
+                  "00:04:11,000 --> 00:04:12,580",
+                  "and you have some sort of output,"
+               ],
+               [
+                  "00:04:12,580 --> 00:04:14,564",
+                  "and actually you, as the designer,"
+               ],
+               [
+                  "00:04:14,564 --> 00:04:17,540",
+                  "you're essentially designing"
+               ],
+               [
+                  "00:04:14,564 --> 00:04:17,540",
+                  "games and software."
+               ],
+               [
+                  "00:04:17,540 --> 00:04:18,480",
+                  "You're saying, well,"
+               ],
+               [
+                  "00:04:18,480 --> 00:04:22,079",
+                  "I will only allow a user to"
+               ],
+               [
+                  "00:04:18,480 --> 00:04:22,079",
+                  "really control these inputs."
+               ],
+               [
+                  "00:04:22,079 --> 00:04:24,270",
+                  "Can you think of any inputs"
+               ],
+               [
+                  "00:04:22,079 --> 00:04:24,270",
+                  "the computer might have?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:04:25,160 --> 00:04:26,850",
+                  "- Yep, there's also things like your mouse"
+               ],
+               [
+                  "00:04:26,850 --> 00:04:29,030",
+                  "and there's even things"
+               ],
+               [
+                  "00:04:26,850 --> 00:04:29,030",
+                  "like the microphone itself"
+               ],
+               [
+                  "00:04:29,030 --> 00:04:30,270",
+                  "is actually an input device."
+               ],
+               [
+                  "00:04:30,270 --> 00:04:32,100",
+                  "It's taking something from you,"
+               ],
+               [
+                  "00:04:32,100 --> 00:04:34,670",
+                  "which is the sound and it's"
+               ],
+               [
+                  "00:04:32,100 --> 00:04:34,670",
+                  "then transmitting that,"
+               ],
+               [
+                  "00:04:34,670 --> 00:04:35,980",
+                  "ad it's actually sending it to me."
+               ],
+               [
+                  "00:04:35,980 --> 00:04:38,820",
+                  "Are there any other things that"
+               ],
+               [
+                  "00:04:35,980 --> 00:04:38,820",
+                  "you can talk to a computer?"
+               ],
+               [
+                  "00:04:38,820 --> 00:04:40,470",
+                  "You can give it information."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:04:41,303 --> 00:04:42,470",
+                  "- That's absolutely another input"
+               ],
+               [
+                  "00:04:42,470 --> 00:04:44,050",
+                  "that exists on your computer."
+               ],
+               [
+                  "00:04:44,050 --> 00:04:45,570",
+                  "That's how I try to think of things"
+               ],
+               [
+                  "00:04:45,570 --> 00:04:47,140",
+                  "is there's just a bunch of inputs."
+               ],
+               [
+                  "00:04:47,140 --> 00:04:48,720",
+                  "Often, if you're trying to break something"
+               ],
+               [
+                  "00:04:48,720 --> 00:04:50,710",
+                  "or hack something, you're"
+               ],
+               [
+                  "00:04:48,720 --> 00:04:50,710",
+                  "really saying, okay,"
+               ],
+               [
+                  "00:04:50,710 --> 00:04:53,270",
+                  "how can I control these"
+               ],
+               [
+                  "00:04:50,710 --> 00:04:53,270",
+                  "inputs in a way that"
+               ],
+               [
+                  "00:04:53,270 --> 00:04:55,010",
+                  "wasn't necessarily expected?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:04:57,400 --> 00:04:58,263",
+                  "- Typically, it's going to be something"
+               ],
+               [
+                  "00:04:58,263 --> 00:04:59,410",
+                  "like the keyboard, right?"
+               ],
+               [
+                  "00:04:59,410 --> 00:05:01,289",
+                  "I'm just going to be typing keystrokes"
+               ],
+               [
+                  "00:05:01,289 --> 00:05:04,680",
+                  "to be talking to some piece"
+               ],
+               [
+                  "00:05:01,289 --> 00:05:04,680",
+                  "of software or hardware,"
+               ],
+               [
+                  "00:05:04,680 --> 00:05:06,720",
+                  "but other times it can be other things"
+               ],
+               [
+                  "00:05:06,720 --> 00:05:08,590",
+                  "like even the temperature of a computer"
+               ],
+               [
+                  "00:05:08,590 --> 00:05:10,820",
+                  "can actually affect how"
+               ],
+               [
+                  "00:05:08,590 --> 00:05:10,820",
+                  "the computer operates,"
+               ],
+               [
+                  "00:05:10,820 --> 00:05:14,436",
+                  "and it might be advantageous"
+               ],
+               [
+                  "00:05:10,820 --> 00:05:14,436",
+                  "to me to cool down the computer"
+               ],
+               [
+                  "00:05:14,436 --> 00:05:18,300",
+                  "and actually slow down the"
+               ],
+               [
+                  "00:05:14,436 --> 00:05:18,300",
+                  "movement of electrons in"
+               ],
+               [
+                  "00:05:18,300 --> 00:05:21,680",
+                  "something like memory, so"
+               ],
+               [
+                  "00:05:18,300 --> 00:05:21,680",
+                  "that if a computer shuts off,"
+               ],
+               [
+                  "00:05:21,680 --> 00:05:24,280",
+                  "it stores something that"
+               ],
+               [
+                  "00:05:21,680 --> 00:05:24,280",
+                  "wasn't memory like a password"
+               ],
+               [
+                  "00:05:24,280 --> 00:05:26,280",
+                  "and stores it for a long enough time"
+               ],
+               [
+                  "00:05:26,280 --> 00:05:27,370",
+                  "that I might be able to actually"
+               ],
+               [
+                  "00:05:27,370 --> 00:05:29,120",
+                  "extract it through some other methods."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:05:30,920 --> 00:05:32,590",
+                  "- It just depends what"
+               ],
+               [
+                  "00:05:30,920 --> 00:05:32,590",
+                  "you're trying to do."
+               ],
+               [
+                  "00:05:32,590 --> 00:05:34,900",
+                  "In some cases, it could"
+               ],
+               [
+                  "00:05:32,590 --> 00:05:34,900",
+                  "literally be seconds"
+               ],
+               [
+                  "00:05:34,900 --> 00:05:36,880",
+                  "because you already know"
+               ],
+               [
+                  "00:05:34,900 --> 00:05:36,880",
+                  "how the system works,"
+               ],
+               [
+                  "00:05:36,880 --> 00:05:38,770",
+                  "and other times, it could be years."
+               ],
+               [
+                  "00:05:38,770 --> 00:05:40,423",
+                  "So what have you learned about hacking?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:05:53,190 --> 00:05:54,760",
+                  "- Have you started studying cybersecurity?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:06:15,800 --> 00:06:18,600",
+                  "- Have you heard of the breach of Target"
+               ],
+               [
+                  "00:06:18,600 --> 00:06:20,440",
+                  "where they were breached many years ago"
+               ],
+               [
+                  "00:06:20,440 --> 00:06:22,530",
+                  "and their point of sale"
+               ],
+               [
+                  "00:06:20,440 --> 00:06:22,530",
+                  "systems were hacked?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:06:24,120 --> 00:06:26,190",
+                  "- So where people are"
+               ],
+               [
+                  "00:06:24,120 --> 00:06:26,190",
+                  "swiping credit cards,"
+               ],
+               [
+                  "00:06:26,190 --> 00:06:27,800",
+                  "those credit card numbers were stolen."
+               ],
+               [
+                  "00:06:27,800 --> 00:06:29,670",
+                  "They hired a company to come in"
+               ],
+               [
+                  "00:06:29,670 --> 00:06:32,130",
+                  "and perform a penetration test to see,"
+               ],
+               [
+                  "00:06:32,130 --> 00:06:34,780",
+                  "can the good guys"
+               ],
+               [
+                  "00:06:32,130 --> 00:06:34,780",
+                  "essentially break in again"
+               ],
+               [
+                  "00:06:34,780 --> 00:06:36,400",
+                  "to prevent this sort"
+               ],
+               [
+                  "00:06:34,780 --> 00:06:36,400",
+                  "of thing in the future?"
+               ],
+               [
+                  "00:06:36,400 --> 00:06:38,480",
+                  "And when this team came in,"
+               ],
+               [
+                  "00:06:38,480 --> 00:06:40,040",
+                  "they found they actually were able"
+               ],
+               [
+                  "00:06:40,040 --> 00:06:42,427",
+                  "to get pretty much to the"
+               ],
+               [
+                  "00:06:40,040 --> 00:06:42,427",
+                  "same point of sale system,"
+               ],
+               [
+                  "00:06:42,427 --> 00:06:45,090",
+                  "and the way they did"
+               ],
+               [
+                  "00:06:42,427 --> 00:06:45,090",
+                  "that was by exploiting"
+               ],
+               [
+                  "00:06:45,090 --> 00:06:47,950",
+                  "an internet-connected deli meat scale."
+               ],
+               [
+                  "00:06:47,950 --> 00:06:50,980",
+                  "Once the company was able to essentially"
+               ],
+               [
+                  "00:06:50,980 --> 00:06:53,481",
+                  "get into the deli scale,"
+               ],
+               [
+                  "00:06:53,481 --> 00:06:56,920",
+                  "because the deli scale was"
+               ],
+               [
+                  "00:06:53,481 --> 00:06:56,920",
+                  "on the internal network,"
+               ],
+               [
+                  "00:06:56,920 --> 00:06:59,880",
+                  "then they were able to really"
+               ],
+               [
+                  "00:06:56,920 --> 00:06:59,880",
+                  "escalate privilege and find"
+               ],
+               [
+                  "00:06:59,880 --> 00:07:02,280",
+                  "a vulnerability within another system."
+               ],
+               [
+                  "00:07:02,280 --> 00:07:04,460",
+                  "Essentially, that just"
+               ],
+               [
+                  "00:07:02,280 --> 00:07:04,460",
+                  "got them into the network."
+               ],
+               [
+                  "00:07:04,460 --> 00:07:05,580",
+                  "and once you're in the network,"
+               ],
+               [
+                  "00:07:05,580 --> 00:07:08,640",
+                  "it's often really easy to"
+               ],
+               [
+                  "00:07:05,580 --> 00:07:08,640",
+                  "then escalate from there."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:07:27,520 --> 00:07:29,780",
+                  "- Yeah, that's another"
+               ],
+               [
+                  "00:07:27,520 --> 00:07:29,780",
+                  "interesting concept."
+               ],
+               [
+                  "00:07:29,780 --> 00:07:31,430",
+                  "It's really just different layers"
+               ],
+               [
+                  "00:07:31,430 --> 00:07:33,699",
+                  "that we have for protection,"
+               ],
+               [
+                  "00:07:33,699 --> 00:07:35,460",
+                  "because often when you're talking about"
+               ],
+               [
+                  "00:07:35,460 --> 00:07:37,370",
+                  "something like a corporate network,"
+               ],
+               [
+                  "00:07:37,370 --> 00:07:38,530",
+                  "or even your home network,"
+               ],
+               [
+                  "00:07:38,530 --> 00:07:41,270",
+                  "you typically have sort of"
+               ],
+               [
+                  "00:07:38,530 --> 00:07:41,270",
+                  "one level of defense, right?"
+               ],
+               [
+                  "00:07:41,270 --> 00:07:42,670",
+                  "If someone can break that"
+               ],
+               [
+                  "00:07:42,670 --> 00:07:44,510",
+                  "or it can get in through some other system"
+               ],
+               [
+                  "00:07:44,510 --> 00:07:46,380",
+                  "that is connected or exposes"
+               ],
+               [
+                  "00:07:46,380 --> 00:07:48,140",
+                  "some other protocol,"
+               ],
+               [
+                  "00:07:46,380 --> 00:07:48,140",
+                  "like Bluetooth, right?"
+               ],
+               [
+                  "00:07:48,140 --> 00:07:49,920",
+                  "You can connect to a Bluetooth device"
+               ],
+               [
+                  "00:07:49,920 --> 00:07:51,780",
+                  "without being on the wireless network,"
+               ],
+               [
+                  "00:07:51,780 --> 00:07:53,360",
+                  "without being on the LAN."
+               ],
+               [
+                  "00:07:53,360 --> 00:07:55,590",
+                  "That potentially gives you another place"
+               ],
+               [
+                  "00:07:55,590 --> 00:07:58,170",
+                  "that you can pivot on and"
+               ],
+               [
+                  "00:07:55,590 --> 00:07:58,170",
+                  "then access other devices,"
+               ],
+               [
+                  "00:07:58,170 --> 00:08:01,170",
+                  "because if something has both"
+               ],
+               [
+                  "00:07:58,170 --> 00:08:01,170",
+                  "Bluetooth and also Wi-Fi,"
+               ],
+               [
+                  "00:08:01,170 --> 00:08:02,330",
+                  "well, if you can get in through Bluetooth,"
+               ],
+               [
+                  "00:08:02,330 --> 00:08:03,830",
+                  "then you can then access the Wi-Fi"
+               ],
+               [
+                  "00:08:03,830 --> 00:08:05,640",
+                  "and get to other devices on the network."
+               ],
+               [
+                  "00:08:05,640 --> 00:08:07,010",
+                  "Are you familiar with buffer overflows?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:08:09,070 --> 00:08:12,420",
+                  "- If we were to write a program"
+               ],
+               [
+                  "00:08:09,070 --> 00:08:12,420",
+                  "that asked for your name"
+               ],
+               [
+                  "00:08:12,420 --> 00:08:14,513",
+                  "and you typed in your name,"
+               ],
+               [
+                  "00:08:14,513 --> 00:08:16,240",
+                  "but before you could type in your name,"
+               ],
+               [
+                  "00:08:16,240 --> 00:08:18,487",
+                  "in a low leveling, which is like C or C++,"
+               ],
+               [
+                  "00:08:18,487 --> 00:08:20,040",
+                  "you'd have to allocate some memory."
+               ],
+               [
+                  "00:08:20,040 --> 00:08:23,120",
+                  "So you might allocate a"
+               ],
+               [
+                  "00:08:20,040 --> 00:08:23,120",
+                  "buffer of a hundred bytes"
+               ],
+               [
+                  "00:08:23,120 --> 00:08:24,680",
+                  "because whose name is going to be longer"
+               ],
+               [
+                  "00:08:24,680 --> 00:08:26,630",
+                  "than a hundred bytes"
+               ],
+               [
+                  "00:08:24,680 --> 00:08:26,630",
+                  "or a hundred character?"
+               ],
+               [
+                  "00:08:26,630 --> 00:08:30,130",
+                  "But what happens if you"
+               ],
+               [
+                  "00:08:26,630 --> 00:08:30,130",
+                  "were to not really check"
+               ],
+               [
+                  "00:08:30,130 --> 00:08:32,299",
+                  "that they limited to a hundred bytes?"
+               ],
+               [
+                  "00:08:32,299 --> 00:08:34,179",
+                  "Do you know what happens"
+               ],
+               [
+                  "00:08:32,299 --> 00:08:34,179",
+                  "if they essentially"
+               ],
+               [
+                  "00:08:34,179 --> 00:08:36,149",
+                  "start typing over that hundred bytes?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:08:40,400 --> 00:08:42,505",
+                  "- Absolutely, you would essentially cause"
+               ],
+               [
+                  "00:08:42,505 --> 00:08:44,388",
+                  "a segmentation fault."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:08:44,388 --> 00:08:46,360",
+                  "- But what's really cool about that is,"
+               ],
+               [
+                  "00:08:46,360 --> 00:08:47,340",
+                  "when you're going into memory,"
+               ],
+               [
+                  "00:08:47,340 --> 00:08:49,080",
+                  "you're starting to cross over"
+               ],
+               [
+                  "00:08:49,080 --> 00:08:51,310",
+                  "that boundary of that"
+               ],
+               [
+                  "00:08:49,080 --> 00:08:51,310",
+                  "hundred byte allocation,"
+               ],
+               [
+                  "00:08:51,310 --> 00:08:53,730",
+                  "and now you're starting to"
+               ],
+               [
+                  "00:08:51,310 --> 00:08:53,730",
+                  "write over additional memory."
+               ],
+               [
+                  "00:08:53,730 --> 00:08:56,130",
+                  "That other memory is"
+               ],
+               [
+                  "00:08:53,730 --> 00:08:56,130",
+                  "really important stuff."
+               ],
+               [
+                  "00:08:56,130 --> 00:08:58,430",
+                  "So you have your name,"
+               ],
+               [
+                  "00:08:56,130 --> 00:08:58,430",
+                  "the hundred bytes there,"
+               ],
+               [
+                  "00:08:58,430 --> 00:09:00,990",
+                  "and then right next to your"
+               ],
+               [
+                  "00:08:58,430 --> 00:09:00,990",
+                  "name is the return address,"
+               ],
+               [
+                  "00:09:00,990 --> 00:09:03,805",
+                  "and that's the address that"
+               ],
+               [
+                  "00:09:00,990 --> 00:09:03,805",
+                  "the code is gonna execute"
+               ],
+               [
+                  "00:09:03,805 --> 00:09:05,820",
+                  "and it's going to return to"
+               ],
+               [
+                  "00:09:03,805 --> 00:09:05,820",
+                  "after that function is done,"
+               ],
+               [
+                  "00:09:05,820 --> 00:09:07,510",
+                  "and it's going to jump to that address,"
+               ],
+               [
+                  "00:09:07,510 --> 00:09:09,660",
+                  "but after you type your hundred bytes,"
+               ],
+               [
+                  "00:09:09,660 --> 00:09:11,570",
+                  "the next few bites that you type,"
+               ],
+               [
+                  "00:09:11,570 --> 00:09:13,490",
+                  "you're actually going to"
+               ],
+               [
+                  "00:09:11,570 --> 00:09:13,490",
+                  "overwrite that return address."
+               ],
+               [
+                  "00:09:13,490 --> 00:09:15,600",
+                  "So that return address"
+               ],
+               [
+                  "00:09:13,490 --> 00:09:15,600",
+                  "could essentially be"
+               ],
+               [
+                  "00:09:15,600 --> 00:09:17,380",
+                  "another address in memory."
+               ],
+               [
+                  "00:09:17,380 --> 00:09:19,790",
+                  "So what you end up"
+               ],
+               [
+                  "00:09:17,380 --> 00:09:19,790",
+                  "doing is you type a name"
+               ],
+               [
+                  "00:09:19,790 --> 00:09:21,970",
+                  "and it's not really a name,"
+               ],
+               [
+                  "00:09:19,790 --> 00:09:21,970",
+                  "it's really just code."
+               ],
+               [
+                  "00:09:21,970 --> 00:09:24,600",
+                  "And that code, you keep typing until"
+               ],
+               [
+                  "00:09:24,600 --> 00:09:26,120",
+                  "you get to the return address,"
+               ],
+               [
+                  "00:09:26,120 --> 00:09:27,720",
+                  "and you start typing an address,"
+               ],
+               [
+                  "00:09:27,720 --> 00:09:30,160",
+                  "which is really the beginning of your name"
+               ],
+               [
+                  "00:09:30,160 --> 00:09:32,690",
+                  "and your computer or your processor"
+               ],
+               [
+                  "00:09:32,690 --> 00:09:34,630",
+                  "is actually going to read that address"
+               ],
+               [
+                  "00:09:34,630 --> 00:09:36,900",
+                  "and it will jump back to the beginning"
+               ],
+               [
+                  "00:09:36,900 --> 00:09:38,710",
+                  "and then execute that payload."
+               ],
+               [
+                  "00:09:38,710 --> 00:09:41,360",
+                  "So that was sort of the very"
+               ],
+               [
+                  "00:09:38,710 --> 00:09:41,360",
+                  "first thing that I think was"
+               ],
+               [
+                  "00:09:41,360 --> 00:09:43,310",
+                  "super exciting to me when I started"
+               ],
+               [
+                  "00:09:43,310 --> 00:09:45,140",
+                  "learning about really reverse engineering."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:09:57,890 --> 00:10:00,240",
+                  "- Ever since buffer overflow"
+               ],
+               [
+                  "00:09:57,890 --> 00:10:00,240",
+                  "started many years ago,"
+               ],
+               [
+                  "00:10:00,240 --> 00:10:02,210",
+                  "there been a lot of protection mechanisms"
+               ],
+               [
+                  "00:10:02,210 --> 00:10:05,530",
+                  "built to make it difficult to exploit."
+               ],
+               [
+                  "00:10:05,530 --> 00:10:07,030",
+                  "More and more, we're actually using"
+               ],
+               [
+                  "00:10:07,030 --> 00:10:08,660",
+                  "smaller and smaller computers"
+               ],
+               [
+                  "00:10:08,660 --> 00:10:10,560",
+                  "with smaller amounts of compute power."
+               ],
+               [
+                  "00:10:10,560 --> 00:10:13,940",
+                  "If you take a car, you have"
+               ],
+               [
+                  "00:10:10,560 --> 00:10:13,940",
+                  "hundreds of microcontrollers"
+               ],
+               [
+                  "00:10:13,940 --> 00:10:15,620",
+                  "that are all running there."
+               ],
+               [
+                  "00:10:15,620 --> 00:10:18,000",
+                  "So they don't really have a"
+               ],
+               [
+                  "00:10:15,620 --> 00:10:18,000",
+                  "sophisticated operating system"
+               ],
+               [
+                  "00:10:18,000 --> 00:10:21,280",
+                  "that can try to prevent"
+               ],
+               [
+                  "00:10:18,000 --> 00:10:21,280",
+                  "attacks like buffer overflows."
+               ],
+               [
+                  "00:10:21,280 --> 00:10:24,286",
+                  "So how do we keep these low"
+               ],
+               [
+                  "00:10:21,280 --> 00:10:24,286",
+                  "cost computers in here while"
+               ],
+               [
+                  "00:10:24,286 --> 00:10:27,450",
+                  "adding layers of protection"
+               ],
+               [
+                  "00:10:24,286 --> 00:10:27,450",
+                  "to prevent malice"
+               ],
+               [
+                  "00:10:27,450 --> 00:10:28,970",
+                  "and these types of attacks?"
+               ],
+               [
+                  "00:10:28,970 --> 00:10:30,280",
+                  "Sometimes it actually is,"
+               ],
+               [
+                  "00:10:30,280 --> 00:10:31,540",
+                  "how can we write software"
+               ],
+               [
+                  "00:10:31,540 --> 00:10:32,730",
+                  "or how can we build a system"
+               ],
+               [
+                  "00:10:32,730 --> 00:10:35,010",
+                  "that prevents these types"
+               ],
+               [
+                  "00:10:32,730 --> 00:10:35,010",
+                  "of attacks from entering?"
+               ],
+               [
+                  "00:10:35,010 --> 00:10:37,850",
+                  "But oftentimes, it's really"
+               ],
+               [
+                  "00:10:35,010 --> 00:10:37,850",
+                  "looking for how can we find"
+               ],
+               [
+                  "00:10:37,850 --> 00:10:40,520",
+                  "new attacks that we haven't"
+               ],
+               [
+                  "00:10:37,850 --> 00:10:40,520",
+                  "even necessarily thought of?"
+               ],
+               [
+                  "00:10:40,520 --> 00:10:43,010",
+                  "What got you interested"
+               ],
+               [
+                  "00:10:40,520 --> 00:10:43,010",
+                  "in computer science"
+               ],
+               [
+                  "00:10:43,010 --> 00:10:44,010",
+                  "and information security?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:11:07,520 --> 00:11:09,870",
+                  "- You brought up China and Iran,"
+               ],
+               [
+                  "00:11:09,870 --> 00:11:12,350",
+                  "and something that's"
+               ],
+               [
+                  "00:11:09,870 --> 00:11:12,350",
+                  "interesting about those areas"
+               ],
+               [
+                  "00:11:12,350 --> 00:11:14,810",
+                  "is really censorship, right?"
+               ],
+               [
+                  "00:11:14,810 --> 00:11:17,020",
+                  "They have essentially censored internet."
+               ],
+               [
+                  "00:11:17,020 --> 00:11:18,810",
+                  "In the US, we have a really interesting"
+               ],
+               [
+                  "00:11:18,810 --> 00:11:21,303",
+                  "internal struggle here"
+               ],
+               [
+                  "00:11:18,810 --> 00:11:21,303",
+                  "where we actually have"
+               ],
+               [
+                  "00:11:21,303 --> 00:11:24,028",
+                  "government agencies like"
+               ],
+               [
+                  "00:11:21,303 --> 00:11:24,028",
+                  "the state department"
+               ],
+               [
+                  "00:11:24,028 --> 00:11:27,020",
+                  "that are funding software"
+               ],
+               [
+                  "00:11:24,028 --> 00:11:27,020",
+                  "to evade censorship,"
+               ],
+               [
+                  "00:11:27,020 --> 00:11:29,810",
+                  "like Tor and other mechanisms."
+               ],
+               [
+                  "00:11:29,810 --> 00:11:32,570",
+                  "While then we also have an"
+               ],
+               [
+                  "00:11:29,810 --> 00:11:32,570",
+                  "internal struggle where we have"
+               ],
+               [
+                  "00:11:32,570 --> 00:11:34,590",
+                  "other organizations like the NSA"
+               ],
+               [
+                  "00:11:34,590 --> 00:11:38,800",
+                  "who are specifically looking"
+               ],
+               [
+                  "00:11:34,590 --> 00:11:38,800",
+                  "to break that exact same system"
+               ],
+               [
+                  "00:11:38,800 --> 00:11:40,830",
+                  "that the US government is also funding."
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:12:01,610 --> 00:12:02,850",
+                  "- It's good for us to understand"
+               ],
+               [
+                  "00:12:02,850 --> 00:12:04,800",
+                  "how these systems can really break down."
+               ],
+               [
+                  "00:12:04,800 --> 00:12:07,010",
+                  "Although, I think one thing that I see"
+               ],
+               [
+                  "00:12:07,010 --> 00:12:08,200",
+                  "is that some of, let's say,"
+               ],
+               [
+                  "00:12:08,200 --> 00:12:10,440",
+                  "the organizations that"
+               ],
+               [
+                  "00:12:08,200 --> 00:12:10,440",
+                  "are looking to break this"
+               ],
+               [
+                  "00:12:10,440 --> 00:12:11,710",
+                  "are not necessarily going to share"
+               ],
+               [
+                  "00:12:11,710 --> 00:12:13,430",
+                  "once they actually learn that information."
+               ],
+               [
+                  "00:12:13,430 --> 00:12:16,370",
+                  "They might actually sort of"
+               ],
+               [
+                  "00:12:13,430 --> 00:12:16,370",
+                  "hold that in their back pocket"
+               ],
+               [
+                  "00:12:16,370 --> 00:12:18,412",
+                  "and use it when it's advantageous to them."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:12:20,630 --> 00:12:21,493",
+                  "What kind of projects are you working on?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:13:09,940 --> 00:13:11,668",
+                  "- So essentially it's a really,"
+               ],
+               [
+                  "00:13:11,668 --> 00:13:14,434",
+                  "definitely a stripped"
+               ],
+               [
+                  "00:13:11,668 --> 00:13:14,434",
+                  "down operating system,"
+               ],
+               [
+                  "00:13:14,434 --> 00:13:16,940",
+                  "or I guess it's a virtual machine."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:13:20,220 --> 00:13:22,110",
+                  "- Have you done any work"
+               ],
+               [
+                  "00:13:20,220 --> 00:13:22,110",
+                  "in side channel analysis?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:13:28,830 --> 00:13:31,840",
+                  "- So the side channel"
+               ],
+               [
+                  "00:13:28,830 --> 00:13:31,840",
+                  "analysis is really looking"
+               ],
+               [
+                  "00:13:31,840 --> 00:13:33,840",
+                  "not at a vulnerability within a system,"
+               ],
+               [
+                  "00:13:33,840 --> 00:13:36,160",
+                  "but really unintended consequences"
+               ],
+               [
+                  "00:13:36,160 --> 00:13:38,050",
+                  "of what the system is built on."
+               ],
+               [
+                  "00:13:38,050 --> 00:13:40,740",
+                  "A very simple example of a side channel"
+               ],
+               [
+                  "00:13:40,740 --> 00:13:44,090",
+                  "is putting your ear to"
+               ],
+               [
+                  "00:13:40,740 --> 00:13:44,090",
+                  "the ground to hear if"
+               ],
+               [
+                  "00:13:44,090 --> 00:13:45,260",
+                  "there are horses coming towards you,"
+               ],
+               [
+                  "00:13:45,260 --> 00:13:47,397",
+                  "and the same thing applies to technology."
+               ],
+               [
+                  "00:13:47,397 --> 00:13:49,690",
+                  "So you can have something like"
+               ],
+               [
+                  "00:13:49,690 --> 00:13:51,910",
+                  "a CPU, it's executing instructions,"
+               ],
+               [
+                  "00:13:51,910 --> 00:13:53,960",
+                  "certain instructions that"
+               ],
+               [
+                  "00:13:51,910 --> 00:13:53,960",
+                  "use a little bit more power,"
+               ],
+               [
+                  "00:13:53,960 --> 00:13:56,240",
+                  "and power is reserved in these capacitors,"
+               ],
+               [
+                  "00:13:56,240 --> 00:13:58,550",
+                  "which are like tiny"
+               ],
+               [
+                  "00:13:56,240 --> 00:13:58,550",
+                  "batteries next to your CPU."
+               ],
+               [
+                  "00:13:58,550 --> 00:14:00,030",
+                  "And as they're pulling power,"
+               ],
+               [
+                  "00:14:00,030 --> 00:14:01,330",
+                  "there's something in physics called"
+               ],
+               [
+                  "00:14:01,330 --> 00:14:02,650",
+                  "the electrostrictive effect"
+               ],
+               [
+                  "00:14:02,650 --> 00:14:06,380",
+                  "where the capacitor will move"
+               ],
+               [
+                  "00:14:02,650 --> 00:14:06,380",
+                  "in a very, very tiny amount."
+               ],
+               [
+                  "00:14:06,380 --> 00:14:08,150",
+                  "And then although we can't hear it,"
+               ],
+               [
+                  "00:14:08,150 --> 00:14:09,610",
+                  "the microphone on a mobile device"
+               ],
+               [
+                  "00:14:09,610 --> 00:14:11,230",
+                  "can actually listen to that."
+               ],
+               [
+                  "00:14:11,230 --> 00:14:12,880",
+                  "If you then listen to that and you say,"
+               ],
+               [
+                  "00:14:12,880 --> 00:14:14,200",
+                  "oh, I see a pattern here,"
+               ],
+               [
+                  "00:14:14,200 --> 00:14:15,410",
+                  "and you can go all the way down"
+               ],
+               [
+                  "00:14:15,410 --> 00:14:18,260",
+                  "and then extract and reveal the"
+               ],
+               [
+                  "00:14:15,410 --> 00:14:18,260",
+                  "full password, the full key,"
+               ],
+               [
+                  "00:14:18,260 --> 00:14:19,930",
+                  "even though it could be argued that"
+               ],
+               [
+                  "00:14:19,930 --> 00:14:22,030",
+                  "the algorithm itself,"
+               ],
+               [
+                  "00:14:19,930 --> 00:14:22,030",
+                  "there's no problem with it."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:15:07,310 --> 00:15:09,360",
+                  "- Yeah, I suppose the physical adjacency"
+               ],
+               [
+                  "00:15:09,360 --> 00:15:11,290",
+                  "of the underlying"
+               ],
+               [
+                  "00:15:09,360 --> 00:15:11,290",
+                  "transistors and capacitors"
+               ],
+               [
+                  "00:15:11,290 --> 00:15:14,110",
+                  "that are holding that storage."
+               ],
+               [
+                  "00:15:14,110 --> 00:15:14,943",
+                  "That's crazy."
+               ],
+               [
+                  "00:15:14,943 --> 00:15:16,370",
+                  "I think the first time I heard of"
+               ],
+               [
+                  "00:15:16,370 --> 00:15:18,340",
+                  "an interesting attack"
+               ],
+               [
+                  "00:15:16,370 --> 00:15:18,340",
+                  "like that was learning"
+               ],
+               [
+                  "00:15:18,340 --> 00:15:20,453",
+                  "about the cold boot attack."
+               ],
+               [
+                  "00:15:21,391 --> 00:15:23,310",
+                  "Being able to, you know,"
+               ],
+               [
+                  "00:15:23,310 --> 00:15:26,920",
+                  "someone enters their"
+               ],
+               [
+                  "00:15:23,310 --> 00:15:26,920",
+                  "password on their computer"
+               ],
+               [
+                  "00:15:26,920 --> 00:15:30,272",
+                  "and that decrypts their hard"
+               ],
+               [
+                  "00:15:26,920 --> 00:15:30,272",
+                  "drive and then they walk away."
+               ],
+               [
+                  "00:15:30,272 --> 00:15:32,740",
+                  "Being able to extract that"
+               ],
+               [
+                  "00:15:30,272 --> 00:15:32,740",
+                  "password is really difficult."
+               ],
+               [
+                  "00:15:32,740 --> 00:15:35,026",
+                  "If I can pull that memory chip"
+               ],
+               [
+                  "00:15:32,740 --> 00:15:35,026",
+                  "out and extract that memory,"
+               ],
+               [
+                  "00:15:35,026 --> 00:15:36,360",
+                  "put it in my own device,"
+               ],
+               [
+                  "00:15:36,360 --> 00:15:37,890",
+                  "except the problem is memory is volatile,"
+               ],
+               [
+                  "00:15:37,890 --> 00:15:39,980",
+                  "so it'll erase as soon as I pull it out."
+               ],
+               [
+                  "00:15:39,980 --> 00:15:43,780",
+                  "You can take something like"
+               ],
+               [
+                  "00:15:39,980 --> 00:15:43,780",
+                  "canned air, turn it upside down,"
+               ],
+               [
+                  "00:15:43,780 --> 00:15:47,020",
+                  "cool that computer, make"
+               ],
+               [
+                  "00:15:43,780 --> 00:15:47,020",
+                  "it real nice and cool."
+               ],
+               [
+                  "00:15:47,020 --> 00:15:49,810",
+                  "Then you have a minute or"
+               ],
+               [
+                  "00:15:47,020 --> 00:15:49,810",
+                  "two to pull out the memory,"
+               ],
+               [
+                  "00:15:49,810 --> 00:15:52,397",
+                  "put into your own device,"
+               ],
+               [
+                  "00:15:49,810 --> 00:15:52,397",
+                  "extract the memory,"
+               ],
+               [
+                  "00:15:52,397 --> 00:15:53,540",
+                  "and then you're good."
+               ],
+               [
+                  "00:15:53,540 --> 00:15:55,515",
+                  "It's such a simple method to really"
+               ],
+               [
+                  "00:15:55,515 --> 00:15:57,970",
+                  "extract something kind of critical."
+               ],
+               [
+                  "00:15:57,970 --> 00:16:00,660",
+                  "Like Rowhammer, it's such a"
+               ],
+               [
+                  "00:15:57,970 --> 00:16:00,660",
+                  "low level of vulnerability"
+               ],
+               [
+                  "00:16:00,660 --> 00:16:02,880",
+                  "and you could argue that"
+               ],
+               [
+                  "00:16:00,660 --> 00:16:02,880",
+                  "it's not necessarily"
+               ],
+               [
+                  "00:16:02,880 --> 00:16:05,290",
+                  "a vulnerability in the"
+               ],
+               [
+                  "00:16:02,880 --> 00:16:05,290",
+                  "architecture itself,"
+               ],
+               [
+                  "00:16:05,290 --> 00:16:07,561",
+                  "but rather exploitation"
+               ],
+               [
+                  "00:16:05,290 --> 00:16:07,561",
+                  "of physics at that point."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:16:30,140 --> 00:16:31,610",
+                  "- I keep forgetting to update my fridge."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:16:36,470 --> 00:16:37,540",
+                  "- That's pretty challenging"
+               ],
+               [
+                  "00:16:37,540 --> 00:16:39,240",
+                  "if you want to use wireless, right?"
+               ],
+               [
+                  "00:16:39,240 --> 00:16:40,150",
+                  "If you wanna use a wireless router."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:16:44,920 --> 00:16:47,930",
+                  "- The risk right now, just"
+               ],
+               [
+                  "00:16:44,920 --> 00:16:47,930",
+                  "during this quarantine,"
+               ],
+               [
+                  "00:16:47,930 --> 00:16:50,630",
+                  "is actually massive now"
+               ],
+               [
+                  "00:16:47,930 --> 00:16:50,630",
+                  "that we think about it,"
+               ],
+               [
+                  "00:16:50,630 --> 00:16:52,300",
+                  "because you might have"
+               ],
+               [
+                  "00:16:50,630 --> 00:16:52,300",
+                  "these legacy systems."
+               ],
+               [
+                  "00:16:52,300 --> 00:16:54,630",
+                  "You know, they were"
+               ],
+               [
+                  "00:16:52,300 --> 00:16:54,630",
+                  "built 20, 30 years ago,"
+               ],
+               [
+                  "00:16:54,630 --> 00:16:56,970",
+                  "and it's too costly to upgrade,"
+               ],
+               [
+                  "00:16:56,970 --> 00:16:59,000",
+                  "but now you can't actually"
+               ],
+               [
+                  "00:16:56,970 --> 00:16:59,000",
+                  "have a lot of people"
+               ],
+               [
+                  "00:16:59,000 --> 00:17:01,840",
+                  "in a single location, so potentially,"
+               ],
+               [
+                  "00:17:01,840 --> 00:17:03,970",
+                  "they actually do have"
+               ],
+               [
+                  "00:17:01,840 --> 00:17:03,970",
+                  "to now add some sort of"
+               ],
+               [
+                  "00:17:03,970 --> 00:17:05,589",
+                  "remote capabilities to these systems"
+               ],
+               [
+                  "00:17:05,589 --> 00:17:07,039",
+                  "that were never meant"
+               ],
+               [
+                  "00:17:05,589 --> 00:17:07,039",
+                  "to be on the internet."
+               ],
+               [
+                  "00:17:07,040 --> 00:17:08,839",
+                  "Have you ever had any ethical concerns"
+               ],
+               [
+                  "00:17:08,839 --> 00:17:11,809",
+                  "with the stuff you're interested"
+               ],
+               [
+                  "00:17:08,839 --> 00:17:11,809",
+                  "in or the work you do?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:17:16,950 --> 00:17:19,859",
+                  "- Especially now that we're"
+               ],
+               [
+                  "00:17:16,950 --> 00:17:19,859",
+                  "seeing more and more companies"
+               ],
+               [
+                  "00:17:19,859 --> 00:17:21,699",
+                  "who are trying to make it illegal for you"
+               ],
+               [
+                  "00:17:21,700 --> 00:17:25,250",
+                  "to inspect the vehicle that"
+               ],
+               [
+                  "00:17:21,700 --> 00:17:25,250",
+                  "you've purchased, right?"
+               ],
+               [
+                  "00:17:25,250 --> 00:17:26,720",
+                  "Something that you actually own."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:17:30,467 --> 00:17:32,010",
+                  "- What if it were illegal?"
+               ],
+               [
+                  "00:17:32,010 --> 00:17:33,270",
+                  "Would you then do it?"
+               ],
+               [
+                  "00:17:33,270 --> 00:17:34,660",
+                  "Fortunately it's not today, right?"
+               ],
+               [
+                  "00:17:34,660 --> 00:17:37,600",
+                  "It hasn't been, you know,"
+               ],
+               [
+                  "00:17:34,660 --> 00:17:37,600",
+                  "despite their attempts,"
+               ],
+               [
+                  "00:17:37,600 --> 00:17:39,670",
+                  "none of that has been passed,"
+               ],
+               [
+                  "00:17:39,670 --> 00:17:41,740",
+                  "but if you had a vehicle and"
+               ],
+               [
+                  "00:17:39,670 --> 00:17:41,740",
+                  "you wanted to inspect it,"
+               ],
+               [
+                  "00:17:41,740 --> 00:17:44,220",
+                  "but all of a sudden, it passed, I mean."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:17:51,110 --> 00:17:53,580",
+                  "- But the laws don't always"
+               ],
+               [
+                  "00:17:51,110 --> 00:17:53,580",
+                  "equate to hurting anyone."
+               ],
+               [
+                  "00:17:53,580 --> 00:17:56,640",
+                  "I ethically think similar"
+               ],
+               [
+                  "00:17:53,580 --> 00:17:56,640",
+                  "to you in that, you know,"
+               ],
+               [
+                  "00:17:56,640 --> 00:17:58,160",
+                  "what is moral to me is"
+               ],
+               [
+                  "00:17:58,160 --> 00:18:00,750",
+                  "as long as I'm not intentionally"
+               ],
+               [
+                  "00:17:58,160 --> 00:18:00,750",
+                  "hurting others, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:18:08,350 --> 00:18:10,240",
+                  "- Hey Colin, we already know each other,"
+               ],
+               [
+                  "00:18:10,240 --> 00:18:11,810",
+                  "but why don't you introduce yourself"
+               ],
+               [
+                  "00:18:11,810 --> 00:18:12,710",
+                  "for the people watching?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:18:23,170 --> 00:18:24,010",
+                  "- What have you been up to?"
+               ],
+               [
+                  "00:18:24,010 --> 00:18:25,530",
+                  "And yeah, what are you working on?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:18:46,130 --> 00:18:48,410",
+                  "- Maybe a mutual acquaintance of ours,"
+               ],
+               [
+                  "00:18:48,410 --> 00:18:51,200",
+                  "Jasper gave a example of fault injection,"
+               ],
+               [
+                  "00:18:51,200 --> 00:18:52,890",
+                  "and I like to use that as,"
+               ],
+               [
+                  "00:18:52,890 --> 00:18:55,270",
+                  "when I'm trying to"
+               ],
+               [
+                  "00:18:52,890 --> 00:18:55,270",
+                  "explain fault injection,"
+               ],
+               [
+                  "00:18:55,270 --> 00:18:57,950",
+                  "he shows a pinball machine"
+               ],
+               [
+                  "00:18:55,270 --> 00:18:57,950",
+                  "and the pinball machine,"
+               ],
+               [
+                  "00:18:57,950 --> 00:19:00,450",
+                  "obviously the two inputs"
+               ],
+               [
+                  "00:18:57,950 --> 00:19:00,450",
+                  "are the two plungers"
+               ],
+               [
+                  "00:19:00,450 --> 00:19:03,052",
+                  "when you're playing a pinball machine,"
+               ],
+               [
+                  "00:19:03,052 --> 00:19:03,885",
+                  "but fault injection,"
+               ],
+               [
+                  "00:19:03,885 --> 00:19:06,680",
+                  "you can tilt the entire"
+               ],
+               [
+                  "00:19:03,885 --> 00:19:06,680",
+                  "pinball machine, right?"
+               ],
+               [
+                  "00:19:06,680 --> 00:19:09,320",
+                  "You're just introducing"
+               ],
+               [
+                  "00:19:06,680 --> 00:19:09,320",
+                  "some external variable"
+               ],
+               [
+                  "00:19:09,320 --> 00:19:11,140",
+                  "that's outside of the traditional inputs"
+               ],
+               [
+                  "00:19:11,140 --> 00:19:12,110",
+                  "that you're used to"
+               ],
+               [
+                  "00:19:12,110 --> 00:19:13,860",
+                  "and you've now controlled the environment"
+               ],
+               [
+                  "00:19:13,860 --> 00:19:17,430",
+                  "in a advantageous way to"
+               ],
+               [
+                  "00:19:13,860 --> 00:19:17,430",
+                  "the user or the player."
+               ],
+               [
+                  "00:19:17,430 --> 00:19:19,930",
+                  "Can you give an example of"
+               ],
+               [
+                  "00:19:17,430 --> 00:19:19,930",
+                  "some type of fault injection"
+               ],
+               [
+                  "00:19:19,930 --> 00:19:21,180",
+                  "that you're doing or working on?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:19:44,430 --> 00:19:46,170",
+                  "- We're also scratching the surface of,"
+               ],
+               [
+                  "00:19:46,170 --> 00:19:47,330",
+                  "like, what is possible?"
+               ],
+               [
+                  "00:19:47,330 --> 00:19:49,650",
+                  "It's not necessarily"
+               ],
+               [
+                  "00:19:47,330 --> 00:19:49,650",
+                  "just the system itself"
+               ],
+               [
+                  "00:19:49,650 --> 00:19:51,586",
+                  "and not necessarily that algorithm itself."
+               ],
+               [
+                  "00:19:51,586 --> 00:19:53,290",
+                  "Like you said, you don't necessarily"
+               ],
+               [
+                  "00:19:53,290 --> 00:19:54,920",
+                  "need to attack the math in some cases."
+               ],
+               [
+                  "00:19:54,920 --> 00:19:56,540",
+                  "You can just attack that check."
+               ],
+               [
+                  "00:19:56,540 --> 00:19:58,400",
+                  "And I think something"
+               ],
+               [
+                  "00:19:56,540 --> 00:19:58,400",
+                  "that's been pretty cool"
+               ],
+               [
+                  "00:19:58,400 --> 00:20:00,310",
+                  "is looking at higher energy particles."
+               ],
+               [
+                  "00:20:00,310 --> 00:20:02,850",
+                  "It's going to be maybe"
+               ],
+               [
+                  "00:20:00,310 --> 00:20:02,850",
+                  "hard to entirely confirm,"
+               ],
+               [
+                  "00:20:02,850 --> 00:20:06,060",
+                  "but I think it'd be really,"
+               ],
+               [
+                  "00:20:02,850 --> 00:20:06,060",
+                  "really cool to actually see."
+               ],
+               [
+                  "00:20:06,060 --> 00:20:08,290",
+                  "Like, I want to see one of these faults"
+               ],
+               [
+                  "00:20:08,290 --> 00:20:10,223",
+                  "because I haven't seen it myself."
+               ],
+               [
+                  "00:20:11,121 --> 00:20:13,580",
+                  "And also, how do you"
+               ],
+               [
+                  "00:20:11,121 --> 00:20:13,580",
+                  "know that you've seen it?"
+               ],
+               [
+                  "00:20:13,580 --> 00:20:16,280",
+                  "I've started playing with, like,"
+               ],
+               [
+                  "00:20:13,580 --> 00:20:16,280",
+                  "setting up a cloud chamber."
+               ],
+               [
+                  "00:20:16,280 --> 00:20:18,190",
+                  "A cloud chamber lets you actually view"
+               ],
+               [
+                  "00:20:18,190 --> 00:20:19,810",
+                  "high energy particles going through"
+               ],
+               [
+                  "00:20:19,810 --> 00:20:23,190",
+                  "sort of like in a small jar"
+               ],
+               [
+                  "00:20:19,810 --> 00:20:23,190",
+                  "with some evaporated alcohol."
+               ],
+               [
+                  "00:20:23,190 --> 00:20:24,700",
+                  "And I thought it'd be really cool"
+               ],
+               [
+                  "00:20:24,700 --> 00:20:26,790",
+                  "if we put some memory chip in there,"
+               ],
+               [
+                  "00:20:26,790 --> 00:20:29,580",
+                  "like a basic memory chip and"
+               ],
+               [
+                  "00:20:26,790 --> 00:20:29,580",
+                  "we just fill it with some data,"
+               ],
+               [
+                  "00:20:29,580 --> 00:20:32,430",
+                  "but then you put a camera on"
+               ],
+               [
+                  "00:20:29,580 --> 00:20:32,430",
+                  "that area and you just watch."
+               ],
+               [
+                  "00:20:32,430 --> 00:20:35,540",
+                  "Assuming that there is"
+               ],
+               [
+                  "00:20:32,430 --> 00:20:35,540",
+                  "a high energy particle"
+               ],
+               [
+                  "00:20:36,387 --> 00:20:38,050",
+                  "that actually hits that memory,"
+               ],
+               [
+                  "00:20:38,050 --> 00:20:43,050",
+                  "that should potentially flip"
+               ],
+               [
+                  "00:20:38,050 --> 00:20:43,050",
+                  "the energy state of that bit."
+               ],
+               [
+                  "00:20:43,090 --> 00:20:44,380",
+                  "The outside microcontrollers"
+               ],
+               [
+                  "00:20:44,380 --> 00:20:46,227",
+                  "should be able to read"
+               ],
+               [
+                  "00:20:44,380 --> 00:20:46,227",
+                  "that and actually say,"
+               ],
+               [
+                  "00:20:49,360 --> 00:20:51,760",
+                  "and we should be able to"
+               ],
+               [
+                  "00:20:49,360 --> 00:20:51,760",
+                  "visibly or optically see it."
+               ],
+               [
+                  "00:20:51,760 --> 00:20:55,780",
+                  "What I'm wondering is could"
+               ],
+               [
+                  "00:20:51,760 --> 00:20:55,780",
+                  "that be a next area of research?"
+               ],
+               [
+                  "00:20:55,780 --> 00:20:57,210",
+                  "Because I don't think"
+               ],
+               [
+                  "00:20:55,780 --> 00:20:57,210",
+                  "anyone's actually looking at"
+               ],
+               [
+                  "00:20:57,210 --> 00:21:00,180",
+                  "intentionally injecting"
+               ],
+               [
+                  "00:20:57,210 --> 00:21:00,180",
+                  "high energy particles"
+               ],
+               [
+                  "00:21:00,180 --> 00:21:03,510",
+                  "to take over a computer,"
+               ],
+               [
+                  "00:21:00,180 --> 00:21:03,510",
+                  "when really, you know,"
+               ],
+               [
+                  "00:21:03,510 --> 00:21:05,650",
+                  "that's another technique"
+               ],
+               [
+                  "00:21:03,510 --> 00:21:05,650",
+                  "for fault injection,"
+               ],
+               [
+                  "00:21:05,650 --> 00:21:06,483",
+                  "technically speaking."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:21:13,210 --> 00:21:14,850",
+                  "- You mean flipping bits within flash?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:21:36,850 --> 00:21:37,850",
+                  "- I've never seen..."
+               ],
+               [
+                  "00:21:39,370 --> 00:21:42,040",
+                  "Maybe call it a verifiable"
+               ],
+               [
+                  "00:21:39,370 --> 00:21:42,040",
+                  "visualization of it, right?"
+               ],
+               [
+                  "00:21:42,040 --> 00:21:43,590",
+                  "We know it's true, you know,"
+               ],
+               [
+                  "00:21:43,590 --> 00:21:45,960",
+                  "you can get skin cancer by going outside"
+               ],
+               [
+                  "00:21:45,960 --> 00:21:48,973",
+                  "and having too many high"
+               ],
+               [
+                  "00:21:45,960 --> 00:21:48,973",
+                  "energy particles hit you,"
+               ],
+               [
+                  "00:21:49,990 --> 00:21:51,710",
+                  "but we've never seen it."
+               ],
+               [
+                  "00:21:51,710 --> 00:21:53,360",
+                  "And we know it can happen"
+               ],
+               [
+                  "00:21:51,710 --> 00:21:53,360",
+                  "to a computer chip,"
+               ],
+               [
+                  "00:21:53,360 --> 00:21:55,330",
+                  "but I've never seen both."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:22:37,970 --> 00:22:39,490",
+                  "- The thing is, even"
+               ],
+               [
+                  "00:22:37,970 --> 00:22:39,490",
+                  "if you know about that,"
+               ],
+               [
+                  "00:22:39,490 --> 00:22:40,590",
+                  "then there's so many others that"
+               ],
+               [
+                  "00:22:40,590 --> 00:22:42,180",
+                  "someone won't necessarily know about,"
+               ],
+               [
+                  "00:22:42,180 --> 00:22:44,082",
+                  "because there's so many, I guess,"
+               ],
+               [
+                  "00:22:44,082 --> 00:22:47,480",
+                  "potential areas for a fault to occur."
+               ],
+               [
+                  "00:22:47,480 --> 00:22:49,100",
+                  "Where do you think security is going"
+               ],
+               [
+                  "00:22:49,100 --> 00:22:50,147",
+                  "or new research is going?"
+               ],
+               [
+                  "00:22:50,147 --> 00:22:52,150",
+                  "Are there any new areas you think"
+               ],
+               [
+                  "00:22:52,150 --> 00:22:55,280",
+                  "are coming out or are going"
+               ],
+               [
+                  "00:22:52,150 --> 00:22:55,280",
+                  "to be more interesting,"
+               ],
+               [
+                  "00:22:55,280 --> 00:22:56,113",
+                  "you know, pretty soon?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:23:32,760 --> 00:23:34,840",
+                  "- For me, I think the"
+               ],
+               [
+                  "00:23:32,760 --> 00:23:34,840",
+                  "things that have been"
+               ],
+               [
+                  "00:23:34,840 --> 00:23:36,440",
+                  "recent and super interesting"
+               ],
+               [
+                  "00:23:36,440 --> 00:23:40,100",
+                  "are typically down to"
+               ],
+               [
+                  "00:23:36,440 --> 00:23:40,100",
+                  "physics-level effects"
+               ],
+               [
+                  "00:23:40,100 --> 00:23:41,586",
+                  "that maybe we haven't seen before."
+               ],
+               [
+                  "00:23:41,586 --> 00:23:44,160",
+                  "I think my mind was blown with the,"
+               ],
+               [
+                  "00:23:44,160 --> 00:23:45,820",
+                  "there was the light commands research,"
+               ],
+               [
+                  "00:23:45,820 --> 00:23:47,700",
+                  "and they were able to modulate sound,"
+               ],
+               [
+                  "00:23:47,700 --> 00:23:50,674",
+                  "although it's purely"
+               ],
+               [
+                  "00:23:47,700 --> 00:23:50,674",
+                  "over light using a laser,"
+               ],
+               [
+                  "00:23:50,674 --> 00:23:52,310",
+                  "they would hit the MEMS microphone,"
+               ],
+               [
+                  "00:23:52,310 --> 00:23:54,870",
+                  "and it was picking that up and"
+               ],
+               [
+                  "00:23:52,310 --> 00:23:54,870",
+                  "was able to then interpret it"
+               ],
+               [
+                  "00:23:54,870 --> 00:23:57,420",
+                  "and essentially take control over light."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:24:51,150 --> 00:24:52,330",
+                  "- It's the easier side."
+               ],
+               [
+                  "00:24:52,330 --> 00:24:55,480",
+                  "I would say my side is"
+               ],
+               [
+                  "00:24:52,330 --> 00:24:55,480",
+                  "the easier side, right?"
+               ],
+               [
+                  "00:24:55,480 --> 00:24:58,240",
+                  "I'm on the offensive side."
+               ],
+               [
+                  "00:24:55,480 --> 00:24:58,240",
+                  "I want to break into things."
+               ],
+               [
+                  "00:24:58,240 --> 00:25:00,120",
+                  "Someone on the defense side,"
+               ],
+               [
+                  "00:25:00,120 --> 00:25:02,070",
+                  "they might have, you know,"
+               ],
+               [
+                  "00:25:00,120 --> 00:25:02,070",
+                  "a system was developed"
+               ],
+               [
+                  "00:25:02,070 --> 00:25:04,640",
+                  "and they now need to"
+               ],
+               [
+                  "00:25:02,070 --> 00:25:04,640",
+                  "patch a hundred holes."
+               ],
+               [
+                  "00:25:04,640 --> 00:25:06,968",
+                  "They patch 99 of them. I"
+               ],
+               [
+                  "00:25:04,640 --> 00:25:06,968",
+                  "only need to find that one."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:25:09,140 --> 00:25:10,390",
+                  "- Yeah, only when you get caught."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:25:10,390 --> 00:25:12,040",
+                  "I hope you learned"
+               ],
+               [
+                  "00:25:10,390 --> 00:25:12,040",
+                  "something about hacking."
+               ],
+               [
+                  "00:25:12,040 --> 00:25:14,290",
+                  "Maybe next time a system behaves in a way"
+               ],
+               [
+                  "00:25:14,290 --> 00:25:16,920",
+                  "that you weren't expecting, you"
+               ],
+               [
+                  "00:25:14,290 --> 00:25:16,920",
+                  "might just be curious enough"
+               ],
+               [
+                  "00:25:16,920 --> 00:25:18,560",
+                  "to try to understand why."
+               ],
+               [
+                  "00:25:18,560 --> 00:25:21,513",
+                  "Thanks for watching."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ?t=28",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:00:31,950 --> 00:00:33,040",
+                  "- It's bad."
+               ],
+               [
+                  "00:00:33,040 --> 00:00:35,180",
+                  "Like, I'm going into someone's"
+               ],
+               [
+                  "00:00:35,180 --> 00:00:36,900",
+                  "personal account or account,"
+               ],
+               [
+                  "00:00:36,900 --> 00:00:40,620",
+                  "changing some stuff or just"
+               ],
+               [
+                  "00:00:36,900 --> 00:00:40,620",
+                  "stealing some information"
+               ],
+               [
+                  "00:00:40,620 --> 00:00:41,540",
+                  "or your money."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:00:58,630 --> 00:01:00,384",
+                  "- Do they, like, return the money?"
+               ],
+               [
+                  "00:01:00,384 --> 00:01:02,693",
+                  "Like, give them their money"
+               ],
+               [
+                  "00:01:00,384 --> 00:01:02,693",
+                  "or something like that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:01:07,830 --> 00:01:10,700",
+                  "- So they put like a protection"
+               ],
+               [
+                  "00:01:07,830 --> 00:01:10,700",
+                  "account or something."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:01:34,430 --> 00:01:37,110",
+                  "- What would they do about the"
+               ],
+               [
+                  "00:01:34,430 --> 00:01:37,110",
+                  "people and the broken lock?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:01:45,670 --> 00:01:48,230",
+                  "- But like, they may get arrested"
+               ],
+               [
+                  "00:01:48,230 --> 00:01:50,000",
+                  "because they might get mistaken."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:02:21,260 --> 00:02:23,392",
+                  "- When did you start doing,"
+               ],
+               [
+                  "00:02:21,260 --> 00:02:23,392",
+                  "like, the good hacking?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:02:25,670 --> 00:02:27,570",
+                  "- Wow."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:02:39,690 --> 00:02:41,740",
+                  "- But that would be kinda bad,"
+               ],
+               [
+                  "00:02:41,740 --> 00:02:44,110",
+                  "because maybe the creator"
+               ],
+               [
+                  "00:02:41,740 --> 00:02:44,110",
+                  "did it for a reason."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:02:52,448 --> 00:02:53,281",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:03:10,540 --> 00:03:12,340",
+                  "- Did your parents approve of it?"
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ?t=199",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:03:23,690 --> 00:03:25,340",
+                  "- I like to play coding games,"
+               ],
+               [
+                  "00:03:25,340 --> 00:03:28,220",
+                  "and I like to go on"
+               ],
+               [
+                  "00:03:25,340 --> 00:03:28,220",
+                  "code.org, and they have"
+               ],
+               [
+                  "00:03:28,220 --> 00:03:30,820",
+                  "a variety of games for different ages."
+               ],
+               [
+                  "00:03:30,820 --> 00:03:32,830",
+                  "So like, I really like to do that."
+               ],
+               [
+                  "00:03:32,830 --> 00:03:34,800",
+                  "For example, like the game Flappy Bird,"
+               ],
+               [
+                  "00:03:34,800 --> 00:03:36,630",
+                  "it's like puzzle pieces,"
+               ],
+               [
+                  "00:03:34,800 --> 00:03:36,630",
+                  "so they would tell you"
+               ],
+               [
+                  "00:03:36,630 --> 00:03:40,280",
+                  "to connect something and"
+               ],
+               [
+                  "00:03:36,630 --> 00:03:40,280",
+                  "then you would play the game"
+               ],
+               [
+                  "00:03:40,280 --> 00:03:42,477",
+                  "and then you could see what you connected."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:03:47,710 --> 00:03:48,543",
+                  "- [Linda] Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:03:50,730 --> 00:03:53,550",
+                  "- I don't really know much"
+               ],
+               [
+                  "00:03:50,730 --> 00:03:53,550",
+                  "about computer hacking actually."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:04:01,410 --> 00:04:02,750",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:04:24,270 --> 00:04:25,160",
+                  "- [Linda] Space bar."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:04:40,470 --> 00:04:41,303",
+                  "- Camera."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:04:55,010 --> 00:04:57,400",
+                  "- What inputs would you"
+               ],
+               [
+                  "00:04:55,010 --> 00:04:57,400",
+                  "normally use to hack?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:05:29,120 --> 00:05:30,920",
+                  "- How long does it take to get in?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:05:40,423 --> 00:05:42,920",
+                  "- I think hacking is"
+               ],
+               [
+                  "00:05:40,423 --> 00:05:42,920",
+                  "actually really interesting."
+               ],
+               [
+                  "00:05:42,920 --> 00:05:44,680",
+                  "There's different languages to hack in."
+               ],
+               [
+                  "00:05:44,680 --> 00:05:48,050",
+                  "I've also learned that a lot"
+               ],
+               [
+                  "00:05:44,680 --> 00:05:48,050",
+                  "of things could be hacked"
+               ],
+               [
+                  "00:05:48,050 --> 00:05:50,661",
+                  "that you don't necessarily"
+               ],
+               [
+                  "00:05:48,050 --> 00:05:50,661",
+                  "think that can be hacked."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ?t=352",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:05:54,760 --> 00:05:57,490",
+                  "- I started this year,"
+               ],
+               [
+                  "00:05:54,760 --> 00:05:57,490",
+                  "I took my first course,"
+               ],
+               [
+                  "00:05:57,490 --> 00:06:00,130",
+                  "so haven't gone too deep into it,"
+               ],
+               [
+                  "00:06:00,130 --> 00:06:02,372",
+                  "but we got a basic idea of, like,"
+               ],
+               [
+                  "00:06:02,372 --> 00:06:05,210",
+                  "basics of information"
+               ],
+               [
+                  "00:06:02,372 --> 00:06:05,210",
+                  "and network security."
+               ],
+               [
+                  "00:06:05,210 --> 00:06:07,470",
+                  "We learned about how networks are set up,"
+               ],
+               [
+                  "00:06:07,470 --> 00:06:10,870",
+                  "like the different types of"
+               ],
+               [
+                  "00:06:07,470 --> 00:06:10,870",
+                  "topologies, like Star and Mesh,"
+               ],
+               [
+                  "00:06:10,870 --> 00:06:13,265",
+                  "and also how networks are designed"
+               ],
+               [
+                  "00:06:13,265 --> 00:06:15,800",
+                  "with different levels of security."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:06:22,530 --> 00:06:24,120",
+                  "- Yes, I heard about that."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:07:08,640 --> 00:07:10,340",
+                  "- I've heard about similar attacks"
+               ],
+               [
+                  "00:07:10,340 --> 00:07:13,010",
+                  "in hospitals using hospital equipment,"
+               ],
+               [
+                  "00:07:13,010 --> 00:07:16,356",
+                  "but I'm surprised that something"
+               ],
+               [
+                  "00:07:13,010 --> 00:07:16,356",
+                  "as simple as a meat scale"
+               ],
+               [
+                  "00:07:16,356 --> 00:07:18,550",
+                  "would have been used in such an attack."
+               ],
+               [
+                  "00:07:18,550 --> 00:07:21,410",
+                  "We discussed it in class"
+               ],
+               [
+                  "00:07:18,550 --> 00:07:21,410",
+                  "as how hackers look at"
+               ],
+               [
+                  "00:07:21,410 --> 00:07:24,170",
+                  "some of the weakest links"
+               ],
+               [
+                  "00:07:21,410 --> 00:07:24,170",
+                  "in these large networks"
+               ],
+               [
+                  "00:07:24,170 --> 00:07:27,520",
+                  "and use those to tap into networks."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:08:07,010 --> 00:08:09,070",
+                  "- No, I am not familiar with that."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:08:36,150 --> 00:08:36,982",
+                  "- In that case,"
+               ],
+               [
+                  "00:08:36,982 --> 00:08:40,399",
+                  "it would be an error for"
+               ],
+               [
+                  "00:08:36,982 --> 00:08:40,399",
+                  "accessing invalid memory."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:08:42,505 --> 00:08:44,388",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:09:45,140 --> 00:09:49,712",
+                  "- So how does the buffer overloading"
+               ],
+               [
+                  "00:09:49,712 --> 00:09:52,820",
+                  "relate to what you are doing in terms of"
+               ],
+               [
+                  "00:09:52,820 --> 00:09:55,920",
+                  "network security or designing software"
+               ],
+               [
+                  "00:09:55,920 --> 00:09:57,890",
+                  "for penetration testing?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:10:44,010 --> 00:10:45,853",
+                  "- I got interested in cybersecurity"
+               ],
+               [
+                  "00:10:45,853 --> 00:10:49,682",
+                  "because I'm really into global"
+               ],
+               [
+                  "00:10:45,853 --> 00:10:49,682",
+                  "affairs, global politics,"
+               ],
+               [
+                  "00:10:49,682 --> 00:10:52,080",
+                  "and you often hear in the news about"
+               ],
+               [
+                  "00:10:52,080 --> 00:10:57,080",
+                  "the rising power of China,"
+               ],
+               [
+                  "00:10:52,080 --> 00:10:57,080",
+                  "the rising power of Iran."
+               ],
+               [
+                  "00:10:57,504 --> 00:11:01,300",
+                  "I enjoy how interdisciplinary"
+               ],
+               [
+                  "00:10:57,504 --> 00:11:01,300",
+                  "computer science is."
+               ],
+               [
+                  "00:11:01,300 --> 00:11:03,499",
+                  "Like, nowadays there's so much going on"
+               ],
+               [
+                  "00:11:03,499 --> 00:11:07,520",
+                  "in the world of computers and"
+               ],
+               [
+                  "00:11:03,499 --> 00:11:07,520",
+                  "that's what fascinated me."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:11:40,830 --> 00:11:42,670",
+                  "- There are a lot of ethical questions"
+               ],
+               [
+                  "00:11:42,670 --> 00:11:45,790",
+                  "about whether we should be"
+               ],
+               [
+                  "00:11:42,670 --> 00:11:45,790",
+                  "intervening in other countries,"
+               ],
+               [
+                  "00:11:45,790 --> 00:11:47,840",
+                  "but it's pretty interesting that"
+               ],
+               [
+                  "00:11:47,840 --> 00:11:49,420",
+                  "two different agencies of the government"
+               ],
+               [
+                  "00:11:49,420 --> 00:11:52,600",
+                  "are actually working on"
+               ],
+               [
+                  "00:11:49,420 --> 00:11:52,600",
+                  "contrasting technology."
+               ],
+               [
+                  "00:11:52,600 --> 00:11:54,900",
+                  "I can actually understand that because"
+               ],
+               [
+                  "00:11:54,900 --> 00:11:56,580",
+                  "if we are creating a technology"
+               ],
+               [
+                  "00:11:56,580 --> 00:11:58,160",
+                  "that we are going to"
+               ],
+               [
+                  "00:11:56,580 --> 00:11:58,160",
+                  "deploy somewhere else,"
+               ],
+               [
+                  "00:11:58,160 --> 00:12:00,070",
+                  "we should know its limitations."
+               ],
+               [
+                  "00:12:00,070 --> 00:12:01,610",
+                  "We should know how to control it."
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ?t=738",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:12:21,493 --> 00:12:23,240",
+                  "- This is the end of my first year."
+               ],
+               [
+                  "00:12:23,240 --> 00:12:26,320",
+                  "I'm a PhD student at NYU"
+               ],
+               [
+                  "00:12:23,240 --> 00:12:26,320",
+                  "Tandon School of Engineering."
+               ],
+               [
+                  "00:12:26,320 --> 00:12:29,780",
+                  "I'm studying security systems"
+               ],
+               [
+                  "00:12:26,320 --> 00:12:29,780",
+                  "and operating systems."
+               ],
+               [
+                  "00:12:29,780 --> 00:12:31,420",
+                  "So, security for operating systems."
+               ],
+               [
+                  "00:12:31,420 --> 00:12:33,650",
+                  "I've been mostly working on a project"
+               ],
+               [
+                  "00:12:33,650 --> 00:12:38,650",
+                  "that limits executables'"
+               ],
+               [
+                  "00:12:33,650 --> 00:12:38,650",
+                  "exposure to bugs in the kernel."
+               ],
+               [
+                  "00:12:38,840 --> 00:12:41,130",
+                  "It's run by professor Justin Cappos there."
+               ],
+               [
+                  "00:12:41,130 --> 00:12:43,630",
+                  "He found that the majority of bugs"
+               ],
+               [
+                  "00:12:43,630 --> 00:12:45,212",
+                  "that occur in the Linux kernel"
+               ],
+               [
+                  "00:12:45,212 --> 00:12:47,990",
+                  "happen when you're doing things that"
+               ],
+               [
+                  "00:12:47,990 --> 00:12:49,660",
+                  "people don't do that often,"
+               ],
+               [
+                  "00:12:49,660 --> 00:12:51,020",
+                  "the programs don't do that often."
+               ],
+               [
+                  "00:12:51,020 --> 00:12:54,807",
+                  "So designing a runtime"
+               ],
+               [
+                  "00:12:51,020 --> 00:12:54,807",
+                  "environment that lets you"
+               ],
+               [
+                  "00:12:54,807 --> 00:12:59,340",
+                  "limit what a certain"
+               ],
+               [
+                  "00:12:54,807 --> 00:12:59,340",
+                  "program has access to,"
+               ],
+               [
+                  "00:12:59,340 --> 00:13:02,030",
+                  "but also the things that"
+               ],
+               [
+                  "00:12:59,340 --> 00:13:02,030",
+                  "it does have access to"
+               ],
+               [
+                  "00:13:02,030 --> 00:13:04,720",
+                  "is also limited to those"
+               ],
+               [
+                  "00:13:02,030 --> 00:13:04,720",
+                  "popular paths in the kernel."
+               ],
+               [
+                  "00:13:04,720 --> 00:13:09,720",
+                  "So it can't access areas that"
+               ],
+               [
+                  "00:13:04,720 --> 00:13:09,720",
+                  "aren't under more scrutiny."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:13:16,940 --> 00:13:20,220",
+                  "- Basically, we're creating a"
+               ],
+               [
+                  "00:13:16,940 --> 00:13:20,220",
+                  "user space operating system."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:13:22,110 --> 00:13:22,943",
+                  "- Like, a little bit."
+               ],
+               [
+                  "00:13:22,943 --> 00:13:26,030",
+                  "I read the Rowhammer paper."
+               ],
+               [
+                  "00:13:26,030 --> 00:13:26,863",
+                  "I found it really interesting,"
+               ],
+               [
+                  "00:13:26,863 --> 00:13:28,830",
+                  "but it's nothing that"
+               ],
+               [
+                  "00:13:26,863 --> 00:13:28,830",
+                  "I've actually worked with."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:14:22,030 --> 00:14:23,953",
+                  "- So all memory devices are just,"
+               ],
+               [
+                  "00:14:23,953 --> 00:14:27,832",
+                  "it's just a bunch of"
+               ],
+               [
+                  "00:14:23,953 --> 00:14:27,832",
+                  "gates and they're in rows."
+               ],
+               [
+                  "00:14:27,832 --> 00:14:31,660",
+                  "They basically all hold"
+               ],
+               [
+                  "00:14:27,832 --> 00:14:31,660",
+                  "different pieces of memory."
+               ],
+               [
+                  "00:14:31,660 --> 00:14:33,050",
+                  "That's all the gates are."
+               ],
+               [
+                  "00:14:33,050 --> 00:14:34,890",
+                  "Either they're turned on"
+               ],
+               [
+                  "00:14:33,050 --> 00:14:34,890",
+                  "or they're turned off."
+               ],
+               [
+                  "00:14:34,890 --> 00:14:36,550",
+                  "So what Rowhammer found was they tested"
+               ],
+               [
+                  "00:14:36,550 --> 00:14:39,630",
+                  "a bunch of different memory"
+               ],
+               [
+                  "00:14:36,550 --> 00:14:39,630",
+                  "devices and found that"
+               ],
+               [
+                  "00:14:39,630 --> 00:14:42,870",
+                  "by doing a certain"
+               ],
+               [
+                  "00:14:39,630 --> 00:14:42,870",
+                  "order of storing things,"
+               ],
+               [
+                  "00:14:42,870 --> 00:14:47,130",
+                  "and then pulling that"
+               ],
+               [
+                  "00:14:42,870 --> 00:14:47,130",
+                  "information back in a certain way"
+               ],
+               [
+                  "00:14:47,130 --> 00:14:51,725",
+                  "in one place would actually"
+               ],
+               [
+                  "00:14:47,130 --> 00:14:51,725",
+                  "flip gates in a different place."
+               ],
+               [
+                  "00:14:51,725 --> 00:14:54,830",
+                  "So you could actually do a bunch of things"
+               ],
+               [
+                  "00:14:54,830 --> 00:14:57,171",
+                  "to a piece of memory that"
+               ],
+               [
+                  "00:14:54,830 --> 00:14:57,171",
+                  "had nothing to do with"
+               ],
+               [
+                  "00:14:57,171 --> 00:14:59,750",
+                  "something that may be"
+               ],
+               [
+                  "00:14:57,171 --> 00:14:59,750",
+                  "critical in a different place"
+               ],
+               [
+                  "00:14:59,750 --> 00:15:01,683",
+                  "and actually change its contents,"
+               ],
+               [
+                  "00:15:01,683 --> 00:15:04,403",
+                  "and that obviously exposes"
+               ],
+               [
+                  "00:15:01,683 --> 00:15:04,403",
+                  "all sorts of security issues,"
+               ],
+               [
+                  "00:15:04,403 --> 00:15:07,310",
+                  "because that's very hard to predict."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:16:07,561 --> 00:16:10,087",
+                  "- I've spent a decent amount"
+               ],
+               [
+                  "00:16:07,561 --> 00:16:10,087",
+                  "of time with this stuff,"
+               ],
+               [
+                  "00:16:10,087 --> 00:16:13,130",
+                  "and in my mind, a lot"
+               ],
+               [
+                  "00:16:10,087 --> 00:16:13,130",
+                  "of that is a nightmare."
+               ],
+               [
+                  "00:16:13,130 --> 00:16:14,970",
+                  "Over the last year while I"
+               ],
+               [
+                  "00:16:13,130 --> 00:16:14,970",
+                  "was doing some other stuff,"
+               ],
+               [
+                  "00:16:14,970 --> 00:16:17,248",
+                  "I actually designed some"
+               ],
+               [
+                  "00:16:14,970 --> 00:16:17,248",
+                  "microcontroller boards"
+               ],
+               [
+                  "00:16:17,248 --> 00:16:19,000",
+                  "for a company that was doing stuff with,"
+               ],
+               [
+                  "00:16:19,000 --> 00:16:20,890",
+                  "like, a smart watering project."
+               ],
+               [
+                  "00:16:20,890 --> 00:16:23,467",
+                  "The problems with updating is just, like,"
+               ],
+               [
+                  "00:16:23,467 --> 00:16:25,534",
+                  "that scares me the most."
+               ],
+               [
+                  "00:16:25,534 --> 00:16:28,280",
+                  "Like, people don't update their own stuff,"
+               ],
+               [
+                  "00:16:28,280 --> 00:16:30,140",
+                  "let alone these, like, devices."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:16:31,610 --> 00:16:33,480",
+                  "- I find myself trying to shy away"
+               ],
+               [
+                  "00:16:33,480 --> 00:16:36,470",
+                  "from owning like smart things."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:16:40,150 --> 00:16:41,900",
+                  "- Yeah, I mean, there's"
+               ],
+               [
+                  "00:16:40,150 --> 00:16:41,900",
+                  "obviously essentials,"
+               ],
+               [
+                  "00:16:41,900 --> 00:16:42,750",
+                  "but yeah, no matter what,"
+               ],
+               [
+                  "00:16:42,750 --> 00:16:44,920",
+                  "you can't really avoid any of this."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:17:11,810 --> 00:17:12,643",
+                  "- Oh yeah, for sure."
+               ],
+               [
+                  "00:17:12,643 --> 00:17:14,140",
+                  "When people find vulnerabilities,"
+               ],
+               [
+                  "00:17:14,140 --> 00:17:16,950",
+                  "I think it's their duty to"
+               ],
+               [
+                  "00:17:14,140 --> 00:17:16,950",
+                  "release those to the public."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:17:26,720 --> 00:17:28,061",
+                  "- Yeah, I think that's nuts."
+               ],
+               [
+                  "00:17:28,061 --> 00:17:30,467",
+                  "I'm firmly against that for sure."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:17:44,220 --> 00:17:46,824",
+                  "- I don't know, probably, yeah."
+               ],
+               [
+                  "00:17:46,824 --> 00:17:48,763",
+                  "[laughing]"
+               ],
+               [
+                  "00:17:48,763 --> 00:17:51,110",
+                  "I don't think that's hurting anyone,"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:18:00,750 --> 00:18:01,583",
+                  "- Yeah."
+               ],
+               [
+                  "00:18:01,583 --> 00:18:03,950",
+                  "I think we see every day"
+               ],
+               [
+                  "00:18:01,583 --> 00:18:03,950",
+                  "that ethics and the laws"
+               ],
+               [
+                  "00:18:03,950 --> 00:18:06,182",
+                  "aren't necessarily the"
+               ],
+               [
+                  "00:18:03,950 --> 00:18:06,182",
+                  "same thing all the time."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/d9PqVcgT1kQ?t=1087",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-hacker-explains-one-concept-in-5-levels-of-difficulty",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:18:12,710 --> 00:18:13,930",
+                  "- Hi, I'm Colin O'Flynn."
+               ],
+               [
+                  "00:18:13,930 --> 00:18:16,370",
+                  "I live in Halifax, Nova Scotia, Canada."
+               ],
+               [
+                  "00:18:16,370 --> 00:18:18,676",
+                  "I do hardware hacking both in academia"
+               ],
+               [
+                  "00:18:18,676 --> 00:18:20,490",
+                  "at Dalhousie University,"
+               ],
+               [
+                  "00:18:20,490 --> 00:18:23,170",
+                  "and in industry at my"
+               ],
+               [
+                  "00:18:20,490 --> 00:18:23,170",
+                  "startup, NewAE Technology."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:18:25,530 --> 00:18:27,640",
+                  "- Lately I've been doing, you know,"
+               ],
+               [
+                  "00:18:27,640 --> 00:18:29,580",
+                  "always a little bit of"
+               ],
+               [
+                  "00:18:27,640 --> 00:18:29,580",
+                  "side channel analysis."
+               ],
+               [
+                  "00:18:29,580 --> 00:18:31,920",
+                  "So what I really do, you"
+               ],
+               [
+                  "00:18:29,580 --> 00:18:31,920",
+                  "know, is all hardware layer."
+               ],
+               [
+                  "00:18:31,920 --> 00:18:33,850",
+                  "So I've been looking, you know,"
+               ],
+               [
+                  "00:18:33,850 --> 00:18:35,740",
+                  "at some various devices lately,"
+               ],
+               [
+                  "00:18:35,740 --> 00:18:38,150",
+                  "at how susceptible they"
+               ],
+               [
+                  "00:18:35,740 --> 00:18:38,150",
+                  "are to fault attacks,"
+               ],
+               [
+                  "00:18:38,150 --> 00:18:40,930",
+                  "what that sort of means in real life."
+               ],
+               [
+                  "00:18:40,930 --> 00:18:43,430",
+                  "You know, not just"
+               ],
+               [
+                  "00:18:40,930 --> 00:18:43,430",
+                  "purely the research side,"
+               ],
+               [
+                  "00:18:43,430 --> 00:18:46,130",
+                  "but also how much should"
+               ],
+               [
+                  "00:18:43,430 --> 00:18:46,130",
+                  "you care about it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:19:21,180 --> 00:19:23,410",
+                  "- One of them was looking at, like,"
+               ],
+               [
+                  "00:19:23,410 --> 00:19:25,652",
+                  "a little hardware Bitcoin wallet,"
+               ],
+               [
+                  "00:19:25,652 --> 00:19:26,880",
+                  "and you could use fault injection"
+               ],
+               [
+                  "00:19:26,880 --> 00:19:28,770",
+                  "to actually recover secrets from it,"
+               ],
+               [
+                  "00:19:28,770 --> 00:19:30,340",
+                  "and a lot of devices."
+               ],
+               [
+                  "00:19:30,340 --> 00:19:32,964",
+                  "I mean, the whole idea"
+               ],
+               [
+                  "00:19:30,340 --> 00:19:32,964",
+                  "is pretty cool, right?"
+               ],
+               [
+                  "00:19:32,964 --> 00:19:34,923",
+                  "Because you tell the device,"
+               ],
+               [
+                  "00:19:32,964 --> 00:19:34,923",
+                  "Hey, I want to authenticate,"
+               ],
+               [
+                  "00:19:34,923 --> 00:19:36,660",
+                  "and it's supposed to run"
+               ],
+               [
+                  "00:19:36,660 --> 00:19:39,530",
+                  "some really crazy math"
+               ],
+               [
+                  "00:19:36,660 --> 00:19:39,530",
+                  "that authenticates it,"
+               ],
+               [
+                  "00:19:39,530 --> 00:19:42,540",
+                  "but instead of doing that crazy"
+               ],
+               [
+                  "00:19:39,530 --> 00:19:42,540",
+                  "math and attacking the math,"
+               ],
+               [
+                  "00:19:42,540 --> 00:19:44,430",
+                  "you just attack the check at the end."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:21:06,483 --> 00:21:08,100",
+                  "- This was actually tied"
+               ],
+               [
+                  "00:21:06,483 --> 00:21:08,100",
+                  "into something recently"
+               ],
+               [
+                  "00:21:08,100 --> 00:21:10,460",
+                  "I was looking at, which was, you know,"
+               ],
+               [
+                  "00:21:10,460 --> 00:21:13,210",
+                  "flipping flash and EPROM memory."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:21:14,850 --> 00:21:15,683",
+                  "- Yeah, exactly, right."
+               ],
+               [
+                  "00:21:15,683 --> 00:21:17,487",
+                  "So flipping it in this"
+               ],
+               [
+                  "00:21:15,683 --> 00:21:17,487",
+                  "sort of flash memory."
+               ],
+               [
+                  "00:21:17,487 --> 00:21:18,910",
+                  "And so someone's done it with x-rays."
+               ],
+               [
+                  "00:21:18,910 --> 00:21:20,610",
+                  "There's actually, I forget who now."
+               ],
+               [
+                  "00:21:20,610 --> 00:21:22,210",
+                  "There's a paper, at least one,"
+               ],
+               [
+                  "00:21:22,210 --> 00:21:24,070",
+                  "and it's just like a"
+               ],
+               [
+                  "00:21:22,210 --> 00:21:24,070",
+                  "little plate they make"
+               ],
+               [
+                  "00:21:24,070 --> 00:21:26,940",
+                  "with like a hole in it to"
+               ],
+               [
+                  "00:21:24,070 --> 00:21:26,940",
+                  "concentrate the x-ray source"
+               ],
+               [
+                  "00:21:26,940 --> 00:21:31,510",
+                  "and it works, so yeah,"
+               ],
+               [
+                  "00:21:26,940 --> 00:21:31,510",
+                  "it's super interesting."
+               ],
+               [
+                  "00:21:31,510 --> 00:21:33,300",
+                  "Like, one bit in memory means a lot,"
+               ],
+               [
+                  "00:21:33,300 --> 00:21:35,120",
+                  "especially in the flash memory side."
+               ],
+               [
+                  "00:21:35,120 --> 00:21:36,850",
+                  "Yeah, visualizing it would be cool though."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:21:55,330 --> 00:21:56,740",
+                  "- Yeah, so actually, so"
+               ],
+               [
+                  "00:21:55,330 --> 00:21:56,740",
+                  "it's funny you mentioned,"
+               ],
+               [
+                  "00:21:56,740 --> 00:21:59,653",
+                  "like, making it more obvious."
+               ],
+               [
+                  "00:22:01,280 --> 00:22:02,760",
+                  "I mean, staying on fault"
+               ],
+               [
+                  "00:22:01,280 --> 00:22:02,760",
+                  "injection right now,"
+               ],
+               [
+                  "00:22:02,760 --> 00:22:04,150",
+                  "this is lately what I've been up to."
+               ],
+               [
+                  "00:22:04,150 --> 00:22:07,170",
+                  "A lot of making a little"
+               ],
+               [
+                  "00:22:04,150 --> 00:22:07,170",
+                  "kind of, you know,"
+               ],
+               [
+                  "00:22:07,170 --> 00:22:08,407",
+                  "like electronics kits of old, right?"
+               ],
+               [
+                  "00:22:08,407 --> 00:22:11,630",
+                  "And you can assemble it all"
+               ],
+               [
+                  "00:22:08,407 --> 00:22:11,630",
+                  "yourself and see how it works."
+               ],
+               [
+                  "00:22:11,630 --> 00:22:13,470",
+                  "So making something like"
+               ],
+               [
+                  "00:22:11,630 --> 00:22:13,470",
+                  "that for fault injection."
+               ],
+               [
+                  "00:22:13,470 --> 00:22:16,230",
+                  "So all kind of older"
+               ],
+               [
+                  "00:22:13,470 --> 00:22:16,230",
+                  "logic and stuff like that."
+               ],
+               [
+                  "00:22:16,230 --> 00:22:18,520",
+                  "So, I mean, it's sort of based on, like,"
+               ],
+               [
+                  "00:22:18,520 --> 00:22:20,610",
+                  "you're presented the little MUX chip."
+               ],
+               [
+                  "00:22:20,610 --> 00:22:22,040",
+                  "You know, voltage switcher."
+               ],
+               [
+                  "00:22:22,040 --> 00:22:25,030",
+                  "That sort of idea, using"
+               ],
+               [
+                  "00:22:22,040 --> 00:22:25,030",
+                  "just discreet logic"
+               ],
+               [
+                  "00:22:25,030 --> 00:22:28,730",
+                  "to generate the actual glitch itself."
+               ],
+               [
+                  "00:22:28,730 --> 00:22:31,600",
+                  "So, but you know, it's part"
+               ],
+               [
+                  "00:22:28,730 --> 00:22:31,600",
+                  "of, I think, this stuff, right?"
+               ],
+               [
+                  "00:22:31,600 --> 00:22:33,790",
+                  "It's like people don't"
+               ],
+               [
+                  "00:22:31,600 --> 00:22:33,790",
+                  "know about it sometimes."
+               ],
+               [
+                  "00:22:33,790 --> 00:22:36,020",
+                  "Like, even engineers designing systems."
+               ],
+               [
+                  "00:22:36,020 --> 00:22:37,970",
+                  "It's new to a lot of people."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:22:56,113 --> 00:22:58,380",
+                  "- Fault injection has"
+               ],
+               [
+                  "00:22:56,113 --> 00:22:58,380",
+                  "become pretty interesting."
+               ],
+               [
+                  "00:22:58,380 --> 00:23:00,802",
+                  "Like, there's been a lot"
+               ],
+               [
+                  "00:22:58,380 --> 00:23:00,802",
+                  "of people poking at that,"
+               ],
+               [
+                  "00:23:00,802 --> 00:23:04,193",
+                  "and I think a lot more"
+               ],
+               [
+                  "00:23:00,802 --> 00:23:04,193",
+                  "products of interest."
+               ],
+               [
+                  "00:23:05,140 --> 00:23:08,330",
+                  "Side channel still might"
+               ],
+               [
+                  "00:23:05,140 --> 00:23:08,330",
+                  "have a bit of a comeback."
+               ],
+               [
+                  "00:23:08,330 --> 00:23:09,350",
+                  "Basically, what I kind of see is"
+               ],
+               [
+                  "00:23:09,350 --> 00:23:12,550",
+                  "a lot of the really cool"
+               ],
+               [
+                  "00:23:09,350 --> 00:23:12,550",
+                  "stuff has been in academia"
+               ],
+               [
+                  "00:23:12,550 --> 00:23:15,340",
+                  "because product security"
+               ],
+               [
+                  "00:23:12,550 --> 00:23:15,340",
+                  "hasn't kept up, right?"
+               ],
+               [
+                  "00:23:15,340 --> 00:23:17,317",
+                  "For the longest time, doing"
+               ],
+               [
+                  "00:23:15,340 --> 00:23:17,317",
+                  "these attacks on hardware"
+               ],
+               [
+                  "00:23:17,317 --> 00:23:19,210",
+                  "was pretty straightforward."
+               ],
+               [
+                  "00:23:19,210 --> 00:23:21,047",
+                  "You didn't need these crazy attacks."
+               ],
+               [
+                  "00:23:21,047 --> 00:23:24,250",
+                  "It looks like a lot of"
+               ],
+               [
+                  "00:23:21,047 --> 00:23:24,250",
+                  "devices are coming out now"
+               ],
+               [
+                  "00:23:24,250 --> 00:23:27,990",
+                  "that actually have real"
+               ],
+               [
+                  "00:23:24,250 --> 00:23:27,990",
+                  "claims to security, right?"
+               ],
+               [
+                  "00:23:27,990 --> 00:23:31,490",
+                  "More than just a data sheet mentioned."
+               ],
+               [
+                  "00:23:31,490 --> 00:23:32,760",
+                  "There's actually something behind it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:23:57,420 --> 00:24:00,293",
+                  "- I'm curious of the backstory"
+               ],
+               [
+                  "00:23:57,420 --> 00:24:00,293",
+                  "to how they found that."
+               ],
+               [
+                  "00:24:01,293 --> 00:24:02,330",
+                  "Because if you told me that, right?"
+               ],
+               [
+                  "00:24:02,330 --> 00:24:04,270",
+                  "So you said like, \"Hey, Colin,"
+               ],
+               [
+                  "00:24:02,330 --> 00:24:04,270",
+                  "you should test this out.\""
+               ],
+               [
+                  "00:24:04,270 --> 00:24:06,850",
+                  "I probably would be like, \"It"
+               ],
+               [
+                  "00:24:04,270 --> 00:24:06,850",
+                  "probably won't even work.\""
+               ],
+               [
+                  "00:24:06,850 --> 00:24:08,590",
+                  "Which is like a lot of side channels."
+               ],
+               [
+                  "00:24:08,590 --> 00:24:10,740",
+                  "When I first heard about it, you know,"
+               ],
+               [
+                  "00:24:10,740 --> 00:24:12,633",
+                  "working, doing firmware"
+               ],
+               [
+                  "00:24:10,740 --> 00:24:12,633",
+                  "stuff, it was like,"
+               ],
+               [
+                  "00:24:15,730 --> 00:24:17,460",
+                  "You know, the whole area"
+               ],
+               [
+                  "00:24:15,730 --> 00:24:17,460",
+                  "of hardware hacking,"
+               ],
+               [
+                  "00:24:17,460 --> 00:24:19,590",
+                  "it feels kinda like cheating"
+               ],
+               [
+                  "00:24:17,460 --> 00:24:19,590",
+                  "because, you know, as you said,"
+               ],
+               [
+                  "00:24:19,590 --> 00:24:21,580",
+                  "someone designing the"
+               ],
+               [
+                  "00:24:19,590 --> 00:24:21,580",
+                  "system needs to know about"
+               ],
+               [
+                  "00:24:21,580 --> 00:24:22,840",
+                  "so many different ways, right?"
+               ],
+               [
+                  "00:24:22,840 --> 00:24:25,090",
+                  "So there's so many ways"
+               ],
+               [
+                  "00:24:22,840 --> 00:24:25,090",
+                  "to break the system,"
+               ],
+               [
+                  "00:24:25,090 --> 00:24:27,410",
+                  "and if you're designing them,"
+               ],
+               [
+                  "00:24:25,090 --> 00:24:27,410",
+                  "you need to know all of them,"
+               ],
+               [
+                  "00:24:27,410 --> 00:24:28,360",
+                  "but when you're attacking it,"
+               ],
+               [
+                  "00:24:28,360 --> 00:24:29,790",
+                  "you really need to know one, right?"
+               ],
+               [
+                  "00:24:29,790 --> 00:24:31,930",
+                  "So I can know nothing about, like,"
+               ],
+               [
+                  "00:24:31,930 --> 00:24:34,550",
+                  "how does ECC actually work?"
+               ],
+               [
+                  "00:24:34,550 --> 00:24:36,070",
+                  "You know, I have some vague hand-waving"
+               ],
+               [
+                  "00:24:36,070 --> 00:24:39,030",
+                  "I can tell you about,"
+               ],
+               [
+                  "00:24:36,070 --> 00:24:39,030",
+                  "but if you gave me a pen"
+               ],
+               [
+                  "00:24:39,030 --> 00:24:40,240",
+                  "and told me, like, \"Okay, write it down,"
+               ],
+               [
+                  "00:24:40,240 --> 00:24:42,380",
+                  "specifically the equations"
+               ],
+               [
+                  "00:24:40,240 --> 00:24:42,380",
+                  "and what they mean"
+               ],
+               [
+                  "00:24:42,380 --> 00:24:44,560",
+                  "and how the point model works and stuff.\""
+               ],
+               [
+                  "00:24:44,560 --> 00:24:47,940",
+                  "Right, no idea, but designers"
+               ],
+               [
+                  "00:24:44,560 --> 00:24:47,940",
+                  "are like the other side."
+               ],
+               [
+                  "00:24:47,940 --> 00:24:51,150",
+                  "It's almost like, I don't"
+               ],
+               [
+                  "00:24:47,940 --> 00:24:51,150",
+                  "wanna say the lazy side of it."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:25:06,968 --> 00:25:09,140",
+                  "- Yeah. There's no downsides"
+               ],
+               [
+                  "00:25:06,968 --> 00:25:09,140",
+                  "is what you're saying."
+               ]
+            ]
+         }
+      ]
+   }
+}

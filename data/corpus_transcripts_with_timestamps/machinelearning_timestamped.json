@@ -1,0 +1,3640 @@
+{
+   "1":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:00,240 --> 00:00:03,340",
+                  "- Hi, I'm Hilary Mason."
+               ],
+               [
+                  "00:00:00,240 --> 00:00:03,340",
+                  "I'm a computer scientist."
+               ],
+               [
+                  "00:00:03,340 --> 00:00:05,660",
+                  "And today, I've been asked"
+               ],
+               [
+                  "00:00:03,340 --> 00:00:05,660",
+                  "to explain machine learning"
+               ],
+               [
+                  "00:00:05,660 --> 00:00:08,630",
+                  "in five levels of increasing complexity."
+               ],
+               [
+                  "00:00:08,630 --> 00:00:11,690",
+                  "Machine learning gives us"
+               ],
+               [
+                  "00:00:08,630 --> 00:00:11,690",
+                  "the ability to learn things"
+               ],
+               [
+                  "00:00:11,690 --> 00:00:14,550",
+                  "about the world from large amounts of data"
+               ],
+               [
+                  "00:00:14,550 --> 00:00:18,420",
+                  "that we as human beings can't"
+               ],
+               [
+                  "00:00:14,550 --> 00:00:18,420",
+                  "possibly study or appreciate."
+               ],
+               [
+                  "00:00:18,420 --> 00:00:21,070",
+                  "So machine learning is"
+               ],
+               [
+                  "00:00:18,420 --> 00:00:21,070",
+                  "when we teach computers"
+               ],
+               [
+                  "00:00:21,070 --> 00:00:24,320",
+                  "to learn patterns from"
+               ],
+               [
+                  "00:00:21,070 --> 00:00:24,320",
+                  "looking at examples in data,"
+               ],
+               [
+                  "00:00:24,320 --> 00:00:26,740",
+                  "such that they can"
+               ],
+               [
+                  "00:00:24,320 --> 00:00:26,740",
+                  "recognize those patterns"
+               ],
+               [
+                  "00:00:26,740 --> 00:00:30,003",
+                  "and apply them to new things"
+               ],
+               [
+                  "00:00:26,740 --> 00:00:30,003",
+                  "that they haven't seen before."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:00:33,800 --> 00:00:34,633",
+                  "Hi."
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:00:35,466 --> 00:00:37,123",
+                  "- I'm Hilary, what's your name?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:00:37,956 --> 00:00:40,420",
+                  "- Do you know what machine learning means?"
+               ],
+               [
+                  "00:00:40,420 --> 00:00:41,936",
+                  "Have you heard that before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:00:42,769 --> 00:00:45,790",
+                  "- So machine learning is a"
+               ],
+               [
+                  "00:00:42,769 --> 00:00:45,790",
+                  "way that we teach computers"
+               ],
+               [
+                  "00:00:45,790 --> 00:00:49,670",
+                  "to learn things about the"
+               ],
+               [
+                  "00:00:45,790 --> 00:00:49,670",
+                  "world by looking at patterns"
+               ],
+               [
+                  "00:00:49,670 --> 00:00:51,770",
+                  "and looking at examples of things."
+               ],
+               [
+                  "00:00:51,770 --> 00:00:54,400",
+                  "So can I show you an example"
+               ],
+               [
+                  "00:00:54,400 --> 00:00:56,820",
+                  "of how a machine might learn something?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:00:57,653 --> 00:00:59,150",
+                  "- [Hilary] So is this a dog or a cat?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:01:00,580 --> 00:01:02,520",
+                  "- And this one?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:01:03,353 --> 00:01:07,103",
+                  "- And what makes a dog,"
+               ],
+               [
+                  "00:01:03,353 --> 00:01:07,103",
+                  "a dog and a cat, a cat?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:01:15,028 --> 00:01:15,861",
+                  "- That's true."
+               ],
+               [
+                  "00:01:15,861 --> 00:01:18,660",
+                  "Do you think, if we"
+               ],
+               [
+                  "00:01:15,861 --> 00:01:18,660",
+                  "look at these pictures,"
+               ],
+               [
+                  "00:01:18,660 --> 00:01:20,457",
+                  "do you think maybe we could say,"
+               ],
+               [
+                  "00:01:27,930 --> 00:01:29,460",
+                  "Do you think that makes sense?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:01:29,460 --> 00:01:30,293",
+                  "- Yeah."
+               ],
+               [
+                  "00:01:30,293 --> 00:01:31,310",
+                  "What about this one?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:01:46,220 --> 00:01:49,850",
+                  "- This one's a jackal. And"
+               ],
+               [
+                  "00:01:46,220 --> 00:01:49,850",
+                  "it's actually a kind of dog."
+               ],
+               [
+                  "00:01:49,850 --> 00:01:51,470",
+                  "But you made a good guess."
+               ],
+               [
+                  "00:01:51,470 --> 00:01:54,150",
+                  "That's what machines do"
+               ],
+               [
+                  "00:01:51,470 --> 00:01:54,150",
+                  "too. They make guesses."
+               ],
+               [
+                  "00:01:54,150 --> 00:01:56,103",
+                  "Is this a cat or a dog?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:01:56,936 --> 00:01:57,870",
+                  "- [Hilary] None. What is it?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:01:58,980 --> 00:02:01,540",
+                  "- And how did you know that"
+               ],
+               [
+                  "00:01:58,980 --> 00:02:01,540",
+                  "it's not a cat or a dog?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:02:10,453 --> 00:02:13,270",
+                  "- And so, you did something"
+               ],
+               [
+                  "00:02:10,453 --> 00:02:13,270",
+                  "pretty amazing there."
+               ],
+               [
+                  "00:02:13,270 --> 00:02:16,410",
+                  "Because we asked the question,"
+               ],
+               [
+                  "00:02:13,270 --> 00:02:16,410",
+                  "Is it a cat or a dog?"
+               ],
+               [
+                  "00:02:16,410 --> 00:02:19,780",
+                  "And you said, \"I disagree with"
+               ],
+               [
+                  "00:02:16,410 --> 00:02:19,780",
+                  "your question. It's a human.\""
+               ],
+               [
+                  "00:02:19,780 --> 00:02:22,720",
+                  "So machine learning is"
+               ],
+               [
+                  "00:02:19,780 --> 00:02:22,720",
+                  "when we teach machines"
+               ],
+               [
+                  "00:02:22,720 --> 00:02:25,080",
+                  "to make guesses about what things are"
+               ],
+               [
+                  "00:02:25,080 --> 00:02:27,780",
+                  "based on looking at a lot"
+               ],
+               [
+                  "00:02:25,080 --> 00:02:27,780",
+                  "of different examples."
+               ],
+               [
+                  "00:02:27,780 --> 00:02:30,060",
+                  "And I build products"
+               ],
+               [
+                  "00:02:27,780 --> 00:02:30,060",
+                  "that use machine learning"
+               ],
+               [
+                  "00:02:30,060 --> 00:02:32,160",
+                  "to learn about the world and make guesses"
+               ],
+               [
+                  "00:02:32,160 --> 00:02:33,680",
+                  "about things in the world."
+               ],
+               [
+                  "00:02:33,680 --> 00:02:36,580",
+                  "When we try to teach"
+               ],
+               [
+                  "00:02:33,680 --> 00:02:36,580",
+                  "machines to recognize things"
+               ],
+               [
+                  "00:02:36,580 --> 00:02:40,260",
+                  "like cats and dogs, it"
+               ],
+               [
+                  "00:02:36,580 --> 00:02:40,260",
+                  "takes a lot of examples."
+               ],
+               [
+                  "00:02:40,260 --> 00:02:43,430",
+                  "We have to show them tens of thousands"
+               ],
+               [
+                  "00:02:43,430 --> 00:02:45,630",
+                  "or even millions of examples"
+               ],
+               [
+                  "00:02:45,630 --> 00:02:49,950",
+                  "before they can get even close"
+               ],
+               [
+                  "00:02:45,630 --> 00:02:49,950",
+                  "to as good at it as you are."
+               ],
+               [
+                  "00:02:49,950 --> 00:02:51,440",
+                  "Do you have tests in school?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":27,
+            "Sentence":[
+               [
+                  "00:02:56,820 --> 00:02:58,364",
+                  "- Are those like the practice problems"
+               ],
+               [
+                  "00:02:58,364 --> 00:02:59,890",
+                  "you do before the test?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":29,
+            "Sentence":[
+               [
+                  "00:03:03,830 --> 00:03:05,320",
+                  "- Which means that in the test,"
+               ],
+               [
+                  "00:03:05,320 --> 00:03:06,690",
+                  "you're not seeing any problems"
+               ],
+               [
+                  "00:03:06,690 --> 00:03:08,440",
+                  "that you don't know how to solve."
+               ],
+               [
+                  "00:03:08,440 --> 00:03:10,753",
+                  "As long as you did all"
+               ],
+               [
+                  "00:03:08,440 --> 00:03:10,753",
+                  "your practice, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":31,
+            "Sentence":[
+               [
+                  "00:03:11,586 --> 00:03:12,980",
+                  "- So machines work the same way."
+               ],
+               [
+                  "00:03:12,980 --> 00:03:15,820",
+                  "If you show them a lot of"
+               ],
+               [
+                  "00:03:12,980 --> 00:03:15,820",
+                  "examples and give them practice,"
+               ],
+               [
+                  "00:03:15,820 --> 00:03:17,930",
+                  "they'll learn how to guess."
+               ],
+               [
+                  "00:03:17,930 --> 00:03:19,890",
+                  "And then when you give them the test,"
+               ],
+               [
+                  "00:03:19,890 --> 00:03:21,860",
+                  "they should be able to do that."
+               ],
+               [
+                  "00:03:21,860 --> 00:03:24,280",
+                  "So we looked at eight pictures"
+               ],
+               [
+                  "00:03:24,280 --> 00:03:26,540",
+                  "and you were able to"
+               ],
+               [
+                  "00:03:24,280 --> 00:03:26,540",
+                  "answer really quickly."
+               ],
+               [
+                  "00:03:26,540 --> 00:03:30,580",
+                  "But what would you do if I"
+               ],
+               [
+                  "00:03:26,540 --> 00:03:30,580",
+                  "gave you 10 million examples?"
+               ],
+               [
+                  "00:03:30,580 --> 00:03:32,623",
+                  "Would you be able to do that so quickly?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":33,
+            "Sentence":[
+               [
+                  "00:03:33,456 --> 00:03:36,540",
+                  "- So one of the differences"
+               ],
+               [
+                  "00:03:33,456 --> 00:03:36,540",
+                  "between people and machines"
+               ],
+               [
+                  "00:03:36,540 --> 00:03:40,120",
+                  "is that people might be"
+               ],
+               [
+                  "00:03:36,540 --> 00:03:40,120",
+                  "a little better at this,"
+               ],
+               [
+                  "00:03:40,120 --> 00:03:42,630",
+                  "but can't look at 10"
+               ],
+               [
+                  "00:03:40,120 --> 00:03:42,630",
+                  "million different things."
+               ],
+               [
+                  "00:03:42,630 --> 00:03:45,090",
+                  "So now that we've been talking"
+               ],
+               [
+                  "00:03:42,630 --> 00:03:45,090",
+                  "about machine learning,"
+               ],
+               [
+                  "00:03:45,090 --> 00:03:47,940",
+                  "is this something you"
+               ],
+               [
+                  "00:03:45,090 --> 00:03:47,940",
+                  "want to learn how to do?"
+               ]
+            ]
+         },
+         {
+            "Reciever":2,
+            "Sequence":35,
+            "Sentence":[
+               [
+                  "00:03:58,950 --> 00:04:01,540",
+                  "- And machine learning"
+               ],
+               [
+                  "00:03:58,950 --> 00:04:01,540",
+                  "is a great way to use"
+               ],
+               [
+                  "00:04:01,540 --> 00:04:04,330",
+                  "all those math skills,"
+               ],
+               [
+                  "00:04:01,540 --> 00:04:04,330",
+                  "all those coding skills,"
+               ],
+               [
+                  "00:04:04,330 --> 00:04:07,625",
+                  "and would be a super cool tool for a spy."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:04:12,710 --> 00:04:14,330",
+                  "- Hi. Are you a student, Lucy?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:04:16,709 --> 00:04:18,079",
+                  "- Congratulations."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:04:19,810 --> 00:04:22,089",
+                  "- Have you ever heard of"
+               ],
+               [
+                  "00:04:19,810 --> 00:04:22,089",
+                  "machine learning before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:04:30,920 --> 00:04:31,753",
+                  "- That's right."
+               ],
+               [
+                  "00:04:31,753 --> 00:04:36,200",
+                  "When we teach machines to learn from data,"
+               ],
+               [
+                  "00:04:36,200 --> 00:04:40,040",
+                  "to build a model from that data"
+               ],
+               [
+                  "00:04:36,200 --> 00:04:40,040",
+                  "or a representation of that,"
+               ],
+               [
+                  "00:04:40,040 --> 00:04:41,710",
+                  "and then to make a prediction."
+               ],
+               [
+                  "00:04:41,710 --> 00:04:44,280",
+                  "One of the places we often"
+               ],
+               [
+                  "00:04:41,710 --> 00:04:44,280",
+                  "find machine learning"
+               ],
+               [
+                  "00:04:44,280 --> 00:04:48,120",
+                  "in the real world is in things"
+               ],
+               [
+                  "00:04:44,280 --> 00:04:48,120",
+                  "like recommendation systems."
+               ],
+               [
+                  "00:04:48,120 --> 00:04:50,190",
+                  "So do you have an artist"
+               ],
+               [
+                  "00:04:48,120 --> 00:04:50,190",
+                  "that you really like?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:04:51,850 --> 00:04:54,160",
+                  "- So I'm gonna look up Melanie Martinez."
+               ],
+               [
+                  "00:04:54,160 --> 00:04:57,610",
+                  "And it says here, \"If you"
+               ],
+               [
+                  "00:04:54,160 --> 00:04:57,610",
+                  "like Melanie Martinez,"
+               ],
+               [
+                  "00:04:57,610 --> 00:05:00,560",
+                  "one of the other songs you"
+               ],
+               [
+                  "00:04:57,610 --> 00:05:00,560",
+                  "might like is by Au/Ra.\""
+               ],
+               [
+                  "00:05:00,560 --> 00:05:01,640",
+                  "Do you know who that is?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:05:05,140 --> 00:05:05,973",
+                  "- Okay."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:05:20,050 --> 00:05:22,470",
+                  "- Well, I know that in"
+               ],
+               [
+                  "00:05:20,050 --> 00:05:22,470",
+                  "Melanie Martinez's music,"
+               ],
+               [
+                  "00:05:22,470 --> 00:05:24,560",
+                  "she used a lot of the filtered voice"
+               ],
+               [
+                  "00:05:24,560 --> 00:05:27,000",
+                  "to make it sound very deep and low"
+               ],
+               [
+                  "00:05:27,000 --> 00:05:28,530",
+                  "and that song had that."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:05:41,630 --> 00:05:42,620",
+                  "- Pitch of the music."
+               ],
+               [
+                  "00:05:42,620 --> 00:05:45,673",
+                  "If it's really low or if it's super high,"
+               ],
+               [
+                  "00:05:45,673 --> 00:05:46,903",
+                  "it could know that."
+               ],
+               [
+                  "00:05:46,903 --> 00:05:49,360",
+                  "What can the machine understand?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":19,
+            "Sentence":[
+               [
+                  "00:06:15,970 --> 00:06:19,490",
+                  "- Well, I think things"
+               ],
+               [
+                  "00:06:15,970 --> 00:06:19,490",
+                  "like Facebook or Instagram,"
+               ],
+               [
+                  "00:06:19,490 --> 00:06:22,120",
+                  "they probably use it to target ads."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":21,
+            "Sentence":[
+               [
+                  "00:07:00,540 --> 00:07:04,920",
+                  "- So, you're saying I give"
+               ],
+               [
+                  "00:07:00,540 --> 00:07:04,920",
+                  "them enough data as it is"
+               ],
+               [
+                  "00:07:04,920 --> 00:07:07,760",
+                  "about what I might be talking"
+               ],
+               [
+                  "00:07:04,920 --> 00:07:07,760",
+                  "about or thinking about"
+               ],
+               [
+                  "00:07:07,760 --> 00:07:10,474",
+                  "that they can read my mind,"
+               ],
+               [
+                  "00:07:10,474 --> 00:07:11,307",
+                  "[Hilary laughs]"
+               ],
+               [
+                  "00:07:11,307 --> 00:07:13,580",
+                  "but just use the data that"
+               ],
+               [
+                  "00:07:11,307 --> 00:07:13,580",
+                  "I've already given them."
+               ],
+               [
+                  "00:07:13,580 --> 00:07:16,013",
+                  "And it almost seems like"
+               ],
+               [
+                  "00:07:16,013 --> 00:07:17,340",
+                  "they're watching us."
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":23,
+            "Sentence":[
+               [
+                  "00:07:22,260 --> 00:07:25,600",
+                  "- A set of steps or a process"
+               ],
+               [
+                  "00:07:25,600 --> 00:07:27,453",
+                  "carried out to complete something?"
+               ]
+            ]
+         },
+         {
+            "Reciever":3,
+            "Sequence":25,
+            "Sentence":[
+               [
+                  "00:07:28,286 --> 00:07:30,070",
+                  "- So do you think that we've been able"
+               ],
+               [
+                  "00:07:30,070 --> 00:07:31,300",
+                  "to teach machines enough"
+               ],
+               [
+                  "00:07:31,300 --> 00:07:34,660",
+                  "so that they can do things"
+               ],
+               [
+                  "00:07:31,300 --> 00:07:34,660",
+                  "that even we can't do?"
+               ],
+               [
+                  "00:07:34,660 --> 00:07:36,407",
+                  "And on the opposite side of that,"
+               ],
+               [
+                  "00:07:36,407 --> 00:07:38,367",
+                  "do you think there are"
+               ],
+               [
+                  "00:07:36,407 --> 00:07:38,367",
+                  "things that we can do"
+               ],
+               [
+                  "00:07:38,367 --> 00:07:41,360",
+                  "that a machine might never be able to do?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:08:51,050 --> 00:08:52,600",
+                  "- [Hilary] And what are you majoring in?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:08:54,510 --> 00:08:55,980",
+                  "- So in your studies,"
+               ],
+               [
+                  "00:08:55,980 --> 00:08:58,830",
+                  "have you learned about machine learning?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:09:26,750 --> 00:09:27,600",
+                  "- Absolutely."
+               ],
+               [
+                  "00:09:27,600 --> 00:09:30,060",
+                  "And that's a great example"
+               ],
+               [
+                  "00:09:27,600 --> 00:09:30,060",
+                  "because you have models"
+               ],
+               [
+                  "00:09:30,060 --> 00:09:32,560",
+                  "that are operating to do"
+               ],
+               [
+                  "00:09:30,060 --> 00:09:32,560",
+                  "things like figure out"
+               ],
+               [
+                  "00:09:32,560 --> 00:09:34,370",
+                  "if a new email is spam or not."
+               ],
+               [
+                  "00:09:34,370 --> 00:09:35,870",
+                  "So what would you think"
+               ],
+               [
+                  "00:09:35,870 --> 00:09:38,110",
+                  "about if you were looking at an email"
+               ],
+               [
+                  "00:09:38,110 --> 00:09:41,680",
+                  "and trying to decide if it went"
+               ],
+               [
+                  "00:09:38,110 --> 00:09:41,680",
+                  "in one category or another?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:09:52,320 --> 00:09:54,370",
+                  "- So these are things"
+               ],
+               [
+                  "00:09:52,320 --> 00:09:54,370",
+                  "we would call features."
+               ],
+               [
+                  "00:09:54,370 --> 00:09:57,700",
+                  "And we go through a process"
+               ],
+               [
+                  "00:09:54,370 --> 00:09:57,700",
+                  "where we do feature engineering,"
+               ],
+               [
+                  "00:09:57,700 --> 00:09:59,957",
+                  "where somebody looks at"
+               ],
+               [
+                  "00:09:57,700 --> 00:09:59,957",
+                  "the example and says,"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:14:01,040 --> 00:14:03,310",
+                  "- Would that be an example"
+               ],
+               [
+                  "00:14:01,040 --> 00:14:03,310",
+                  "of, like, linear regression"
+               ],
+               [
+                  "00:14:03,310 --> 00:14:05,780",
+                  "where the regression is accurate, but,"
+               ],
+               [
+                  "00:14:05,780 --> 00:14:08,040",
+                  "you know, for marketing"
+               ],
+               [
+                  "00:14:05,780 --> 00:14:08,040",
+                  "purposes, it's like,"
+               ],
+               [
+                  "00:14:08,040 --> 00:14:09,780",
+                  "if you don't know why"
+               ],
+               [
+                  "00:14:08,040 --> 00:14:09,780",
+                  "I'm quitting the service,"
+               ],
+               [
+                  "00:14:09,780 --> 00:14:11,660",
+                  "then how can we fix this?"
+               ]
+            ]
+         },
+         {
+            "Reciever":4,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:14:27,410 --> 00:14:30,770",
+                  "- How can we improve"
+               ],
+               [
+                  "00:14:27,410 --> 00:14:30,770",
+                  "machine learning algorithms?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:15:03,100 --> 00:15:04,700",
+                  "- So would you mind telling me a bit about"
+               ],
+               [
+                  "00:15:04,700 --> 00:15:07,090",
+                  "what you've been working"
+               ],
+               [
+                  "00:15:04,700 --> 00:15:07,090",
+                  "on or interested in lately?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:15:22,670 --> 00:15:25,060",
+                  "- So what are some of the"
+               ],
+               [
+                  "00:15:22,670 --> 00:15:25,060",
+                  "techniques you're applying"
+               ],
+               [
+                  "00:15:25,060 --> 00:15:26,850",
+                  "to look at that debate data?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:15:55,150 --> 00:15:58,000",
+                  "- Do you think there are"
+               ],
+               [
+                  "00:15:55,150 --> 00:15:58,000",
+                  "going to be general principles"
+               ],
+               [
+                  "00:15:58,000 --> 00:15:59,500",
+                  "that guide those decisions?"
+               ],
+               [
+                  "00:15:59,500 --> 00:16:01,440",
+                  "Because right now, it's generally"
+               ],
+               [
+                  "00:16:01,440 --> 00:16:04,280",
+                  "up to the machine learning"
+               ],
+               [
+                  "00:16:01,440 --> 00:16:04,280",
+                  "engineer to decide"
+               ],
+               [
+                  "00:16:04,280 --> 00:16:05,980",
+                  "what tools they want to apply."
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:16:22,860 --> 00:16:25,000",
+                  "- So is that where some"
+               ],
+               [
+                  "00:16:22,860 --> 00:16:25,000",
+                  "of that frustration"
+               ],
+               [
+                  "00:16:25,000 --> 00:16:27,230",
+                  "around the lack of controllability"
+               ],
+               [
+                  "00:16:27,230 --> 00:16:28,940",
+                  "and interpretability comes from?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:16:39,550 --> 00:16:42,760",
+                  "- If you train a model off"
+               ],
+               [
+                  "00:16:39,550 --> 00:16:42,760",
+                  "of language off the internet,"
+               ],
+               [
+                  "00:16:42,760 --> 00:16:45,130",
+                  "it sometimes says uncomfortable things"
+               ],
+               [
+                  "00:16:45,130 --> 00:16:48,960",
+                  "or inappropriate things and"
+               ],
+               [
+                  "00:16:45,130 --> 00:16:48,960",
+                  "sometimes really biased things."
+               ],
+               [
+                  "00:16:48,960 --> 00:16:50,790",
+                  "Have you ever run into this yourself?"
+               ],
+               [
+                  "00:16:50,790 --> 00:16:52,940",
+                  "And then how do you"
+               ],
+               [
+                  "00:16:50,790 --> 00:16:52,940",
+                  "think about that problem"
+               ],
+               [
+                  "00:16:52,940 --> 00:16:56,560",
+                  "of potentially even measuring the bias"
+               ],
+               [
+                  "00:16:56,560 --> 00:16:58,490",
+                  "in a model that we've trained?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:17:42,740 --> 00:17:44,340",
+                  "- I imagine in the last few years,"
+               ],
+               [
+                  "00:17:44,340 --> 00:17:47,070",
+                  "we've seen a lot of"
+               ],
+               [
+                  "00:17:44,340 --> 00:17:47,070",
+                  "changes and improvements"
+               ],
+               [
+                  "00:17:47,070 --> 00:17:49,960",
+                  "in the capabilities of NLP systems."
+               ],
+               [
+                  "00:17:49,960 --> 00:17:51,570",
+                  "So is there anything in that"
+               ],
+               [
+                  "00:17:51,570 --> 00:17:54,510",
+                  "that you're particularly"
+               ],
+               [
+                  "00:17:51,570 --> 00:17:54,510",
+                  "excited about exploring further?"
+               ]
+            ]
+         },
+         {
+            "Reciever":5,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:18:23,860 --> 00:18:24,900",
+                  "- Yeah, I agree."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":1,
+            "Sentence":[
+               [
+                  "00:18:27,720 --> 00:18:29,437",
+                  "So, hi Claudia. It's so great to see you."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":3,
+            "Sentence":[
+               [
+                  "00:18:30,930 --> 00:18:33,500",
+                  "- You know, we first met 10, 11 years ago"
+               ],
+               [
+                  "00:18:33,500 --> 00:18:36,810",
+                  "and machine learning has"
+               ],
+               [
+                  "00:18:33,500 --> 00:18:36,810",
+                  "changed a lot since then."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":5,
+            "Sentence":[
+               [
+                  "00:19:05,450 --> 00:19:07,890",
+                  "- Well, you're absolutely"
+               ],
+               [
+                  "00:19:05,450 --> 00:19:07,890",
+                  "right that the attention"
+               ],
+               [
+                  "00:19:07,890 --> 00:19:10,970",
+                  "machine learning gets"
+               ],
+               [
+                  "00:19:07,890 --> 00:19:10,970",
+                  "has grown dramatically."
+               ],
+               [
+                  "00:19:10,970 --> 00:19:12,730",
+                  "20 years ago, going to gatherings"
+               ],
+               [
+                  "00:19:12,730 --> 00:19:14,420",
+                  "and telling people what I was working on"
+               ],
+               [
+                  "00:19:14,420 --> 00:19:16,040",
+                  "and seeing the blank face or the like,"
+               ],
+               [
+                  "00:19:16,040 --> 00:19:18,030",
+                  "Where's the turn? and walk away."
+               ],
+               [
+                  "00:19:18,030 --> 00:19:19,570",
+                  "Like, \"Oh, no.\""
+               ],
+               [
+                  "00:19:19,570 --> 00:19:21,130",
+                  "The accessibility of the tooling,"
+               ],
+               [
+                  "00:19:21,130 --> 00:19:24,670",
+                  "like, we can now do in,"
+               ],
+               [
+                  "00:19:21,130 --> 00:19:24,670",
+                  "like, five lines of code"
+               ],
+               [
+                  "00:19:24,670 --> 00:19:27,510",
+                  "something that would have taken 500 lines"
+               ],
+               [
+                  "00:19:27,510 --> 00:19:30,180",
+                  "of very mathematical, messy, gnarly code"
+               ],
+               [
+                  "00:19:30,180 --> 00:19:32,150",
+                  "even, you know, five years ago."
+               ],
+               [
+                  "00:19:32,150 --> 00:19:33,750",
+                  "And that's not an exaggeration."
+               ],
+               [
+                  "00:19:33,750 --> 00:19:36,430",
+                  "And there are tools that"
+               ],
+               [
+                  "00:19:33,750 --> 00:19:36,430",
+                  "mean that pretty much anyone"
+               ],
+               [
+                  "00:19:36,430 --> 00:19:38,690",
+                  "can pick this up and start playing with it"
+               ],
+               [
+                  "00:19:38,690 --> 00:19:40,170",
+                  "and start to build with it."
+               ],
+               [
+                  "00:19:40,170 --> 00:19:42,530",
+                  "And that is also really exciting."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":7,
+            "Sentence":[
+               [
+                  "00:20:12,692 --> 00:20:15,480",
+                  "- And part of the challenge of it"
+               ],
+               [
+                  "00:20:15,480 --> 00:20:18,060",
+                  "is not the mathematics of building models,"
+               ],
+               [
+                  "00:20:18,060 --> 00:20:20,210",
+                  "but the challenge is"
+               ],
+               [
+                  "00:20:18,060 --> 00:20:20,210",
+                  "making sure that the data"
+               ],
+               [
+                  "00:20:20,210 --> 00:20:23,660",
+                  "is sufficiently representative,"
+               ],
+               [
+                  "00:20:20,210 --> 00:20:23,660",
+                  "potentially high quality."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":9,
+            "Sentence":[
+               [
+                  "00:20:44,490 --> 00:20:45,323",
+                  "- Right."
+               ],
+               [
+                  "00:20:45,323 --> 00:20:46,460",
+                  "And so, to say that another way,"
+               ],
+               [
+                  "00:20:46,460 --> 00:20:48,920",
+                  "when you're collecting"
+               ],
+               [
+                  "00:20:46,460 --> 00:20:48,920",
+                  "data from the real world"
+               ],
+               [
+                  "00:20:48,920 --> 00:20:50,670",
+                  "and then building machine learning systems"
+               ],
+               [
+                  "00:20:50,670 --> 00:20:52,770",
+                  "that automate decisions"
+               ],
+               [
+                  "00:20:50,670 --> 00:20:52,770",
+                  "based on that data,"
+               ],
+               [
+                  "00:20:52,770 --> 00:20:55,110",
+                  "all of the biases and problems"
+               ],
+               [
+                  "00:20:55,110 --> 00:20:58,440",
+                  "that are already in the real"
+               ],
+               [
+                  "00:20:55,110 --> 00:20:58,440",
+                  "world then can be magnified"
+               ],
+               [
+                  "00:20:58,440 --> 00:21:00,290",
+                  "through that machine learning system."
+               ],
+               [
+                  "00:21:00,290 --> 00:21:02,770",
+                  "And so, it can make many of"
+               ],
+               [
+                  "00:21:00,290 --> 00:21:02,770",
+                  "these problems much worse."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":11,
+            "Sentence":[
+               [
+                  "00:21:35,040 --> 00:21:39,560",
+                  "- And so, it's not just the"
+               ],
+               [
+                  "00:21:35,040 --> 00:21:39,560",
+                  "provenance of that data,"
+               ],
+               [
+                  "00:21:39,560 --> 00:21:41,307",
+                  "but it's, sort of, deeply understanding,"
+               ],
+               [
+                  "00:21:46,110 --> 00:21:47,200",
+                  "We need to think about that"
+               ],
+               [
+                  "00:21:47,200 --> 00:21:51,460",
+                  "in entire process, how"
+               ],
+               [
+                  "00:21:47,200 --> 00:21:51,460",
+                  "we document that process."
+               ],
+               [
+                  "00:21:51,460 --> 00:21:53,010",
+                  "This is an issue in companies"
+               ],
+               [
+                  "00:21:53,010 --> 00:21:55,150",
+                  "where somebody might create something"
+               ],
+               [
+                  "00:21:55,150 --> 00:21:57,470",
+                  "that even their peers can't recreate."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":13,
+            "Sentence":[
+               [
+                  "00:22:10,330 --> 00:22:11,550",
+                  "- These are great questions."
+               ],
+               [
+                  "00:22:11,550 --> 00:22:14,960",
+                  "So things like actuarial"
+               ],
+               [
+                  "00:22:11,550 --> 00:22:14,960",
+                  "science, operations research,"
+               ],
+               [
+                  "00:22:14,960 --> 00:22:17,240",
+                  "where they actually are"
+               ],
+               [
+                  "00:22:14,960 --> 00:22:17,240",
+                  "not using machine learning"
+               ],
+               [
+                  "00:22:17,240 --> 00:22:18,560",
+                  "as much as you might think."
+               ],
+               [
+                  "00:22:18,560 --> 00:22:21,460",
+                  "And then you have other sorts of companies"
+               ],
+               [
+                  "00:22:21,460 --> 00:22:24,930",
+                  "or on the FinTech side, or"
+               ],
+               [
+                  "00:22:21,460 --> 00:22:24,930",
+                  "even the ad tech side of things"
+               ],
+               [
+                  "00:22:24,930 --> 00:22:27,810",
+                  "where they perhaps are"
+               ],
+               [
+                  "00:22:24,930 --> 00:22:27,810",
+                  "using machine learning"
+               ],
+               [
+                  "00:22:27,810 --> 00:22:30,030",
+                  "to the point of even absurdity."
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":15,
+            "Sentence":[
+               [
+                  "00:23:17,680 --> 00:23:20,900",
+                  "- So when we think about"
+               ],
+               [
+                  "00:23:17,680 --> 00:23:20,900",
+                  "the next five to 10 years,"
+               ],
+               [
+                  "00:23:20,900 --> 00:23:24,030",
+                  "the things that are really"
+               ],
+               [
+                  "00:23:20,900 --> 00:23:24,030",
+                  "still holding us back"
+               ],
+               [
+                  "00:23:24,030 --> 00:23:29,030",
+                  "are these uneven applications"
+               ],
+               [
+                  "00:23:24,030 --> 00:23:29,030",
+                  "of resources to problems"
+               ],
+               [
+                  "00:23:30,040 --> 00:23:31,850",
+                  "because the problems that get attention"
+               ],
+               [
+                  "00:23:31,850 --> 00:23:33,280",
+                  "are the high value ones"
+               ],
+               [
+                  "00:23:33,280 --> 00:23:35,430",
+                  "in terms of how much money you can make"
+               ],
+               [
+                  "00:23:35,430 --> 00:23:37,040",
+                  "or the things that are fashionable enough"
+               ],
+               [
+                  "00:23:37,040 --> 00:23:38,760",
+                  "that you can publish a paper on it."
+               ],
+               [
+                  "00:23:38,760 --> 00:23:40,890",
+                  "So what do you think is holding us back?"
+               ]
+            ]
+         },
+         {
+            "Reciever":6,
+            "Sequence":17,
+            "Sentence":[
+               [
+                  "00:24:40,500 --> 00:24:43,440",
+                  "- I am incredibly optimistic and not..."
+               ],
+               [
+                  "00:24:43,440 --> 00:24:46,980",
+                  "Perhaps it's a personality"
+               ],
+               [
+                  "00:24:43,440 --> 00:24:46,980",
+                  "flaw, but I can't help but look"
+               ],
+               [
+                  "00:24:46,980 --> 00:24:51,980",
+                  "at the potential of the"
+               ],
+               [
+                  "00:24:46,980 --> 00:24:51,980",
+                  "technology to reduce harm,"
+               ],
+               [
+                  "00:24:52,250 --> 00:24:55,460",
+                  "to give us information that"
+               ],
+               [
+                  "00:24:52,250 --> 00:24:55,460",
+                  "help us make better decisions."
+               ],
+               [
+                  "00:24:55,460 --> 00:24:57,770",
+                  "And to think that we would choose"
+               ],
+               [
+                  "00:24:57,770 --> 00:25:01,100",
+                  "to address the big problems ahead of us."
+               ],
+               [
+                  "00:25:01,100 --> 00:25:03,350",
+                  "I don't think we have a"
+               ],
+               [
+                  "00:25:01,100 --> 00:25:03,350",
+                  "hope of addressing them"
+               ],
+               [
+                  "00:25:03,350 --> 00:25:05,010",
+                  "without figuring out the role"
+               ],
+               [
+                  "00:25:05,010 --> 00:25:06,600",
+                  "that machine learning will play."
+               ],
+               [
+                  "00:25:06,600 --> 00:25:09,320",
+                  "And to think that we would"
+               ],
+               [
+                  "00:25:06,600 --> 00:25:09,320",
+                  "then choose not to do that"
+               ],
+               [
+                  "00:25:09,320 --> 00:25:10,700",
+                  "is just unthinkable."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:25:45,450 --> 00:25:48,410",
+                  "- I hope you learned something"
+               ],
+               [
+                  "00:25:45,450 --> 00:25:48,410",
+                  "about machine learning."
+               ],
+               [
+                  "00:25:48,410 --> 00:25:51,570",
+                  "There has never been a better"
+               ],
+               [
+                  "00:25:48,410 --> 00:25:51,570",
+                  "time to study machine learning"
+               ],
+               [
+                  "00:25:51,570 --> 00:25:54,160",
+                  "because you're now able to build products"
+               ],
+               [
+                  "00:25:54,160 --> 00:25:57,210",
+                  "that have tremendous potential and impact"
+               ],
+               [
+                  "00:25:57,210 --> 00:26:01,323",
+                  "across any industry or area"
+               ],
+               [
+                  "00:25:57,210 --> 00:26:01,323",
+                  "that you might be excited about."
+               ]
+            ]
+         }
+      ]
+   },
+   "2":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI?t=31",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:00:34,633 --> 00:00:35,466",
+                  "- Hi."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:00:37,123 --> 00:00:37,956",
+                  "- I'm Brynn."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:00:41,936 --> 00:00:42,769",
+                  "- No."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:00:56,820 --> 00:00:57,653",
+                  "- Sure."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:00:59,150 --> 00:01:00,580",
+                  "- It's a dog."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:01:02,520 --> 00:01:03,353",
+                  "- A cat."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:01:07,103 --> 00:01:12,103",
+                  "- Well, dogs are very playful,"
+               ],
+               [
+                  "00:01:07,103 --> 00:01:12,103",
+                  "I think, more than cats."
+               ],
+               [
+                  "00:01:12,110 --> 00:01:15,028",
+                  "Cats lick themselves"
+               ],
+               [
+                  "00:01:12,110 --> 00:01:15,028",
+                  "more than dogs, I think."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:01:29,460 --> 00:01:30,293",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:01:31,310 --> 00:01:32,143",
+                  "- A dog."
+               ],
+               [
+                  "00:01:33,774 --> 00:01:34,607",
+                  "A cat."
+               ],
+               [
+                  "00:01:35,671 --> 00:01:37,640",
+                  "I think, a cat?"
+               ],
+               [
+                  "00:01:37,640 --> 00:01:40,330",
+                  "Because it's more skinny."
+               ],
+               [
+                  "00:01:40,330 --> 00:01:44,130",
+                  "And also, its legs are like really tall"
+               ],
+               [
+                  "00:01:44,130 --> 00:01:46,220",
+                  "and its ears are a little pointy."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:01:56,103 --> 00:01:56,936",
+                  "- [Brynn] None."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:01:57,870 --> 00:01:58,980",
+                  "- It's humans."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:02:01,540 --> 00:02:03,563",
+                  "- Because cats and dogs..."
+               ],
+               [
+                  "00:02:03,563 --> 00:02:05,790",
+                  "Because they walk on their paws"
+               ],
+               [
+                  "00:02:05,790 --> 00:02:08,970",
+                  "and their ears are like"
+               ],
+               [
+                  "00:02:05,790 --> 00:02:08,970",
+                  "right here, not right here,"
+               ],
+               [
+                  "00:02:08,970 --> 00:02:10,453",
+                  "and they don't wear watches."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:02:51,440 --> 00:02:52,890",
+                  "- Yeah, I have."
+               ],
+               [
+                  "00:02:52,890 --> 00:02:56,820",
+                  "After every unit, we have a"
+               ],
+               [
+                  "00:02:52,890 --> 00:02:56,820",
+                  "review and then we have a test."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":28,
+            "Sentence":[
+               [
+                  "00:02:59,890 --> 00:03:02,670",
+                  "- Well, just like everything"
+               ],
+               [
+                  "00:02:59,890 --> 00:03:02,670",
+                  "that's gonna be on the test"
+               ],
+               [
+                  "00:03:02,670 --> 00:03:03,830",
+                  "is on the review."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":30,
+            "Sentence":[
+               [
+                  "00:03:10,753 --> 00:03:11,586",
+                  "- Yeah."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":32,
+            "Sentence":[
+               [
+                  "00:03:32,623 --> 00:03:33,456",
+                  "- No."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":34,
+            "Sentence":[
+               [
+                  "00:03:47,940 --> 00:03:48,860",
+                  "- Kind of."
+               ],
+               [
+                  "00:03:48,860 --> 00:03:52,970",
+                  "Because I kind of want to become a spy."
+               ],
+               [
+                  "00:03:52,970 --> 00:03:56,990",
+                  "And we used to do coding,"
+               ],
+               [
+                  "00:03:56,990 --> 00:03:58,950",
+                  "so I may be kind of good at it."
+               ]
+            ]
+         }
+      ]
+   },
+   "3":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI?t=248",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:04:10,860 --> 00:04:11,693",
+                  "- Hello."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:04:14,330 --> 00:04:16,709",
+                  "- Yes, I just finished ninth grade."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:04:18,079 --> 00:04:19,809",
+                  "- Thank you. It's very exciting."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:04:22,089 --> 00:04:25,870",
+                  "- I'm going to assume that"
+               ],
+               [
+                  "00:04:22,089 --> 00:04:25,870",
+                  "it means humans being able"
+               ],
+               [
+                  "00:04:25,870 --> 00:04:30,870",
+                  "to teach machines or robots"
+               ],
+               [
+                  "00:04:25,870 --> 00:04:30,870",
+                  "how to learn themselves?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:04:50,190 --> 00:04:51,850",
+                  "- Yeah, Melanie Martinez."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:05:01,640 --> 00:05:02,650",
+                  "- I do not."
+               ],
+               [
+                  "00:05:02,650 --> 00:05:05,140",
+                  "So let's listen to a hint of this song."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:05:16,030 --> 00:05:16,920",
+                  "- All right."
+               ],
+               [
+                  "00:05:16,920 --> 00:05:20,050",
+                  "So why do you think Spotify"
+               ],
+               [
+                  "00:05:16,920 --> 00:05:20,050",
+                  "might've recommended that song?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:05:28,530 --> 00:05:30,480",
+                  "- And that's actually a"
+               ],
+               [
+                  "00:05:28,530 --> 00:05:30,480",
+                  "really interesting thing"
+               ],
+               [
+                  "00:05:30,480 --> 00:05:33,330",
+                  "to think about because that creepy vibe"
+               ],
+               [
+                  "00:05:33,330 --> 00:05:36,910",
+                  "is something that you can"
+               ],
+               [
+                  "00:05:33,330 --> 00:05:36,910",
+                  "perceive and I can perceive,"
+               ],
+               [
+                  "00:05:36,910 --> 00:05:39,680",
+                  "but it's actually really hard"
+               ],
+               [
+                  "00:05:36,910 --> 00:05:39,680",
+                  "to describe to a machine."
+               ],
+               [
+                  "00:05:39,680 --> 00:05:41,630",
+                  "What do you think might go into that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:05:49,360 --> 00:05:50,300",
+                  "- It's a great question."
+               ],
+               [
+                  "00:05:50,300 --> 00:05:51,870",
+                  "The machine can understand"
+               ],
+               [
+                  "00:05:51,870 --> 00:05:54,040",
+                  "whatever we tell it to understand."
+               ],
+               [
+                  "00:05:54,040 --> 00:05:56,850",
+                  "So there might be a person"
+               ],
+               [
+                  "00:05:54,040 --> 00:05:56,850",
+                  "thinking about things,"
+               ],
+               [
+                  "00:05:56,850 --> 00:05:59,930",
+                  "like the pitch or the pacing or the tone,"
+               ],
+               [
+                  "00:05:59,930 --> 00:06:02,160",
+                  "or sometimes machines can figure out"
+               ],
+               [
+                  "00:06:02,160 --> 00:06:06,010",
+                  "things about music or images or videos"
+               ],
+               [
+                  "00:06:06,010 --> 00:06:09,150",
+                  "that we don't tell it to discover,"
+               ],
+               [
+                  "00:06:09,150 --> 00:06:10,610",
+                  "but that it can learn"
+               ],
+               [
+                  "00:06:10,610 --> 00:06:13,280",
+                  "from looking at a lot"
+               ],
+               [
+                  "00:06:10,610 --> 00:06:13,280",
+                  "of different examples."
+               ],
+               [
+                  "00:06:13,280 --> 00:06:15,970",
+                  "Why do you think companies"
+               ],
+               [
+                  "00:06:13,280 --> 00:06:15,970",
+                  "might use machine learning?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":20,
+            "Sentence":[
+               [
+                  "00:06:22,120 --> 00:06:25,160",
+                  "- Sometimes, the ads you"
+               ],
+               [
+                  "00:06:22,120 --> 00:06:25,160",
+                  "see are really uncanny."
+               ],
+               [
+                  "00:06:25,160 --> 00:06:29,230",
+                  "And I think that's because"
+               ],
+               [
+                  "00:06:25,160 --> 00:06:29,230",
+                  "they're based on so much data."
+               ],
+               [
+                  "00:06:29,230 --> 00:06:32,830",
+                  "They know where you live. They"
+               ],
+               [
+                  "00:06:29,230 --> 00:06:32,830",
+                  "know where your device is."
+               ],
+               [
+                  "00:06:32,830 --> 00:06:36,130",
+                  "It's also important to realize"
+               ],
+               [
+                  "00:06:32,830 --> 00:06:36,130",
+                  "that people in aggregate"
+               ],
+               [
+                  "00:06:36,130 --> 00:06:37,990",
+                  "are actually pretty predictable."
+               ],
+               [
+                  "00:06:37,990 --> 00:06:39,290",
+                  "Like when we talk to each other,"
+               ],
+               [
+                  "00:06:39,290 --> 00:06:41,610",
+                  "we like to talk about the novel things,"
+               ],
+               [
+                  "00:06:41,610 --> 00:06:43,330",
+                  "like here, we're having this conversation."
+               ],
+               [
+                  "00:06:43,330 --> 00:06:44,740",
+                  "We don't do this every day."
+               ],
+               [
+                  "00:06:44,740 --> 00:06:46,890",
+                  "But we probably still eat breakfast."
+               ],
+               [
+                  "00:06:46,890 --> 00:06:48,540",
+                  "We're gonna eat lunch."
+               ],
+               [
+                  "00:06:46,890 --> 00:06:48,540",
+                  "We're gonna eat dinner."
+               ],
+               [
+                  "00:06:48,540 --> 00:06:50,420",
+                  "You probably are going to the same home"
+               ],
+               [
+                  "00:06:50,420 --> 00:06:52,110",
+                  "you go to most of the time."
+               ],
+               [
+                  "00:06:52,110 --> 00:06:54,560",
+                  "And so, they're able to take that data"
+               ],
+               [
+                  "00:06:54,560 --> 00:06:57,930",
+                  "that we already give them and"
+               ],
+               [
+                  "00:06:54,560 --> 00:06:57,930",
+                  "make predictions based on that"
+               ],
+               [
+                  "00:06:57,930 --> 00:07:00,540",
+                  "as to what ads they should show us."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":22,
+            "Sentence":[
+               [
+                  "00:07:16,013 --> 00:07:17,340",
+                  "- That's right."
+               ],
+               [
+                  "00:07:17,340 --> 00:07:20,290",
+                  "To do machine learning, we use"
+               ],
+               [
+                  "00:07:17,340 --> 00:07:20,290",
+                  "something called algorithms."
+               ],
+               [
+                  "00:07:20,290 --> 00:07:22,260",
+                  "Have you heard of algorithms before?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":24,
+            "Sentence":[
+               [
+                  "00:07:27,453 --> 00:07:28,286",
+                  "- That's right."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":26,
+            "Sentence":[
+               [
+                  "00:07:41,360 --> 00:07:44,350",
+                  "- So there are things that"
+               ],
+               [
+                  "00:07:41,360 --> 00:07:44,350",
+                  "machines are really great at"
+               ],
+               [
+                  "00:07:44,350 --> 00:07:46,410",
+                  "that humans are actually not great at."
+               ],
+               [
+                  "00:07:46,410 --> 00:07:50,580",
+                  "And imagine watching every video"
+               ],
+               [
+                  "00:07:46,410 --> 00:07:50,580",
+                  "posted to TikTok every day."
+               ],
+               [
+                  "00:07:50,580 --> 00:07:53,570",
+                  "So we just don't have"
+               ],
+               [
+                  "00:07:50,580 --> 00:07:53,570",
+                  "enough time to do that"
+               ],
+               [
+                  "00:07:53,570 --> 00:07:57,080",
+                  "at the rate at which we can"
+               ],
+               [
+                  "00:07:53,570 --> 00:07:57,080",
+                  "actually watch those videos."
+               ],
+               [
+                  "00:07:57,080 --> 00:07:59,430",
+                  "But a machine can analyze all of them"
+               ],
+               [
+                  "00:07:59,430 --> 00:08:01,630",
+                  "and then make recommendations to us."
+               ],
+               [
+                  "00:08:01,630 --> 00:08:05,480",
+                  "And then thinking about things"
+               ],
+               [
+                  "00:08:01,630 --> 00:08:05,480",
+                  "that machines are bad at"
+               ],
+               [
+                  "00:08:05,480 --> 00:08:08,200",
+                  "and people are good at,"
+               ],
+               [
+                  "00:08:05,480 --> 00:08:08,200",
+                  "people are really great"
+               ],
+               [
+                  "00:08:08,200 --> 00:08:11,940",
+                  "with only one or two examples"
+               ],
+               [
+                  "00:08:08,200 --> 00:08:11,940",
+                  "of learning something new"
+               ],
+               [
+                  "00:08:11,940 --> 00:08:14,550",
+                  "and incorporating that"
+               ],
+               [
+                  "00:08:11,940 --> 00:08:14,550",
+                  "into our model of the world"
+               ],
+               [
+                  "00:08:14,550 --> 00:08:16,130",
+                  "to make good decisions."
+               ],
+               [
+                  "00:08:16,130 --> 00:08:19,490",
+                  "Whereas machines often need"
+               ],
+               [
+                  "00:08:16,130 --> 00:08:19,490",
+                  "tens of thousands of examples,"
+               ],
+               [
+                  "00:08:19,490 --> 00:08:23,280",
+                  "and that's not even getting"
+               ],
+               [
+                  "00:08:19,490 --> 00:08:23,280",
+                  "into things like good judgment"
+               ],
+               [
+                  "00:08:23,280 --> 00:08:25,010",
+                  "because we care about people,"
+               ],
+               [
+                  "00:08:25,010 --> 00:08:29,210",
+                  "because we can imagine a"
+               ],
+               [
+                  "00:08:25,010 --> 00:08:29,210",
+                  "future that we want to live in"
+               ],
+               [
+                  "00:08:29,210 --> 00:08:31,080",
+                  "that doesn't exist today."
+               ],
+               [
+                  "00:08:31,080 --> 00:08:33,460",
+                  "And that's something that"
+               ],
+               [
+                  "00:08:31,080 --> 00:08:33,460",
+                  "is still uniquely human."
+               ],
+               [
+                  "00:08:33,460 --> 00:08:35,000",
+                  "Machines are great at predicting"
+               ],
+               [
+                  "00:08:35,000 --> 00:08:36,980",
+                  "based on what they've seen in the past,"
+               ],
+               [
+                  "00:08:36,980 --> 00:08:38,080",
+                  "but they're not creative."
+               ],
+               [
+                  "00:08:38,080 --> 00:08:39,500",
+                  "They're not going to invent."
+               ],
+               [
+                  "00:08:39,500 --> 00:08:40,789",
+                  "They're not gonna, you know,"
+               ],
+               [
+                  "00:08:40,789 --> 00:08:42,529",
+                  "really change where we're gonna go."
+               ],
+               [
+                  "00:08:42,530 --> 00:08:43,842",
+                  "That's up to us."
+               ]
+            ]
+         }
+      ]
+   },
+   "4":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI?t=525",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:08:49,880 --> 00:08:51,050",
+                  "- I'm Sunny."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:08:52,600 --> 00:08:54,510",
+                  "- I study Math and Computer Science."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:08:58,830 --> 00:08:59,778",
+                  "- Yeah, I have."
+               ],
+               [
+                  "00:08:59,778 --> 00:09:04,778",
+                  "So to me, machine learning is essentially"
+               ],
+               [
+                  "00:09:04,850 --> 00:09:06,190",
+                  "exactly what it sounds like."
+               ],
+               [
+                  "00:09:06,190 --> 00:09:11,190",
+                  "It's trying to teach a machine"
+               ],
+               [
+                  "00:09:06,190 --> 00:09:11,190",
+                  "specifics about something"
+               ],
+               [
+                  "00:09:11,600 --> 00:09:14,150",
+                  "by inputting a lot of data points"
+               ],
+               [
+                  "00:09:14,150 --> 00:09:18,930",
+                  "and slowly, the machine"
+               ],
+               [
+                  "00:09:14,150 --> 00:09:18,930",
+                  "will build up knowledge"
+               ],
+               [
+                  "00:09:18,930 --> 00:09:20,090",
+                  "about it over time."
+               ],
+               [
+                  "00:09:20,090 --> 00:09:22,200",
+                  "For example, my Gmail program,"
+               ],
+               [
+                  "00:09:22,200 --> 00:09:23,890",
+                  "I assume that there"
+               ],
+               [
+                  "00:09:22,200 --> 00:09:23,890",
+                  "would be a lot of, like,"
+               ],
+               [
+                  "00:09:23,890 --> 00:09:26,750",
+                  "machine learning models"
+               ],
+               [
+                  "00:09:23,890 --> 00:09:26,750",
+                  "happening at once, right?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:09:41,680 --> 00:09:43,810",
+                  "- I'd probably look at certain keywords."
+               ],
+               [
+                  "00:09:43,810 --> 00:09:46,550",
+                  "Maybe if the recipient and the sender"
+               ],
+               [
+                  "00:09:46,550 --> 00:09:48,490",
+                  "had exchanged emails before"
+               ],
+               [
+                  "00:09:48,490 --> 00:09:52,320",
+                  "and generally, those"
+               ],
+               [
+                  "00:09:48,490 --> 00:09:52,320",
+                  "fell into in the past."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:13:33,760 --> 00:13:36,730",
+                  "- You build a system that"
+               ],
+               [
+                  "00:13:33,760 --> 00:13:36,730",
+                  "could actually be useless."
+               ],
+               [
+                  "00:13:36,730 --> 00:13:40,470",
+                  "So years ago, I had a client"
+               ],
+               [
+                  "00:13:36,730 --> 00:13:40,470",
+                  "that was a big telecom company"
+               ],
+               [
+                  "00:13:40,470 --> 00:13:42,470",
+                  "and they had a data scientist"
+               ],
+               [
+                  "00:13:42,470 --> 00:13:45,590",
+                  "who built a deep learning system"
+               ],
+               [
+                  "00:13:42,470 --> 00:13:45,590",
+                  "to predict customer churn."
+               ],
+               [
+                  "00:13:45,590 --> 00:13:48,600",
+                  "It actually was very"
+               ],
+               [
+                  "00:13:45,590 --> 00:13:48,600",
+                  "accurate, but it wasn't useful"
+               ],
+               [
+                  "00:13:48,600 --> 00:13:52,210",
+                  "because nobody knew why the"
+               ],
+               [
+                  "00:13:48,600 --> 00:13:52,210",
+                  "prediction was what it was."
+               ],
+               [
+                  "00:13:52,210 --> 00:13:53,707",
+                  "So they could say, you know,"
+               ],
+               [
+                  "00:13:53,707 --> 00:13:55,820",
+                  "Sunny, you're likely to quit next month."
+               ],
+               [
+                  "00:13:55,820 --> 00:13:58,420",
+                  "But they had no idea what to do about it."
+               ],
+               [
+                  "00:13:58,420 --> 00:14:01,040",
+                  "And so, I think there are"
+               ],
+               [
+                  "00:13:58,420 --> 00:14:01,040",
+                  "a bunch of failure modes."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:14:11,660 --> 00:14:12,493",
+                  "- Yeah."
+               ],
+               [
+                  "00:14:12,493 --> 00:14:15,680",
+                  "This is actually a good"
+               ],
+               [
+                  "00:14:12,493 --> 00:14:15,680",
+                  "example of a very real world"
+               ],
+               [
+                  "00:14:15,680 --> 00:14:19,840",
+                  "kind of machine learning problem"
+               ],
+               [
+                  "00:14:15,680 --> 00:14:19,840",
+                  "where the solution to this"
+               ],
+               [
+                  "00:14:19,840 --> 00:14:21,920",
+                  "was to build an interpretable system"
+               ],
+               [
+                  "00:14:21,920 --> 00:14:24,960",
+                  "on top of the accurate"
+               ],
+               [
+                  "00:14:21,920 --> 00:14:24,960",
+                  "predictions not to throw it away,"
+               ],
+               [
+                  "00:14:24,960 --> 00:14:27,410",
+                  "but to do a bunch more"
+               ],
+               [
+                  "00:14:24,960 --> 00:14:27,410",
+                  "work to figure out the why."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:14:30,770 --> 00:14:33,760",
+                  "- It's actually fairly new"
+               ],
+               [
+                  "00:14:33,760 --> 00:14:36,300",
+                  "that we're able to solve"
+               ],
+               [
+                  "00:14:33,760 --> 00:14:36,300",
+                  "all of these problems"
+               ],
+               [
+                  "00:14:36,300 --> 00:14:39,410",
+                  "and start to build these products"
+               ],
+               [
+                  "00:14:36,300 --> 00:14:39,410",
+                  "and apply it in businesses"
+               ],
+               [
+                  "00:14:39,410 --> 00:14:41,870",
+                  "and apply it, you know, everywhere."
+               ],
+               [
+                  "00:14:41,870 --> 00:14:44,970",
+                  "And so, we're still"
+               ],
+               [
+                  "00:14:41,870 --> 00:14:44,970",
+                  "developing good practices"
+               ],
+               [
+                  "00:14:44,970 --> 00:14:48,790",
+                  "and what it means to be a"
+               ],
+               [
+                  "00:14:44,970 --> 00:14:48,790",
+                  "professional in machine learning."
+               ],
+               [
+                  "00:14:48,790 --> 00:14:51,782",
+                  "We're really developing a"
+               ],
+               [
+                  "00:14:48,790 --> 00:14:51,782",
+                  "notion of what good looks like."
+               ]
+            ]
+         }
+      ]
+   },
+   "5":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI?t=892",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:14:55,110 --> 00:14:59,490",
+                  "- I'm in my first year of"
+               ],
+               [
+                  "00:14:55,110 --> 00:14:59,490",
+                  "a PhD in Computer Science"
+               ],
+               [
+                  "00:14:59,490 --> 00:15:02,170",
+                  "and I'm studying natural"
+               ],
+               [
+                  "00:14:59,490 --> 00:15:02,170",
+                  "language processing"
+               ],
+               [
+                  "00:15:02,170 --> 00:15:03,100",
+                  "and machine learning."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:15:07,090 --> 00:15:10,000",
+                  "- I've been looking at"
+               ],
+               [
+                  "00:15:07,090 --> 00:15:10,000",
+                  "understanding persuasion"
+               ],
+               [
+                  "00:15:10,000 --> 00:15:15,000",
+                  "in online text and the ways"
+               ],
+               [
+                  "00:15:10,000 --> 00:15:15,000",
+                  "that we might be able to"
+               ],
+               [
+                  "00:15:15,030 --> 00:15:18,500",
+                  "automatically detect the"
+               ],
+               [
+                  "00:15:15,030 --> 00:15:18,500",
+                  "intent behind that persuasion"
+               ],
+               [
+                  "00:15:18,500 --> 00:15:20,040",
+                  "or who it's targeted at"
+               ],
+               [
+                  "00:15:20,040 --> 00:15:22,670",
+                  "and what makes effective"
+               ],
+               [
+                  "00:15:20,040 --> 00:15:22,670",
+                  "persuasive techniques."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:15:26,850 --> 00:15:28,740",
+                  "- Something I'm interested in exploring"
+               ],
+               [
+                  "00:15:28,740 --> 00:15:32,920",
+                  "is how well it works to use deep learning"
+               ],
+               [
+                  "00:15:32,920 --> 00:15:36,150",
+                  "and sort of automatically"
+               ],
+               [
+                  "00:15:32,920 --> 00:15:36,150",
+                  "extracted features from this text"
+               ],
+               [
+                  "00:15:36,150 --> 00:15:38,800",
+                  "versus using some of the"
+               ],
+               [
+                  "00:15:36,150 --> 00:15:38,800",
+                  "more traditional techniques"
+               ],
+               [
+                  "00:15:38,800 --> 00:15:41,300",
+                  "that we have, things like lexicons"
+               ],
+               [
+                  "00:15:41,300 --> 00:15:43,580",
+                  "or some sort of template"
+               ],
+               [
+                  "00:15:41,300 --> 00:15:43,580",
+                  "matching techniques"
+               ],
+               [
+                  "00:15:43,580 --> 00:15:46,470",
+                  "for extracting features from texts."
+               ],
+               [
+                  "00:15:46,470 --> 00:15:48,650",
+                  "That's a question I'm just"
+               ],
+               [
+                  "00:15:46,470 --> 00:15:48,650",
+                  "interested in, in general."
+               ],
+               [
+                  "00:15:48,650 --> 00:15:50,140",
+                  "When do we really need deep learning"
+               ],
+               [
+                  "00:15:50,140 --> 00:15:52,100",
+                  "versus when can we use something"
+               ],
+               [
+                  "00:15:52,100 --> 00:15:53,620",
+                  "that's a little bit more interpretable,"
+               ],
+               [
+                  "00:15:53,620 --> 00:15:55,150",
+                  "something that's been around for a while?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:16:05,980 --> 00:16:08,270",
+                  "- I definitely think there is,"
+               ],
+               [
+                  "00:16:08,270 --> 00:16:11,570",
+                  "but I also, sort of, see it varying a lot"
+               ],
+               [
+                  "00:16:11,570 --> 00:16:12,780",
+                  "based on the use case,"
+               ],
+               [
+                  "00:16:12,780 --> 00:16:15,520",
+                  "something that, kind"
+               ],
+               [
+                  "00:16:12,780 --> 00:16:15,520",
+                  "of, works out of the box"
+               ],
+               [
+                  "00:16:15,520 --> 00:16:17,770",
+                  "and maybe works a little"
+               ],
+               [
+                  "00:16:15,520 --> 00:16:17,770",
+                  "bit more automatically"
+               ],
+               [
+                  "00:16:17,770 --> 00:16:18,603",
+                  "might be better."
+               ],
+               [
+                  "00:16:18,603 --> 00:16:21,020",
+                  "And in other cases, you"
+               ],
+               [
+                  "00:16:18,603 --> 00:16:21,020",
+                  "do, sort of, kind of,"
+               ],
+               [
+                  "00:16:21,020 --> 00:16:22,860",
+                  "you want a lot of fine grain control."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:16:28,940 --> 00:16:30,100",
+                  "- Yeah, if you're building a model"
+               ],
+               [
+                  "00:16:30,100 --> 00:16:31,970",
+                  "that just predicts the next thing"
+               ],
+               [
+                  "00:16:31,970 --> 00:16:34,790",
+                  "based off of everything"
+               ],
+               [
+                  "00:16:31,970 --> 00:16:34,790",
+                  "it's seen from texts online,"
+               ],
+               [
+                  "00:16:34,790 --> 00:16:37,350",
+                  "then yeah, you're really"
+               ],
+               [
+                  "00:16:34,790 --> 00:16:37,350",
+                  "gonna be replicating"
+               ],
+               [
+                  "00:16:37,350 --> 00:16:39,550",
+                  "whatever that distribution online is."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:16:58,490 --> 00:17:01,160",
+                  "- Yeah, it's a really tricky question."
+               ],
+               [
+                  "00:17:01,160 --> 00:17:03,720",
+                  "As you said, these models are"
+               ],
+               [
+                  "00:17:01,160 --> 00:17:03,720",
+                  "trained to, sort of, predict"
+               ],
+               [
+                  "00:17:03,720 --> 00:17:05,339",
+                  "the next sequence of words,"
+               ],
+               [
+                  "00:17:05,339 --> 00:17:06,909",
+                  "given a certain sequence of words."
+               ],
+               [
+                  "00:17:06,910 --> 00:17:09,160",
+                  "So we could start with"
+               ],
+               [
+                  "00:17:06,910 --> 00:17:09,160",
+                  "just, sort of, prompts"
+               ],
+               [
+                  "00:17:09,160 --> 00:17:11,859",
+                  "like \"the woman was\" versus \"the man was\","
+               ],
+               [
+                  "00:17:11,859 --> 00:17:13,989",
+                  "and, kind of, pull out common words"
+               ],
+               [
+                  "00:17:13,990 --> 00:17:15,390",
+                  "that are, sort of, more used"
+               ],
+               [
+                  "00:17:15,390 --> 00:17:17,710",
+                  "with one phrase versus the other."
+               ],
+               [
+                  "00:17:17,710 --> 00:17:20,880",
+                  "So that's, sort of, a"
+               ],
+               [
+                  "00:17:17,710 --> 00:17:20,880",
+                  "qualitative way of looking at it."
+               ],
+               [
+                  "00:17:20,880 --> 00:17:24,150",
+                  "It's not ever kind of a"
+               ],
+               [
+                  "00:17:20,880 --> 00:17:24,150",
+                  "guarantee of how the model"
+               ],
+               [
+                  "00:17:24,150 --> 00:17:26,270",
+                  "is gonna behave in one"
+               ],
+               [
+                  "00:17:24,150 --> 00:17:26,270",
+                  "particular instance."
+               ],
+               [
+                  "00:17:26,270 --> 00:17:28,569",
+                  "And I think that's what's really tricky"
+               ],
+               [
+                  "00:17:28,569 --> 00:17:30,610",
+                  "and that's why I, sort"
+               ],
+               [
+                  "00:17:28,569 --> 00:17:30,610",
+                  "of, think it's really good"
+               ],
+               [
+                  "00:17:30,610 --> 00:17:33,720",
+                  "for creators of systems to just be honest"
+               ],
+               [
+                  "00:17:33,720 --> 00:17:36,270",
+                  "about, \"This is, sort"
+               ],
+               [
+                  "00:17:33,720 --> 00:17:36,270",
+                  "of, what we have seen.\""
+               ],
+               [
+                  "00:17:36,270 --> 00:17:38,677",
+                  "And so then, someone can make"
+               ],
+               [
+                  "00:17:36,270 --> 00:17:38,677",
+                  "their own judgment about,"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:17:54,510 --> 00:17:59,510",
+                  "- I'm really interested in,"
+               ],
+               [
+                  "00:17:54,510 --> 00:17:59,510",
+                  "sort of, the creative potential"
+               ],
+               [
+                  "00:18:00,280 --> 00:18:02,980",
+                  "that we've started to see from NLP systems"
+               ],
+               [
+                  "00:18:02,980 --> 00:18:04,490",
+                  "with things like GPT-3"
+               ],
+               [
+                  "00:18:04,490 --> 00:18:06,210",
+                  "and other really powerful language models."
+               ],
+               [
+                  "00:18:06,210 --> 00:18:10,990",
+                  "It's really easy to write"
+               ],
+               [
+                  "00:18:06,210 --> 00:18:10,990",
+                  "long grammatical passages"
+               ],
+               [
+                  "00:18:10,990 --> 00:18:13,580",
+                  "thinking about the way that"
+               ],
+               [
+                  "00:18:10,990 --> 00:18:13,580",
+                  "we can then harness, like,"
+               ],
+               [
+                  "00:18:13,580 --> 00:18:16,320",
+                  "the human ability to actually"
+               ],
+               [
+                  "00:18:13,580 --> 00:18:16,320",
+                  "give meaning to those words"
+               ],
+               [
+                  "00:18:16,320 --> 00:18:17,950",
+                  "and, sort of, provide structure"
+               ],
+               [
+                  "00:18:17,950 --> 00:18:20,640",
+                  "and how we can combine those"
+               ],
+               [
+                  "00:18:17,950 --> 00:18:20,640",
+                  "things with the, kind of like,"
+               ],
+               [
+                  "00:18:20,640 --> 00:18:22,930",
+                  "generative capabilities"
+               ],
+               [
+                  "00:18:20,640 --> 00:18:22,930",
+                  "of these models now"
+               ],
+               [
+                  "00:18:22,930 --> 00:18:23,860",
+                  "is really interesting."
+               ]
+            ]
+         }
+      ]
+   },
+   "6":{
+      "youtube_link":"https://youtu.be/5q87K1WaoFI?t=1104",
+      "wired_link":"https://www.wired.com/video/watch/5-levels-machine-learning",
+      "dialog":[
+         {
+            "Reciever":1,
+            "Sequence":2,
+            "Sentence":[
+               [
+                  "00:18:29,437 --> 00:18:30,930",
+                  "- It has been far too long."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":4,
+            "Sentence":[
+               [
+                  "00:18:36,810 --> 00:18:39,850",
+                  "- Tooling that we now have, the capacity,"
+               ],
+               [
+                  "00:18:39,850 --> 00:18:43,520",
+                  "and also, an elevation of the problem sets"
+               ],
+               [
+                  "00:18:43,520 --> 00:18:47,150",
+                  "that we're dealing with and"
+               ],
+               [
+                  "00:18:43,520 --> 00:18:47,150",
+                  "how to frame the problem."
+               ],
+               [
+                  "00:18:47,150 --> 00:18:50,730",
+                  "And I'm almost struggling to figure out"
+               ],
+               [
+                  "00:18:50,730 --> 00:18:54,670",
+                  "whether it's a blessing or"
+               ],
+               [
+                  "00:18:50,730 --> 00:18:54,670",
+                  "curse that it has become"
+               ],
+               [
+                  "00:18:54,670 --> 00:18:59,670",
+                  "as accessible and as democratized"
+               ],
+               [
+                  "00:18:54,670 --> 00:18:59,670",
+                  "and as easy to execute"
+               ],
+               [
+                  "00:18:59,830 --> 00:19:03,000",
+                  "and you just build another"
+               ],
+               [
+                  "00:18:59,830 --> 00:19:03,000",
+                  "new company from scratch."
+               ],
+               [
+                  "00:19:03,000 --> 00:19:05,450",
+                  "And so, what's been, kind"
+               ],
+               [
+                  "00:19:03,000 --> 00:19:05,450",
+                  "of, your reflection on that?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":6,
+            "Sentence":[
+               [
+                  "00:19:42,530 --> 00:19:44,850",
+                  "- In contrast, what I'm struggling with,"
+               ],
+               [
+                  "00:19:44,850 --> 00:19:46,400",
+                  "the friend of mine who asked me"
+               ],
+               [
+                  "00:19:46,400 --> 00:19:49,080",
+                  "to look at some health care data for him."
+               ],
+               [
+                  "00:19:49,080 --> 00:19:52,020",
+                  "And despite the capabilities"
+               ],
+               [
+                  "00:19:49,080 --> 00:19:52,020",
+                  "that we're having"
+               ],
+               [
+                  "00:19:52,020 --> 00:19:55,180",
+                  "in all of the, kind of,"
+               ],
+               [
+                  "00:19:52,020 --> 00:19:55,180",
+                  "bigger societal problems"
+               ],
+               [
+                  "00:19:55,180 --> 00:19:58,480",
+                  "alongside with data"
+               ],
+               [
+                  "00:19:55,180 --> 00:19:58,480",
+                  "collection engineering,"
+               ],
+               [
+                  "00:19:58,480 --> 00:19:59,960",
+                  "all the gnarly stuff,"
+               ],
+               [
+                  "00:19:59,960 --> 00:20:02,960",
+                  "that is actually not the"
+               ],
+               [
+                  "00:19:59,960 --> 00:20:02,960",
+                  "machine learning itself,"
+               ],
+               [
+                  "00:20:02,960 --> 00:20:07,020",
+                  "it's the rest of it where"
+               ],
+               [
+                  "00:20:02,960 --> 00:20:07,020",
+                  "certain data isn't available."
+               ],
+               [
+                  "00:20:07,020 --> 00:20:10,140",
+                  "And to me, it's staggering"
+               ],
+               [
+                  "00:20:07,020 --> 00:20:10,140",
+                  "how difficult it is"
+               ],
+               [
+                  "00:20:10,140 --> 00:20:12,692",
+                  "to get it off the ground and actually use."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":8,
+            "Sentence":[
+               [
+                  "00:20:23,660 --> 00:20:25,880",
+                  "- And how transparent"
+               ],
+               [
+                  "00:20:23,660 --> 00:20:25,880",
+                  "do I need to build it"
+               ],
+               [
+                  "00:20:25,880 --> 00:20:28,420",
+                  "for it to be adopted at some point?"
+               ],
+               [
+                  "00:20:28,420 --> 00:20:32,900",
+                  "What types of biases"
+               ],
+               [
+                  "00:20:28,420 --> 00:20:32,900",
+                  "in the data collection,"
+               ],
+               [
+                  "00:20:32,900 --> 00:20:34,930",
+                  "and then also in the usage?"
+               ],
+               [
+                  "00:20:34,930 --> 00:20:37,520",
+                  "We now call it the bias,"
+               ],
+               [
+                  "00:20:34,930 --> 00:20:37,520",
+                  "but we're still struggling"
+               ],
+               [
+                  "00:20:37,520 --> 00:20:41,880",
+                  "with the society not really"
+               ],
+               [
+                  "00:20:37,520 --> 00:20:41,880",
+                  "living up to its expectations"
+               ],
+               [
+                  "00:20:41,880 --> 00:20:44,490",
+                  "and then machine learning,"
+               ],
+               [
+                  "00:20:41,880 --> 00:20:44,490",
+                  "bringing it to the forefront."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":10,
+            "Sentence":[
+               [
+                  "00:21:02,770 --> 00:21:05,220",
+                  "- Feeling increasingly challenged"
+               ],
+               [
+                  "00:21:05,220 --> 00:21:09,150",
+                  "that my skillset of being"
+               ],
+               [
+                  "00:21:05,220 --> 00:21:09,150",
+                  "very good at programming"
+               ],
+               [
+                  "00:21:09,150 --> 00:21:10,950",
+                  "has become somewhat secondary."
+               ],
+               [
+                  "00:21:10,950 --> 00:21:11,936",
+                  "And it's feeling..."
+               ],
+               [
+                  "00:21:11,936 --> 00:21:12,793",
+                  "[both laugh]"
+               ],
+               [
+                  "00:21:12,793 --> 00:21:15,790",
+                  "It's really the bigger"
+               ],
+               [
+                  "00:21:12,793 --> 00:21:15,790",
+                  "picture understanding"
+               ],
+               [
+                  "00:21:15,790 --> 00:21:17,570",
+                  "of \"Who would be using that?"
+               ],
+               [
+                  "00:21:17,570 --> 00:21:19,650",
+                  "How transparent do I need to build it"
+               ],
+               [
+                  "00:21:19,650 --> 00:21:21,970",
+                  "for it to be adopted at some point?"
+               ],
+               [
+                  "00:21:21,970 --> 00:21:26,420",
+                  "What types of biases"
+               ],
+               [
+                  "00:21:21,970 --> 00:21:26,420",
+                  "in the data collection"
+               ],
+               [
+                  "00:21:26,420 --> 00:21:28,050",
+                  "and then also in the usage?\""
+               ],
+               [
+                  "00:21:28,050 --> 00:21:32,090",
+                  "I think, in certain areas,"
+               ],
+               [
+                  "00:21:28,050 --> 00:21:32,090",
+                  "we have societal expectations"
+               ],
+               [
+                  "00:21:32,090 --> 00:21:35,040",
+                  "as to what is fair and what isn't."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":12,
+            "Sentence":[
+               [
+                  "00:21:57,470 --> 00:22:00,800",
+                  "- What have you seen in"
+               ],
+               [
+                  "00:21:57,470 --> 00:22:00,800",
+                  "terms of which industries,"
+               ],
+               [
+                  "00:22:00,800 --> 00:22:03,610",
+                  "where they stand, like"
+               ],
+               [
+                  "00:22:00,800 --> 00:22:03,610",
+                  "who is adopting now?"
+               ],
+               [
+                  "00:22:03,610 --> 00:22:06,550",
+                  "Who is ready to utilize it?"
+               ],
+               [
+                  "00:22:06,550 --> 00:22:09,158",
+                  "Where would you maybe"
+               ],
+               [
+                  "00:22:06,550 --> 00:22:09,158",
+                  "wish that didn't even try?"
+               ],
+               [
+                  "00:22:09,158 --> 00:22:10,330",
+                  "[Hilary laughs]"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":14,
+            "Sentence":[
+               [
+                  "00:22:30,030 --> 00:22:33,930",
+                  "- So I spent about eight"
+               ],
+               [
+                  "00:22:30,030 --> 00:22:33,930",
+                  "years working in ad tech."
+               ],
+               [
+                  "00:22:33,930 --> 00:22:37,280",
+                  "And the motivation was really"
+               ],
+               [
+                  "00:22:37,280 --> 00:22:41,330",
+                  "because it was such an"
+               ],
+               [
+                  "00:22:37,280 --> 00:22:41,330",
+                  "amazingly exciting playground"
+               ],
+               [
+                  "00:22:41,330 --> 00:22:43,720",
+                  "to push that technology"
+               ],
+               [
+                  "00:22:43,720 --> 00:22:47,053",
+                  "that used to largely"
+               ],
+               [
+                  "00:22:43,720 --> 00:22:47,053",
+                  "live in academia, really,"
+               ],
+               [
+                  "00:22:47,920 --> 00:22:50,820",
+                  "out in the world and see,"
+               ],
+               [
+                  "00:22:47,920 --> 00:22:50,820",
+                  "kind of, what it can achieve."
+               ],
+               [
+                  "00:22:50,820 --> 00:22:53,870",
+                  "It has created such a hunger for data"
+               ],
+               [
+                  "00:22:53,870 --> 00:22:56,890",
+                  "that now everything is being collected."
+               ],
+               [
+                  "00:22:56,890 --> 00:22:59,660",
+                  "I'm curious, when are we going to"
+               ],
+               [
+                  "00:23:01,080 --> 00:23:03,820",
+                  "make a foray into things like agriculture"
+               ],
+               [
+                  "00:23:03,820 --> 00:23:08,420",
+                  "about smart production"
+               ],
+               [
+                  "00:23:03,820 --> 00:23:08,420",
+                  "of the things we eat?"
+               ],
+               [
+                  "00:23:08,420 --> 00:23:10,440",
+                  "You see and hear these"
+               ],
+               [
+                  "00:23:08,420 --> 00:23:10,440",
+                  "interesting stories,"
+               ],
+               [
+                  "00:23:10,440 --> 00:23:13,030",
+                  "but I feel like we're not ready yet"
+               ],
+               [
+                  "00:23:13,030 --> 00:23:17,680",
+                  "to put that into a"
+               ],
+               [
+                  "00:23:13,030 --> 00:23:17,680",
+                  "economically viable situation."
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":16,
+            "Sentence":[
+               [
+                  "00:23:40,890 --> 00:23:44,370",
+                  "- I fully agree on the"
+               ],
+               [
+                  "00:23:40,890 --> 00:23:44,370",
+                  "steps you pointed out"
+               ],
+               [
+                  "00:23:44,370 --> 00:23:45,910",
+                  "and the processes."
+               ],
+               [
+                  "00:23:45,910 --> 00:23:48,130",
+                  "I think there is a"
+               ],
+               [
+                  "00:23:45,910 --> 00:23:48,130",
+                  "chicken and egg problem,"
+               ],
+               [
+                  "00:23:48,130 --> 00:23:49,430",
+                  "like your former example,"
+               ],
+               [
+                  "00:23:49,430 --> 00:23:54,430",
+                  "that these areas that"
+               ],
+               [
+                  "00:23:49,430 --> 00:23:54,430",
+                  "need to wait for data,"
+               ],
+               [
+                  "00:23:54,740 --> 00:23:56,530",
+                  "the value of the data collection"
+               ],
+               [
+                  "00:23:56,530 --> 00:23:59,470",
+                  "is then also slightly less apparent."
+               ],
+               [
+                  "00:23:59,470 --> 00:24:01,040",
+                  "And so, it gets delayed further"
+               ],
+               [
+                  "00:24:01,040 --> 00:24:02,890",
+                  "and you'll see that happening."
+               ],
+               [
+                  "00:24:02,890 --> 00:24:05,500",
+                  "But what my experience has been,"
+               ],
+               [
+                  "00:24:05,500 --> 00:24:09,110",
+                  "there's unfortunately,"
+               ],
+               [
+                  "00:24:05,500 --> 00:24:09,110",
+                  "I feel a drifting apart"
+               ],
+               [
+                  "00:24:09,110 --> 00:24:10,820",
+                  "between academia"
+               ],
+               [
+                  "00:24:10,820 --> 00:24:14,120",
+                  "and the uses of AI,"
+               ],
+               [
+                  "00:24:14,120 --> 00:24:19,120",
+                  "but I am somewhat frustrated"
+               ],
+               [
+                  "00:24:14,120 --> 00:24:19,120",
+                  "with a generation of students"
+               ],
+               [
+                  "00:24:19,290 --> 00:24:22,860",
+                  "who have standard data sets"
+               ],
+               [
+                  "00:24:19,290 --> 00:24:22,860",
+                  "that they never think about"
+               ],
+               [
+                  "00:24:22,860 --> 00:24:25,190",
+                  "what the model needs to be used for,"
+               ],
+               [
+                  "00:24:25,190 --> 00:24:26,740",
+                  "that they never have to think about"
+               ],
+               [
+                  "00:24:26,740 --> 00:24:28,360",
+                  "how the data was collected."
+               ],
+               [
+                  "00:24:28,360 --> 00:24:31,180",
+                  "So with all of these"
+               ],
+               [
+                  "00:24:28,360 --> 00:24:31,180",
+                  "challenges ahead of us,"
+               ],
+               [
+                  "00:24:31,180 --> 00:24:34,330",
+                  "how optimistic are you about this world"
+               ],
+               [
+                  "00:24:34,330 --> 00:24:38,110",
+                  "that I deeply believe we can create"
+               ],
+               [
+                  "00:24:38,110 --> 00:24:40,500",
+                  "and the steps towards it?"
+               ]
+            ]
+         },
+         {
+            "Reciever":1,
+            "Sequence":18,
+            "Sentence":[
+               [
+                  "00:25:10,700 --> 00:25:14,950",
+                  "- Despite that the"
+               ],
+               [
+                  "00:25:10,700 --> 00:25:14,950",
+                  "rightfully raised concerns"
+               ],
+               [
+                  "00:25:14,950 --> 00:25:16,210",
+                  "about the challenges ahead,"
+               ],
+               [
+                  "00:25:16,210 --> 00:25:20,300",
+                  "but I think they also make"
+               ],
+               [
+                  "00:25:16,210 --> 00:25:20,300",
+                  "us as a society better."
+               ],
+               [
+                  "00:25:20,300 --> 00:25:23,260",
+                  "They challenge us to be a lot clearer"
+               ],
+               [
+                  "00:25:23,260 --> 00:25:26,940",
+                  "of what fairness means to all of us."
+               ],
+               [
+                  "00:25:26,940 --> 00:25:30,440",
+                  "So with all of the setbacks,"
+               ],
+               [
+                  "00:25:30,440 --> 00:25:33,840",
+                  "I think we have exciting years to come."
+               ],
+               [
+                  "00:25:33,840 --> 00:25:37,810",
+                  "And I am looking forward to a"
+               ],
+               [
+                  "00:25:33,840 --> 00:25:37,810",
+                  "world where a lot more of that"
+               ],
+               [
+                  "00:25:37,810 --> 00:25:40,288",
+                  "is used for the right purposes."
+               ]
+            ]
+         }
+      ]
+   }
+}

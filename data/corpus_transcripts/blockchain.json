@@ -1,0 +1,1023 @@
+{
+  "1": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "1",
+        "Sentence": [
+          "My name is Bettina Warburg.",
+          "I'm a researcher of transformative technologies",
+          "and co-founder of Animal Ventures.",
+          "Today, I've been challenged to explain",
+          "one concept at five levels of increasing complexity.",
+          "My topic is blockchain technology.",
+          "Blockchain is a new network, and it's going to help us",
+          "decentralize trade, allowing us to do a lot",
+          "of our transactions much more peer to peer directly",
+          "and lower our use of intermediaries",
+          "like companies or banks maybe.",
+          "I think today everyone can leave understanding",
+          "something about blockchain at some level."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "1",
+        "Sentence": [
+          "Do you know what we're gonna talk about today?",
+          "It's called blockchain."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "3",
+        "Sentence": [
+          "That's a really good question.",
+          "It's actually a way that we can trade.",
+          "Do you know what trade is?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "5",
+        "Sentence": [
+          "When you give up most of what you want?",
+          "Well, sometimes that definitely happens for sure.",
+          "What if I told you that this is the kind of technology",
+          "that I work on that means you could trade",
+          "with any kid all over the world?"
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "7",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "9",
+        "Sentence": [
+          "That's probably a good idea, maybe somebody else",
+          "likes it more than you do.",
+          "So normally, when people trade, they have to go",
+          "to the store, or they have to know the person",
+          "so they can get what they asked for.",
+          "With blockchain, you can make that exact same trade,",
+          "but you don't need the store, and you don't even",
+          "necessarily need to know the other person."
+        ]
+      },
+      {
+        "Reciever": "2",
+        "Sequence": "11",
+        "Sentence": [
+          "Really."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "1",
+        "Sentence": [
+          "[Bettina] So Ian, do you know what blockchain is?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "3",
+        "Sentence": [
+          "Have you ever traded or sold anything?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "5",
+        "Sentence": [
+          "That's amazing.",
+          "What made you decide to trade on eBay?"
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "7",
+        "Sentence": [
+          "So what if I told you that blockchain technology",
+          "is basically a tool where you can do the exact same thing,",
+          "but it goes to you and I directly?",
+          "You wouldn't need an eBay or a brand in between."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "9",
+        "Sentence": [
+          "And there's a lot of those kinds of middlemen",
+          "in our society today, right?",
+          "We have a lot of banks."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "11",
+        "Sentence": [
+          "We have a lot of companies that sort of help us",
+          "make sure that our trades happen,",
+          "but if we could guarantee the same trade",
+          "using technology as sort of a technological trust,",
+          "then we wouldn't really need",
+          "all those middlemen in between."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "13",
+        "Sentence": [
+          "It's basically a network of computers",
+          "that all have the same history of transactions.",
+          "And so instead of sort of there being one company",
+          "with one database that holds all the information,",
+          "the same sort of list is held by all these different people.",
+          "Like, you could have it on your computer.",
+          "And then it gets validated by everyone,",
+          "and basically, that turns into the next part of the list.",
+          "So it's sort of constantly updating itself."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "15",
+        "Sentence": [
+          "So it use cryptography, and that helps it basically",
+          "encode all of the transactions.",
+          "So you can't really see exactly what happened,",
+          "but you can know it happened because it's like a marker."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "17",
+        "Sentence": [
+          "Yeah, exactly."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "19",
+        "Sentence": [
+          "[Bettina] Exactly."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "21",
+        "Sentence": [
+          "So it's kinda this like really big ledger",
+          "or accounting system for all sorts of things",
+          "that get traded, but instead of being owned",
+          "by one company, it's owned by everybody."
+        ]
+      },
+      {
+        "Reciever": "3",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "1",
+        "Sentence": [
+          "We're gonna talk about blockchain technology.",
+          "Have you heard of blockchain?"
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "3",
+        "Sentence": [
+          "When we were much smaller societies,",
+          "you and I could trade in our community pretty easily.",
+          "As the distance in our trade grew,",
+          "we ended up inventing institutions, right?",
+          "If you Uber or you use Airbnb or you use Amazon even,",
+          "these are just digital marketplaces and platforms",
+          "that help us facilitate an exchange of value.",
+          "But today, we actually have a technology",
+          "that allows us to trade one to one but at scale,",
+          "and it's called blockchain technology.",
+          "There is some kind of interface for it.",
+          "You could have an app, or you could use a computer",
+          "to do it, but instead of there being a company",
+          "in the middle that's helping you make that transaction,",
+          "it's a bunch of software code."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "5",
+        "Sentence": [
+          "And so it's being run by all of these different computers",
+          "that have like a node.",
+          "So they're all running the same software",
+          "and guaranteeing your transactions as they happen."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "7",
+        "Sentence": [
+          "In some cases, yeah, it is.",
+          "And a lot of people in the financial industry,",
+          "in particular, are looking at it from the banking side",
+          "of how do we use this technology to trade things",
+          "like Bitcoin or other tokens that are easier to use",
+          "instead of today's currency.",
+          "A lot of people think about blockchain as Bitcoin",
+          "because it's sort of in the news a lot,",
+          "and it's this new cryptocurrency.",
+          "And it's kind of exciting.",
+          "But we're actually seeing a lot more use cases",
+          "for blockchain that aren't around the currency side.",
+          "They're more around, how do you take any asset",
+          "and be able to trade that using this same technology."
+        ]
+      },
+      {
+        "Reciever": "4",
+        "Sequence": "9",
+        "Sentence": [
+          "So today, a lot of people are working on how to create",
+          "identity structures that leverage blockchains.",
+          "And one of the tools for doing that is being able",
+          "to cryptographically sign for a given attribute.",
+          "So your government could sign that you have a US passport",
+          "or a university could sign that you are",
+          "a currently enrolled student.",
+          "And you could then dole out that information",
+          "and control it yourself and be able to show people",
+          "those certifications on an as needed basis."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "1",
+        "Sentence": [
+          "So today, we're gonna talk about blockchain technology."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "3",
+        "Sentence": [
+          "[Bettina] Have you ever heard of blockchain?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "5",
+        "Sentence": [
+          "Yeah, that's exactly right.",
+          "And you can append it.",
+          "You can sort of add new information that's more current,",
+          "but you can't actually go erase anything."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "7",
+        "Sentence": [
+          "For sure.",
+          "A lot of the assumptions won't hold true."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "9",
+        "Sentence": [
+          "Same with, who are the actors?",
+          "It's not just people anymore.",
+          "It's machines."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "11",
+        "Sentence": [
+          "We're gonna have to create entire new concepts",
+          "of how they do trade and how they work with us, too.",
+          "What kind of barriers or road blocks would you imagine",
+          "are gonna happen in the blockchain space?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "13",
+        "Sentence": [
+          "Yeah.",
+          "One of the problems that Bitcoin has faced",
+          "is Bitcoins getting stolen or lost.",
+          "But a lot of that actually comes from people",
+          "trying to recentralize Bitcoin in different ways",
+          "making themselves actually a pretty easy target."
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "15",
+        "Sentence": [
+          "Yeah.",
+          "To actually transition into the mainstream",
+          "and make it useful for average people to use,",
+          "we're going to need to make sure we have",
+          "a lot more education, a lot more standards",
+          "and probably work with a lot of enterprises",
+          "to create sort of a user experience around",
+          "this being a technology that is safe",
+          "and usable and understandable.",
+          "What is the current state of blockchain",
+          "in your understanding?",
+          "What's gonna have to happen next?"
+        ]
+      },
+      {
+        "Reciever": "5",
+        "Sequence": "17",
+        "Sentence": [
+          "Well, we have a lot of public blockchains.",
+          "Like we have Bitcoin.",
+          "We have the Ethereum network and XT,",
+          "but a lot of companies and consortiums",
+          "are getting together to build private blockchains,",
+          "so ones that are more closed off at first",
+          "and then may evolve into a public network",
+          "where people feel comfortable using it.",
+          "And some are also proof of concept out in the real world,",
+          "projects in energy and in pharmaceuticals",
+          "and in retail and lots of different fields",
+          "are starting experiments.",
+          "And we'll see in the next few years",
+          "how all of those interact and what we learn",
+          "about the best use cases for blockchain",
+          "and what it means for trade."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "1",
+        "Sentence": [
+          "So tell me your version of a technical",
+          "definition of blockchain."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "3",
+        "Sentence": [
+          "So it randomizes?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "5",
+        "Sentence": [
+          "Do you see it as defining a new discipline of kinds,",
+          "or where are we gonna see blockchain emerge",
+          "in the real world first?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "7",
+        "Sentence": [
+          "Sure, and people are working on that already."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "9",
+        "Sentence": [
+          "A lot of people are seeing blockchain in the news",
+          "and maybe seeing a lot of sort of initial coin offerings",
+          "(laughs)",
+          "and sort of monetization opportunity around blockchain",
+          "and getting very excited about it.",
+          "And some of that excitement is real and should be,",
+          "you know, encouraged, but some of it is also hype.",
+          "How do you feel about the hype cycle",
+          "around blockchain today?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "11",
+        "Sentence": [
+          "And it also creates a problem, which is people",
+          "get a lot of excitement around it."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "13",
+        "Sentence": [
+          "And then they're waiting for the world to change, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "15",
+        "Sentence": [
+          "Where is this technology?",
+          "Why haven't I seen any change yet?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "17",
+        "Sentence": [
+          "And it's because we've had a lot of PR,",
+          "a lot of proof of concept, but truthfully,",
+          "this is more like a science, right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "19",
+        "Sentence": [
+          "It will develop.",
+          "It will take five years.",
+          "It will take 10 years.",
+          "That kind of time is necessary.",
+          "One of the areas that brought me to supply chain research",
+          "is the fact that we're not just gonna see blockchain emerge.",
+          "We're gonna see artificial intelligence",
+          "continue to evolve.",
+          "We're gonna see connective devices",
+          "and this sort of growing internet of things",
+          "and machinery that can do a lot more",
+          "and have a wallet and transact on their own.",
+          "And so I actually think a lot of where blockchain",
+          "and other technologies are headed",
+          "is this interesting synergy that will help us",
+          "elevate the kinds of institutions we've used in the past",
+          "and cobbled together to create",
+          "that identifiable, verifiable trust."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "21",
+        "Sentence": [
+          "[Bettina] Right."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "23",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "25",
+        "Sentence": [
+          "So a barrier being sort of a rigidity in structures",
+          "that maybe don't accommodate real-life scenarios very well."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "27",
+        "Sentence": [
+          "The system we have today is also broken.",
+          "(laughs)",
+          "Right?"
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "29",
+        "Sentence": [
+          "In that it's hard to compare it to some perfect future.",
+          "Just like you compare autonomous vehicles to this very",
+          "high standard because machines are doing it.",
+          "It should be perfect.",
+          "There should be zero car deaths."
+        ]
+      },
+      {
+        "Reciever": "6",
+        "Sequence": "31",
+        "Sentence": [
+          "When you say, well, there's hundreds of thousands,",
+          "millions of car deaths on the road due to human error today.",
+          "I think we're in a similar place.",
+          "We're going to see problems with this technology,",
+          "and we are going to need to develop multiple kinds",
+          "of standards that also have some flexibility.",
+          "But it's going to also be a version, a system,",
+          "that allows us to fix some of the things",
+          "that are broken today."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Blockchain may sound complicated,",
+          "but at it's core, it's just another tool",
+          "for humans and eventually robots and other kinds",
+          "of identities to trade at scale",
+          "and make that trade more decentralized.",
+          "And it's part of our future, so it's important",
+          "that people have these kinds of conversations",
+          "and start to learn about it."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0?t=37",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "What's blockchain?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Mmm-hmm, it's when you take turns doing something.",
+          "It's when you give up most of what you want, right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Really?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "If I could trade with any kid, I would trade,",
+          "well, I would trade something I don't like so much."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Really?"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0?t=98",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "No."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Actually, I'm selling my computer on eBay right now."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Well, I mean, I've heard of it,",
+          "and I trust it a lot because they have",
+          "all of their guarantees, so I know that I'm gonna",
+          "get money and the person's gonna get what they want."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "That's cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "Yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So how does it work?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "So like, how do you make sure that it's secure?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "So you could kind of like, I don't know,",
+          "say trade apples, but you would just",
+          "see like random letters for it?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "So you wouldn't be able to track it, I guess?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "That's cool."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "That's cool."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0?t=224",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "I've heard of the words blockchain,",
+          "but I'm not sure I know what it is."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I mean, I would assume this technology",
+          "is taking away business or activity from these middlemen."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Is there a mechanism for verifying that person A",
+          "is a legitimate seller or producer of the item?"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0?t=388",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "Okay."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "I have.",
+          "Whenever we have a transaction, and let's say",
+          "I buy something from you, this information gets logged.",
+          "And it gets verified by a third person or third party.",
+          "And then if like all this information verified",
+          "and it all matches, right, the transaction goes through",
+          "without any intermediary basically, right?",
+          "It gets stored, and when you make further transactions,",
+          "this information is ready, embedded.",
+          "It's in the ledger."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "Absolutely.",
+          "The way the technology's changing,",
+          "nothing's gonna be like it used to be.",
+          "And there's no like firm, and then the buyer",
+          "and the seller, it basically, we'll have",
+          "to rewrite a lot of rules in economics as well."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Absolutely."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "[Valentinas] Absolutely."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "So at least when we talk about Bitcoin,",
+          "there are some trust issues and some hacks.",
+          "So there's obviously a need to work on trust",
+          "and feeling that it's a safe technology."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "Absolutely, so education will be a big part",
+          "before we actually can use the technology in a wide sense.",
+          "Right?"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "The current state is in the research state,",
+          "and it's being developed to be applied in many, many areas.",
+          "It must be used almost everywhere",
+          "to where we won't even imagine how we lived without it.",
+          "But I'm not sure where it's going to go.",
+          "I mean, no one really knows, right."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "youtube_link": "https://youtu.be/hYip_Vuv8J0?t=588",
+    "wired_link": "https://www.wired.com/video/watch/expert-explains-one-concept-in-5-levels-of-difficulty-blockchain",
+    "dialog": [
+      {
+        "Reciever": "1",
+        "Sequence": "2",
+        "Sentence": [
+          "A technical definition of blockchain",
+          "is that it is a persistent, transparent,",
+          "public, append-only ledger.",
+          "So it is a system that you can add data to",
+          "and not change previous data within it.",
+          "It does this through a mechanism for creating consensus",
+          "between scattered, or distributed, parties",
+          "that do not need to trust each other",
+          "but just need to trust the mechanism",
+          "by which their consensus is arrived at.",
+          "In the case of blockchain, it relies on some form",
+          "of challenge such that no one actor on the network",
+          "is able to solve this challenge consistently",
+          "more than everyone else on the network."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "4",
+        "Sentence": [
+          "Yes, it randomizes the process and, in theory,",
+          "ensures that no one can force the blockchain to accept",
+          "a particular entry onto the ledger that others disagree",
+          "with, one that relies on a mechanism",
+          "for a peer to peer network that can maintain updates",
+          "to the ledger and then verify those updates",
+          "in such a way that it is impossible to defraud",
+          "and impossible to alter after the fact."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "6",
+        "Sentence": [
+          "I mean, just like an example, one thing that I think",
+          "about a lot in terms of possible blockchain",
+          "applications is electricity, right.",
+          "The next generation of distributed smart grid",
+          "technology effectively--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "8",
+        "Sentence": [
+          "Yeah, yeah, exactly.",
+          "And it's this very fruitful area of research,",
+          "and you can find yourself looking like 20 years out, right,",
+          "where you have an enormous number of electric cars.",
+          "You have all of these batteries.",
+          "That's essentially a distributed",
+          "peak load power grid, right.",
+          "Like, the cars are getting plugged in",
+          "and unplugged at different times.",
+          "If you have a mechanism that's able to automatically",
+          "and autonomously be distributing power",
+          "based on batteries that are scattered throughout",
+          "the grid that are being used for other purposes.",
+          "Their owners don't even necessarily need to be aware.",
+          "I mean, to have something that looks like a much more",
+          "viable society that still has a lot of electricity needs",
+          "but is able to base that much more on renewables,",
+          "is able to make up the difference during peak load periods",
+          "or during differences in weather, that is able to have",
+          "power much closer to where it is needed",
+          "rather than having to be distributed over great distances.",
+          "It's like, that's something that would be",
+          "an enormously hard problem to solve.",
+          "And it's not that the blockchain makes it easy,",
+          "but it makes it possible."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "10",
+        "Sentence": [
+          "I'm glad you mentioned initial coin offerings",
+          "because for me, those really exemplify",
+          "the sort of problem that we're having at this exact moment.",
+          "They are an idea with enormous potential",
+          "significance down the road.",
+          "However, the promise of the initial coin offering",
+          "has been kind of hijacked into this string",
+          "of like basically pump and dump scams",
+          "or sort of desperate gold rush schemes.",
+          "The faster that we can shift from this fantasy",
+          "that it is going to make you rich in a sort of,",
+          "you know, 1920s tulip bubble kind of way,",
+          "is the sooner that we can get into people,",
+          "honestly, and I mean this like with all the hope",
+          "in the world, people being disappointed in blockchain.",
+          "It's like, oh, I didn't get rich.",
+          "It's just being used now to make it easier",
+          "to transact goods and services safely across borders.",
+          "This isn't exciting at all.",
+          "And then we'll see that become part",
+          "of the everyday infrastructure of the world",
+          "in a way that I think will be very significant.",
+          "But I think it is now, almost every aspect of it",
+          "that's connected with the concept of money",
+          "is wildly over-hyped, and--"
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "12",
+        "Sentence": [
+          "[Finn] Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "14",
+        "Sentence": [
+          "[Finn] Yeah, yeah."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "16",
+        "Sentence": [
+          "(laughs) Yes, yes, yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "18",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "20",
+        "Sentence": [
+          "Yes, and one of the most interesting ideas to me",
+          "that came out of the currency side of the blockchain",
+          "project was the notion around like coloring coins, right,",
+          "assign properties to a particular coin,",
+          "and in particular to assign those properties in ways",
+          "that would allow you to do things like bring",
+          "in the graph of previous transactions."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "22",
+        "Sentence": [
+          "You know, there's sort of an obvious application for this,",
+          "which is something that would look a little bit like",
+          "an extreme version of like a boycott divestment",
+          "and sanctions kind of approach, right,",
+          "a model where it's sort of a like I will not touch money.",
+          "My wallet will automatically not touch money",
+          "that has been exchanged with the following",
+          "as a sort of very extreme way of cutting those things out.",
+          "But there's also ways in which, I think, that could be",
+          "applied to clearing out the entire logistics process",
+          "of many kinds of bad actors.",
+          "Trying to make a supply chain better, in some ways,",
+          "relies a lot on whose version of better that is",
+          "and exactly kind of what gets qualified",
+          "but also how that is quantified within say",
+          "some kind of like smart contract system.",
+          "There's multiple ways that I can see this backfiring.",
+          "One is the ways in which that is implemented,",
+          "for example, leaving certain kinds",
+          "of bad behavior untouched or unanalyzed.",
+          "Or one that feels even more dire to me in some ways",
+          "is creating an extremely inflexible, like 'cause human",
+          "contracts, legal contracts, are actually very flexible.",
+          "There's a lot of kind of room",
+          "to renegotiate. There's lots of conditions."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "24",
+        "Sentence": [
+          "But we already have real world versions",
+          "of some of these nightmare scenarios",
+          "where like your kid has a medical emergency",
+          "and you can't unlock your car because you're two days",
+          "behind on payments for it, and so the car system",
+          "will no longer respond to the app mechanism",
+          "that you're supposed to be able to use to drive it."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "26",
+        "Sentence": [
+          "As you and I have been talking, one of the things",
+          "that keeps coming up is that we tend to hold novel",
+          "technologies to an unrealistically high standard",
+          "in terms of what they are supposed to deliver",
+          "rather than comparing them to actually existing systems",
+          "where we can begin to see the possibility",
+          "that even like a slight incremental improvement",
+          "would still be an enormous gain."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "28",
+        "Sentence": [
+          "Yes."
+        ]
+      },
+      {
+        "Reciever": "1",
+        "Sequence": "30",
+        "Sentence": [
+          "(laughs) Yeah."
+        ]
+      }
+    ]
+  }
+}

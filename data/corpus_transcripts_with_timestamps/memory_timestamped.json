@@ -1,0 +1,4586 @@
+{
+   "1": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:00:00,120 --> 00:00:02,150",
+                  "- Hi, my name is Daphna Shohamy."
+               ],
+               [
+                  "00:00:02,150 --> 00:00:04,630",
+                  "I'm a neuroscientist"
+               ],
+               [
+                  "00:00:02,150 --> 00:00:04,630",
+                  "at Columbia University."
+               ],
+               [
+                  "00:00:04,630 --> 00:00:07,280",
+                  "And today I've been"
+               ],
+               [
+                  "00:00:04,630 --> 00:00:07,280",
+                  "asked to explain memory"
+               ],
+               [
+                  "00:00:07,280 --> 00:00:09,830",
+                  "at five levels of increasing complexity."
+               ],
+               [
+                  "00:00:09,830 --> 00:00:14,058",
+                  "My research aims to understand"
+               ],
+               [
+                  "00:00:09,830 --> 00:00:14,058",
+                  "how memories are created"
+               ],
+               [
+                  "00:00:14,058 --> 00:00:16,380",
+                  "and how they shape who we are,"
+               ],
+               [
+                  "00:00:16,380 --> 00:00:18,499",
+                  "what we do, and the decisions we make."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:00:23,850 --> 00:00:26,123",
+                  "We're here today to talk about memory."
+               ],
+               [
+                  "00:00:26,123 --> 00:00:28,280",
+                  "When I say the word memory"
+               ],
+               [
+                  "00:00:26,123 --> 00:00:28,280",
+                  "what comes to your mind?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:00:39,870 --> 00:00:43,800",
+                  "- So on your trip what"
+               ],
+               [
+                  "00:00:39,870 --> 00:00:43,800",
+                  "was the funnest day ever?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:00:54,200 --> 00:00:55,270",
+                  "- It's pretty amazing, right?"
+               ],
+               [
+                  "00:00:55,270 --> 00:00:58,050",
+                  "Because it happened"
+               ],
+               [
+                  "00:00:55,270 --> 00:00:58,050",
+                  "like a year or two ago."
+               ],
+               [
+                  "00:00:58,050 --> 00:01:01,370",
+                  "Our memory is basically"
+               ],
+               [
+                  "00:00:58,050 --> 00:01:01,370",
+                  "a record in our brain"
+               ],
+               [
+                  "00:01:01,370 --> 00:01:03,100",
+                  "of something that happened in the past,"
+               ],
+               [
+                  "00:01:03,100 --> 00:01:05,870",
+                  "but that record it created isn't perfect."
+               ],
+               [
+                  "00:01:05,870 --> 00:01:08,930",
+                  "So that day, do you remember"
+               ],
+               [
+                  "00:01:05,870 --> 00:01:08,930",
+                  "was the pool at your hotel?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:01:11,520 --> 00:01:15,770",
+                  "- Do you remember from that"
+               ],
+               [
+                  "00:01:11,520 --> 00:01:15,770",
+                  "day what color towel you used"
+               ],
+               [
+                  "00:01:15,770 --> 00:01:16,860",
+                  "when you got out of the pool?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:01:23,520 --> 00:01:25,930",
+                  "- When you were telling"
+               ],
+               [
+                  "00:01:23,520 --> 00:01:25,930",
+                  "me about the sandbox,"
+               ],
+               [
+                  "00:01:25,930 --> 00:01:28,740",
+                  "it felt like you didn't"
+               ],
+               [
+                  "00:01:25,930 --> 00:01:28,740",
+                  "have to make that guess,"
+               ],
+               [
+                  "00:01:28,740 --> 00:01:32,610",
+                  "that you could just see"
+               ],
+               [
+                  "00:01:28,740 --> 00:01:32,610",
+                  "the sandbox in your eyes."
+               ],
+               [
+                  "00:01:32,610 --> 00:01:34,300",
+                  "I asked you about the towel."
+               ],
+               [
+                  "00:01:34,300 --> 00:01:35,920",
+                  "It doesn't come to mind immediately,"
+               ],
+               [
+                  "00:01:35,920 --> 00:01:37,530",
+                  "but you can stop and think about it"
+               ],
+               [
+                  "00:01:37,530 --> 00:01:40,130",
+                  "and kind of make a good guess"
+               ],
+               [
+                  "00:01:37,530 --> 00:01:40,130",
+                  "because there are things"
+               ],
+               [
+                  "00:01:40,130 --> 00:01:41,870",
+                  "you know about the world."
+               ],
+               [
+                  "00:01:41,870 --> 00:01:43,760",
+                  "And for those of us who study memory"
+               ],
+               [
+                  "00:01:43,760 --> 00:01:47,640",
+                  "that's a really strong hint"
+               ],
+               [
+                  "00:01:43,760 --> 00:01:47,640",
+                  "as to how memory works."
+               ],
+               [
+                  "00:01:47,640 --> 00:01:50,602",
+                  "And so for you your memory"
+               ],
+               [
+                  "00:01:47,640 --> 00:01:50,602",
+                  "kept all the fun stuff"
+               ],
+               [
+                  "00:01:50,602 --> 00:01:52,600",
+                  "and all the stuff that"
+               ],
+               [
+                  "00:01:50,602 --> 00:01:52,600",
+                  "was important to you,"
+               ],
+               [
+                  "00:01:52,600 --> 00:01:55,250",
+                  "but the details like did"
+               ],
+               [
+                  "00:01:52,600 --> 00:01:55,250",
+                  "you have to have a ticket"
+               ],
+               [
+                  "00:01:55,250 --> 00:01:57,210",
+                  "to get in or how you got there,"
+               ],
+               [
+                  "00:01:57,210 --> 00:02:01,090",
+                  "all these other less interesting,"
+               ],
+               [
+                  "00:01:57,210 --> 00:02:01,090",
+                  "less exciting aspects,"
+               ],
+               [
+                  "00:02:01,090 --> 00:02:03,740",
+                  "your brain kind of decided letting go"
+               ],
+               [
+                  "00:02:03,740 --> 00:02:05,110",
+                  "of all that information."
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:02:12,210 --> 00:02:13,640",
+                  "- Yeah, that's a great insight."
+               ],
+               [
+                  "00:02:13,640 --> 00:02:15,670",
+                  "Basically we can't remember everything."
+               ],
+               [
+                  "00:02:15,670 --> 00:02:19,120",
+                  "So when you tell us this"
+               ],
+               [
+                  "00:02:15,670 --> 00:02:19,120",
+                  "memory of that vacation"
+               ],
+               [
+                  "00:02:19,120 --> 00:02:22,300",
+                  "and your brain is able to"
+               ],
+               [
+                  "00:02:19,120 --> 00:02:22,300",
+                  "kind of play almost this movie"
+               ],
+               [
+                  "00:02:22,300 --> 00:02:25,377",
+                  "of a memory, a moment, a day"
+               ],
+               [
+                  "00:02:22,300 --> 00:02:25,377",
+                  "that you had in your life"
+               ],
+               [
+                  "00:02:25,377 --> 00:02:28,710",
+                  "a while ago, where do"
+               ],
+               [
+                  "00:02:25,377 --> 00:02:28,710",
+                  "those memories come from?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:02:36,260 --> 00:02:39,240",
+                  "- The hippocampus is a part"
+               ],
+               [
+                  "00:02:36,260 --> 00:02:39,240",
+                  "of your brain that if you"
+               ],
+               [
+                  "00:02:39,240 --> 00:02:40,740",
+                  "kind of took it out and looked at it,"
+               ],
+               [
+                  "00:02:40,740 --> 00:02:42,350",
+                  "it looks a lot like a seahorse"
+               ],
+               [
+                  "00:02:42,350 --> 00:02:45,780",
+                  "and it plays a really important"
+               ],
+               [
+                  "00:02:42,350 --> 00:02:45,780",
+                  "role in creating those kinds"
+               ],
+               [
+                  "00:02:45,780 --> 00:02:49,810",
+                  "of memories that help you"
+               ],
+               [
+                  "00:02:45,780 --> 00:02:49,810",
+                  "two years after your vacation"
+               ],
+               [
+                  "00:02:49,810 --> 00:02:52,940",
+                  "share with me what happened that day,"
+               ],
+               [
+                  "00:02:52,940 --> 00:02:55,924",
+                  "all these details of that day."
+               ],
+               [
+                  "00:02:55,924 --> 00:02:56,900",
+                  "There's another part of the brain."
+               ],
+               [
+                  "00:02:56,900 --> 00:02:59,370",
+                  "It's actually also important for memory"
+               ],
+               [
+                  "00:02:59,370 --> 00:03:04,080",
+                  "and it's called the amygdala"
+               ],
+               [
+                  "00:02:59,370 --> 00:03:04,080",
+                  "and it is important for keeping"
+               ],
+               [
+                  "00:03:04,080 --> 00:03:07,540",
+                  "all the kind of emotional"
+               ],
+               [
+                  "00:03:04,080 --> 00:03:07,540",
+                  "processing going for memory."
+               ],
+               [
+                  "00:03:07,540 --> 00:03:10,200",
+                  "So memory for things"
+               ],
+               [
+                  "00:03:07,540 --> 00:03:10,200",
+                  "that are really scary,"
+               ],
+               [
+                  "00:03:10,200 --> 00:03:11,950",
+                  "it's gonna talk to the hippocampus now"
+               ],
+               [
+                  "00:03:11,950 --> 00:03:13,930",
+                  "and get that memory to be really strong."
+               ],
+               [
+                  "00:03:13,930 --> 00:03:15,160",
+                  "Why do you think it might be important"
+               ],
+               [
+                  "00:03:15,160 --> 00:03:16,590",
+                  "to remember scary things?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:03:27,570 --> 00:03:28,403",
+                  "- You got it."
+               ],
+               [
+                  "00:03:28,403 --> 00:03:30,250",
+                  "And so we don't just remember everything"
+               ],
+               [
+                  "00:03:30,250 --> 00:03:31,860",
+                  "and we don't remember random things."
+               ],
+               [
+                  "00:03:31,860 --> 00:03:34,220",
+                  "We remember the things"
+               ],
+               [
+                  "00:03:31,860 --> 00:03:34,220",
+                  "that matter to us the most."
+               ],
+               [
+                  "00:03:34,220 --> 00:03:36,380",
+                  "So Abigail based on"
+               ],
+               [
+                  "00:03:34,220 --> 00:03:36,380",
+                  "our conversation today,"
+               ],
+               [
+                  "00:03:36,380 --> 00:03:38,900",
+                  "can you tell me what is a memory?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 2,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:03:54,339 --> 00:03:55,576",
+                  "- You got it."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:04:02,939 --> 00:04:04,100",
+                  "What do you know about memory?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:04:19,450 --> 00:04:22,350",
+                  "- And on one hand memory is"
+               ],
+               [
+                  "00:04:19,450 --> 00:04:22,350",
+                  "like a record of something"
+               ],
+               [
+                  "00:04:22,350 --> 00:04:24,980",
+                  "that happened in the past"
+               ],
+               [
+                  "00:04:22,350 --> 00:04:24,980",
+                  "that we can carry with us"
+               ],
+               [
+                  "00:04:24,980 --> 00:04:26,760",
+                  "and we can like bring it back to mind."
+               ],
+               [
+                  "00:04:26,760 --> 00:04:30,630",
+                  "And on the other hand we need"
+               ],
+               [
+                  "00:04:26,760 --> 00:04:30,630",
+                  "to be a little bit suspicious"
+               ],
+               [
+                  "00:04:30,630 --> 00:04:33,250",
+                  "sometimes because we might get it wrong."
+               ],
+               [
+                  "00:04:33,250 --> 00:04:35,670",
+                  "In what world would that"
+               ],
+               [
+                  "00:04:33,250 --> 00:04:35,670",
+                  "memory of the orange juice"
+               ],
+               [
+                  "00:04:35,670 --> 00:04:36,810",
+                  "maybe be useful?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:04:45,910 --> 00:04:49,620",
+                  "- Sometimes, you know,"
+               ],
+               [
+                  "00:04:45,910 --> 00:04:49,620",
+                  "memory is doing something"
+               ],
+               [
+                  "00:04:49,620 --> 00:04:52,220",
+                  "much simpler but no less important for us,"
+               ],
+               [
+                  "00:04:52,220 --> 00:04:54,290",
+                  "which is it's helping us"
+               ],
+               [
+                  "00:04:52,220 --> 00:04:54,290",
+                  "figure out what's good"
+               ],
+               [
+                  "00:04:54,290 --> 00:04:55,580",
+                  "and what's bad."
+               ],
+               [
+                  "00:04:55,580 --> 00:04:57,430",
+                  "And if we can remember what's good"
+               ],
+               [
+                  "00:04:57,430 --> 00:04:59,480",
+                  "and what's bad from"
+               ],
+               [
+                  "00:04:57,430 --> 00:04:59,480",
+                  "what we did in the past,"
+               ],
+               [
+                  "00:04:59,480 --> 00:05:03,320",
+                  "that can help us make decisions"
+               ],
+               [
+                  "00:04:59,480 --> 00:05:03,320",
+                  "about what to do next time."
+               ],
+               [
+                  "00:05:03,320 --> 00:05:06,800",
+                  "So Dylan, you may be"
+               ],
+               [
+                  "00:05:03,320 --> 00:05:06,800",
+                  "surprised to learn this,"
+               ],
+               [
+                  "00:05:06,800 --> 00:05:08,750",
+                  "but we asked your mom what some of your"
+               ],
+               [
+                  "00:05:08,750 --> 00:05:10,320",
+                  "favorite candies are."
+               ],
+               [
+                  "00:05:10,320 --> 00:05:13,030",
+                  "So you have to make a decision"
+               ],
+               [
+                  "00:05:10,320 --> 00:05:13,030",
+                  "between these two candies"
+               ],
+               [
+                  "00:05:13,030 --> 00:05:14,490",
+                  "and whichever one you pick,"
+               ],
+               [
+                  "00:05:14,490 --> 00:05:16,460",
+                  "you actually get to take with you."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:05:22,239 --> 00:05:24,160",
+                  "- There you go, there is your decision."
+               ],
+               [
+                  "00:05:24,160 --> 00:05:25,473",
+                  "Okay, you can take those."
+               ],
+               [
+                  "00:05:26,350 --> 00:05:27,380",
+                  "It took you some time there."
+               ],
+               [
+                  "00:05:27,380 --> 00:05:28,800",
+                  "You looked like you"
+               ],
+               [
+                  "00:05:27,380 --> 00:05:28,800",
+                  "were really working hard"
+               ],
+               [
+                  "00:05:28,800 --> 00:05:30,200",
+                  "at that problem."
+               ],
+               [
+                  "00:05:30,200 --> 00:05:32,490",
+                  "And that's interesting because"
+               ],
+               [
+                  "00:05:30,200 --> 00:05:32,490",
+                  "actually we know that from"
+               ],
+               [
+                  "00:05:32,490 --> 00:05:35,560",
+                  "research that when people have"
+               ],
+               [
+                  "00:05:32,490 --> 00:05:35,560",
+                  "to make a decision between"
+               ],
+               [
+                  "00:05:35,560 --> 00:05:37,090",
+                  "two things they like equally,"
+               ],
+               [
+                  "00:05:37,090 --> 00:05:39,520",
+                  "some people like economists"
+               ],
+               [
+                  "00:05:37,090 --> 00:05:39,520",
+                  "think oh those are the easiest"
+               ],
+               [
+                  "00:05:39,520 --> 00:05:41,210",
+                  "decisions because they're"
+               ],
+               [
+                  "00:05:39,520 --> 00:05:41,210",
+                  "both good options."
+               ],
+               [
+                  "00:05:41,210 --> 00:05:43,120",
+                  "But as psychologists and"
+               ],
+               [
+                  "00:05:41,210 --> 00:05:43,120",
+                  "neuroscientists we know"
+               ],
+               [
+                  "00:05:43,120 --> 00:05:43,953",
+                  "it's the opposite."
+               ],
+               [
+                  "00:05:43,953 --> 00:05:47,520",
+                  "One of the reasons is because"
+               ],
+               [
+                  "00:05:43,953 --> 00:05:47,520",
+                  "there's no simple answer of"
+               ],
+               [
+                  "00:05:47,520 --> 00:05:49,477",
+                  "like I know that one's better"
+               ],
+               [
+                  "00:05:47,520 --> 00:05:49,477",
+                  "I'm just gonna go with it."
+               ],
+               [
+                  "00:05:49,477 --> 00:05:52,790",
+                  "And so we think that that's"
+               ],
+               [
+                  "00:05:49,477 --> 00:05:52,790",
+                  "the kind of decision where"
+               ],
+               [
+                  "00:05:52,790 --> 00:05:55,580",
+                  "memory is especially important"
+               ],
+               [
+                  "00:05:52,790 --> 00:05:55,580",
+                  "because you have to kind of"
+               ],
+               [
+                  "00:05:55,580 --> 00:05:57,050",
+                  "come up with more information."
+               ]
+            ]
+         },
+         {
+            "Reciever": 3,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:06:05,480 --> 00:06:07,720",
+                  "- Everything you just said is exactly"
+               ],
+               [
+                  "00:06:07,720 --> 00:06:08,820",
+                  "what we know from research."
+               ],
+               [
+                  "00:06:08,820 --> 00:06:11,520",
+                  "All the thoughts running"
+               ],
+               [
+                  "00:06:08,820 --> 00:06:11,520",
+                  "through your mind,"
+               ],
+               [
+                  "00:06:11,520 --> 00:06:14,070",
+                  "were really at kind of about a prediction"
+               ],
+               [
+                  "00:06:14,070 --> 00:06:15,820",
+                  "into the future, right?"
+               ],
+               [
+                  "00:06:15,820 --> 00:06:18,090",
+                  "You're like, how, how will this taste if,"
+               ],
+               [
+                  "00:06:18,090 --> 00:06:20,860",
+                  "when it's in my mouth or how"
+               ],
+               [
+                  "00:06:18,090 --> 00:06:20,860",
+                  "will I feel about my decision"
+               ],
+               [
+                  "00:06:20,860 --> 00:06:21,900",
+                  "down the road?"
+               ],
+               [
+                  "00:06:21,900 --> 00:06:24,470",
+                  "You know we think of memory"
+               ],
+               [
+                  "00:06:21,900 --> 00:06:24,470",
+                  "as something in the past,"
+               ],
+               [
+                  "00:06:24,470 --> 00:06:27,020",
+                  "but it's an example of how"
+               ],
+               [
+                  "00:06:24,470 --> 00:06:27,020",
+                  "you use your memories of these"
+               ],
+               [
+                  "00:06:27,020 --> 00:06:30,691",
+                  "two candies to predict what's"
+               ],
+               [
+                  "00:06:27,020 --> 00:06:30,691",
+                  "gonna happen in the future"
+               ],
+               [
+                  "00:06:30,691 --> 00:06:33,280",
+                  "so that you can make a"
+               ],
+               [
+                  "00:06:30,691 --> 00:06:33,280",
+                  "decision in the present."
+               ],
+               [
+                  "00:06:33,280 --> 00:06:36,350",
+                  "But you did it, you made your"
+               ],
+               [
+                  "00:06:33,280 --> 00:06:36,350",
+                  "way through that torture."
+               ],
+               [
+                  "00:06:36,350 --> 00:06:38,016",
+                  "And now you've got to keep the candy."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:07:28,754 --> 00:07:30,653",
+                  "Is there any particular memory"
+               ],
+               [
+                  "00:07:28,754 --> 00:07:30,653",
+                  "for you that you feel has"
+               ],
+               [
+                  "00:07:30,653 --> 00:07:33,320",
+                  "been either kind of influential in your,"
+               ],
+               [
+                  "00:07:33,320 --> 00:07:38,170",
+                  "in deciding which areas to"
+               ],
+               [
+                  "00:07:33,320 --> 00:07:38,170",
+                  "pursue or that you feel is sort"
+               ],
+               [
+                  "00:07:38,170 --> 00:07:40,440",
+                  "of emblematic of what"
+               ],
+               [
+                  "00:07:38,170 --> 00:07:40,440",
+                  "it is to have a memory?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:08:06,914 --> 00:08:07,917",
+                  "- I've got one too."
+               ],
+               [
+                  "00:08:07,917 --> 00:08:11,250",
+                  "I was nine and we were at the"
+               ],
+               [
+                  "00:08:07,917 --> 00:08:11,250",
+                  "science expo in San Francisco."
+               ],
+               [
+                  "00:08:11,250 --> 00:08:15,340",
+                  "Two scientists were dissecting"
+               ],
+               [
+                  "00:08:11,250 --> 00:08:15,340",
+                  "an eye, a cow's eye."
+               ],
+               [
+                  "00:08:15,340 --> 00:08:18,650",
+                  "And I was like that is the"
+               ],
+               [
+                  "00:08:15,340 --> 00:08:18,650",
+                  "coolest thing I've ever seen."
+               ],
+               [
+                  "00:08:18,650 --> 00:08:21,200",
+                  "And something about that"
+               ],
+               [
+                  "00:08:18,650 --> 00:08:21,200",
+                  "that carried me forward."
+               ],
+               [
+                  "00:08:21,200 --> 00:08:22,740",
+                  "Something happened so long ago,"
+               ],
+               [
+                  "00:08:22,740 --> 00:08:27,010",
+                  "it left some long lasting"
+               ],
+               [
+                  "00:08:22,740 --> 00:08:27,010",
+                  "trace through neural circuits"
+               ],
+               [
+                  "00:08:27,010 --> 00:08:29,517",
+                  "and it continues to shape"
+               ],
+               [
+                  "00:08:27,010 --> 00:08:29,517",
+                  "the decisions we make"
+               ],
+               [
+                  "00:08:29,517 --> 00:08:31,790",
+                  "about what to study and what to do."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:08:45,100 --> 00:08:47,663",
+                  "- So we're interested in the"
+               ],
+               [
+                  "00:08:45,100 --> 00:08:47,663",
+                  "idea that memory is kind of"
+               ],
+               [
+                  "00:08:47,663 --> 00:08:52,077",
+                  "a pervasive force that"
+               ],
+               [
+                  "00:08:47,663 --> 00:08:52,077",
+                  "shapes all our behaviors."
+               ],
+               [
+                  "00:08:52,077 --> 00:08:55,320",
+                  "And we're trying to understand"
+               ],
+               [
+                  "00:08:52,077 --> 00:08:55,320",
+                  "how different kinds of memory"
+               ],
+               [
+                  "00:08:55,320 --> 00:08:58,013",
+                  "are organized in different"
+               ],
+               [
+                  "00:08:55,320 --> 00:08:58,013",
+                  "structures of the brain."
+               ],
+               [
+                  "00:08:58,013 --> 00:09:01,110",
+                  "And then to understand how"
+               ],
+               [
+                  "00:08:58,013 --> 00:09:01,110",
+                  "those different structures work"
+               ],
+               [
+                  "00:09:01,110 --> 00:09:04,610",
+                  "together to orchestrate"
+               ],
+               [
+                  "00:09:01,110 --> 00:09:04,610",
+                  "complex cognitive behaviors"
+               ],
+               [
+                  "00:09:04,610 --> 00:09:07,690",
+                  "like decision-making or"
+               ],
+               [
+                  "00:09:04,610 --> 00:09:07,690",
+                  "reasoning and thinking."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:09:11,020 --> 00:09:12,760",
+                  "- My work has actually"
+               ],
+               [
+                  "00:09:11,020 --> 00:09:12,760",
+                  "kind of pushed against"
+               ],
+               [
+                  "00:09:12,760 --> 00:09:15,780",
+                  "that distinction between"
+               ],
+               [
+                  "00:09:12,760 --> 00:09:15,780",
+                  "memories that kind of are"
+               ],
+               [
+                  "00:09:15,780 --> 00:09:18,170",
+                  "consciously accessible versus unconscious."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:09:28,432 --> 00:09:32,370",
+                  "- The best way to kind of"
+               ],
+               [
+                  "00:09:28,432 --> 00:09:32,370",
+                  "think about that distinction"
+               ],
+               [
+                  "00:09:32,370 --> 00:09:36,290",
+                  "really goes back historically"
+               ],
+               [
+                  "00:09:32,370 --> 00:09:36,290",
+                  "to one of the most important"
+               ],
+               [
+                  "00:09:36,290 --> 00:09:38,130",
+                  "discoveries in memory research."
+               ],
+               [
+                  "00:09:38,130 --> 00:09:41,770",
+                  "The patient was referred"
+               ],
+               [
+                  "00:09:38,130 --> 00:09:41,770",
+                  "to famously as patient HM."
+               ],
+               [
+                  "00:09:41,770 --> 00:09:44,180",
+                  "The neurosurgeon went in"
+               ],
+               [
+                  "00:09:41,770 --> 00:09:44,180",
+                  "and removed the tissue that"
+               ],
+               [
+                  "00:09:44,180 --> 00:09:46,790",
+                  "happened to be right"
+               ],
+               [
+                  "00:09:44,180 --> 00:09:46,790",
+                  "around the hippocampus"
+               ],
+               [
+                  "00:09:46,790 --> 00:09:50,450",
+                  "on both the left side and"
+               ],
+               [
+                  "00:09:46,790 --> 00:09:50,450",
+                  "the right side of HM's brain."
+               ],
+               [
+                  "00:09:50,450 --> 00:09:53,130",
+                  "But then they started"
+               ],
+               [
+                  "00:09:50,450 --> 00:09:53,130",
+                  "noticing something odd"
+               ],
+               [
+                  "00:09:53,130 --> 00:09:54,960",
+                  "in his behavior."
+               ],
+               [
+                  "00:09:54,960 --> 00:09:58,550",
+                  "He was not able to create new"
+               ],
+               [
+                  "00:09:54,960 --> 00:09:58,550",
+                  "memories of the experiences"
+               ],
+               [
+                  "00:09:58,550 --> 00:10:01,020",
+                  "he had after the surgery."
+               ],
+               [
+                  "00:10:01,020 --> 00:10:05,453",
+                  "And that led Brenda Milner and"
+               ],
+               [
+                  "00:10:01,020 --> 00:10:05,453",
+                  "her colleagues to report that"
+               ],
+               [
+                  "00:10:05,453 --> 00:10:08,760",
+                  "the hippocampus was very"
+               ],
+               [
+                  "00:10:05,453 --> 00:10:08,760",
+                  "important for memory,"
+               ],
+               [
+                  "00:10:08,760 --> 00:10:12,240",
+                  "but a one particular kind,"
+               ],
+               [
+                  "00:10:08,760 --> 00:10:12,240",
+                  "these sort of explicit,"
+               ],
+               [
+                  "00:10:12,240 --> 00:10:15,510",
+                  "or as now referred to"
+               ],
+               [
+                  "00:10:12,240 --> 00:10:15,510",
+                  "them episodic memories."
+               ],
+               [
+                  "00:10:15,510 --> 00:10:18,920",
+                  "But the hippocampus was not"
+               ],
+               [
+                  "00:10:15,510 --> 00:10:18,920",
+                  "necessary for learning skills"
+               ],
+               [
+                  "00:10:18,920 --> 00:10:20,250",
+                  "like mirror tracing,"
+               ],
+               [
+                  "00:10:20,250 --> 00:10:22,740",
+                  "things that you can't"
+               ],
+               [
+                  "00:10:20,250 --> 00:10:22,740",
+                  "necessarily articulate"
+               ],
+               [
+                  "00:10:22,740 --> 00:10:25,240",
+                  "but you just get better at over time."
+               ],
+               [
+                  "00:10:25,240 --> 00:10:29,100",
+                  "And it really led to a couple"
+               ],
+               [
+                  "00:10:25,240 --> 00:10:29,100",
+                  "of decades or more even"
+               ],
+               [
+                  "00:10:29,100 --> 00:10:32,120",
+                  "of an enormous amount of"
+               ],
+               [
+                  "00:10:29,100 --> 00:10:32,120",
+                  "very important work that kind"
+               ],
+               [
+                  "00:10:32,120 --> 00:10:34,130",
+                  "of kept on breaking memory down further"
+               ],
+               [
+                  "00:10:34,130 --> 00:10:35,710",
+                  "and further into different types."
+               ],
+               [
+                  "00:10:35,710 --> 00:10:39,050",
+                  "Episodic and semantic as"
+               ],
+               [
+                  "00:10:35,710 --> 00:10:39,050",
+                  "both forms of explicit memory"
+               ],
+               [
+                  "00:10:39,050 --> 00:10:42,560",
+                  "where episodic refers to memory"
+               ],
+               [
+                  "00:10:39,050 --> 00:10:42,560",
+                  "for an event that happened"
+               ],
+               [
+                  "00:10:42,560 --> 00:10:44,380",
+                  "like what you did yesterday morning"
+               ],
+               [
+                  "00:10:44,380 --> 00:10:47,490",
+                  "and semantic refers to general"
+               ],
+               [
+                  "00:10:44,380 --> 00:10:47,490",
+                  "knowledge about the world."
+               ],
+               [
+                  "00:10:47,490 --> 00:10:49,810",
+                  "Implicit memory is being"
+               ],
+               [
+                  "00:10:47,490 --> 00:10:49,810",
+                  "broken down into a bunch of"
+               ],
+               [
+                  "00:10:49,810 --> 00:10:53,357",
+                  "different kinds like skills"
+               ],
+               [
+                  "00:10:49,810 --> 00:10:53,357",
+                  "or habits or conditioning."
+               ],
+               [
+                  "00:10:53,357 --> 00:10:55,390",
+                  "And when I started graduate school,"
+               ],
+               [
+                  "00:10:55,390 --> 00:11:00,080",
+                  "many of us felt kind of the"
+               ],
+               [
+                  "00:10:55,390 --> 00:11:00,080",
+                  "next question was really to"
+               ],
+               [
+                  "00:11:00,080 --> 00:11:02,856",
+                  "understand how do we now"
+               ],
+               [
+                  "00:11:00,080 --> 00:11:02,856",
+                  "understand how they work together."
+               ],
+               [
+                  "00:11:02,856 --> 00:11:06,840",
+                  "This was right around when"
+               ],
+               [
+                  "00:11:02,856 --> 00:11:06,840",
+                  "functional magnetic resonance"
+               ],
+               [
+                  "00:11:06,840 --> 00:11:10,793",
+                  "imaging started becoming a popular tool"
+               ],
+               [
+                  "00:11:10,793 --> 00:11:13,290",
+                  "for measuring brain activity."
+               ],
+               [
+                  "00:11:13,290 --> 00:11:16,630",
+                  "We could scan the entire brain"
+               ],
+               [
+                  "00:11:13,290 --> 00:11:16,630",
+                  "and we could ask questions"
+               ],
+               [
+                  "00:11:16,630 --> 00:11:19,990",
+                  "about multiple brain regions at once."
+               ],
+               [
+                  "00:11:19,990 --> 00:11:24,640",
+                  "And we discovered that"
+               ],
+               [
+                  "00:11:19,990 --> 00:11:24,640",
+                  "what we might expect"
+               ],
+               [
+                  "00:11:24,640 --> 00:11:28,460",
+                  "during a skill learning"
+               ],
+               [
+                  "00:11:24,640 --> 00:11:28,460",
+                  "task that only the striatum"
+               ],
+               [
+                  "00:11:28,460 --> 00:11:29,910",
+                  "might show activity,"
+               ],
+               [
+                  "00:11:29,910 --> 00:11:32,493",
+                  "that we also saw the"
+               ],
+               [
+                  "00:11:29,910 --> 00:11:32,493",
+                  "activity in the hippocampus."
+               ],
+               [
+                  "00:11:33,997 --> 00:11:35,600",
+                  "Or when we asked someone"
+               ],
+               [
+                  "00:11:33,997 --> 00:11:35,600",
+                  "to form an episodic memory"
+               ],
+               [
+                  "00:11:35,600 --> 00:11:38,135",
+                  "that we thought might depend"
+               ],
+               [
+                  "00:11:35,600 --> 00:11:38,135",
+                  "only on the hippocampus"
+               ],
+               [
+                  "00:11:38,135 --> 00:11:42,110",
+                  "we suddenly also saw activity"
+               ],
+               [
+                  "00:11:38,135 --> 00:11:42,110",
+                  "in the prefrontal cortex."
+               ],
+               [
+                  "00:11:42,110 --> 00:11:45,570",
+                  "And so the confluence of these"
+               ],
+               [
+                  "00:11:42,110 --> 00:11:45,570",
+                  "new ideas and questions about"
+               ],
+               [
+                  "00:11:45,570 --> 00:11:47,790",
+                  "how different forms of memory interact"
+               ],
+               [
+                  "00:11:47,790 --> 00:11:50,730",
+                  "together with the development"
+               ],
+               [
+                  "00:11:47,790 --> 00:11:50,730",
+                  "of new tools for studying"
+               ],
+               [
+                  "00:11:50,730 --> 00:11:55,490",
+                  "the human mind and brain"
+               ],
+               [
+                  "00:11:50,730 --> 00:11:55,490",
+                  "allowed us to kind of adjust"
+               ],
+               [
+                  "00:11:55,490 --> 00:11:57,280",
+                  "our view of memory systems,"
+               ],
+               [
+                  "00:11:57,280 --> 00:12:01,330",
+                  "to think of them less as"
+               ],
+               [
+                  "00:11:57,280 --> 00:12:01,330",
+                  "multiple completely separate"
+               ],
+               [
+                  "00:12:01,330 --> 00:12:05,410",
+                  "independent systems and instead"
+               ],
+               [
+                  "00:12:01,330 --> 00:12:05,410",
+                  "to try to understand how"
+               ],
+               [
+                  "00:12:05,410 --> 00:12:08,290",
+                  "they really work in"
+               ],
+               [
+                  "00:12:05,410 --> 00:12:08,290",
+                  "concert with each other"
+               ],
+               [
+                  "00:12:08,290 --> 00:12:11,750",
+                  "and give rise to all kinds of"
+               ],
+               [
+                  "00:12:08,290 --> 00:12:11,750",
+                  "behaviors that might not fit"
+               ],
+               [
+                  "00:12:11,750 --> 00:12:13,933",
+                  "neatly into one category or another."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:12:26,454 --> 00:12:29,620",
+                  "- Yeah, you know things"
+               ],
+               [
+                  "00:12:26,454 --> 00:12:29,620",
+                  "are kind of breaking down"
+               ],
+               [
+                  "00:12:29,620 --> 00:12:31,460",
+                  "in unexpected ways I'd say."
+               ],
+               [
+                  "00:12:31,460 --> 00:12:34,470",
+                  "I think there's been a lot"
+               ],
+               [
+                  "00:12:31,460 --> 00:12:34,470",
+                  "of really great work out of"
+               ],
+               [
+                  "00:12:34,470 --> 00:12:38,300",
+                  "multiple labs showing"
+               ],
+               [
+                  "00:12:34,470 --> 00:12:38,300",
+                  "hippocampal activity related to"
+               ],
+               [
+                  "00:12:38,300 --> 00:12:42,850",
+                  "behaviors that don't look"
+               ],
+               [
+                  "00:12:38,300 --> 00:12:42,850",
+                  "anything like episodic memories,"
+               ],
+               [
+                  "00:12:42,850 --> 00:12:46,510",
+                  "but which might depend on"
+               ],
+               [
+                  "00:12:42,850 --> 00:12:46,510",
+                  "episodic memories right?"
+               ],
+               [
+                  "00:12:46,510 --> 00:12:48,994",
+                  "So for example also when you're"
+               ],
+               [
+                  "00:12:46,510 --> 00:12:48,994",
+                  "making a decision about how"
+               ],
+               [
+                  "00:12:48,994 --> 00:12:52,690",
+                  "to choose between two good options"
+               ],
+               [
+                  "00:12:52,690 --> 00:12:55,560",
+                  "that suddenly you might see"
+               ],
+               [
+                  "00:12:52,690 --> 00:12:55,560",
+                  "activity in the hippocampus"
+               ],
+               [
+                  "00:12:55,560 --> 00:12:57,663",
+                  "related to the choice itself,"
+               ],
+               [
+                  "00:12:58,594 --> 00:13:00,490",
+                  "others have found that you find"
+               ],
+               [
+                  "00:12:58,594 --> 00:13:00,490",
+                  "activity in the hippocampus"
+               ],
+               [
+                  "00:13:00,490 --> 00:13:03,150",
+                  "not only when people are forming memories,"
+               ],
+               [
+                  "00:13:03,150 --> 00:13:05,080",
+                  "but also when they're"
+               ],
+               [
+                  "00:13:03,150 --> 00:13:05,080",
+                  "imagining events that are"
+               ],
+               [
+                  "00:13:05,080 --> 00:13:06,550",
+                  "gonna happen in the future."
+               ],
+               [
+                  "00:13:06,550 --> 00:13:09,153",
+                  "So it kind of forced us to"
+               ],
+               [
+                  "00:13:06,550 --> 00:13:09,153",
+                  "rethink the way we define what"
+               ],
+               [
+                  "00:13:09,153 --> 00:13:13,094",
+                  "the hippocampus might be doing"
+               ],
+               [
+                  "00:13:09,153 --> 00:13:13,094",
+                  "in a way that can account for"
+               ],
+               [
+                  "00:13:13,094 --> 00:13:16,500",
+                  "creating memories,"
+               ],
+               [
+                  "00:13:13,094 --> 00:13:16,500",
+                  "thinking about the future,"
+               ],
+               [
+                  "00:13:16,500 --> 00:13:21,254",
+                  "making decisions and other"
+               ],
+               [
+                  "00:13:16,500 --> 00:13:21,254",
+                  "kinds of behaviors that involve"
+               ],
+               [
+                  "00:13:21,254 --> 00:13:24,110",
+                  "what we would refer to you in the field"
+               ],
+               [
+                  "00:13:24,110 --> 00:13:27,030",
+                  "as relational processing."
+               ],
+               [
+                  "00:13:27,030 --> 00:13:29,750",
+                  "And that raises all kinds"
+               ],
+               [
+                  "00:13:27,030 --> 00:13:29,750",
+                  "of new questions about"
+               ],
+               [
+                  "00:13:30,593 --> 00:13:31,426",
+                  "what memory really is."
+               ],
+               [
+                  "00:13:31,426 --> 00:13:33,900",
+                  "Reminiscing about our early"
+               ],
+               [
+                  "00:13:31,426 --> 00:13:33,900",
+                  "influences that made us"
+               ],
+               [
+                  "00:13:33,900 --> 00:13:35,500",
+                  "want to be scientists is that, you know,"
+               ],
+               [
+                  "00:13:35,500 --> 00:13:38,230",
+                  "of course we know, we know"
+               ],
+               [
+                  "00:13:35,500 --> 00:13:38,230",
+                  "better than to think that those"
+               ],
+               [
+                  "00:13:38,230 --> 00:13:40,360",
+                  "are necessarily accurate memories."
+               ],
+               [
+                  "00:13:40,360 --> 00:13:41,970",
+                  "You know this reminds me of sort of the"
+               ],
+               [
+                  "00:13:43,055 --> 00:13:45,250",
+                  "classic example from literature"
+               ],
+               [
+                  "00:13:43,055 --> 00:13:45,250",
+                  "when people talk about"
+               ],
+               [
+                  "00:13:45,250 --> 00:13:47,116",
+                  "memory of course is Marcel Proust's"
+               ],
+               [
+                  "00:13:47,116 --> 00:13:49,974",
+                  "Madeleine in Remembrance of Things Past."
+               ],
+               [
+                  "00:13:49,974 --> 00:13:54,500",
+                  "Where in the book it's this taste for the,"
+               ],
+               [
+                  "00:13:54,500 --> 00:13:57,280",
+                  "for the protagonist this"
+               ],
+               [
+                  "00:13:54,500 --> 00:13:57,280",
+                  "taste of the crumbs of"
+               ],
+               [
+                  "00:13:57,280 --> 00:14:01,000",
+                  "the Madeleine cookie and"
+               ],
+               [
+                  "00:13:57,280 --> 00:14:01,000",
+                  "the tea that bring him back"
+               ],
+               [
+                  "00:14:01,000 --> 00:14:02,010",
+                  "to his childhood."
+               ],
+               [
+                  "00:14:02,010 --> 00:14:05,130",
+                  "You know, seven volumes"
+               ],
+               [
+                  "00:14:02,010 --> 00:14:05,130",
+                  "then emerge of memories of,"
+               ],
+               [
+                  "00:14:05,130 --> 00:14:06,670",
+                  "of that childhood."
+               ],
+               [
+                  "00:14:06,670 --> 00:14:10,933",
+                  "Digging further into earlier"
+               ],
+               [
+                  "00:14:06,670 --> 00:14:10,933",
+                  "drafts of Proust's novel"
+               ],
+               [
+                  "00:14:10,933 --> 00:14:14,200",
+                  "that initially it didn't"
+               ],
+               [
+                  "00:14:10,933 --> 00:14:14,200",
+                  "describe a Madeleine at all."
+               ]
+            ]
+         },
+         {
+            "Reciever": 4,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:14:28,740 --> 00:14:29,990",
+                  "- You know I think these imperfections,"
+               ],
+               [
+                  "00:14:29,990 --> 00:14:33,260",
+                  "I interpret them as an indication"
+               ],
+               [
+                  "00:14:29,990 --> 00:14:33,260",
+                  "that the role of memory"
+               ],
+               [
+                  "00:14:33,260 --> 00:14:36,510",
+                  "is much less about being accurate"
+               ],
+               [
+                  "00:14:33,260 --> 00:14:36,510",
+                  "representation of the past"
+               ],
+               [
+                  "00:14:36,510 --> 00:14:40,030",
+                  "and much more about being"
+               ],
+               [
+                  "00:14:36,510 --> 00:14:40,030",
+                  "kind of a flexible compass"
+               ],
+               [
+                  "00:14:40,030 --> 00:14:41,016",
+                  "into the future."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:14:46,130 --> 00:14:48,220",
+                  "So what are you studying these days?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:15:10,650 --> 00:15:13,210",
+                  "- What I love about what"
+               ],
+               [
+                  "00:15:10,650 --> 00:15:13,210",
+                  "you were describing is like"
+               ],
+               [
+                  "00:15:13,210 --> 00:15:14,718",
+                  "you didn't use the word memory,"
+               ],
+               [
+                  "00:15:14,718 --> 00:15:17,170",
+                  "were how you were talking"
+               ],
+               [
+                  "00:15:14,718 --> 00:15:17,170",
+                  "about kind of perceptions"
+               ],
+               [
+                  "00:15:17,170 --> 00:15:20,790",
+                  "and social judgments but I"
+               ],
+               [
+                  "00:15:17,170 --> 00:15:20,790",
+                  "think probably we'd both agree"
+               ],
+               [
+                  "00:15:20,790 --> 00:15:22,898",
+                  "that memory is a big part of that."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:15:23,918 --> 00:15:25,170",
+                  "- Right, like it reminds"
+               ],
+               [
+                  "00:15:23,918 --> 00:15:25,170",
+                  "me so much of, you know,"
+               ],
+               [
+                  "00:15:25,170 --> 00:15:27,730",
+                  "what we in the field would refer"
+               ],
+               [
+                  "00:15:25,170 --> 00:15:27,730",
+                  "to as statistical learning."
+               ],
+               [
+                  "00:15:27,730 --> 00:15:29,860",
+                  "On one hand we might have"
+               ],
+               [
+                  "00:15:27,730 --> 00:15:29,860",
+                  "like a one-shot memory,"
+               ],
+               [
+                  "00:15:29,860 --> 00:15:31,900",
+                  "a memory of something"
+               ],
+               [
+                  "00:15:29,860 --> 00:15:31,900",
+                  "that we saw yesterday,"
+               ],
+               [
+                  "00:15:31,900 --> 00:15:34,114",
+                  "like what we did or what"
+               ],
+               [
+                  "00:15:31,900 --> 00:15:34,114",
+                  "we ate or where we were."
+               ],
+               [
+                  "00:15:34,114 --> 00:15:37,678",
+                  "But a lot of our memories"
+               ],
+               [
+                  "00:15:34,114 --> 00:15:37,678",
+                  "and our knowledge"
+               ],
+               [
+                  "00:15:37,678 --> 00:15:41,900",
+                  "instead are based on many,"
+               ],
+               [
+                  "00:15:37,678 --> 00:15:41,900",
+                  "many, many experiences."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:16:22,890 --> 00:16:25,299",
+                  "- Some of those examples really"
+               ],
+               [
+                  "00:16:22,890 --> 00:16:25,299",
+                  "remind me also some of the"
+               ],
+               [
+                  "00:16:25,299 --> 00:16:28,710",
+                  "questions about kind of abnormalities in,"
+               ],
+               [
+                  "00:16:28,710 --> 00:16:33,000",
+                  "in memory or trauma or"
+               ],
+               [
+                  "00:16:28,710 --> 00:16:33,000",
+                  "disruptions in memory"
+               ],
+               [
+                  "00:16:33,000 --> 00:16:37,360",
+                  "and how they also play"
+               ],
+               [
+                  "00:16:33,000 --> 00:16:37,360",
+                  "out in terms of not just"
+               ],
+               [
+                  "00:16:37,360 --> 00:16:39,070",
+                  "what people remember but what they do with"
+               ],
+               [
+                  "00:16:39,070 --> 00:16:40,230",
+                  "those memories right?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:16:53,920 --> 00:16:56,290",
+                  "- I think what we're still"
+               ],
+               [
+                  "00:16:53,920 --> 00:16:56,290",
+                  "kind of trying to understand"
+               ],
+               [
+                  "00:16:56,290 --> 00:16:59,740",
+                  "as a field is the more kind of detailed"
+               ],
+               [
+                  "00:16:59,740 --> 00:17:03,520",
+                  "and bigger picture of"
+               ],
+               [
+                  "00:16:59,740 --> 00:17:03,520",
+                  "where does this model live?"
+               ],
+               [
+                  "00:17:03,520 --> 00:17:06,673",
+                  "How does it get updated"
+               ],
+               [
+                  "00:17:03,520 --> 00:17:06,673",
+                  "based on experiences?"
+               ],
+               [
+                  "00:17:06,673 --> 00:17:10,250",
+                  "Why does that sometimes"
+               ],
+               [
+                  "00:17:06,673 --> 00:17:10,250",
+                  "happen and sometimes not?"
+               ],
+               [
+                  "00:17:10,250 --> 00:17:12,350",
+                  "There are actually people who are born"
+               ],
+               [
+                  "00:17:12,350 --> 00:17:13,770",
+                  "without a hippocampus."
+               ],
+               [
+                  "00:17:13,770 --> 00:17:16,330",
+                  "They have disruptions"
+               ],
+               [
+                  "00:17:13,770 --> 00:17:16,330",
+                  "to episodic memories."
+               ],
+               [
+                  "00:17:16,330 --> 00:17:19,550",
+                  "They have trouble after this"
+               ],
+               [
+                  "00:17:16,330 --> 00:17:19,550",
+                  "conversation remembering"
+               ],
+               [
+                  "00:17:19,550 --> 00:17:21,250",
+                  "what the conversation was about,"
+               ],
+               [
+                  "00:17:21,250 --> 00:17:23,900",
+                  "but they do have pretty"
+               ],
+               [
+                  "00:17:21,250 --> 00:17:23,900",
+                  "good semantic information."
+               ],
+               [
+                  "00:17:23,900 --> 00:17:26,327",
+                  "They have a good sense of"
+               ],
+               [
+                  "00:17:23,900 --> 00:17:26,327",
+                  "knowledge about the world."
+               ],
+               [
+                  "00:17:26,327 --> 00:17:27,880",
+                  "And that's interesting for two reasons."
+               ],
+               [
+                  "00:17:27,880 --> 00:17:30,970",
+                  "One, it shows this association"
+               ],
+               [
+                  "00:17:27,880 --> 00:17:30,970",
+                  "between the role of the"
+               ],
+               [
+                  "00:17:30,970 --> 00:17:32,970",
+                  "hippocampus and these two forms of memory,"
+               ],
+               [
+                  "00:17:32,970 --> 00:17:35,600",
+                  "episodic memories and semantic memory."
+               ],
+               [
+                  "00:17:35,600 --> 00:17:37,900",
+                  "The other reason it's"
+               ],
+               [
+                  "00:17:35,600 --> 00:17:37,900",
+                  "interesting is that people often"
+               ],
+               [
+                  "00:17:37,900 --> 00:17:40,599",
+                  "assume that we get to semantic memory"
+               ],
+               [
+                  "00:17:40,599 --> 00:17:42,450",
+                  "through episodic memory,"
+               ],
+               [
+                  "00:17:42,450 --> 00:17:45,210",
+                  "that we encounter one"
+               ],
+               [
+                  "00:17:42,450 --> 00:17:45,210",
+                  "dog and then another dog,"
+               ],
+               [
+                  "00:17:45,210 --> 00:17:47,810",
+                  "and then another dog and"
+               ],
+               [
+                  "00:17:45,210 --> 00:17:47,810",
+                  "then we learned the concept,"
+               ],
+               [
+                  "00:17:47,810 --> 00:17:50,050",
+                  "the semantic notion of a dog."
+               ],
+               [
+                  "00:17:50,050 --> 00:17:53,640",
+                  "And these people, their"
+               ],
+               [
+                  "00:17:50,050 --> 00:17:53,640",
+                  "profile suggests that you can"
+               ],
+               [
+                  "00:17:53,640 --> 00:17:55,280",
+                  "learn semantic information."
+               ],
+               [
+                  "00:17:55,280 --> 00:17:57,740",
+                  "You can learn general"
+               ],
+               [
+                  "00:17:55,280 --> 00:17:57,740",
+                  "knowledge about the world,"
+               ],
+               [
+                  "00:17:57,740 --> 00:17:59,640",
+                  "even without ever having the capacity"
+               ],
+               [
+                  "00:17:59,640 --> 00:18:01,730",
+                  "to build those individual memories."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:18:15,602 --> 00:18:16,435",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:18:32,490 --> 00:18:34,270",
+                  "- You know when I look back at,"
+               ],
+               [
+                  "00:18:34,270 --> 00:18:36,760",
+                  "some of the work for my own lab"
+               ],
+               [
+                  "00:18:34,270 --> 00:18:36,760",
+                  "and in the field in general,"
+               ],
+               [
+                  "00:18:36,760 --> 00:18:39,430",
+                  "I really feel like some of"
+               ],
+               [
+                  "00:18:36,760 --> 00:18:39,430",
+                  "the most exciting discoveries"
+               ],
+               [
+                  "00:18:39,430 --> 00:18:43,130",
+                  "were not an answer to a"
+               ],
+               [
+                  "00:18:39,430 --> 00:18:43,130",
+                  "question that was around before,"
+               ],
+               [
+                  "00:18:43,130 --> 00:18:45,150",
+                  "but they were discoveries"
+               ],
+               [
+                  "00:18:43,130 --> 00:18:45,150",
+                  "that made us realize"
+               ],
+               [
+                  "00:18:45,150 --> 00:18:47,010",
+                  "we weren't asking the right question."
+               ],
+               [
+                  "00:18:47,010 --> 00:18:49,650",
+                  "I think one example of that"
+               ],
+               [
+                  "00:18:47,010 --> 00:18:49,650",
+                  "even has to do with the"
+               ],
+               [
+                  "00:18:49,650 --> 00:18:51,660",
+                  "connection between memory"
+               ],
+               [
+                  "00:18:49,650 --> 00:18:51,660",
+                  "and decision-making."
+               ],
+               [
+                  "00:18:51,660 --> 00:18:55,970",
+                  "There was a discovery about"
+               ],
+               [
+                  "00:18:51,660 --> 00:18:55,970",
+                  "how the striatum responds to"
+               ],
+               [
+                  "00:18:55,970 --> 00:19:00,911",
+                  "rewards and to learning that"
+               ],
+               [
+                  "00:18:55,970 --> 00:19:00,911",
+                  "just all of a sudden flipped"
+               ],
+               [
+                  "00:19:00,911 --> 00:19:03,880",
+                  "the way we thought"
+               ],
+               [
+                  "00:19:00,911 --> 00:19:03,880",
+                  "about the role of reward"
+               ],
+               [
+                  "00:19:03,880 --> 00:19:05,160",
+                  "and learning and memory,"
+               ],
+               [
+                  "00:19:05,160 --> 00:19:07,510",
+                  "and may force us to"
+               ],
+               [
+                  "00:19:05,160 --> 00:19:07,510",
+                  "realize there was something"
+               ],
+               [
+                  "00:19:08,361 --> 00:19:10,630",
+                  "fundamentally connected"
+               ],
+               [
+                  "00:19:08,361 --> 00:19:10,630",
+                  "between these processes."
+               ],
+               [
+                  "00:19:10,630 --> 00:19:14,180",
+                  "And that discovery just raised"
+               ],
+               [
+                  "00:19:10,630 --> 00:19:14,180",
+                  "a whole new set of questions"
+               ],
+               [
+                  "00:19:14,180 --> 00:19:15,550",
+                  "that didn't exist before."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:19:29,403 --> 00:19:32,150",
+                  "- Each project should be"
+               ],
+               [
+                  "00:19:29,403 --> 00:19:32,150",
+                  "very focused and rigorous"
+               ],
+               [
+                  "00:19:32,150 --> 00:19:34,830",
+                  "and know what a study is designed for."
+               ],
+               [
+                  "00:19:34,830 --> 00:19:38,540",
+                  "But at the same time we"
+               ],
+               [
+                  "00:19:34,830 --> 00:19:38,540",
+                  "have to keep our minds open,"
+               ],
+               [
+                  "00:19:38,540 --> 00:19:41,530",
+                  "our eyes open for what else is happening."
+               ],
+               [
+                  "00:19:41,530 --> 00:19:43,690",
+                  "Some of the most interesting discoveries"
+               ],
+               [
+                  "00:19:43,690 --> 00:19:45,320",
+                  "didn't make sense at first."
+               ]
+            ]
+         },
+         {
+            "Reciever": 5,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:19:49,040 --> 00:19:50,500",
+                  "- There you go, exactly."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 1,
+            "Sentence": [
+               [
+                  "00:19:55,720 --> 00:19:58,460",
+                  "Thanks so much for coming,"
+               ],
+               [
+                  "00:19:55,720 --> 00:19:58,460",
+                  "it's great to see you."
+               ],
+               [
+                  "00:19:58,460 --> 00:19:59,330",
+                  "It's been a while."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 3,
+            "Sentence": [
+               [
+                  "00:20:01,310 --> 00:20:05,810",
+                  "- It'd be great to just start"
+               ],
+               [
+                  "00:20:01,310 --> 00:20:05,810",
+                  "by talking about your work"
+               ],
+               [
+                  "00:20:05,810 --> 00:20:07,400",
+                  "at the broadest level."
+               ],
+               [
+                  "00:20:07,400 --> 00:20:10,390",
+                  "To my mind your work has"
+               ],
+               [
+                  "00:20:07,400 --> 00:20:10,390",
+                  "really revolutionized the field"
+               ],
+               [
+                  "00:20:10,390 --> 00:20:12,470",
+                  "of cognitive neuroscience more broadly."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 5,
+            "Sentence": [
+               [
+                  "00:21:42,130 --> 00:21:43,480",
+                  "- It's a great analogy."
+               ],
+               [
+                  "00:21:43,480 --> 00:21:45,600",
+                  "You know I remember when I"
+               ],
+               [
+                  "00:21:43,480 --> 00:21:45,600",
+                  "first learned of your work,"
+               ],
+               [
+                  "00:21:45,600 --> 00:21:48,170",
+                  "for me as somebody who"
+               ],
+               [
+                  "00:21:45,600 --> 00:21:48,170",
+                  "studies learning and memory,"
+               ],
+               [
+                  "00:21:48,170 --> 00:21:52,060",
+                  "which are processes that"
+               ],
+               [
+                  "00:21:48,170 --> 00:21:52,060",
+                  "are all about rapid updating"
+               ],
+               [
+                  "00:21:52,060 --> 00:21:55,570",
+                  "that to me was really mind"
+               ],
+               [
+                  "00:21:52,060 --> 00:21:55,570",
+                  "blowing that we can now"
+               ],
+               [
+                  "00:21:55,570 --> 00:21:59,230",
+                  "start asking questions"
+               ],
+               [
+                  "00:21:55,570 --> 00:21:59,230",
+                  "about dynamics of circuits"
+               ],
+               [
+                  "00:21:59,230 --> 00:22:03,830",
+                  "on a timescale that's much"
+               ],
+               [
+                  "00:21:59,230 --> 00:22:03,830",
+                  "closer to the timescale"
+               ],
+               [
+                  "00:22:03,830 --> 00:22:06,930",
+                  "of human thought than"
+               ],
+               [
+                  "00:22:03,830 --> 00:22:06,930",
+                  "anything we had before."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 7,
+            "Sentence": [
+               [
+                  "00:22:34,430 --> 00:22:39,430",
+                  "- In the field we often talk"
+               ],
+               [
+                  "00:22:34,430 --> 00:22:39,430",
+                  "of have having a mental model"
+               ],
+               [
+                  "00:22:39,778 --> 00:22:42,565",
+                  "that we use to make predictions"
+               ],
+               [
+                  "00:22:39,778 --> 00:22:42,565",
+                  "about what's about to happen"
+               ],
+               [
+                  "00:22:42,565 --> 00:22:46,840",
+                  "and really use that to mean"
+               ],
+               [
+                  "00:22:42,565 --> 00:22:46,840",
+                  "kind of a general understanding"
+               ],
+               [
+                  "00:22:46,840 --> 00:22:48,960",
+                  "of what's going on."
+               ],
+               [
+                  "00:22:48,960 --> 00:22:52,610",
+                  "What does that look like in"
+               ],
+               [
+                  "00:22:48,960 --> 00:22:52,610",
+                  "terms that come from your world"
+               ],
+               [
+                  "00:22:52,610 --> 00:22:55,070",
+                  "of like the configuration"
+               ],
+               [
+                  "00:22:52,610 --> 00:22:55,070",
+                  "of, of a circuit?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 9,
+            "Sentence": [
+               [
+                  "00:23:52,760 --> 00:23:56,207",
+                  "- We now think of the hippocampus"
+               ],
+               [
+                  "00:23:52,760 --> 00:23:56,207",
+                  "so much in terms of memory"
+               ],
+               [
+                  "00:23:56,207 --> 00:23:59,025",
+                  "but really some of the"
+               ],
+               [
+                  "00:23:56,207 --> 00:23:59,025",
+                  "earliest work in neuroscience"
+               ],
+               [
+                  "00:23:59,025 --> 00:24:03,530",
+                  "on the hippocampus talked about"
+               ],
+               [
+                  "00:23:59,025 --> 00:24:03,530",
+                  "the role of the hippocampus"
+               ],
+               [
+                  "00:24:03,530 --> 00:24:05,350",
+                  "in spatial navigation."
+               ],
+               [
+                  "00:24:05,350 --> 00:24:07,970",
+                  "And it really exposed I think"
+               ],
+               [
+                  "00:24:05,350 --> 00:24:07,970",
+                  "one of the deepest questions"
+               ],
+               [
+                  "00:24:07,970 --> 00:24:09,330",
+                  "in memory research,"
+               ],
+               [
+                  "00:24:09,330 --> 00:24:11,510",
+                  "or at least from the"
+               ],
+               [
+                  "00:24:09,330 --> 00:24:11,510",
+                  "neuroscience perspective is like,"
+               ],
+               [
+                  "00:24:11,510 --> 00:24:12,740",
+                  "well what is the connection?"
+               ],
+               [
+                  "00:24:12,740 --> 00:24:14,000",
+                  "What is the connection between"
+               ],
+               [
+                  "00:24:14,000 --> 00:24:16,433",
+                  "spatial processing and memory?"
+               ],
+               [
+                  "00:24:17,544 --> 00:24:21,366",
+                  "And why is it that"
+               ],
+               [
+                  "00:24:17,544 --> 00:24:21,366",
+                  "neurons in the hippocampus"
+               ],
+               [
+                  "00:24:21,366 --> 00:24:24,450",
+                  "when an animal is navigating a maze,"
+               ],
+               [
+                  "00:24:24,450 --> 00:24:27,800",
+                  "why is it that there's"
+               ],
+               [
+                  "00:24:24,450 --> 00:24:27,800",
+                  "spatial specialization there?"
+               ],
+               [
+                  "00:24:27,800 --> 00:24:31,766",
+                  "I really do think that this"
+               ],
+               [
+                  "00:24:27,800 --> 00:24:31,766",
+                  "notion of a mental model,"
+               ],
+               [
+                  "00:24:31,766 --> 00:24:36,280",
+                  "a generative model is where those,"
+               ],
+               [
+                  "00:24:36,280 --> 00:24:38,420",
+                  "where memory and space meet."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 11,
+            "Sentence": [
+               [
+                  "00:25:19,880 --> 00:25:20,860",
+                  "- It's really interesting."
+               ],
+               [
+                  "00:25:20,860 --> 00:25:23,870",
+                  "And I think it also really"
+               ],
+               [
+                  "00:25:20,860 --> 00:25:23,870",
+                  "speaks to the kind of pervasive"
+               ],
+               [
+                  "00:25:23,870 --> 00:25:25,890",
+                  "and circular role of memory, right?"
+               ],
+               [
+                  "00:25:25,890 --> 00:25:29,640",
+                  "Because the maps are"
+               ],
+               [
+                  "00:25:25,890 --> 00:25:29,640",
+                  "dependent on memories,"
+               ],
+               [
+                  "00:25:29,640 --> 00:25:31,970",
+                  "they're built from"
+               ],
+               [
+                  "00:25:29,640 --> 00:25:31,970",
+                  "memories and experiences."
+               ],
+               [
+                  "00:25:31,970 --> 00:25:36,970",
+                  "So there's this kind of dialogue"
+               ],
+               [
+                  "00:25:31,970 --> 00:25:36,970",
+                  "with memory creating maps,"
+               ],
+               [
+                  "00:25:38,120 --> 00:25:40,190",
+                  "maps creating experiences,"
+               ],
+               [
+                  "00:25:38,120 --> 00:25:40,190",
+                  "experiences creating memories,"
+               ],
+               [
+                  "00:25:40,190 --> 00:25:41,170",
+                  "affecting the maps,"
+               ],
+               [
+                  "00:25:41,170 --> 00:25:44,400",
+                  "and really makes me"
+               ],
+               [
+                  "00:25:41,170 --> 00:25:44,400",
+                  "think even of a question"
+               ],
+               [
+                  "00:25:44,400 --> 00:25:47,640",
+                  "a friend asked me recently"
+               ],
+               [
+                  "00:25:44,400 --> 00:25:47,640",
+                  "about moods and mental health"
+               ],
+               [
+                  "00:25:47,640 --> 00:25:50,350",
+                  "and this feeling of like how"
+               ],
+               [
+                  "00:25:47,640 --> 00:25:50,350",
+                  "do some people get kind of"
+               ],
+               [
+                  "00:25:50,350 --> 00:25:54,230",
+                  "trapped in a state of mind"
+               ],
+               [
+                  "00:25:50,350 --> 00:25:54,230",
+                  "where all they can see"
+               ],
+               [
+                  "00:25:54,230 --> 00:25:56,204",
+                  "is a particular way forward."
+               ],
+               [
+                  "00:25:56,204 --> 00:25:59,690",
+                  "But then something happens"
+               ],
+               [
+                  "00:25:56,204 --> 00:25:59,690",
+                  "in the world that shifts them"
+               ],
+               [
+                  "00:25:59,690 --> 00:26:00,780",
+                  "to another model."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 13,
+            "Sentence": [
+               [
+                  "00:26:32,220 --> 00:26:36,710",
+                  "- Memories as models or models first"
+               ],
+               [
+                  "00:26:36,710 --> 00:26:39,540",
+                  "and memory as part of"
+               ],
+               [
+                  "00:26:36,710 --> 00:26:39,540",
+                  "what helps build the model"
+               ],
+               [
+                  "00:26:39,540 --> 00:26:41,363",
+                  "starts generating new predictions."
+               ],
+               [
+                  "00:26:42,354 --> 00:26:44,034",
+                  "Exactly the kind you just brought up"
+               ],
+               [
+                  "00:26:44,034 --> 00:26:45,740",
+                  "or other ways of thinking about"
+               ],
+               [
+                  "00:26:44,034 --> 00:26:45,740",
+                  "things because an efficient"
+               ],
+               [
+                  "00:26:45,740 --> 00:26:48,873",
+                  "model needs to let go"
+               ],
+               [
+                  "00:26:45,740 --> 00:26:48,873",
+                  "of information, right?"
+               ],
+               [
+                  "00:26:48,873 --> 00:26:52,330",
+                  "I just heard a colleague of"
+               ],
+               [
+                  "00:26:48,873 --> 00:26:52,330",
+                  "mine joking about the fact that"
+               ],
+               [
+                  "00:26:52,330 --> 00:26:54,640",
+                  "the principles of neuroscience textbook"
+               ],
+               [
+                  "00:26:54,640 --> 00:26:55,910",
+                  "keeps growing and growing."
+               ],
+               [
+                  "00:26:55,910 --> 00:26:58,440",
+                  "And that if we had enough strength"
+               ],
+               [
+                  "00:26:58,440 --> 00:26:59,810",
+                  "in theoretical neuroscience,"
+               ],
+               [
+                  "00:26:59,810 --> 00:27:02,440",
+                  "if our models of neuroscience"
+               ],
+               [
+                  "00:26:59,810 --> 00:27:02,440",
+                  "were good enough,"
+               ],
+               [
+                  "00:27:02,440 --> 00:27:03,890",
+                  "that book should shrink back."
+               ],
+               [
+                  "00:27:03,890 --> 00:27:06,760",
+                  "We know that memory retrieval"
+               ],
+               [
+                  "00:27:03,890 --> 00:27:06,760",
+                  "is essentially construction."
+               ],
+               [
+                  "00:27:06,760 --> 00:27:09,780",
+                  "And so you don't need to store"
+               ],
+               [
+                  "00:27:06,760 --> 00:27:09,780",
+                  "all those separate memories."
+               ],
+               [
+                  "00:27:09,780 --> 00:27:10,760",
+                  "You need to construct them."
+               ],
+               [
+                  "00:27:10,760 --> 00:27:12,550",
+                  "But if you have a good model,"
+               ],
+               [
+                  "00:27:12,550 --> 00:27:15,610",
+                  "let go of all those details"
+               ],
+               [
+                  "00:27:12,550 --> 00:27:15,610",
+                  "and just construct them"
+               ],
+               [
+                  "00:27:15,610 --> 00:27:18,050",
+                  "to feel as if it's a memory."
+               ],
+               [
+                  "00:27:18,050 --> 00:27:19,760",
+                  "But really all you're"
+               ],
+               [
+                  "00:27:18,050 --> 00:27:19,760",
+                  "doing is using the model"
+               ],
+               [
+                  "00:27:19,760 --> 00:27:20,593",
+                  "to fill the details."
+               ],
+               [
+                  "00:27:20,593 --> 00:27:22,409",
+                  "It's kind of like the matrix, you know."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 15,
+            "Sentence": [
+               [
+                  "00:27:23,430 --> 00:27:25,080",
+                  "- Getting way out there, but,"
+               ],
+               [
+                  "00:27:25,080 --> 00:27:28,451",
+                  "but it is a way in which if"
+               ],
+               [
+                  "00:27:25,080 --> 00:27:28,451",
+                  "you have the right model,"
+               ],
+               [
+                  "00:27:28,451 --> 00:27:30,940",
+                  "it should be an efficient one."
+               ],
+               [
+                  "00:27:30,940 --> 00:27:35,360",
+                  "I'm wondering what you, what"
+               ],
+               [
+                  "00:27:30,940 --> 00:27:35,360",
+                  "you think about what all this"
+               ],
+               [
+                  "00:27:35,360 --> 00:27:38,390",
+                  "means for kind of a"
+               ],
+               [
+                  "00:27:35,360 --> 00:27:38,390",
+                  "redefinition of what memory is,"
+               ],
+               [
+                  "00:27:38,390 --> 00:27:43,380",
+                  "in many ways a revision or"
+               ],
+               [
+                  "00:27:38,390 --> 00:27:43,380",
+                  "expansion of that notion."
+               ],
+               [
+                  "00:27:43,380 --> 00:27:46,791",
+                  "Would you be willing to"
+               ],
+               [
+                  "00:27:43,380 --> 00:27:46,791",
+                  "try to help me think about"
+               ],
+               [
+                  "00:27:46,791 --> 00:27:47,980",
+                  "how to define it?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 17,
+            "Sentence": [
+               [
+                  "00:28:44,162 --> 00:28:44,995",
+                  "- I agree."
+               ],
+               [
+                  "00:28:44,995 --> 00:28:47,569",
+                  "I think, you know, as you"
+               ],
+               [
+                  "00:28:44,995 --> 00:28:47,569",
+                  "were speaking I was thinking"
+               ],
+               [
+                  "00:28:47,569 --> 00:28:49,710",
+                  "maybe the most important word"
+               ],
+               [
+                  "00:28:49,710 --> 00:28:51,450",
+                  "to replace there is record."
+               ],
+               [
+                  "00:28:51,450 --> 00:28:54,540",
+                  "Record implies an etching"
+               ],
+               [
+                  "00:28:51,450 --> 00:28:54,540",
+                  "of something as it was."
+               ],
+               [
+                  "00:28:54,540 --> 00:28:57,965",
+                  "And maybe what we need"
+               ],
+               [
+                  "00:28:54,540 --> 00:28:57,965",
+                  "instead is that it's a model,"
+               ],
+               [
+                  "00:28:57,965 --> 00:29:00,170",
+                  "it's an approximation,"
+               ],
+               [
+                  "00:29:00,170 --> 00:29:05,170",
+                  "it's an abstraction that can"
+               ],
+               [
+                  "00:29:00,170 --> 00:29:05,170",
+                  "help us create the illusion of"
+               ],
+               [
+                  "00:29:05,292 --> 00:29:07,360",
+                  "constructing your record."
+               ],
+               [
+                  "00:29:07,360 --> 00:29:09,680",
+                  "But that it's the model"
+               ],
+               [
+                  "00:29:07,360 --> 00:29:09,680",
+                  "that's the important thing"
+               ],
+               [
+                  "00:29:09,680 --> 00:29:10,900",
+                  "that drives the whole thing."
+               ]
+            ]
+         },
+         {
+            "Reciever": 6,
+            "Sequence": 19,
+            "Sentence": [
+               [
+                  "00:29:12,290 --> 00:29:13,670",
+                  "- Yep."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:29:13,670 --> 00:29:15,950",
+                  "I hope you learned something about memory."
+               ],
+               [
+                  "00:29:15,950 --> 00:29:18,820",
+                  "It plays a role in shaping"
+               ],
+               [
+                  "00:29:15,950 --> 00:29:18,820",
+                  "the changing preferences"
+               ],
+               [
+                  "00:29:18,820 --> 00:29:21,150",
+                  "of things we encounter in our lives."
+               ],
+               [
+                  "00:29:21,150 --> 00:29:25,830",
+                  "Memory is fundamental to"
+               ],
+               [
+                  "00:29:21,150 --> 00:29:25,830",
+                  "everything we do, to who we are,"
+               ],
+               [
+                  "00:29:25,830 --> 00:29:28,330",
+                  "to what we order for breakfast,"
+               ],
+               [
+                  "00:29:28,330 --> 00:29:32,163",
+                  "to how we think about our past,"
+               ],
+               [
+                  "00:29:28,330 --> 00:29:32,163",
+                  "to how we plan our future."
+               ]
+            ]
+         }
+      ]
+   },
+   "2": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k?t=20",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:00:28,280 --> 00:00:33,280",
+                  "- Like I once went on vacation"
+               ],
+               [
+                  "00:00:28,280 --> 00:00:33,280",
+                  "to Dominican Republic."
+               ],
+               [
+                  "00:00:34,480 --> 00:00:39,480",
+                  "I think I was like six or five years old."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:00:43,800 --> 00:00:46,786",
+                  "- There was this pool, I love pools."
+               ],
+               [
+                  "00:00:46,786 --> 00:00:49,520",
+                  "And then there's a slide you go down"
+               ],
+               [
+                  "00:00:49,520 --> 00:00:51,810",
+                  "and there's pool noodles in there too."
+               ],
+               [
+                  "00:00:51,810 --> 00:00:54,200",
+                  "And then there's a little tiny sandbox."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:01:08,930 --> 00:01:11,520",
+                  "- I don't really remember."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:01:16,860 --> 00:01:21,670",
+                  "- I think the one I used was a"
+               ],
+               [
+                  "00:01:16,860 --> 00:01:21,670",
+                  "dark blue or a light blue or,"
+               ],
+               [
+                  "00:01:21,670 --> 00:01:23,520",
+                  "or like sort of a teal."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:02:05,110 --> 00:02:08,200",
+                  "- I think as you get older you"
+               ],
+               [
+                  "00:02:05,110 --> 00:02:08,200",
+                  "start forgetting things more"
+               ],
+               [
+                  "00:02:08,200 --> 00:02:10,730",
+                  "because you have to make"
+               ],
+               [
+                  "00:02:08,200 --> 00:02:10,730",
+                  "space for new things,"
+               ],
+               [
+                  "00:02:10,730 --> 00:02:12,210",
+                  "which is why you forget stuff."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:02:28,710 --> 00:02:31,870",
+                  "- I do know that there's"
+               ],
+               [
+                  "00:02:28,710 --> 00:02:31,870",
+                  "different parts of the brain."
+               ],
+               [
+                  "00:02:31,870 --> 00:02:33,530",
+                  "So there's probably a part of your brain"
+               ],
+               [
+                  "00:02:33,530 --> 00:02:36,260",
+                  "that remembers a bunch of stuff."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:03:16,590 --> 00:03:20,500",
+                  "- Let's say you, you"
+               ],
+               [
+                  "00:03:16,590 --> 00:03:20,500",
+                  "accidentally cut yourself."
+               ],
+               [
+                  "00:03:20,500 --> 00:03:22,370",
+                  "Then your brain makes a note"
+               ],
+               [
+                  "00:03:22,370 --> 00:03:25,350",
+                  "and says don't get too"
+               ],
+               [
+                  "00:03:22,370 --> 00:03:25,350",
+                  "close to sharp things,"
+               ],
+               [
+                  "00:03:25,350 --> 00:03:27,570",
+                  "or you're going to cut yourself again."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:03:38,900 --> 00:03:43,900",
+                  "- A memory is something"
+               ],
+               [
+                  "00:03:38,900 --> 00:03:43,900",
+                  "stored in your hippocampus"
+               ],
+               [
+                  "00:03:44,360 --> 00:03:47,030",
+                  "and your hippocampus is"
+               ],
+               [
+                  "00:03:44,360 --> 00:03:47,030",
+                  "a part of your brain."
+               ],
+               [
+                  "00:03:47,030 --> 00:03:48,740",
+                  "It's just a big record."
+               ],
+               [
+                  "00:03:48,740 --> 00:03:52,800",
+                  "And sometimes you can"
+               ],
+               [
+                  "00:03:48,740 --> 00:03:52,800",
+                  "forget parts of the record"
+               ],
+               [
+                  "00:03:52,800 --> 00:03:54,339",
+                  "that's not that important to you."
+               ]
+            ]
+         }
+      ]
+   },
+   "3": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k?t=238",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:04:04,100 --> 00:04:06,490",
+                  "- I know when you see"
+               ],
+               [
+                  "00:04:04,100 --> 00:04:06,490",
+                  "something you could like"
+               ],
+               [
+                  "00:04:06,490 --> 00:04:07,550",
+                  "kind of like picture it,"
+               ],
+               [
+                  "00:04:07,550 --> 00:04:09,320",
+                  "like in your head you can imagine it."
+               ],
+               [
+                  "00:04:09,320 --> 00:04:12,710",
+                  "I remember yesterday I"
+               ],
+               [
+                  "00:04:09,320 --> 00:04:12,710",
+                  "got like orange juice,"
+               ],
+               [
+                  "00:04:12,710 --> 00:04:17,077",
+                  "but let's say like a year or"
+               ],
+               [
+                  "00:04:12,710 --> 00:04:17,077",
+                  "two, you might think like, oh,"
+               ],
+               [
+                  "00:04:17,077 --> 00:04:19,450",
+                  "that day I got water."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:04:36,810 --> 00:04:40,597",
+                  "- Let's say you grew up in a"
+               ],
+               [
+                  "00:04:36,810 --> 00:04:40,597",
+                  "place that the orange juice"
+               ],
+               [
+                  "00:04:40,597 --> 00:04:42,494",
+                  "is just meh, and then you go"
+               ],
+               [
+                  "00:04:40,597 --> 00:04:42,494",
+                  "on vacation going somewhere"
+               ],
+               [
+                  "00:04:42,494 --> 00:04:45,910",
+                  "and then it might change how"
+               ],
+               [
+                  "00:04:42,494 --> 00:04:45,910",
+                  "you feel about orange juice."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:05:16,460 --> 00:05:17,570",
+                  "- I wish I could say both,"
+               ],
+               [
+                  "00:05:17,570 --> 00:05:22,239",
+                  "but I guess I'll go with pixie sticks."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:05:57,050 --> 00:05:59,136",
+                  "- Exactly, and then also"
+               ],
+               [
+                  "00:05:57,050 --> 00:05:59,136",
+                  "like after it was like,"
+               ],
+               [
+                  "00:05:59,136 --> 00:06:02,507",
+                  "maybe like I would've,"
+               ],
+               [
+                  "00:05:59,136 --> 00:06:02,507",
+                  "enjoyed this more than that"
+               ],
+               [
+                  "00:06:02,507 --> 00:06:04,320",
+                  "and like maybe I should've"
+               ],
+               [
+                  "00:06:02,507 --> 00:06:04,320",
+                  "chose the other one."
+               ],
+               [
+                  "00:06:04,320 --> 00:06:05,480",
+                  "And you don't know."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:06:38,016 --> 00:06:41,035",
+                  "- Am I always gonna"
+               ],
+               [
+                  "00:06:38,016 --> 00:06:41,035",
+                  "like choose pixie sticks"
+               ],
+               [
+                  "00:06:41,035 --> 00:06:43,610",
+                  "or sour patch kids?"
+               ],
+               [
+                  "00:06:43,610 --> 00:06:45,710",
+                  "What's gonna like change that?"
+               ],
+               [
+                  "00:06:45,710 --> 00:06:49,680",
+                  "We fluctuate a lot because we"
+               ],
+               [
+                  "00:06:45,710 --> 00:06:49,680",
+                  "use different kinds of memory"
+               ],
+               [
+                  "00:06:49,680 --> 00:06:54,150",
+                  "to kind of resolve the"
+               ],
+               [
+                  "00:06:49,680 --> 00:06:54,150",
+                  "uncertainty basically every time."
+               ],
+               [
+                  "00:06:54,150 --> 00:06:57,260",
+                  "But also the way we make"
+               ],
+               [
+                  "00:06:54,150 --> 00:06:57,260",
+                  "decisions will change"
+               ],
+               [
+                  "00:06:57,260 --> 00:06:59,660",
+                  "because our memories change."
+               ],
+               [
+                  "00:06:59,660 --> 00:07:03,400",
+                  "What's interesting about your"
+               ],
+               [
+                  "00:06:59,660 --> 00:07:03,400",
+                  "brain as a teenager is that we"
+               ],
+               [
+                  "00:07:03,400 --> 00:07:05,330",
+                  "know it's actually a phase"
+               ],
+               [
+                  "00:07:03,400 --> 00:07:05,330",
+                  "of life where the brain is"
+               ],
+               [
+                  "00:07:05,330 --> 00:07:07,980",
+                  "especially sensitive to rewards,"
+               ],
+               [
+                  "00:07:07,980 --> 00:07:10,780",
+                  "to things that are exciting and positive."
+               ],
+               [
+                  "00:07:10,780 --> 00:07:12,820",
+                  "It's a phase of life where those rewards,"
+               ],
+               [
+                  "00:07:12,820 --> 00:07:16,520",
+                  "whether it's candy or your"
+               ],
+               [
+                  "00:07:12,820 --> 00:07:16,520",
+                  "friends or whatever it is"
+               ],
+               [
+                  "00:07:16,520 --> 00:07:20,240",
+                  "that's exciting can have an"
+               ],
+               [
+                  "00:07:16,520 --> 00:07:20,240",
+                  "especially powerful control"
+               ],
+               [
+                  "00:07:20,240 --> 00:07:22,293",
+                  "over the decisions you make"
+               ],
+               [
+                  "00:07:20,240 --> 00:07:22,293",
+                  "and the memories you create."
+               ]
+            ]
+         }
+      ]
+   },
+   "4": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k?t=443",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:07:40,440 --> 00:07:41,880",
+                  "- I was probably six years old"
+               ],
+               [
+                  "00:07:41,880 --> 00:07:45,690",
+                  "and my aunt who had stage"
+               ],
+               [
+                  "00:07:41,880 --> 00:07:45,690",
+                  "four ovarian cancer,"
+               ],
+               [
+                  "00:07:45,690 --> 00:07:47,170",
+                  "she battled it for 20 years."
+               ],
+               [
+                  "00:07:47,170 --> 00:07:49,540",
+                  "She got me my first science"
+               ],
+               [
+                  "00:07:47,170 --> 00:07:49,540",
+                  "kit and she asked me to cure"
+               ],
+               [
+                  "00:07:49,540 --> 00:07:54,290",
+                  "cancer and I will never forget"
+               ],
+               [
+                  "00:07:49,540 --> 00:07:54,290",
+                  "running into my aunt's room"
+               ],
+               [
+                  "00:07:54,290 --> 00:07:57,230",
+                  "and just opening up the box"
+               ],
+               [
+                  "00:07:54,290 --> 00:07:57,230",
+                  "and seeing that microscope,"
+               ],
+               [
+                  "00:07:57,230 --> 00:07:58,630",
+                  "it was a tiny little blue one"
+               ],
+               [
+                  "00:07:58,630 --> 00:08:02,160",
+                  "and the little microscope"
+               ],
+               [
+                  "00:07:58,630 --> 00:08:02,160",
+                  "slides and the little pipettes."
+               ],
+               [
+                  "00:08:02,160 --> 00:08:05,896",
+                  "So they just, that memory"
+               ],
+               [
+                  "00:08:02,160 --> 00:08:05,896",
+                  "will never be forgotten"
+               ],
+               [
+                  "00:08:05,896 --> 00:08:06,914",
+                  "my whole life."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:08:31,790 --> 00:08:33,790",
+                  "- Just being able to apply"
+               ],
+               [
+                  "00:08:31,790 --> 00:08:33,790",
+                  "those memories in the future"
+               ],
+               [
+                  "00:08:33,790 --> 00:08:36,800",
+                  "is just so crucial in"
+               ],
+               [
+                  "00:08:33,790 --> 00:08:36,800",
+                  "everyday life of the humans"
+               ],
+               [
+                  "00:08:36,800 --> 00:08:39,990",
+                  "and the fact that we're"
+               ],
+               [
+                  "00:08:36,800 --> 00:08:39,990",
+                  "learning how that works."
+               ],
+               [
+                  "00:08:39,990 --> 00:08:42,611",
+                  "And I would love to hear more"
+               ],
+               [
+                  "00:08:39,990 --> 00:08:42,611",
+                  "about your side of memory"
+               ],
+               [
+                  "00:08:42,611 --> 00:08:45,100",
+                  "and the mechanisms that you're studying."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:09:07,690 --> 00:09:09,870",
+                  "- So in your research or"
+               ],
+               [
+                  "00:09:07,690 --> 00:09:09,870",
+                  "you focus more on implicit"
+               ],
+               [
+                  "00:09:09,870 --> 00:09:11,020",
+                  "or explicit memory?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:09:18,170 --> 00:09:21,760",
+                  "- When you say that you don't"
+               ],
+               [
+                  "00:09:18,170 --> 00:09:21,760",
+                  "necessarily look at implicit"
+               ],
+               [
+                  "00:09:21,760 --> 00:09:24,040",
+                  "and explicit memory as anything different,"
+               ],
+               [
+                  "00:09:24,040 --> 00:09:26,260",
+                  "if you were to take a step back,"
+               ],
+               [
+                  "00:09:26,260 --> 00:09:28,432",
+                  "what would you define as"
+               ],
+               [
+                  "00:09:26,260 --> 00:09:28,432",
+                  "implicit and explicit memory?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:12:13,933 --> 00:12:17,550",
+                  "- Are the connectivities that"
+               ],
+               [
+                  "00:12:13,933 --> 00:12:17,550",
+                  "you're seeing using the FMRI"
+               ],
+               [
+                  "00:12:17,550 --> 00:12:20,040",
+                  "in your studies, are they"
+               ],
+               [
+                  "00:12:17,550 --> 00:12:20,040",
+                  "different when you look at"
+               ],
+               [
+                  "00:12:20,040 --> 00:12:21,760",
+                  "the implicit and explicit memories?"
+               ],
+               [
+                  "00:12:21,760 --> 00:12:24,149",
+                  "Are you seeing more activity"
+               ],
+               [
+                  "00:12:21,760 --> 00:12:24,149",
+                  "in the striatum in comparison"
+               ],
+               [
+                  "00:12:24,149 --> 00:12:26,454",
+                  "to the hippocampus or"
+               ],
+               [
+                  "00:12:24,149 --> 00:12:26,454",
+                  "the prefrontal cortex?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:14:14,200 --> 00:14:16,540",
+                  "- It's very interesting"
+               ],
+               [
+                  "00:14:14,200 --> 00:14:16,540",
+                  "to see the imperfections"
+               ],
+               [
+                  "00:14:16,540 --> 00:14:19,400",
+                  "of the human brain and being"
+               ],
+               [
+                  "00:14:16,540 --> 00:14:19,400",
+                  "able to rewrite something"
+               ],
+               [
+                  "00:14:19,400 --> 00:14:23,010",
+                  "that happened to you and"
+               ],
+               [
+                  "00:14:19,400 --> 00:14:23,010",
+                  "fully believe it yourself."
+               ],
+               [
+                  "00:14:23,010 --> 00:14:25,170",
+                  "I think that that's one"
+               ],
+               [
+                  "00:14:23,010 --> 00:14:25,170",
+                  "of the coolest errors"
+               ],
+               [
+                  "00:14:25,170 --> 00:14:28,740",
+                  "and faults in the human"
+               ],
+               [
+                  "00:14:25,170 --> 00:14:28,740",
+                  "brain that could exist."
+               ]
+            ]
+         }
+      ]
+   },
+   "5": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k?t=883",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:14:48,220 --> 00:14:51,090",
+                  "- Well, I'm preparing my dissertation."
+               ],
+               [
+                  "00:14:51,090 --> 00:14:56,090",
+                  "The general topic is going"
+               ],
+               [
+                  "00:14:51,090 --> 00:14:56,090",
+                  "to be how we perceive"
+               ],
+               [
+                  "00:14:56,130 --> 00:14:58,243",
+                  "different types of social stimuli,"
+               ],
+               [
+                  "00:14:58,243 --> 00:15:00,960",
+                  "like different people's faces"
+               ],
+               [
+                  "00:14:58,243 --> 00:15:00,960",
+                  "and make judgements about them"
+               ],
+               [
+                  "00:15:00,960 --> 00:15:05,960",
+                  "and how the way that we report"
+               ],
+               [
+                  "00:15:00,960 --> 00:15:05,960",
+                  "on what we are experiencing"
+               ],
+               [
+                  "00:15:07,139 --> 00:15:10,650",
+                  "tells us about what's actually"
+               ],
+               [
+                  "00:15:07,139 --> 00:15:10,650",
+                  "going on inside our heads."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:15:22,898 --> 00:15:23,918",
+                  "- Oh of course."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:15:41,900 --> 00:15:43,740",
+                  "- Oh, absolutely."
+               ],
+               [
+                  "00:15:43,740 --> 00:15:46,740",
+                  "I think this sort of reminds"
+               ],
+               [
+                  "00:15:43,740 --> 00:15:46,740",
+                  "me of another project"
+               ],
+               [
+                  "00:15:46,740 --> 00:15:47,683",
+                  "that I'm doing."
+               ],
+               [
+                  "00:15:48,715 --> 00:15:52,130",
+                  "It's fairly easy to get different"
+               ],
+               [
+                  "00:15:48,715 --> 00:15:52,130",
+                  "participants to experience"
+               ],
+               [
+                  "00:15:52,130 --> 00:15:54,878",
+                  "consistent negative emotions"
+               ],
+               [
+                  "00:15:52,130 --> 00:15:54,878",
+                  "to the same stimuli,"
+               ],
+               [
+                  "00:15:54,878 --> 00:15:58,720",
+                  "but with positive emotions"
+               ],
+               [
+                  "00:15:54,878 --> 00:15:58,720",
+                  "it's so much harder to study."
+               ],
+               [
+                  "00:15:58,720 --> 00:16:03,198",
+                  "I might not react the same to"
+               ],
+               [
+                  "00:15:58,720 --> 00:16:03,198",
+                  "like this like cute cat video"
+               ],
+               [
+                  "00:16:03,198 --> 00:16:04,675",
+                  "than someone else."
+               ],
+               [
+                  "00:16:04,675 --> 00:16:09,675",
+                  "And I definitely believe"
+               ],
+               [
+                  "00:16:04,675 --> 00:16:09,675",
+                  "that people's memory"
+               ],
+               [
+                  "00:16:10,558 --> 00:16:13,020",
+                  "that they're bringing up unconsciously"
+               ],
+               [
+                  "00:16:13,020 --> 00:16:14,760",
+                  "when they're experiencing"
+               ],
+               [
+                  "00:16:13,020 --> 00:16:14,760",
+                  "something to make"
+               ],
+               [
+                  "00:16:14,760 --> 00:16:18,160",
+                  "an emotional judgment informs"
+               ],
+               [
+                  "00:16:14,760 --> 00:16:18,160",
+                  "especially our experience"
+               ],
+               [
+                  "00:16:18,160 --> 00:16:22,890",
+                  "with positive emotion possibly"
+               ],
+               [
+                  "00:16:18,160 --> 00:16:22,890",
+                  "more than negative emotion."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:16:40,230 --> 00:16:42,420",
+                  "- As far as the way that"
+               ],
+               [
+                  "00:16:40,230 --> 00:16:42,420",
+                  "my research plays into it"
+               ],
+               [
+                  "00:16:42,420 --> 00:16:46,270",
+                  "is like the first step"
+               ],
+               [
+                  "00:16:42,420 --> 00:16:46,270",
+                  "in making a judgment"
+               ],
+               [
+                  "00:16:46,270 --> 00:16:49,130",
+                  "about what to do based on an"
+               ],
+               [
+                  "00:16:46,270 --> 00:16:49,130",
+                  "experience we're calling from"
+               ],
+               [
+                  "00:16:49,130 --> 00:16:53,920",
+                  "memory is deciding what"
+               ],
+               [
+                  "00:16:49,130 --> 00:16:53,920",
+                  "your emotional response was."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:18:01,730 --> 00:18:04,380",
+                  "- In people with intact brains,"
+               ],
+               [
+                  "00:18:04,380 --> 00:18:06,910",
+                  "you might use a particular process,"
+               ],
+               [
+                  "00:18:06,910 --> 00:18:10,510",
+                  "but if that brain region"
+               ],
+               [
+                  "00:18:06,910 --> 00:18:10,510",
+                  "that subserves that process"
+               ],
+               [
+                  "00:18:10,510 --> 00:18:12,920",
+                  "is damaged, that it's not"
+               ],
+               [
+                  "00:18:10,510 --> 00:18:12,920",
+                  "that you can't do it anymore"
+               ],
+               [
+                  "00:18:12,920 --> 00:18:15,602",
+                  "you just now do it a different way."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:18:16,435 --> 00:18:17,410",
+                  "- It's really hard to tell people like,"
+               ],
+               [
+                  "00:18:17,410 --> 00:18:19,890",
+                  "just don't use your memory to do this."
+               ],
+               [
+                  "00:18:19,890 --> 00:18:21,700",
+                  "And we just sort of have to infer"
+               ],
+               [
+                  "00:18:21,700 --> 00:18:23,672",
+                  "and guess at what strategies"
+               ],
+               [
+                  "00:18:21,700 --> 00:18:23,672",
+                  "that they're doing."
+               ],
+               [
+                  "00:18:23,672 --> 00:18:28,008",
+                  "Is there's a particular research"
+               ],
+               [
+                  "00:18:23,672 --> 00:18:28,008",
+                  "question that the answer"
+               ],
+               [
+                  "00:18:28,008 --> 00:18:30,990",
+                  "you think is gonna inform"
+               ],
+               [
+                  "00:18:28,008 --> 00:18:30,990",
+                  "the research in your lab"
+               ],
+               [
+                  "00:18:30,990 --> 00:18:32,490",
+                  "and perhaps in the rest of your field?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:19:15,550 --> 00:19:19,140",
+                  "- Yeah, I guess then the trick"
+               ],
+               [
+                  "00:19:15,550 --> 00:19:19,140",
+                  "is we need to be designing"
+               ],
+               [
+                  "00:19:19,140 --> 00:19:23,300",
+                  "studies that will make us most"
+               ],
+               [
+                  "00:19:19,140 --> 00:19:23,300",
+                  "likely to find those sort of"
+               ],
+               [
+                  "00:19:23,300 --> 00:19:24,830",
+                  "unexpected things, which is kind of funny."
+               ],
+               [
+                  "00:19:24,830 --> 00:19:28,570",
+                  "It's like how do you look for"
+               ],
+               [
+                  "00:19:24,830 --> 00:19:28,570",
+                  "something that you don't know"
+               ],
+               [
+                  "00:19:28,570 --> 00:19:29,403",
+                  "what it is?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:19:45,320 --> 00:19:47,690",
+                  "- As someone who is"
+               ],
+               [
+                  "00:19:45,320 --> 00:19:47,690",
+                  "studying social phenomena"
+               ],
+               [
+                  "00:19:47,690 --> 00:19:49,040",
+                  "I like to hear that."
+               ]
+            ]
+         }
+      ]
+   },
+   "6": {
+      "youtube_link": "https://youtu.be/VTvJOb2hJ6k?t=1191",
+      "wired_link": "https://www.wired.com/video/watch/neuroscientist-explains-memory-in-5-levels-of-difficulty",
+      "dialog": [
+         {
+            "Reciever": 1,
+            "Sequence": 2,
+            "Sentence": [
+               [
+                  "00:19:59,330 --> 00:20:01,310",
+                  "- It has been awhile, I'm"
+               ],
+               [
+                  "00:19:59,330 --> 00:20:01,310",
+                  "really excited to be here."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 4,
+            "Sentence": [
+               [
+                  "00:20:12,470 --> 00:20:16,640",
+                  "- I've been really interested"
+               ],
+               [
+                  "00:20:12,470 --> 00:20:16,640",
+                  "in how past understandings"
+               ],
+               [
+                  "00:20:16,640 --> 00:20:18,020",
+                  "of the brain have really focused on,"
+               ],
+               [
+                  "00:20:18,020 --> 00:20:21,450",
+                  "on pinpointing exactly what"
+               ],
+               [
+                  "00:20:18,020 --> 00:20:21,450",
+                  "each piece of the brain does."
+               ],
+               [
+                  "00:20:21,450 --> 00:20:24,770",
+                  "But I think that there's"
+               ],
+               [
+                  "00:20:21,450 --> 00:20:24,770",
+                  "also a broader conversation"
+               ],
+               [
+                  "00:20:24,770 --> 00:20:25,903",
+                  "happening in the brain,"
+               ],
+               [
+                  "00:20:25,903 --> 00:20:28,800",
+                  "which is between one region and another."
+               ],
+               [
+                  "00:20:28,800 --> 00:20:31,780",
+                  "So it's actually the pattern"
+               ],
+               [
+                  "00:20:28,800 --> 00:20:31,780",
+                  "of connections between these"
+               ],
+               [
+                  "00:20:31,780 --> 00:20:34,830",
+                  "regions that would allow"
+               ],
+               [
+                  "00:20:31,780 --> 00:20:34,830",
+                  "for the flow of information."
+               ],
+               [
+                  "00:20:34,830 --> 00:20:38,830",
+                  "But I think the tools that have"
+               ],
+               [
+                  "00:20:34,830 --> 00:20:38,830",
+                  "become widely available now"
+               ],
+               [
+                  "00:20:38,830 --> 00:20:41,750",
+                  "from the physics community and mathematics"
+               ],
+               [
+                  "00:20:41,750 --> 00:20:44,850",
+                  "and computer science are"
+               ],
+               [
+                  "00:20:41,750 --> 00:20:44,850",
+                  "under the umbrella of,"
+               ],
+               [
+                  "00:20:44,850 --> 00:20:46,120",
+                  "of network science."
+               ],
+               [
+                  "00:20:46,120 --> 00:20:48,410",
+                  "So that is a science of networks,"
+               ],
+               [
+                  "00:20:48,410 --> 00:20:52,700",
+                  "a science of understanding"
+               ],
+               [
+                  "00:20:48,410 --> 00:20:52,700",
+                  "how bits of a system are"
+               ],
+               [
+                  "00:20:52,700 --> 00:20:54,210",
+                  "interconnected with one another."
+               ],
+               [
+                  "00:20:54,210 --> 00:20:57,020",
+                  "Not just comparing two groups of people"
+               ],
+               [
+                  "00:20:57,020 --> 00:20:59,630",
+                  "or two kinds of two species,"
+               ],
+               [
+                  "00:20:59,630 --> 00:21:02,100",
+                  "but we can ask even"
+               ],
+               [
+                  "00:20:59,630 --> 00:21:02,100",
+                  "within a single person,"
+               ],
+               [
+                  "00:21:02,100 --> 00:21:06,160",
+                  "how does the pattern of"
+               ],
+               [
+                  "00:21:02,100 --> 00:21:06,160",
+                  "connectivity in my brain change"
+               ],
+               [
+                  "00:21:06,160 --> 00:21:07,790",
+                  "as we talk with one another?"
+               ],
+               [
+                  "00:21:07,790 --> 00:21:10,330",
+                  "How does the information flow change?"
+               ],
+               [
+                  "00:21:10,330 --> 00:21:13,410",
+                  "I think a lot about"
+               ],
+               [
+                  "00:21:10,330 --> 00:21:13,410",
+                  "traffic on roadway networks"
+               ],
+               [
+                  "00:21:13,410 --> 00:21:15,150",
+                  "as a good example of this."
+               ],
+               [
+                  "00:21:15,150 --> 00:21:18,560",
+                  "Which is, you know, we can"
+               ],
+               [
+                  "00:21:15,150 --> 00:21:18,560",
+                  "understand where the roads are"
+               ],
+               [
+                  "00:21:18,560 --> 00:21:20,880",
+                  "and perhaps the roads"
+               ],
+               [
+                  "00:21:18,560 --> 00:21:20,880",
+                  "are relatively fixed."
+               ],
+               [
+                  "00:21:20,880 --> 00:21:23,510",
+                  "They change over long timescales"
+               ],
+               [
+                  "00:21:23,510 --> 00:21:24,530",
+                  "and it's similar to the brain."
+               ],
+               [
+                  "00:21:24,530 --> 00:21:28,120",
+                  "We really only create"
+               ],
+               [
+                  "00:21:24,530 --> 00:21:28,120",
+                  "large scale connections"
+               ],
+               [
+                  "00:21:28,120 --> 00:21:29,600",
+                  "over long timescales."
+               ],
+               [
+                  "00:21:29,600 --> 00:21:34,410",
+                  "But we can alter the traffic"
+               ],
+               [
+                  "00:21:29,600 --> 00:21:34,410",
+                  "on the roadways really easily."
+               ],
+               [
+                  "00:21:34,410 --> 00:21:36,660",
+                  "And that's similar to"
+               ],
+               [
+                  "00:21:34,410 --> 00:21:36,660",
+                  "what we do in the brain"
+               ],
+               [
+                  "00:21:36,660 --> 00:21:39,450",
+                  "is that we change the way"
+               ],
+               [
+                  "00:21:36,660 --> 00:21:39,450",
+                  "that information is flowing"
+               ],
+               [
+                  "00:21:39,450 --> 00:21:42,130",
+                  "to allow us to respond to our environment."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 6,
+            "Sentence": [
+               [
+                  "00:22:06,930 --> 00:22:09,480",
+                  "- The field is definitely"
+               ],
+               [
+                  "00:22:06,930 --> 00:22:09,480",
+                  "opening up in the kinds of"
+               ],
+               [
+                  "00:22:09,480 --> 00:22:12,763",
+                  "questions that can be asked"
+               ],
+               [
+                  "00:22:09,480 --> 00:22:12,763",
+                  "now with these approaches."
+               ],
+               [
+                  "00:22:12,763 --> 00:22:15,685",
+                  "And I think what you're pointing"
+               ],
+               [
+                  "00:22:12,763 --> 00:22:15,685",
+                  "out is that conceptually"
+               ],
+               [
+                  "00:22:15,685 --> 00:22:17,830",
+                  "it's where we wanted to go anyway."
+               ],
+               [
+                  "00:22:17,830 --> 00:22:21,525",
+                  "So if there's so much"
+               ],
+               [
+                  "00:22:17,830 --> 00:22:21,525",
+                  "orchestration that happens"
+               ],
+               [
+                  "00:22:21,525 --> 00:22:24,021",
+                  "and a symphony is not a single piece,"
+               ],
+               [
+                  "00:22:24,021 --> 00:22:26,803",
+                  "it's not a single pattern of,"
+               ],
+               [
+                  "00:22:26,803 --> 00:22:27,760",
+                  "of harmony between instruments and,"
+               ],
+               [
+                  "00:22:27,760 --> 00:22:29,530",
+                  "and similar to the brain,"
+               ],
+               [
+                  "00:22:29,530 --> 00:22:31,920",
+                  "symphony of your brain"
+               ],
+               [
+                  "00:22:29,530 --> 00:22:31,920",
+                  "is not a single pattern."
+               ],
+               [
+                  "00:22:31,920 --> 00:22:34,430",
+                  "It's a very dynamically changing pattern."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 8,
+            "Sentence": [
+               [
+                  "00:22:55,070 --> 00:22:58,490",
+                  "- I think this is the most"
+               ],
+               [
+                  "00:22:55,070 --> 00:22:58,490",
+                  "exciting area of memory research"
+               ],
+               [
+                  "00:22:58,490 --> 00:23:03,490",
+                  "right now I think, which is"
+               ],
+               [
+                  "00:22:58,490 --> 00:23:03,490",
+                  "how people build and remember,"
+               ],
+               [
+                  "00:23:04,283 --> 00:23:05,570",
+                  "you know, and keep with"
+               ],
+               [
+                  "00:23:04,283 --> 00:23:05,570",
+                  "them models of the world"
+               ],
+               [
+                  "00:23:05,570 --> 00:23:06,740",
+                  "over long periods of time."
+               ],
+               [
+                  "00:23:06,740 --> 00:23:08,640",
+                  "When I think about a mental model,"
+               ],
+               [
+                  "00:23:08,640 --> 00:23:13,640",
+                  "I think about ideas, potential"
+               ],
+               [
+                  "00:23:08,640 --> 00:23:13,640",
+                  "outcomes, potential events,"
+               ],
+               [
+                  "00:23:14,523 --> 00:23:18,750",
+                  "potential actions, and how"
+               ],
+               [
+                  "00:23:14,523 --> 00:23:18,750",
+                  "they all depend on one another."
+               ],
+               [
+                  "00:23:18,750 --> 00:23:20,900",
+                  "So when we predict what will"
+               ],
+               [
+                  "00:23:18,750 --> 00:23:20,900",
+                  "happen next it would be,"
+               ],
+               [
+                  "00:23:20,900 --> 00:23:23,040",
+                  "I am currently sitting at"
+               ],
+               [
+                  "00:23:20,900 --> 00:23:23,040",
+                  "this piece of the network"
+               ],
+               [
+                  "00:23:23,040 --> 00:23:23,873",
+                  "and I know that there are,"
+               ],
+               [
+                  "00:23:23,873 --> 00:23:25,560",
+                  "there are these possible outcomes."
+               ],
+               [
+                  "00:23:25,560 --> 00:23:27,900",
+                  "And so I have to get"
+               ],
+               [
+                  "00:23:25,560 --> 00:23:27,900",
+                  "ready for those, you know,"
+               ],
+               [
+                  "00:23:27,900 --> 00:23:29,050",
+                  "four possible outcomes."
+               ],
+               [
+                  "00:23:29,050 --> 00:23:32,900",
+                  "But that brings this interesting"
+               ],
+               [
+                  "00:23:29,050 --> 00:23:32,900",
+                  "question to the fore,"
+               ],
+               [
+                  "00:23:32,900 --> 00:23:36,440",
+                  "I think which is how does a"
+               ],
+               [
+                  "00:23:32,900 --> 00:23:36,440",
+                  "network system in our mind"
+               ],
+               [
+                  "00:23:36,440 --> 00:23:40,670",
+                  "and our brain create a network"
+               ],
+               [
+                  "00:23:36,440 --> 00:23:40,670",
+                  "model of the world outside?"
+               ],
+               [
+                  "00:23:40,670 --> 00:23:43,450",
+                  "It's almost like there's a"
+               ],
+               [
+                  "00:23:40,670 --> 00:23:43,450",
+                  "reflection in the structure of"
+               ],
+               [
+                  "00:23:43,450 --> 00:23:45,562",
+                  "what's inside in the hardware"
+               ],
+               [
+                  "00:23:43,450 --> 00:23:45,562",
+                  "and what we're building"
+               ],
+               [
+                  "00:23:45,562 --> 00:23:47,957",
+                  "in a very abstract way."
+               ],
+               [
+                  "00:23:47,957 --> 00:23:50,270",
+                  "And I think that relates to"
+               ],
+               [
+                  "00:23:47,957 --> 00:23:50,270",
+                  "some interesting work that's"
+               ],
+               [
+                  "00:23:50,270 --> 00:23:52,760",
+                  "coming out about the hippocampus too."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 10,
+            "Sentence": [
+               [
+                  "00:24:38,420 --> 00:24:40,020",
+                  "- That makes a lot of sense."
+               ],
+               [
+                  "00:24:40,020 --> 00:24:44,944",
+                  "And I think that it makes"
+               ],
+               [
+                  "00:24:40,020 --> 00:24:44,944",
+                  "me wonder how we think about"
+               ],
+               [
+                  "00:24:44,944 --> 00:24:49,944",
+                  "places in the abstract, what"
+               ],
+               [
+                  "00:24:44,944 --> 00:24:49,944",
+                  "is a cognitive place, right?"
+               ],
+               [
+                  "00:24:50,350 --> 00:24:55,340",
+                  "And what is, how do we map out"
+               ],
+               [
+                  "00:24:50,350 --> 00:24:55,340",
+                  "the cognitive spaces that we,"
+               ],
+               [
+                  "00:24:55,340 --> 00:24:58,750",
+                  "that our mind moves within in the same way"
+               ],
+               [
+                  "00:24:58,750 --> 00:25:02,100",
+                  "or in a similar way to the spaces"
+               ],
+               [
+                  "00:25:02,100 --> 00:25:03,157",
+                  "that we physically walk in."
+               ],
+               [
+                  "00:25:03,157 --> 00:25:04,970",
+                  "But I think it opens a lot up,"
+               ],
+               [
+                  "00:25:04,970 --> 00:25:07,940",
+                  "a lot of questions about how individuals"
+               ],
+               [
+                  "00:25:07,940 --> 00:25:09,670",
+                  "make their own maps, right?"
+               ],
+               [
+                  "00:25:09,670 --> 00:25:13,100",
+                  "And then how the way that"
+               ],
+               [
+                  "00:25:09,670 --> 00:25:13,100",
+                  "they choose to make that map"
+               ],
+               [
+                  "00:25:13,100 --> 00:25:16,990",
+                  "will then affect the way that"
+               ],
+               [
+                  "00:25:13,100 --> 00:25:16,990",
+                  "they may respond in the future"
+               ],
+               [
+                  "00:25:16,990 --> 00:25:19,880",
+                  "to a new context or environment."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 12,
+            "Sentence": [
+               [
+                  "00:26:00,780 --> 00:26:02,640",
+                  "- Which is actually really"
+               ],
+               [
+                  "00:26:00,780 --> 00:26:02,640",
+                  "interesting because you can make"
+               ],
+               [
+                  "00:26:02,640 --> 00:26:04,840",
+                  "different maps in different"
+               ],
+               [
+                  "00:26:02,640 --> 00:26:04,840",
+                  "physical spaces too, right?"
+               ],
+               [
+                  "00:26:04,840 --> 00:26:06,160",
+                  "As you walk into a new room"
+               ],
+               [
+                  "00:26:06,160 --> 00:26:07,500",
+                  "you make a new map of that room."
+               ],
+               [
+                  "00:26:07,500 --> 00:26:12,000",
+                  "So what are the doorways"
+               ],
+               [
+                  "00:26:07,500 --> 00:26:12,000",
+                  "basically for mental models?"
+               ],
+               [
+                  "00:26:12,000 --> 00:26:15,780",
+                  "And I think that often we sort"
+               ],
+               [
+                  "00:26:12,000 --> 00:26:15,780",
+                  "of fall into this pattern of,"
+               ],
+               [
+                  "00:26:15,780 --> 00:26:19,200",
+                  "of thinking about memory"
+               ],
+               [
+                  "00:26:15,780 --> 00:26:19,200",
+                  "as, as always additive,"
+               ],
+               [
+                  "00:26:19,200 --> 00:26:21,100",
+                  "that we always just keep"
+               ],
+               [
+                  "00:26:19,200 --> 00:26:21,100",
+                  "gathering more information"
+               ],
+               [
+                  "00:26:21,100 --> 00:26:22,470",
+                  "and update what we currently have."
+               ],
+               [
+                  "00:26:22,470 --> 00:26:25,046",
+                  "We don't as often speak about deleting"
+               ],
+               [
+                  "00:26:25,046 --> 00:26:27,160",
+                  "pieces of information or,"
+               ],
+               [
+                  "00:26:27,160 --> 00:26:29,940",
+                  "or perceptions or something"
+               ],
+               [
+                  "00:26:27,160 --> 00:26:29,940",
+                  "that we thought was a,"
+               ],
+               [
+                  "00:26:29,940 --> 00:26:32,220",
+                  "was a useful fact but"
+               ],
+               [
+                  "00:26:29,940 --> 00:26:32,220",
+                  "actually it's not a fact."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 14,
+            "Sentence": [
+               [
+                  "00:27:22,409 --> 00:27:23,430",
+                  "- Right."
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 16,
+            "Sentence": [
+               [
+                  "00:27:47,980 --> 00:27:52,200",
+                  "- I think it's information certainly that,"
+               ],
+               [
+                  "00:27:52,200 --> 00:27:54,170",
+                  "that is stored in the brain"
+               ],
+               [
+                  "00:27:54,170 --> 00:27:56,500",
+                  "and that can then affect our behavior."
+               ],
+               [
+                  "00:27:56,500 --> 00:27:58,110",
+                  "I think getting your"
+               ],
+               [
+                  "00:27:56,500 --> 00:27:58,110",
+                  "behavior in there somewhere"
+               ],
+               [
+                  "00:27:58,110 --> 00:27:59,780",
+                  "seems, seems important."
+               ],
+               [
+                  "00:27:59,780 --> 00:28:03,410",
+                  "But also is it just a record"
+               ],
+               [
+                  "00:27:59,780 --> 00:28:03,410",
+                  "of the past or is it, you know,"
+               ],
+               [
+                  "00:28:03,410 --> 00:28:06,980",
+                  "our perceptions of, of"
+               ],
+               [
+                  "00:28:03,410 --> 00:28:06,980",
+                  "what happened in the past,"
+               ],
+               [
+                  "00:28:06,980 --> 00:28:10,620",
+                  "or how we've changed how we"
+               ],
+               [
+                  "00:28:06,980 --> 00:28:10,620",
+                  "think about that past event"
+               ],
+               [
+                  "00:28:10,620 --> 00:28:12,470",
+                  "or have we deleted that event completely"
+               ],
+               [
+                  "00:28:12,470 --> 00:28:15,025",
+                  "and then gathered this"
+               ],
+               [
+                  "00:28:12,470 --> 00:28:15,025",
+                  "higher level structure"
+               ],
+               [
+                  "00:28:15,025 --> 00:28:18,087",
+                  "or mental model that then"
+               ],
+               [
+                  "00:28:15,025 --> 00:28:18,087",
+                  "allows us to behave differently"
+               ],
+               [
+                  "00:28:18,087 --> 00:28:19,100",
+                  "in the future?"
+               ],
+               [
+                  "00:28:19,100 --> 00:28:21,700",
+                  "So it's more alive, it's more changing."
+               ],
+               [
+                  "00:28:21,700 --> 00:28:26,060",
+                  "It's more, I think it's"
+               ],
+               [
+                  "00:28:21,700 --> 00:28:26,060",
+                  "bubbling out and gathering,"
+               ],
+               [
+                  "00:28:26,060 --> 00:28:28,170",
+                  "gathering and growing and"
+               ],
+               [
+                  "00:28:26,060 --> 00:28:28,170",
+                  "becoming more flexible,"
+               ],
+               [
+                  "00:28:28,170 --> 00:28:29,870",
+                  "but it's also sort of bubbling in,"
+               ],
+               [
+                  "00:28:29,870 --> 00:28:33,268",
+                  "in the sense of deleting"
+               ],
+               [
+                  "00:28:29,870 --> 00:28:33,268",
+                  "and removing and forgetting."
+               ],
+               [
+                  "00:28:33,268 --> 00:28:37,600",
+                  "So yes, I think that what"
+               ],
+               [
+                  "00:28:33,268 --> 00:28:37,600",
+                  "we need to add perhaps"
+               ],
+               [
+                  "00:28:37,600 --> 00:28:41,920",
+                  "is that changeability and"
+               ],
+               [
+                  "00:28:37,600 --> 00:28:41,920",
+                  "perhaps the behavioral relevance"
+               ],
+               [
+                  "00:28:41,920 --> 00:28:44,162",
+                  "of that changeability. I"
+               ],
+               [
+                  "00:28:41,920 --> 00:28:44,162",
+                  "don't know, what do you think?"
+               ]
+            ]
+         },
+         {
+            "Reciever": 1,
+            "Sequence": 18,
+            "Sentence": [
+               [
+                  "00:29:10,900 --> 00:29:12,290",
+                  "- Yeah, yeah I agree."
+               ],
+               [
+                  "00:29:12,290 --> 00:29:13,670",
+                  "I think that's perfect."
+               ]
+            ]
+         }
+      ]
+   }
+}
